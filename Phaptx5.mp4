@@ -1,8 +1,595 @@
-#PHÁP GROUP ANDROID BOX TX5 LÀM VÌ ĐAM MÊ CHIA SẺ ^^! 
+#EXTM3U url-tvg="https://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1 
+#EXTM3U url-tvg="https://gg.gg/epg_vietnguyen" tvg-shift=0 m3uautoload=2
+#EXTM3U url-tvg="http://gg.gg/PhapSONYXR2" tvg-shift=0 m3uautoload=3
+
+
+#EXTINF:-1 tvg-id="VTV1" tvg-name="VTV1" tvg-logo="https://static.megavie.live/media/vtv1hd.jpg"  tvg-chno="1",VTV1 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.117:10254
+#EXTINF:-1 tvg-id="VTV2" tvg-name="VTV2" tvg-logo="https://static.megavie.live/media/vtv2hd.jpg"  tvg-chno="2",VTV2 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.31:10594
+#EXTINF:-1 tvg-id="VTV3" tvg-name="VTV3" tvg-logo="https://static.megavie.live/media/vtv3hd.jpg"  tvg-chno="3",VTV3 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.118:10260
+#EXTINF:-1 tvg-id="VTV4" tvg-name="VTV4" tvg-logo="https://static.megavie.live/media/vtv4hd.jpg"  tvg-chno="4",VTV4 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.32:10600
+#EXTINF:-1 tvg-id="VTV5" tvg-name="VTV5" tvg-logo="https://static.megavie.live/media/vtv5hd.jpg"  tvg-chno="5",VTV5 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.33:10606
+#EXTINF:-1 tvg-id="VTV6" tvg-name="VTV6" tvg-logo="https://static.megavie.live/media/vtv6hd.jpg"  tvg-chno="6",VTV6 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.119:10266
+#EXTINF:-1 tvg-id="VTV7" tvg-name="VTV7" tvg-logo="https://static.megavie.live/media/vtv7hd.jpg"  tvg-chno="7",VTV7 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.202:10996
+#EXTINF:-1 tvg-id="VTV8" tvg-name="VTV8" tvg-logo="https://static.megavie.live/media/vtv8hd.jpg"  tvg-chno="8",VTV8 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.34:10612
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://static.megavie.live/media/vtv9hd.jpg"  tvg-chno="9",VTV9 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.35:10618
+
+
+
+#EXTINF:-1 tvg-id="VTC1" tvg-name="VTC1" tvg-logo="https://static.megavie.live/media/vtc1hd.jpg"  tvg-chno="10",VTC1 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.173:10846
+#EXTINF:-1  tvg-id="vtc2" tvg-logo="https://static.megavie.live/media/vtc2.jpg", VTC2 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.57:8322
+#EXTINF:-1 tvg-id="VTC3" tvg-name="VTC3" tvg-logo="https://static.megavie.live/media/vtc3hd.jpg"  tvg-chno="11",VTC3 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.81:8460
+#EXTINF:-1 tvg-id="VTC4" tvg-name="VTC4" tvg-logo="https://static.megavie.live/media/vtc4hd.jpg"  tvg-chno="12",VTC4 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.149:10714
+#EXTINF:-1 tvg-id="VTC5" tvg-name="VTC5" tvg-logo="https://static.megavie.live/media/vtc5hd.jpg"  tvg-chno="13",VTC5 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.136:10720
+#EXTINF:-1  tvg-id="vtc6hd" tvg-logo="https://static.megavie.live/media/vtc6hd.jpg" tvg-chno="14", VTC6 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.58:8328
+#EXTINF:-1  tvg-id="vtc7hd" tvg-logo="https://static.megavie.live/media/vtc7hd.png" tvg-chno="15", VTC7 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.151:10726
+#EXTINF:-1 tvg-id="VTC8" tvg-name="VTC8" tvg-logo="https://static.megavie.live/media/vtc8.jpg"  tvg-chno="16",VTC8 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.39:10642
+#EXTINF:-1 tvg-id="VTC9" tvg-name="VTC9" tvg-logo="https://static.megavie.live/media/vtc9hd.jpg"  tvg-chno="17",VTC9 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.141:10732
+#EXTINF:-1  tvg-id="vtc10hd" tvg-logo="https://static.megavie.live/media/vtc10hd.jpg" tvg-chno="18", VTC10 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.214:9258
+#EXTINF:-1  tvg-id="vtc11" tvg-logo="https://static.megavie.live/media/vtc11.jpg" tvg-chno="19", VTC11 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.61:8340
+#EXTINF:-1  tvg-id="vtc12" tvg-logo="https://static.megavie.live/media/vtc12.png" tvg-chno="20", VTC12 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.193:11080
+#EXTINF:-1 tvg-id="VTC13" tvg-name="VTC13" tvg-logo="https://static.megavie.live/media/vtc13hd.jpg"  tvg-chno="21",VTC13 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.74:8418
+#EXTINF:-1 tvg-id="VTC14" tvg-name="VTC14" tvg-logo="https://static.megavie.live/media/vtc14hd.jpg"  tvg-chno="22",VTC14 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.216:9270
+#EXTINF:-1 tvg-id="VTC16" tvg-name="VTC16" tvg-logo="https://static.megavie.live/media/vtc16.jpg"  tvg-chno="23",VTC16 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.215:9264
+#EXTINF:-1 tvg-id="HTV1" tvg-name="HTV1" tvg-logo="https://static.megavie.live/media/htv1.jpg"  tvg-chno="24",HTV1 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.35:8184
+#EXTINF:-1 tvg-id="HTV2" tvg-name="HTV2" tvg-logo="https://static.megavie.live/media/htv2hd.jpg"  tvg-chno="25",HTV2 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.182:9306
+#EXTINF:-1 tvg-id="HTV3" tvg-name="HTV3" tvg-logo="https://static.megavie.live/media/htv3.png"  tvg-chno="26",HTV3 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.104:8598
+#EXTINF:-1 tvg-id="HTV4" tvg-name="HTV4" tvg-logo="https://static.megavie.live/media/htvkey.jpg"  tvg-chno="27",HTV Key HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.25:8124
+#EXTINF:-1 tvg-id="HTV7 HD" tvg-name="HTV7" tvg-logo="https://static.megavie.live/media/htv7hd.jpg"  tvg-chno="28",HTV7 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.223:9312
+#EXTINF:-1 tvg-id="HTV9 HD" tvg-name="HTV9" tvg-logo="https://static.megavie.live/media/htv9hd.jpg"  tvg-chno="29",HTV9 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.224:9318
+#EXTINF:-1 tvg-id="HTV THE THAO" tvg-name="HTV_THE_THAO" tvg-logo="https://i.ibb.co/BsT7gcT/htvthethao.png"  tvg-chno="30",HTV Thể Thao HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.24:8118
+
+
+#EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://static.megavie.live/media/vinhlong1hd.jpg" tvg-chno="31",THVL1 HD 
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.152:10882
+#EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="https://static.megavie.live/media/vinhlong2hd.jpg" tvg-chno="32",THVL2 HD 
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.164:10888
+#EXTINF:-1 tvg-id="vinhlong3hd" tvg-logo="https://static.megavie.live/media/vinhlong3hd.jpg" tvg-chno="33",THVL3 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.165:10900
+#EXTINF:-1 tvg-id="vinhlong4hd" tvg-logo="https://static.megavie.live/media/vinhlong4hd.png" tvg-chno="34",THVL4 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.160:10912
+
+#EXTINF:-1 tvg-id="sctv1hd"  tvg-logo="https://static.megavie.live/media/sctv1hd.png" tvg-chno="35",SCTV1 HD 
+http://51.210.99.3:21585/sctv1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="sctv2hd"  tvg-logo="https://static.megavie.live/media/sctv1hd.png" tvg-chno="36",SCTV2 HD
+https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="sctv3hd"  tvg-logo="https://static.megavie.live/media/sctv3hd.png" tvg-chno="37" ,SCTV3 HD 
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv4hd"  tvg-logo="https://static.megavie.live/media/sctv4hd.png" tvg-chno="38",SCTV4 HD 
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv4/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv5hd"  tvg-logo="https://i.ibb.co/bLcnbBR/sctv5-auto-x2.jpg" tvg-chno="39",SCTV5 HD 
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv5/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv6hd"  tvg-logo="https://static.megavie.live/media/sctv6hd.png" tvg-chno="40",SCTV6 HD
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv7hd"  tvg-logo="https://static.megavie.live/media/sctv7hd.png" tvg-chno="41",SCTV7 HD
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv8hd"  tvg-logo="https://static.megavie.live/media/sctv8hd.png" tvg-chno="42",SCTV8 HD
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv9hd"  tvg-logo="https://static.megavie.live/media/sctv9hd.png" tvg-chno="43",SCTV9 HD
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv10hd"  tvg-logo="https://i.ibb.co/jWjs5kF/sctv5.jpg" tvg-chno="44",SCTV10 HD
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv11hd"  tvg-logo="https://static.megavie.live/media/sctv11hd.png" tvg-chno="45",SCTV11 HD 
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv12hd"  tvg-logo="https://static.megavie.live/media/sctv12hd.png" tvg-chno="46",SCTV12 HD
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv12/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv13hd"  tvg-logo="https://static.megavie.live/media/sctv13hd.png" tvg-chno="47",SCTV13 HD 
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv14hd"  tvg-logo="https://static.megavie.live/media/sctv14hd.png" tvg-chno="48",SCTV14 HD
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv14/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv15hd"  tvg-logo="https://static.megavie.live/media/sctv15hd.png"" tvg-chno="49",SCTV15 HD 
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv16hd"  tvg-logo="https://static.megavie.live/media/sctv16hd.png" tvg-chno="50",SCTV16 HD 
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv17hd"  tvg-logo="https://static.megavie.live/media/sctv17hd.png" tvg-chno="51",SCTV17 HD 
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv18hd"  tvg-logo="https://static.megavie.live/media/sctv18hd.png" tvg-chno="52",SCTV18 HD 
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv18/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv19hd"  tvg-logo="https://static.megavie.live/media/sctv19hd.png" tvg-chno="53",SCTV19 HD 
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv19/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv20hd"  tvg-logo="https://static.megavie.live/media/sctv20hd.png" tvg-chno="54",SCTV20 HD
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv20/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv21hd"  tvg-logo="https://static.megavie.live/media/sctv21hd.jpg" tvg-chno="55",SCTV21 HD
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv21/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv22hd"  tvg-logo="https://static.megavie.live/media/sctv22hd.png" tvg-chno="56",SCTV22 HD
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctvhdpth"  tvg-logo="https://i.ibb.co/TBG2QN5/sctv-phim.png" tvg-chno="57",SCTV HD Phim Tổng Hợp
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/sd1/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="binhduong1" tvg-logo="https://i.ibb.co/w6G1F5H/btv1.png" tvg-chno="58",BTV1 HD
+https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1  tvg-id="binhduong2" tvg-logo="https://i.ibb.co/Fz63hY5/btv2.jpg" tvg-chno="59",BTV2 HD
+https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1  tvg-id="binhduong4"  tvg-logo="https://i.ibb.co/GFj9qVt/btv4.png" tvg-chno="60",BTV4 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.156:10756
+#https://vips-livecdn.fptplay.net/hda2/btv4hd_4000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="btv5hd"  tvg-logo="https://i.ibb.co/0hkCNs2/btv5.jpg" tvg-chno="61",BTV5 HD
+http://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9nryb07/btv6.jpg" tvg-chno="62",BTV6 HD
+https://livecdn.fptplay.net/sda/btv6_2000.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/6DnYvpH/btv9.jpg" tvg-chno="63",BTV 9 HD
+https://livecdn.fptplay.net/sdc/btv9_2000.stream/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/6bfTFkb/btv10.png" tvg-chno="64",BTV10 HD
+https://livecdn.fptplay.net/sda/ncm_2000.stream/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="vtvcab1hd"  tvg-logo="https://vtvcabtaidanang.com/wp-content/uploads/2017/05/vtvcab-1-giai-tri-tv.jpg"  tvg-chno="65",VTVCab1 HD 
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.143:8832
+#EXTINF:-1 tvg-id="vtvcab2hd"" tvg-logo="https://i.ibb.co/WKr7j5j/cab2.jpg"  tvg-chno="66",VTVCab2 HD 
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.168:8982
+
+#EXTINF:-1  tvg-id="vtvcab3hd" tvg-logo="https://i.ibb.co/gdtxM2R/cab3.jpg" tvg-chno="67",VTVCab3 HD 
+https://by.com.vn/tttv_hd
+
+
+#EXTINF:-1 tvg-id="vtvcab4hd" tvg-logo="https://i.ibb.co/6bj2GkX/cab4.jpg"  tvg-chno="68",VTVCab4 HD 
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.190:10924
+#EXTINF:-1 tvg-id="vtvcab5hd"  tvg-logo="https://static-stage.tv24.vn/channel/181/vtvcab5-EChannel.png"  tvg-chno="69",VTVCab5 HD 
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.193:9132
+#EXTINF:-1 tvg-id="vtvcab6hd"  tvg-logo="https://i.ibb.co/WpXb1QF/cab6.png"  tvg-chno="70",VTVCab6 HD 
+
+http://khach:11223344@hoatv001.vinaddns.com:9981/stream/channelid/780710237?ticket=32197F60898D8A8FCF19D565224A1732819E9750&profile=pass
+#http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.220:9294
+#EXTINF:-1 tvg-id="vtvcab7hd"  tvg-logo="https://i.ibb.co/fDSQnjm/cab10.jpg"  tvg-chno="71",VTVCab7 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.26:8130
+#EXTINF:-1 tvg-id="vtvcab8hd"  tvg-logo="https://i.ibb.co/fD73WwM/cab8.jpg"  tvg-chno="72",VTVCab8 HD 
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.206:9210
+#EXTINF:-1 tvg-id="vtvcab9hd"  tvg-logo="https://i.ibb.co/rKrjJ08/cab9.jpg"  tvg-chno="73",VTVCab9 HD 
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.191:10930
+#EXTINF:-1 tvg-id="vtvcab10hd"  tvg-logo="https://i.ibb.co/PCdnbnw/cab7.png"  tvg-chno="74",VTVcab 10 HD 
+
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.205:9204
+#EXTINF:-1 tvg-id="vtvcab12hd"  tvg-logo="https://i.ibb.co/wdsvRkD/cab12.jpg"  tvg-chno="75",VTVCab12 HD 
+#EXTINF:-1 tvg-id="VTVCab13" tvg-logo="https://i.ibb.co/RvzsCkn/cab13.jpg"  tvg-chno="76",VTVCab13 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.142:10386
+#EXTINF:-1 tvg-id="vtvcab15hd" tvg-logo="https://static.megavie.live/media/vtvcab15.jpg"  tvg-chno="77",VTVCab15 HD 
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.192:10936
+
+#EXTINF:-1  tvg-id="vtvcab16hd" tvg-logo="https://i.ibb.co/fvgNWbn/16.png" tvg-chno="78",VTVCab16 HD 
+http://khach:11223344@hoatv001.vinaddns.com:9981/stream/channelid/2140454345?ticket=938369027A2B86BD2026B07F8EB0770068ADAE28&profile=pass
+#http://203.162.123.178:21585/vtvcab16/index.m3u8
+
+
+#EXTINF:-1 tvg-id="vtvcab17hd" tvg-logo="https://static-stage.tv24.vn/channel/186/vtvcab17-Yeah1TV.png"  tvg-chno="79",VTVCab17 HD 
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.217:9276
+#EXTINF:-1 tvg-id="vtvcab19hd" logo="https://i.ibb.co/1qxx1Wm/20.png",VTVCab19 HD
+http://khach:11223344@hoatv001.vinaddns.com:9981/stream/channelid/1385231948?ticket=3184A9916036CD42F0431354A5698D86F05EC422&profile=pass
+#EXTINF:-1 tvg-id="vtvcab20hd"  tvg-logo="https://i.ibb.co/2vWKV2q/cab20.png"  tvg-chno="80",VTVCab20 HD 
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.245:10344
+#EXTINF:-1 tvg-id="vtvcab21hd"  logo="https://i.ibb.co/308FQp8/cab21.jpg",VTVCab21 HD
+http://khach:11223344@hoatv001.vinaddns.com:9981/stream/channelid/475068552?ticket=FAF908121760C7181192892FA12B418CF704E429&profile=pass
+#EXTINF:-1 tvg-id="vtvcab22hd"  tvg-logo="https://i.ibb.co/f8vpzsz/22.jpg"  tvg-chno="81",VTVCab22 HD 
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.194:10948
+#EXTINF:-1 tvg-id="vtvcab23hd" tvg-logo="https://i.ibb.co/jW5Khph/23.jpg"  tvg-chno="82",VTVCab23 HD 
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.246:10876
+
+#EXTINF:-1 tvg-id="htvcthuanviethd"  tvg-logo="https://static.megavie.live/media/htvcthuanviethd.jpg"  tvg-chno="84",HTVC Thuần Việt HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.134:9600
+#EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://static.megavie.live/media/htvccanhachd.jpg"  tvg-chno="85",HTVC Ca Nhạc HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.126:8730
+#EXTINF:-1 tvg-id="htvcphunuhd"  tvg-logo="https://static.megavie.live/media/htvcphunuhd.jpg"  tvg-chno="86",HTVC Phụ Nữ 
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.127:8736
+#EXTINF:-1 tvg-id="htvcgiadinhhd"  tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_htvcgiadinh.png"  tvg-chno="87",HTVC Gia Đình 
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.170:8994
+#EXTINF:-1 tvg-id="htvcthuanviet"  tvg-logo="https://static.megavie.live/media/htvcthuanviet.jpg"  tvg-chno="88",HTVC Thuần Việt
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.22:8106
+#EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://static.megavie.live/media/htvcdulichhd.jpg"  tvg-chno="89",HTVC Du Lịch 
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.221:9300
+#EXTINF:-1 tvg-id="htvcphimhd"  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_paramount-channel-vietnam_153613137177.png"  tvg-chno="90",HTVC Phim 
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.133:9594
+#EXTINF:-1 tvg-id="htvcfbnc"  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg" tvg-chno="86",HTVC FBNC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://khach:11223344@hoatv001.vinaddns.com:9981/stream/channelid/563399314?ticket=436447A2CE1D933F96155A28A99046083E046E4F&profile=pass
+#EXTINF:-1 tvg-id="htvcplushd"  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-plus_159175078181.png",HTVC Plus 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+
+http://khach:11223344@hoatv001.vinaddns.com:9981/stream/channelid/939727593?ticket=FA0E0515413F806BF13EBA75D0DB57B020D02F0D&profile=pass
+
+#EXTINF:-1 tvg-id="kpmhd" tvg-logo="https://static.megavie.live/media/kpmhd.jpg"  tvg-chno="91",K+PM HD
+https://hls.c1.omlet.gg/live/EZUB5MCHM7RLQCBRA6M4WOU33IQZDLC3ZGHQQTUVHDMYJCNZD4AQ/playlist.m3u8?sc=TWO&cdn=NginxCNC
+#EXTINF:-1 tvg-id="Fox Sports 1" tvg-name="Fox_Sports_1" tvg-logo="https://static.megavie.live/media/foxsportshd.jpg"  tvg-chno="91",Fox Sports HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.141:10666
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox_Sports_2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg"  tvg-chno="92",Fox Sports 2 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.142:10672
+#EXTINF:-1  tvg-id="foxsports3hd" tvg-logo="https://static.megavie.live/media/foxsports3hd.jpg" tvg-chno="93", Fox Sports 3 HD
+http://khach:11223344@hoatv001.vinaddns.com:9981/stream/channelid/2055155855?ticket=7B30D810EA601C5F743064725C0E289E713C0699&profile=pass
+
+
+
+
+
+#EXTINF:0  tvg-id="blue_ant_entertainment" tvg-logo="https://static.megavie.live/media/blueantent.jpg" tvg-chno="94",Blue Ant Entertainment HD
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0  tvg-id="blue_ant_extreme" tvg-logo="https://static.megavie.live/media/blueantext.jpg" tvg-chno="95",Blue Ant Extreme HD
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/c16600a6-dd47-44af-9602-a80f1a9a2a65"  tvg-chno="95",MTV HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.171:10834
+
+#EXTINF:-1 tvg-id="kix" tvg-logo="https://static.megavie.live/media/kix.png" tvg-chno="97",KIX HD
+http://khach:11223344@hoatv001.vinaddns.com:9981/stream/channelid/1337528270?ticket=0CB61457315E3757EACF9B449746EB455031C83E&profile=pass
+#https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="fxhd" tvg-logo="https://www.pngkey.com/png/detail/302-3027373_fx-hd-logo-fx-hd-channel-logo.png" tvg-chno="98",FX HD
+
+http://khach:11223344@hoatv001.vinaddns.com:9981/stream/channelid/1982213492?ticket=56F693C3D5EC30326E90FFC699C9D44DADCFF219&profile=pass
+
+#EXTINF:0 tvg-id="boxhits"  tvg-logo="https://i.ibb.co/jHYWqg4/boxhit.jpg",Box Hits
+http://khach:11223344@hoatv001.vinaddns.com:9981/stream/channelid/1038092709
+
+#EXTINF:0 tvg-id="inthebox" tvg-logo="https://i.ibb.co/khWYJ1H/boxchannel.jpg",Box Channel 
+http://khach:11223344@hoatv001.vinaddns.com:9981/stream/channelid/865180649
+
+#EXTINF:0  tvg-id="man"  tvg-logo="https://www.pngkit.com/png/detail/7-71938_man-logo-png-transparent-svg-vector-man-logo.png",Man 
+http://khach:11223344@hoatv001.vinaddns.com:9981/stream/channelid/822551273
+#EXTINF:0 tvg-id="boxmovie1"  tvg-logo="https://i.ibb.co/Mhk99r1/box.png" tvg-chno="99",Box Movie
+
+http://khach:11223344@hoatv001.vinaddns.com:9981/stream/channelid/1024534700?ticket=09B56593D608DFCE16488FE3A66B160F2185C2D2&profile=pass
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://rlink.vn/cocabox
+#http://gg.gg/cocabox
+#EXTINF:0 tvg-id="hollywoodclassics" tvg-logo="https://worldcontentmarket.com/wp-content/uploads/bfi_thumb/hollywoodclassics-6xruayz2gie89zsgosffxm9di4aazvd0hwb3w8za9ts.png" tvg-chno="100",Hollywood Classics
+http://khach:11223344@hoatv001.vinaddns.com:9981/stream/channelid/1516241289?ticket=28B1FF141F63E9490B4ACC82D525490899B6C761&profile=pass
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://rlink.vn/cocaholly
+#http://gg.gg/cocaholly
+#EXTINF:0 tvg-id="happykids"   tvg-logo="https://i.ibb.co/ymTnSZQ/happykids.jpg" tvg-chno="101",Happy Kids HD
+http://khach:11223344@hoatv001.vinaddns.com:9981/stream/channelid/1896937387?ticket=AB57C40C931D873993C0BC203DBA803D46EE4326&profile=pass
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://rlink.vn/cocakid
+#http://gg.gg/cocakid
+#EXTINF:0  tvg-id="planetearthhd" tvg-logo="https://i.ibb.co/yBV6zTY/logoplayout-planetearth-3d-plain.jpg" tvg-chno="102",Planet Earth HD
+http://khach:11223344@hoatv001.vinaddns.com:9981/stream/channelid/1435821630?ticket=EE0D70A4CE57C9F44A7884823F9F849539EE9713&profile=pass
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://rlink.vn/cocaplanet
+#http://gg.gg/cocaplanet
+
+#EXTINF:-1 tvg-id="historyhd"  tvg-logo="https://i.ibb.co/z8HV5JC/osn-history-hd.png" tvg-chno="103",History HD
+http://khach:11223344@hoatv001.vinaddns.com:9981/stream/channelid/686237770?ticket=2BD87BEE89248B046CE56E7F2200B385675EBA78&profile=pass
+#EXTINF:0  tvg-id="drfithd"  tvg-logo="https://i.ibb.co/0qh3zNs/drfit.jpg" tvg-chno="104",Dr.Fit HD
+http://khach:11223344@hoatv001.vinaddns.com:9981/stream/channelid/80755753?ticket=1A1E66F506EA9C3FD4239ABA0F712E7E055C6B59&profile=pass
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://rlink.vn/cocafit
+#http://gg.gg/cocafit
+#EXTINF:0  tvg-id="woman"  tvg-logo="https://i.ibb.co/wSmLz1B/woman.jpg" tvg-chno="105",Woman HD
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://rlink.vn/cocawoman
+https://e4.endpoint.cdn.sctvonline.vn/secure/woman/index.m3u8?md5=nYLg_liiJXqdWAdw4D1wzw&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF:0  tvg-id="box_music"  tvg-logo="https://i.ibb.co/q75Sb3r/ua-music-box-ukraina-2851.jpg" tvg-chno="106",Box Music
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://rlink.vn/cocamusic
+https://e4.endpoint.cdn.sctvonline.vn/secure/boxmusic/index.m3u8?md5=pR0QrkdxGuSRmHtTGT028A&expires=2556118740|Referer=http://sctvonline.vn/
+
+
+#EXTINF:-1 tvg-id="animaxhd"  tvg-logo="https://1.bp.blogspot.com/-20cLM-7BwLE/WQGmSf1qe4I/AAAAAAAADNo/V5lyS6IOfSYSQrKaX1UGN8zKNOOqgD6JACLcB/s1600/Animax-HD-New-Update-Power-.gif" tvg-chno="107", Animax HD
+#http://user:1234512345@hnhan123.duckdns.org:9981/stream/channelid/1758329788?ticket=4D601834F1DF37A202460C5DDBCA09111DCF3CBD&profile=pass
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.223:11260
+#https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1  tvg-id="boomerang" tvg-logo="http://1.bp.blogspot.com/-uBVEWVDDEN4/TqObuPvn0oI/AAAAAAAAOnY/QtPFW7w4oao/s1600/2010%2BBOOMERANG%2BLOGO.jpg" tvg-chno="108", Boomerang
+#https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.157:10696
+#EXTINF:-1 tvg-id="Dreamwork"  tvg-logo="https://static.wikia.nocookie.net/create-logopedia/images/6/64/DreamWorld_QCM.jpg/revision/latest?cb=20160514030519" tvg-chno="107", Dreamworks HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.227:11284
+#EXTINF:-1 tvg-id="foxmovieshd" tvg-chno="108", FOX Family Movies 
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.214:11206
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" tvg-chno="109",BBC Earth
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.226:11278
+#https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" tvg-chno="110",BBC Lifestyle 
+#https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.225:11272
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHNZbn0/bbc.jpg tvg-chno="110",Cbeebies
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.220:11242
+#EXTINF:-1  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png" tvg-chno="112",Discovery Asia HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.219:11236
+#https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://blogtienao.com/wp-content/uploads/2020/06/bloomberg-la-gi-co-nen-su-dung.png" tvg-chno="113",Bloomberg
+#https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.157:10696
+#EXTINF:-1 tvg-logo="https://miro.medium.com/max/1400/1*oDfnmC6vYsXXl-2Wj5zcHw.png" tvg-chno="114",Travel & Living HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.156:10708
+#https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+
+
+
+#EXTINF:-1  tvg-id="warnertvhd" tvg-name="WB" tvg-logo="https://static.megavie.live/media/warnertvhd.jpg" tvg-chno="115",Warner TV HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.51:10516
+#EXTINF:-1  tvg-id="Fox Movies HD" tvg-name="FOX_MOVIES" tvg-logo="https://static.megavie.live/media/foxmovieshd.jpg" tvg-chno="116",Fox Movies HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.77:8436
+#EXTINF:-1  tvg-id="HBO" tvg-logo="https://static.megavie.live/media/hbohd-asia.png" tvg-chno="117",HBO HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.138:10648
+#EXTINF:-1  tvg-id="max-by-hbo" tvg-logo="https://static.megavie.live/media/cinemaxhd.png" tvg-chno="118",Cinemax HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.139:10654
+
+#EXTINF:-1  tvg-id="FOX" tvg-name="FOX" tvg-logo="https://static.megavie.live/media/foxhd.jpg" tvg-chno="120",Fox HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.120:8448
+#EXTINF:-1  tvg-id="FOXLife" tvg-name="FOX_LIFE" tvg-logo="https://static.megavie.live/media/foxlifehd.jpg" tvg-chno="121",Fox Life HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.78:8442
+
+
+
+
+#EXTINF:-1  tvg-id="NGC" tvg-logo="https://static.megavie.live/media/ngchd.jpg" tvg-chno="125",National Geographic HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.1:7980
+
+#EXTINF:-1  tvg-id="Outdoor Channel" tvg-logo="https://static.megavie.live/media/outdoorhd.jpg" tvg-chno="127",Outdoor Channel HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.107:10218
+
+
+
+
+#EXTINF:-1  tvg-id="Fashion" tvg-logo="https://static.megavie.live/media/fashionhd.png" tvg-chno="129",Fashion TV HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.52:10522
+
+
+
+
+#EXTINF:-1  tvg-id="Asian_Food_Channel"  tvg-name="AFC" tvg-logo="https://i.ibb.co/b1k6r1g/afn.jpg" tvg-chno="130",AFN HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.129:9570
+
+
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://i.ibb.co/kMNgcGL/cctv2.jpg"  tvg-chno="",CCTV2  - Tiếng Trung
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.240:10458
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://i.ibb.co/FqzZxhs/cctv10.jpg"  tvg-chno="",CCTV10 - Tiếng Trung
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.170:10828
+#EXTINF:-1  tvg-logo="https://webjaen.files.wordpress.com/2010/08/tve-hd.jpg",TVE HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.205:11152
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Hz2df9Z/cna.jpg",CNA HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.155:10540
+#EXTINF:-1  tvg-logo="https://i.ibb.co/rwVFC6w/clubingtv.png",Clubbing TV HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.194:11086
+#EXTINF:-1  tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_vchannel.gif",[V] HD 
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.132:9588
+#EXTINF:-1  tvg-logo="https://i.ibb.co/K0t7jJ0/cinemaw.jpg",Cinema World HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.172:10840
+#EXTINF:-1 tvg-id="arirang" tvg-name="arirang" tvg-logo="https://i.ibb.co/GH62BMd/arirang.jpg"  tvg-chno="",Arirang
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.43:8238
+#EXTINF:-1 tvg-id="TV5 ASIE" tvg-name="TV5_ASIE" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2019/08/tv5monde-vector-logo.png"  tvg-chno="",TV5MONDE
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.45:8250
+
+#EXTINF:-1 tvg-id="NHK World-JAPAN(HD)" tvg-name="NHK_World-JAPAN(HD)" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nhk-world-hd_150614115837.png"  tvg-chno="",NHK WORLD HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.72:8406
+#EXTINF:-1 tvg-id="NatGeoPeople" tvg-name="NatGeoPeople" tvg-logo="https://i0.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/NatGeo_People_logo-628x353.gif"  tvg-chno="",Nat Geo People HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.76:8430
+
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney_Junior" tvg-logo="http://2.bp.blogspot.com/-_kncJQ5vvL4/TZNtf21dRYI/AAAAAAAAIbQ/e3jzQUrp-CU/w1200-h630-p-k-no-nu/Logo%2BDisney%2BJunior.jpg"  tvg-chno="",Disney Junior
+#http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.90:10398
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.200:11122
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-name="NatGeoWild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/NGWild.png"  tvg-chno="",Nat Geo Wild HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.123:8454
+#EXTINF:-1 tvg-id="Rai" tvg-name="Rai" tvg-logo="http://static1.squarespace.com/static/5a0115979f8dce88ac175a14/5be7b1ad2b6a28e8983a23b6/5c278e94758d46566deea91b/1587657260230/rai-italiai-logo.jpg?format=1500w"  tvg-chno="",Rai - Italia
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.124:8358
+#EXTINF:-1 tvg-id="RT" tvg-name="RT" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/32/52/f8/3252f80c-3a8e-b464-5c03-0b9cb311f101/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png"  tvg-chno="",RT - Tiếng Nga
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.125:8538
+#EXTINF:-1 tvg-id="POCCNR PTP" tvg-name="POCCNR_PTP" tvg-logo="https://i.ibb.co/VvdXL0Q/pop.jpg"  tvg-chno="",POCCNR PTP - Tiếng Nga
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.127:8544
+#EXTINF:-1 tvg-id="OPT1" tvg-name="OPT1" tvg-logo="https://telesputnik.ru/upload/iblock/a53/telekanal_rossiya_1_sokhranil_liderstvo_po_auditorii.jpg"  tvg-chno="",OPT 1 - Tiếng Nga
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.128:8352
+
+#EXTINF:-1 tvg-id="Diva Universal" tvg-name="Diva_Universal" tvg-logo="https://png.pngitem.com/pimgs/s/220-2201779_diva-universal-logo-hd-png-download.png"  tvg-chno="",Diva Universal HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.130:9576
+#EXTINF:-1 tvg-id="Da Vinci " tvg-name="Da_Vinci_" tvg-logo="https://i.ibb.co/S3LfVfF/davinci.jpg"  tvg-chno="",DaVinci HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.131:9582
+#EXTINF:-1 tvg-id="Channel V HD" tvg-name="Channel_V" tvg-logo="https://i.ibb.co/Pg9B1Ks/channelv.jpg"  tvg-chno="",Channel V HD
+https://livecdn.fptplay.net/foxlive/channelvhd_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="France 24 English" tvg-name="France_24_English" tvg-logo="https://i.ibb.co/D9H60FV/france.jpg"  tvg-chno="",France 24 English
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.135:9606
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS_World" tvg-logo="https://i.ibb.co/TrHCQFz/kbs.jpg"  tvg-chno="",KBS World
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.136:9612
+
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg"  tvg-chno="",AXN HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.121:10660
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://i.ibb.co/jMZFmfw/disneychan.png"  tvg-chno="",Disney Channel HD
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON_NETWORK" tvg-logo="https://i.ibb.co/JqJVv5b/cn.jpg"  tvg-chno="",Cartoon Network HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.144:10684
+#EXTINF:-1 tvg-id="CNNHD" tvg-name="CNNHD" tvg-logo="https://thuthuatdulich.com/wp-content/uploads/2019/02/cac-trang-tin-tuc-my-03.jpg"  tvg-chno="",CNN
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.153:10690
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal_Planet" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2018/10/aniumal-2-3.jpg"  tvg-chno="",Animal Planet HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.139:10702
+
+
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://i.ibb.co/mNx77zm/dw.jpg"  tvg-chno="",DW HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.233:10416
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC_World_News" tvg-logo="https://i.ibb.co/vdkNVCG/BBC-News.png"  tvg-chno="",BBC World News
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.239:10452
+#EXTINF:-1 tvg-id="Australia Plus" tvg-name="Australia_Plus" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/7/thuan2/australia.png"  tvg-chno="",Australia Plus
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.244:10482
+#EXTINF:-1 tvg-id="Baby TV HD" tvg-name="Baby_TV" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/babytv-logo.jpg"  tvg-chno="",BabyTV HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.36:10624
+
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery_Channel" tvg-logo="https://i.ibb.co/vL4Chcy/discov.png"  tvg-chno="",Discovery Channel HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.53:10528
+
+#EXTINF:-1 tvg-id="Channel News Asia" tvg-name="Channel_News_Asia" tvg-logo="https://i.ibb.co/1QK8Lnx/media.jpg"  tvg-chno="",MEDIACORP HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.55:10540
+
+#EXTINF:-1 tvg-id="TH DA NANG 1" tvg-name="TH_DA_NANG_1" tvg-logo="https://imgur.com/V3NhGyb.png" tvg-chno="",ĐÀ NẴNG 1 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.146:8850
+#EXTINF:-1 tvg-id="TH DA NANG 2" tvg-name="TH_DA_NANG_2" tvg-logo="https://imgur.com/qLxtQIc.png" tvg-chno="",ĐÀ NẴNG 2 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.3.122:8856
+
+#EXTINF:-1 tvg-id="TH AN GIANG" tvg-name="TH_AN_GIANG" tvg-logo="https://imgur.com/dJUJoW0.png" tvg-chno="",An Giang
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.110:8742
+#EXTINF:-1 tvg-id="TH BA RIA VUNG TAU" tvg-name="TH_BA_RIA_VUNG_TAU" tvg-logo="https://imgur.com/f3X39ko.png" tvg-chno="",Bà Rịa
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.73:8748
+#EXTINF:-1 tvg-id="TH BAC LIEU" tvg-name="TH_BAC_LIEU" tvg-logo="https://imgur.com/5Ct3awi.png" tvg-chno="",Bạc Liêu
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.116:8766
+#EXTINF:-1 tvg-id="TH BAC GIANG" tvg-name="TH_BAC_GIANG" tvg-logo="https://imgur.com/2HAIP3G.png" tvg-chno="",Bắc Giang
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.89:8754
+#EXTINF:-1 tvg-id="TH BAC KAN" tvg-name="TH_BAC_KAN" tvg-logo="https://imgur.com/45G1D2g.png" tvg-chno="",Bắc Kạn
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.92:8760
+#EXTINF:-1 tvg-id="TH BAC NINH" tvg-name="TH_BAC_NINH" tvg-logo="https://imgur.com/4KdIzZE.png" tvg-chno="",Bắc Ninh HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.245:10506
+#EXTINF:-1 tvg-id="TH BEN TRE" tvg-name="TH_BEN_TRE" tvg-logo="https://imgur.com/Ih3byPZ.png" tvg-chno="",Bến Tre
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.115:8778
+
+#EXTINF:-1 tvg-id="TH BINH DINH" tvg-name="TH_BINH_DINH" tvg-logo="https://imgur.com/j9KJRyU.png" tvg-chno="",Bình Định
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.88:8784
+#EXTINF:-1 tvg-id="TH BINH PHUOC" tvg-name="TH_BINH_PHUOC" tvg-logo="https://imgur.com/gNPgpzu.png" tvg-chno="",Bình Phước
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.90:8814
+#EXTINF:-1 tvg-id="TH BINH THUAN" tvg-name="TH_BINH_THUAN" tvg-logo="https://imgur.com/hVOsoFc.png" tvg-chno="",Bình Thuận
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.77:8820
+#EXTINF:-1 tvg-id="TH CA MAU" tvg-name="TH_CA_MAU" tvg-logo="https://imgur.com/hcmB29A.png" tvg-chno="",Cà Mau
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.117:8826
+#EXTINF:-1 tvg-id="TH CAO BANG" tvg-name="TH_CAO_BANG" tvg-logo="https://imgur.com/vrpcqu9.png" tvg-chno="",Cao Bằng
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.109:8844
+#EXTINF:-1 tvg-id="TH CAN THO" tvg-name="TH_CAN_THO" tvg-logo="https://imgur.com/3VyHzYS.png" tvg-chno="",Cần Thơ
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.118:8838
+
+#EXTINF:-1 tvg-id="TH DAK LAK" tvg-name="TH_DAK_LAK" tvg-logo="https://imgur.com/pdYTQBn.png" tvg-chno="",Đắk Lắk
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.149:8868
+#EXTINF:-1 tvg-id="TH DAK NONG" tvg-name="TH_DAK_NONG" tvg-logo="https://imgur.com/JTPDKYL.png" tvg-chno="",Đắk Nông
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.72:8874
+#EXTINF:-1 tvg-id="TH DIEN BIEN" tvg-name="TH_DIEN_BIEN" tvg-logo="https://imgur.com/jzcwhSN.png" tvg-chno="",Điện Biên
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.76:8880
+#EXTINF:-1 tvg-id="TH DONG NAI 1" tvg-name="TH_DONG_NAI_1" tvg-logo="https://imgur.com/Ka8qiSB.png" tvg-chno="",Đồng Nai 1 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.157:10762
+#EXTINF:-1 tvg-id="TH DONG NAI 2" tvg-name="TH_DONG_NAI_2" tvg-logo="https://imgur.com/06FLyDP.png" tvg-chno="",Đồng Nai 2
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.153:8892
+#EXTINF:-1 tvg-id="TH DONG THAP 1" tvg-name="TH_DONG_THAP_1" tvg-logo="https://imgur.com/ykiiXBV.png" tvg-chno="",Đồng Tháp
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.154:8898
+#EXTINF:-1 tvg-id="TH GIA LAI" tvg-name="TH_GIA_LAI" tvg-logo="https://imgur.com/a0nHDNB.png" tvg-chno="",Gia Lai
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.68:8904
+#EXTINF:-1 tvg-id="TH HA GIANG" tvg-name="TH_HA_GIANG" tvg-logo="https://imgur.com/U4YUlnA.png" tvg-chno="",Hà Giang
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.85:8910
+#EXTINF:-1 tvg-id="TH HA NAM" tvg-name="TH_HA_NAM" tvg-logo="https://imgur.com/QGCJS9D.png" tvg-chno="",Hà Nam
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.82:8916
+#EXTINF:-1 tvg-id="HANOITV 1" tvg-name="HANOITV_1" tvg-logo="https://imgur.com/dr2eb5D.png" tvg-chno="",Hà Nội 1 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.153:10738
+#EXTINF:-1 tvg-id="HANOITV 2" tvg-name="HANOITV_2" tvg-logo="https://imgur.com/HCkpPFZ.png" tvg-chno="",Hà Nội 2 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.154:10744
+#EXTINF:-1 tvg-id="TH HA TINH" tvg-name="TH_HA_TINH" tvg-logo="https://imgur.com/lAu4A9Q.png" tvg-chno="",Hà Tĩnh HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.158:10768
+#EXTINF:-1 tvg-id="TH HAI DUONG" tvg-name="TH_HAI_DUONG" tvg-logo="https://imgur.com/pxxospp.png" tvg-chno="",Hải Dương
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.79:8928
+#EXTINF:-1 tvg-id="TH HAI PHONG" tvg-name="TH_HAI_PHONG" tvg-logo="https://imgur.com/LLJN2sK.png" tvg-chno="",Hải Phòng HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.160:10780
+#EXTINF:-1 tvg-id="TH HAU GIANG" tvg-name="TH_HAU_GIANG" tvg-logo="https://imgur.com/aXI7y1V.png" tvg-chno="",Hậu Giang
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.112:8940
+#EXTINF:-1 tvg-id="TH HOA BINH" tvg-name="TH_HOA_BINH" tvg-logo="https://imgur.com/3yiJXTs.png" tvg-chno="",Hòa Bình
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.71:8946
+#EXTINF:-1 tvg-id="TH HUNG YEN" tvg-name="TH_HUNG_YEN" tvg-logo="https://imgur.com/9bnQqNs.png" tvg-chno="",Hưng Yên HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.161:10786
+#EXTINF:-1 tvg-id="TH KIEN GIANG 1" tvg-name="TH_KIEN_GIANG_1" tvg-logo="https://imgur.com/y5H6QDe.png" tvg-chno="",Kiên Giang HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.189:10918
+#EXTINF:-1 tvg-id="TH KOM TUM" tvg-name="TH_KOM_TUM" tvg-logo="https://imgur.com/ozTB3Iw.png" tvg-chno="",Kon Tum
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.66:8970
+#EXTINF:-1 tvg-id="TH KHANH HOA" tvg-name="TH_KHANH_HOA" tvg-logo="https://imgur.com/JcwpCla.png" tvg-chno="",Khánh Hoà
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.99:8958
+#EXTINF:-1 tvg-id="TH LAI CHAU" tvg-name="TH_LAI_CHAU" tvg-logo="https://imgur.com/ns22TJr.png" tvg-chno="",Lai Châu
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.67:9174
+#EXTINF:-1 tvg-id="TH LANG SON" tvg-name="TH_LANG_SON" tvg-logo="https://imgur.com/L3j21rb.png" tvg-chno="",Lạng Sơn
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.107:8646
+#EXTINF:-1 tvg-id="TH LAO CAI" tvg-name="TH_LAO_CAI" tvg-logo="https://imgur.com/rYhCX1n.png" tvg-chno="",Lào Cai
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.93:8718
+#EXTINF:-1 tvg-id="TH LAM DONG" tvg-name="TH_LAM_DONG" tvg-logo="https://imgur.com/eUtyBSM.png" tvg-chno="",Lâm Đồng
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.78:8976
+#EXTINF:-1 tvg-id="TH LONG AN" tvg-name="TH_LONG_AN" tvg-logo="https://imgur.com/BgoKuFz.png" tvg-chno="",Long An 34
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.171:9000
+#EXTINF:-1 tvg-id="TH NAM DINH" tvg-name="TH_NAM_DINH" tvg-logo="https://imgur.com/ltq8HkC.png" tvg-chno="",Nam Định
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.69:9006
+#EXTINF:-1 tvg-id="TH NINH BINH" tvg-name="TH_NINH_BINH" tvg-logo="https://imgur.com/SkLCFhS.png" tvg-chno="",Ninh Bình
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.80:9018
+#EXTINF:-1 tvg-id="TH NINH THUAN" tvg-name="TH_NINH_THUAN" tvg-logo="https://imgur.com/9WgUScE.png" tvg-chno="",Ninh Thuận
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.74:9024
+#EXTINF:-1 tvg-id="TH NGHE AN" tvg-name="TH_NGHE_AN" tvg-logo="https://imgur.com/JevFNPO.png" tvg-chno="",Nghệ An
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.101:9012
+#EXTINF:-1 tvg-id="TH PHU THO" tvg-name="TH_PHU_THO" tvg-logo="https://imgur.com/fiTyh8i.png" tvg-chno="",Phú Thọ HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.162:10792
+#EXTINF:-1 tvg-id="TH PHU YEN" tvg-name="TH_PHU_YEN" tvg-logo="https://imgur.com/hvHcYqX.png" tvg-chno="",Phú Yên
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.178:10362
+#EXTINF:-1 tvg-id="TH QUANG BINH" tvg-name="TH_QUANG_BINH" tvg-logo="https://imgur.com/UW1rfhp.png" tvg-chno="",Quảng Bình
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.98:9042
+#EXTINF:-1 tvg-id="TH QUANG NAM" tvg-name="TH_QUANG_NAM" tvg-logo="https://imgur.com/V6wnEia.png" tvg-chno="",Quảng Nam
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.81:9048
+#EXTINF:-1 tvg-id="TH QUANG NINH 1" tvg-name="TH_QUANG_NINH_1" tvg-logo="https://imgur.com/bjGI2q2.png" tvg-chno="",Quảng Ninh 1 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.248:10978
+#EXTINF:-1 tvg-id="TH QUANG NINH 3" tvg-name="TH_QUANG_NINH_3" tvg-logo="https://imgur.com/Ont4JOh.png" tvg-chno="",Quảng Ninh 3 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.249:10984
+#EXTINF:-1 tvg-id="TH QUANG NGAI" tvg-name="TH_QUANG_NGAI" tvg-logo="https://imgur.com/L1I0ngF.png" tvg-chno="",Quảng Ngãi HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.163:10798
+#EXTINF:-1 tvg-id="TH QUANG TRI" tvg-name="TH_QUANG_TRI" tvg-logo="https://imgur.com/xl4m2mn.png" tvg-chno="",Quảng Trị
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.105:9066
+#EXTINF:-1 tvg-id="TH SOC TRANG" tvg-name="TH_SOC_TRANG" tvg-logo="https://imgur.com/oisQChW.png" tvg-chno="",Sóc Trăng
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.103:9072
+#EXTINF:-1 tvg-id="TH SON LA" tvg-name="TH_SON_LA" tvg-logo="https://imgur.com/c4a48Kc.png" tvg-chno="",Sơn La
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.184:9078
+#EXTINF:-1 tvg-id="TH TAY NINH" tvg-name="TH_TAY_NINH" tvg-logo="https://imgur.com/wnCi1LM.png" tvg-chno="",Tây Ninh 11
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.97:9084
+#EXTINF:-1 tvg-id="TH TIEN GIANG" tvg-name="TH_TIEN_GIANG" tvg-logo="https://imgur.com/P75WB6v.png" tvg-chno="",Tiền Giang
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.189:9108
+#EXTINF:-1 tvg-id="TH TUYEN QUANG" tvg-name="TH_TUYEN_QUANG" tvg-logo="https://imgur.com/1Cv2Scc.png" tvg-chno="",Tuyên Quang
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.91:9138
+#EXTINF:-1 tvg-id="TH THAI BINH" tvg-name="TH_THAI_BINH" tvg-logo="https://imgur.com/KTiyTzB.png" tvg-chno="",Thái Bình
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.100:9090
+#EXTINF:-1 tvg-id="TH THAI NGUYEN" tvg-name="TH_THAI_NGUYEN" tvg-logo="https://imgur.com/cjbLDud.png" tvg-chno="",Thái Nguyên 1 HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.159:10774
+#EXTINF:-1 tvg-id="TH THAI NGUYEN 2" tvg-name="TH_THAI_NGUYEN_2" tvg-logo="https://imgur.com/L25E2kc.png" tvg-chno="",Thái Nguyên 2
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.70:9168
+#EXTINF:-1 tvg-id="TH THANH HOÁ" tvg-name="TH_THANH_HOÁ" tvg-logo="https://imgur.com/WQ5fAeY.png" tvg-chno="",Thanh Hoá
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.111:9102
+#EXTINF:-1 tvg-id="TH THUA THIEN HUE" tvg-name="TH_THUA_THIEN_HUE" tvg-logo="https://imgur.com/2l76kq2.png" tvg-chno="",Thừa Thiên Huế
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.106:9120
+#EXTINF:-1 tvg-id="TR TRA XINH" tvg-name="TR_TRA_XINH" tvg-logo="https://imgur.com/qX9mo40.png" tvg-chno="",Trà Vinh
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.102:9114
+
+
+#EXTINF:-1 tvg-id="TH VINH PHUC" tvg-name="TH_VINH_PHUC" tvg-logo="https://imgur.com/k0gVM7y.png" tvg-chno="",Vĩnh Phúc
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.83:9156
+#EXTINF:-1 tvg-id="TH YEN BAI" tvg-name="TH_YEN_BAI" tvg-logo="https://imgur.com/J92zJfH.png" tvg-chno="",Yên Bái
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.75:9162
+#EXTINF:-1 tvg-id="Xổ số" tvg-name="Xổ_số" tvg-logo="https://imgur.com/xbqb10k.png"  tvg-chno="",Xổ số
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.211:9240
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://imgur.com/kHZtzZw.png"  tvg-chno="",ANTV HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.212:9246
+#EXTINF:-1 tvg-id="QUOC HOI" tvg-name="QUOC_HOI" tvg-logo="https://imgur.com/G154n6j.png"  tvg-chno="",Quốc Hội
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.234:10290
+#EXTINF:-1 tvg-id="THONG TAN XA VIET NAM" tvg-name="THONG_TAN_XA_VIET_NAM" tvg-logo="https://imgur.com/ZstB6Eg.png"  tvg-chno="",TTXVN HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.52:8292
+#EXTINF:-1 tvg-id="HITV" tvg-name="HITV" tvg-logo="https://imgur.com/PLIBb0f.png"  tvg-chno="",HCaTV - HITV
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.55:8310
+#EXTINF:-1 tvg-id="QUOC PHONG VIET NAM HD" tvg-name="QUOC_PHONG_VIET_NAM" tvg-logo="https://imgur.com/xtA4AlV.png"  tvg-chno="",QPVN HD
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.168:10816
+#EXTINF:-1 tvg-id="TH NHAN DAN" tvg-name="TH_NHAN_DAN" tvg-logo="https://imgur.com/To0jQgj.png"  tvg-chno="",Nhân Dân
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.2.169:10822
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/IVqqYgAEfY8/maxresdefault.jpg"   tvg-chno="1000"   ,Vị Khách Bí Ẩn - Phim Lẻ                                                                                                                                                         
 https://biphim.club/hls/2ef17bbd01bf6813e53116461b3dec2c/playlist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/1Mp1SVEBv88/maxresdefault.jpg"  tvg-chno="1000"   ,Biệt Đội Cảm Tử - Phim Lẻ                                                                                                                              
-https://gpsd.vidsugar.xyz/_definst_/smil:mp4/27e393d993750a168b836aeb8482333b/playlist.m3u8?s=vidsugar&v=1630005541
+https://asia00.fbcdn.space/rawhls/CDLYAwt1/NtND8Aqe-b2.m3u8?v=1629104486
+
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://saigon247.net/wp-content/uploads/2021/05/blogtienao.zcc.com.vn-bom-tan-fast-amp-furious-9-dang-lam-nong-phong-ve-tai-han-quoc-fast-and-furious-9-vin-diesel-john-cenas-action-film-gets-1024x569-1.jpg"  tvg-chno="1000"   ,Quá Nhanh Quá Nguy Hiểm 9                                                                                                                 Phim Lẻ
 https://tvhay.tv/hls-tvhay.php?id=6104d462f67c1b6a82e22492&type=video.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://hdvietsub.net/wp-content/uploads/2021/07/file-39725_poster.jpg"  tvg-chno="1000"   ,Cuộc Chiến Tương Lai - Phim Lẻ                                                                                                                                                                                                                                                         Phim Lẻ
@@ -27,8 +614,7 @@ https://asia00.fbcdn.space/rawhls/8ZKlPwVj/72eEKwtj-b2.m3u8?v=1603254828
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/1024/uploaded/tuyenth/2018_12_19/aquaman_abjz.jpg"  tvg-chno="1000"   , Đế vương Atlantis - Phim Lẻ      
 https://ch.vidsugar.com/hls/6f5a4750413542315a3758375330666863647270436630765868576c6652736d65637659673856624468654976524d6862484b414b2f347a5275316c48336d35/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://channel.mediacdn.vn/thumb_w/640/prupload/164/2017/07/img20170712192611793.jpg"  tvg-chno="1000"   , Sự Trỗi Dậy Của Hành Tinh Khỉ - Phim Lẻ 
-
-https://prx24.streamh.xyz/video.mp4?hash=830343765a844eb65973f6630e0d584ae3c04c954fe25a344ff77c44538aee5d7c271fb56a60916f8b8b995ee31f3b506f265a5014ccfde6fb16286f954e2d83d65d94c6055304f2bb9ecaa89c6599a4cadd498df47a9d18809ef22f9a452b4d3ab7749ed1ab60773275ac8d524f91639f1e26c1e430f9f6031d7e6d6bf3d747213d9884febbd3f6f595f3a963014d53144ac26b8c5d411cbb9c5991edada059b558379df2b4eddbdcc09240075bdf973fbebd6f9f1b8da7bafd783010db73df8a73c563a49bcff658fba437f5b17d0d64a6aa4522325cbe3440aadc6816e07672c0715f97e7792245b38514f95e13e143e917f486d134e93e073f826d64aba313c90fc6e1945dda3dbccb2275124d79da408136ebd862f71220dc26d152fde89e9737d2812a60b356c9544116bc880e858c9c222339e581600247cda781f0d1d3ec5a30413a47afa93d7824677b335caf0563bd71d4aae7b94e4c5d29af34bf8b42571deed16ddd03817acf55f5f4374face0dc567f98d3e35615bcedaf01365c76a4154ba3b2a2463059bae811472b6756e164036b2ed0dfbb8552d7308bee9a578ba409e7ac1144ca89a07983185a4a99bbac378a305f8f07b5033a10e8e1f68f62d52ff9cceb344bfafc1805ce8700a042fcfa7d131dd13b16cde0a7d8710d40b7c301d7c256d7df41883ca61052cd903509a4ab99b3be5ae4561d17da41154ae67b032d35ac0df61f21190def80b8ad79b175ba1ff81e3fbce36997297708cd9224c55cac9667840c3d200d32349b939d144b48b3a5ed60d7605023be7768ab39a4c5e6ff1462d1bc8960ae5ca8a4af1c2dbdb5e23b6d0655eced5ba88fc598026add4c4561e55f490a2db2465a308d60f916871401fc1abdc9c294701583c15264bd141f0971141aa1056a2a363fec6a937ddfd301893aaec184994cdd64c25f7d9bbebf83e5c5ff2fafe605f6eaba31746838c8b0bb752ea1458e95937e6fa01e884af0351c1917299efa04b0a3c91a687edf3db8d6912f433c5b6dbabd0359588b65b9ce1db332b2912a7a24aa1ba08f248861877bf63afeba90bde783565babc2ec4bb32091f8c082809adc1c85a1059b5ebc6c52f2b4d3e95d705a2c4f61ff8b610f491c578f927b1b&cookie=nFAxb5ODANs
+https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets/-MgnKYtRcQg1pSEk44bC/-Mhs1pk2sJbgmDivSBAb/-Mhs2-oODT-dwAsSW2OH/DVCTTM.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://wordphim.files.wordpress.com/2014/11/wpid-10296555_10152635849840625_8228320565054346933_n.jpg"  tvg-chno="1000"   ,Sự Khởi Đầu Của Hành Tinh Khỉ - Phim Lẻ        
 
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://blog.fshare.vn/wp-content/uploads/2017/07/p1.jpg"  tvg-chno="1000"   , Cuộc Chiến Trên Hành Tinh Khỉ - Phim Lẻ
