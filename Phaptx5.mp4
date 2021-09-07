@@ -65,7 +65,8 @@ https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="HTV9 HD" tvg-name="HTV9" tvg-logo="https://static.megavie.live/media/htv9hd.jpg"  group-title="HTV" tvg-chno="29",HTV9 HD
 https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="HTV THE THAO" tvg-name="HTV_THE_THAO" tvg-logo="https://i.ibb.co/BsT7gcT/htvthethao.png"  group-title="HTV" tvg-chno="30",HTV Thể Thao HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b1200000.m3u8
+
 
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://static.megavie.live/media/vinhlong1hd.jpg"  group-title="THVL" tvg-chno="31",THVL1 HD 
 https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
@@ -143,49 +144,50 @@ https://livecdn.fptplay.net/sdc/btv9_2000.stream/playlist.m3u8
 https://livecdn.fptplay.net/sda/ncm_2000.stream/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="vtvcab1hd"  tvg-logo="https://vtvcabtaidanang.com/wp-content/uploads/2017/05/vtvcab-1-giai-tri-tv.jpg"  tvg-chno="65" group-title="VTVCab" ,VTVCab1 HD 
-
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab1/index.m3u8?md5=dBooYMMaJzuC4PQSnva4EQ&expires=2556118740
 #EXTINF:-1 tvg-id="vtvcab2hd"" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/kenh-2_ce40790f.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn"  tvg-chno="66" group-title="VTVCab" ,VTVCab2 HD 
-
-
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab2/index.m3u8?md5=QGYdEQjOO4Qj5YcwRFeV1w&expires=2556118740
 #EXTINF:-1  tvg-id="vtvcab3hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/kenh-3_743a9dbd.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" tvg-chno="67" group-title="VTVCab" ,VTVCab3 HD 
-
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740
 
 #EXTINF:-1 tvg-id="vtvcab4hd" tvg-logo="https://i.ibb.co/6bj2GkX/cab4.jpg"  tvg-chno="68" group-title="VTVCab" ,VTVCab4 HD 
 
 #EXTINF:-1 tvg-id="vtvcab5hd"  tvg-logo="https://static-stage.tv24.vn/channel/181/vtvcab5-EChannel.png"  tvg-chno="69" group-title="VTVCab" ,VTVCab5 HD 
-
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab5/index.m3u8?md5=FI0vSweK0ZjVtshOO-v3LA&expires=2556118740
 #EXTINF:-1 tvg-id="vtvcab6hd"  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/84_9b59e5ac.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn"  tvg-chno="70" group-title="VTVCab" ,VTVCab6 HD 
-
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740
 
 #EXTINF:-1 tvg-id="vtvcab7hd"  tvg-logo="https://i.ibb.co/fDSQnjm/cab10.jpg"  tvg-chno="71" group-title="VTVCab" ,VTVCab7 HD
-
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab7/index.m3u8?md5=JGYvOsHHyqqsxl6Osg-j7g&expires=2556118740
 #EXTINF:-1 tvg-id="vtvcab8hd"  tvg-logo="https://i.ibb.co/fD73WwM/cab8.jpg"  tvg-chno="72" group-title="VTVCab" ,VTVCab8 HD 
-
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab8/index.m3u8?md5=cDM9L0-Fmb5YYGIm5x8dMQ&expires=2556118740
 #EXTINF:-1 tvg-id="vtvcab9hd"  tvg-logo="https://i.ibb.co/rKrjJ08/cab9.jpg"  tvg-chno="73" group-title="VTVCab" ,VTVCab9 HD 
-
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab9/index.m3u8?md5=H-CZgExdlhVls0-cEfpa4Q&expires=2556118740
 #EXTINF:-1 tvg-id="vtvcab10hd"  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/kenh-10_f448d047.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn"  tvg-chno="74" group-title="VTVCab" ,VTVCab 10 HD 
-
-
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2-k5aGSCR8Q&expires=
+#EXTINF:-1 tvg-id="vtvcab12hd"  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/83_b051238f.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn"  tvg-chno="75" group-title="VTVCab" ,VTVCab11 HD 
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab11/index.m3u8?md5=U3OmAeuvHI3rIJotPQ8EXg&expires=2556118740
 #EXTINF:-1 tvg-id="vtvcab12hd"  tvg-logo="https://i.ibb.co/wdsvRkD/cab12.jpg"  tvg-chno="75" group-title="VTVCab" ,VTVCab12 HD 
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab12/index.m3u8?md5=16_sk-wKZo227CghUseBkQ&expires=2556118740
 #EXTINF:-1 tvg-id="VTVCab13" tvg-logo="https://i.ibb.co/RvzsCkn/cab13.jpg"  tvg-chno="76" group-title="VTVCab" ,VTVCab13 HD
 
 #EXTINF:-1 tvg-id="vtvcab15hd" tvg-logo="https://static.megavie.live/media/vtvcab15.jpg"  tvg-chno="77" group-title="VTVCab" ,VTVCab15 HD 
-
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab15/index.m3u8?md5=3JMqSO-g51A9uFwoqY3nUg&expires=2556118740
 #EXTINF:-1  tvg-id="vtvcab16hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/kenh-16_4d3ff04e.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" tvg-chno="78" group-title="VTVCab" ,VTVCab16 HD 
 
 
 
 #EXTINF:-1 tvg-id="vtvcab17hd" tvg-logo="https://static-stage.tv24.vn/channel/186/vtvcab17-Yeah1TV.png"  tvg-chno="79" group-title="VTVCab" ,VTVCab17 HD 
-
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab17/index.m3u8?md5=8sqdkkWw2j1jqPiPOHIhew&expires=2556118740
 #EXTINF:-1 tvg-id="vtvcab19hd" logo="https://i.ibb.co/1qxx1Wm/20.png" group-title="VTVCab" ,VTVCab19 HD
-
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab19/index.m3u8?md5=1AYGbWlzHNKrvsQUMUP82Q&expires=2556118740
 #EXTINF:-1 tvg-id="vtvcab20hd"  tvg-logo="https://i.ibb.co/2vWKV2q/cab20.png"  tvg-chno="80" group-title="VTVCab" ,VTVCab20 HD 
-
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740
 #EXTINF:-1 tvg-id="vtvcab21hd"  logo="https://i.ibb.co/308FQp8/cab21.jpg" group-title="VTVCab" ,VTVCab21 HD
 #EXTINF:-1 tvg-id="vtvcab22hd"  tvg-logo="https://i.ibb.co/f8vpzsz/22.jpg"  tvg-chno="81" group-title="VTVCab" ,VTVCab22 HD 
 
 #EXTINF:-1 tvg-id="vtvcab23hd" tvg-logo="https://i.ibb.co/jW5Khph/23.jpg"  tvg-chno="82" group-title="VTVCab" ,VTVCab23 HD 
-
+https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvcthuanviethd"  tvg-logo="https://static.megavie.live/media/htvcthuanviethd.jpg"  tvg-chno="84" group-title="HTVC" ,HTVC Thuần Việt HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
@@ -3124,4 +3126,5 @@ https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/fightformyway-
 https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/fightformyway_s_32/504d3eae56021699ed5b2743dcf0ff04_1080p.mp4/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://phimcapba.vn/wp-content/uploads/2020/02/di%E1%BB%85n-vi%C3%AAn-phim-thanh-xu%C3%A2n-v%E1%BA%ADt-v%C3%A3.jpg"      group-title="TÌNH YÊU KHÔNG CÓ LỖI"  ,TÌNH YÊU KHÔNG CÓ LỖI- Tập 1 - Phim Bộ
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202103/tinhyeukhongcoloip2_01_ok_q2r214y4v4_4500_4189bpg2282_4669a4b8aeb6260a/c99240fb/hls/mapper-fhd/playlist.m3u8
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202103/tinhyeukhongcoloip2_01_ok_q2r214y4v4_4500_4189bpg2282_4669a4b8aeb6260a/c99240fb/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://phimcapba.vn/wp-content/uploads/2020/02/di%E1%BB%85n-vi%C3%AAn-phim-thanh-xu%C3%A2n-v%E1%BA%ADt-v%C3%A3.jpg"      group-title="TÌNH YÊU KHÔNG CÓ LỖI"  ,TÌNH YÊU KHÔNG CÓ LỖI- Tập 2 - Phim Bộ
