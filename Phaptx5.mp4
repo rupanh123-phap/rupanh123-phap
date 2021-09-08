@@ -488,6 +488,14 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 https://yenbaitv.org.vn/hls/livestream.m3u8
 #https://livecdn.fptplay.net/sdc/yenbai_2000.stream/chunklist.m3u8
 #PHÁP GROUP ANDROID BOX TX5 LÀM VÌ ĐAM MÊ CHIA SẺ ^^!
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/61225992416d7654dfad33d3_hoi-sinh-ky-uc-1.jpg"      group-title="Phim Lẻ"   ,Hồi Sinh Ký Ức  - Phim Lẻ
+https://hls.phimno1.com:443/files/e25b0c9d79626b904ce900966eb4d003_720p.mp4.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.galaxycine.vn/media/wysiwyg/images/4%285%29.jpg"      group-title="Phim Lẻ"   ,Sát Nhân Bóng Tối - Don't Breathe - Phim Lẻ
+https://hls.phimno1.com:443/files/e25b0c9d79626b904ce900966eb4d003_720p.mp4.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/jDFFqOzaBng/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Sát Nhân Bóng Tối 2 - Don't Breathe 2 - Phim Lẻ
+https://tvhay.tv/hls-tvhay.php?id=61349c7e1e2bd95dcf60b196&type=video.m3u8
+#http://s3-hcm-r1.longvan.net/phimle/satnhantrongbongtoitm.mp4
+
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/k4817Bng.jpg"      group-title="Phim Lẻ"   , Người Hobbit: Hành Trình Vô Định  - Phim Lẻ
 http://s3-hcm-r1.longvan.net/phimle/nguoihobbithanhtrinhvodinhtm.mp4
 #EXTINF:-1 tvg-id="phim"  tvg-logo="http://laurasblog.edenreign.net/wp-content/uploads/2014/02/the_hobbit__the_desolation_of_smaug.jpg"      group-title="Phim Lẻ"   , Người Hobbit: Đại Chiến Với Rồng Lửa  - Phim Lẻ
@@ -523,10 +531,6 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191006/rampant_2018_k
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/07_04_2020/untitled-107-04-2020_09g47-56.jpg"      group-title="Phim Lẻ"   ,Sát Thủ Văn Phòng - Phim Lẻ
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201116/a_company_man_fptplay_1080p_logofptplay/89e2f8cbec8f370972d30ec946748a69_1080p.mp4/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.galaxycine.vn/media/wysiwyg/images/4%285%29.jpg"      group-title="Phim Lẻ"   ,Sát Nhân Bóng Tối - Don't Breathe - Phim Lẻ
-
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/jDFFqOzaBng/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Sát Nhân Bóng Tối 2 - Don't Breathe 2 - Phim Lẻ
-http://s3-hcm-r1.longvan.net/phimle/satnhantrongbongtoitm.mp4
 
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://1.bp.blogspot.com/-Iirl1jTyfeM/XxsH3cdFtoI/AAAAAAAAMKc/awD2_tbCdSEneaesDukxGYOvvmQiiTnrQCLcBGAsYHQ/s1600/youku-original-film-Water-Monster.jpeg"      group-title="Phim Lẻ"   ,Thủy Quái - Phim Lẻ
 
