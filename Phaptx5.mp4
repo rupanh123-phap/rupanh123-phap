@@ -530,7 +530,7 @@ https://hls.phimno1.com:443/files/e25b0c9d79626b904ce900966eb4d003_720p.mp4.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.galaxycine.vn/media/wysiwyg/images/4%285%29.jpg"      group-title="Phim Lẻ"   ,Sát Nhân Bóng Tối - Don't Breathe - Phim Lẻ
 https://hls.phimno1.com:443/files/6661710c63c1a4fa668abf97bb2e1457_720p.mp4.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/jDFFqOzaBng/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Sát Nhân Bóng Tối 2 - Don't Breathe 2 - Phim Lẻ
-https://tvhay.tv/hls-tvhay.php?id=61349c7e1e2bd95dcf60b196&type=video.m3u8
+https://hls.phimno1.com:443/files/94551fab0d7b1a80fd0b8ef4a9daa728_720p.mp4.m3u8
 #http://s3-hcm-r1.longvan.net/phimle/satnhantrongbongtoitm.mp4
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/k4817Bng.jpg"      group-title="Phim Lẻ"   , Người Hobbit: Hành Trình Vô Định  - Phim Lẻ
 http://s3-hcm-r1.longvan.net/phimle/nguoihobbithanhtrinhvodinhtm.mp4
@@ -3413,6 +3413,7 @@ https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhon
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg"      group-title="Tình Yêu Không Có Lỗi"  ,Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
 
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg"      group-title="Tình Yêu Không Có Lỗi"  ,Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+
 
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg"      group-title="Tình Yêu Không Có Lỗi"  ,Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
 
