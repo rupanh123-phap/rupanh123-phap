@@ -487,7 +487,44 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg", Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
 #https://livecdn.fptplay.net/sdc/yenbai_2000.stream/chunklist.m3u8
+
 #PHÁP GROUP ANDROID BOX TX5 LÀM VÌ ĐAM MÊ CHIA SẺ ^^!
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/07/12/ouj4qxsr_1920x1080-vungdatquydu1_1267_712.jpg"      group-title="Phim Lẻ"   ,Vùng Đất Quỷ Dữ - Phim Lẻ
+https://hls.phimno1.com:443/files/d6af05825e819b253ed35befcb3faccb_720p.mp4.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://4.bp.blogspot.com/-_9e0KJ-ETW0/WrjkJi7cwhI/AAAAAAAAE04/rAIm-Qk1r6ElSMXQJDTPxs0vRg_ADZS-ACLcBGAs/s1600/r-0006residentevilapocalypsequadmovieposterl-201611670.jpg"      group-title="Phim Lẻ"   ,Vùng Đất Quỷ Dữ 2 - Phim Lẻ
+https://hls.phimno1.com:443/files/8d44b6e8eb08d84da3b196b31537414c_720p.mp4.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ibb.co/dtdm5dR/ucuzyehr-1920x1080-vungdatquydu3-782-432.jpg"      group-title="Phim Lẻ"   ,Vùng Đất Quỷ Dữ 3 - Phim Lẻ
+https://hls.phimno1.com:443/files/5396d54da6aa7d418ea574cc032f5c76_720p.mp4.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2021/07/12/fzei3gsg_1920x1080-vungdatquydu4_1920_1080.jpg"      group-title="Phim Lẻ"   ,Vùng Đất Quỷ Dữ 4 - Phim Lẻ
+https://hls.phimno1.com:443/files/457cd9991826f08b09598ba59327af6f_720p.mp4.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/12/quiubb7r_1920x1080-vungdatquydu5.jpg"      group-title="Phim Lẻ"   ,Vùng Đất Quỷ Dữ 5 - Phim Lẻ
+https://hls.phimno1.com:443/files/076adaa531322cc6283fa15645e07686_720p.mp4.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://photo2.tinhte.vn/data/attachment-files/2020/10/5173903_Resident-Evil-The-Final-Chapter-Final-Poster-Featured.jpg"      group-title="Phim Lẻ"   ,Vùng Đất Quỷ Dữ 6 - Phim Lẻ
+https://hls.phimno1.com:443/files/877e197cf3cf506f6570426c13278c63_720p.mp4.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/njzLrIAPi5Q/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Vùng Đất Quỷ Dữ - Phim Lẻ
+
+
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2021/1/22/deadpool-marvel-header-16113082064141231162459.jpg"      group-title="Phim Lẻ"   , Quái Nhân Deadpool  - Phim Lẻ
+http://s3-hcm-r1.longvan.net/phimle/deadpool2016.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.moveek.com/media/cache/large/b25bd5c26e515adb40e4bdd349e6d8243b014416.jpg"      group-title="Phim Lẻ"   ,Quái Nhân Deadpool 2 - Phim Lẻ
+http://s3-hcm-r1.longvan.net/phimle/deadpool2018.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://media.songdep.com.vn/files/thaian/2021/05/11/lich-chieu-venom-doi-mat-tu-thu-tai-rap-viet-nam-8-164224.jpg"      group-title="Phim Lẻ"   , Quái Vật Venom - Phim Lẻ
+http://s3-hcm1-r1.longvan.net/phimle/quaivatvenomtm.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.studyphim.vn/system/movies/2286/thumbnails/medium/GOTT.png"      group-title="Phim Lẻ"   ,Cưỡng Đoạt  - Phim Lẻ
+https://hls.phimno1.com:443/files/2e5669fd1890f77385ccff141d67ecbf_720p.mp4.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://binhluanphim.files.wordpress.com/2012/10/taken-2_img.jpg"      group-title="Phim Lẻ"   ,Cưỡng Đoạt 2 - Phim Lẻ
+https://hls.phimno1.com:443/files/efe26ab42d6dce1defc7cee2381e4614_720p.mp4.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/k:thumb_w/600/5rlgfkdN55CYJRhfWf2vfextv8dIqp/Image/2015/01/taken-3-tang-ve/6-9e1d0/trai-nghiem-lai-canh-hanh-dong-mau-lua-cua-taken-va-taken-2-.jpg"      group-title="Phim Lẻ"   ,Cưỡng Đoạt 3 - Phim Lẻ
+https://hls.phimno1.com:443/files/d2d615de2c597db2740d6e521e8181f5_720p.mp4.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/1024/uploaded/hoangnam/2019_05_28/01_fpbp.jpg"      group-title="Phim Lẻ"   ,Sát thủ John Wick   - Phim Lẻ
+http://s3-hcm1-r1.longvan.net/phimle/satthujohnwick1tm.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.stereo.vn/uploads/2015/09/John-Wick-Poster.jpg"      group-title="Phim Lẻ"   ,Sát thủ John Wick 2 - Phim Lẻ
+http://s3-hcm1-r1.longvan.net/phimle/satthujohnwick2.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/9IQY2BN17dQ/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Sát thủ John Wick 3 - Phim Lẻ
+http://s3-hcm1-r1.longvan.net/phimle/satthujohnwick3tm.mp4
+
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/9N8RdZFl-6o/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Không Chốn Dung Thân  - Phim Lẻ
+http://s3-hcm-r1.longvan.net/phimle/khongchondungthantm.mp4
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/61225992416d7654dfad33d3_hoi-sinh-ky-uc-1.jpg"      group-title="Phim Lẻ"   ,Hồi Sinh Ký Ức  - Phim Lẻ
 https://hls.phimno1.com:443/files/e25b0c9d79626b904ce900966eb4d003_720p.mp4.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.galaxycine.vn/media/wysiwyg/images/4%285%29.jpg"      group-title="Phim Lẻ"   ,Sát Nhân Bóng Tối - Don't Breathe - Phim Lẻ
@@ -495,7 +532,6 @@ https://hls.phimno1.com:443/files/6661710c63c1a4fa668abf97bb2e1457_720p.mp4.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/jDFFqOzaBng/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Sát Nhân Bóng Tối 2 - Don't Breathe 2 - Phim Lẻ
 https://tvhay.tv/hls-tvhay.php?id=61349c7e1e2bd95dcf60b196&type=video.m3u8
 #http://s3-hcm-r1.longvan.net/phimle/satnhantrongbongtoitm.mp4
-
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/k4817Bng.jpg"      group-title="Phim Lẻ"   , Người Hobbit: Hành Trình Vô Định  - Phim Lẻ
 http://s3-hcm-r1.longvan.net/phimle/nguoihobbithanhtrinhvodinhtm.mp4
 #EXTINF:-1 tvg-id="phim"  tvg-logo="http://laurasblog.edenreign.net/wp-content/uploads/2014/02/the_hobbit__the_desolation_of_smaug.jpg"      group-title="Phim Lẻ"   , Người Hobbit: Đại Chiến Với Rồng Lửa  - Phim Lẻ
