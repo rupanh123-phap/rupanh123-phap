@@ -502,7 +502,16 @@ http://s3-hcm1-r1.longvan.net/phimle/canhsattapsu.mp4
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets.glxplay.io/images/w700/title/the-man-from-nowhere_web_backdrop_bc181c4885ce3445594fc0d1add9ae36.jpg"      group-title="Phim Lẻ"   ,Người Vô Danh Tính - Phim Lẻ
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201119/the_man_from_nowhere_fptplay_1080p_sub_logofptplay/dca121e1023f189d84742aee00d0cf0d_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/YEXLz8L_hLs/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Chạy Đâu Cho Thoát - Phim Lẻ
-http://s3-hcm-r1.longvan.net/phimle/chaydauchothoattm.mp4
+
+https://hls.phimno1.com:443/files/d57ad2647e1ea41d744e4a6165680bd8_720p.mp4.m3u8
+#http://s3-hcm-r1.longvan.net/phimle/chaydauchothoattm.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://media-cdn.laodong.vn/storage/newsportal/Uploaded/nguyenvanthang/2017_06_21/bai-hoc-tu-cuoc-chien-ngam-wshowbiz-2_OWNL.jpg"     group-title="Phim Lẻ" , Cuộc Chiến Ngầm - Phim Lẻ    
+https://hls.phimno1.com:443/files/33112ea9e2bcac310893f2f1f08f6666_720p.mp4.m3u8
+
+
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://loanghenhachay.com/wp-content/uploads/2019/01/Phim-Confidential-Assignment.jpg"     group-title="Phim Lẻ" , Nhiệm Vụ Tối Mật - Phim Lẻ    
+https://hls.phimno1.com:443/files/158de82d3df9b9e24aa692d9ef90a0e4_720p.mp4.m3u8
+
 #EXTINF:-1 tvg-id="phim"  tvg-logo="http://cdn.tgdd.vn/Files/2020/12/24/1315847/review-phim-ky-sinh-trung-parasite-2019-phim-han-quoc-dau-tien-doat-giai-oscar-202012241800157650.jpg"      group-title="Phim Lẻ"   ,Ký Sinh Trùng - Phim Lẻ
 http://s3-hcm1-r1.longvan.net/phimle/kysinhtrungtm.mp4
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/oOSataDfoo8/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Tội Ác Ghê Tởm - Phim Lẻ
@@ -594,13 +603,12 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201116/a_company_man_
 
 https://v95.x2convert.com/xbase/us40.x2convert.com/xcfiles/videos/2021/9/3/thuy_quai_the_water_monster_2019_phim_chieu_rap_moi_nhat_2021_thuyet_minh_-1368063836713880944.mp4
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/I3hpoKJULUE/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Thủy Quái 2 - Phim Lẻ
-
-https://v90.x2convert.com/xbase/us47.x2convert.com/xcfiles/videos/2021/8/25/vietsub_thuy_quai_rung_go_mun_khi_nuoc_quay_lai_bao_thu_phim_kinh_di_vien_tuong_hot_2021_youku_4665478123291504346.mp4
+https://www.youtube.com/watch?v=VOpmYk6IUR4&t=1051s&ab_channel=YOUKUVietnamese
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/0VjwGRKisBY/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Siêu Đại Chiến Thái Bình Dương - Phim Lẻ
-https://www112.sbcdnvideo.com/hls/tysxeclfqs66j6cdad5bvskqelogidmzr33q5yoqpqcex5rexlnwdbzonvya/index-v1-a1.m3u8
+https://hls.phimno1.com:443/files/35a76ee06fb662faf153a64069be9bad_720p.mp4.m3u8
 
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/2/2018/03/pacific-rim-uprising-1280x720-gipsy-avenger-2018-4k-12312-800x450.jpg"      group-title="Phim Lẻ"   ,Siêu Đại Chiến Thái Bình Dương 2: Trỗi Dậy - Phim Lẻ
-https://www112.sbcdnvideo.com/hls/tysxeuhaqw66j6cdacgrvq2jggqhm7wabf4m24tyvoqst7e24vc35xcd77ra/index-v1-a1.m3u8
+https://hls.phimno1.com:443/files/0321427c7d5cedb538a42bbd86844fc4_720p.mp4.m3u8
 
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/04_12_2019/untitled-104-12-2019_02g47-24.jpg"      group-title="Phim Lẻ"   ,Ẩn Thân - Phim Lẻ
 https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200413/secretly_greatly_fptplay_1080p_sub_logofptplay/5e495f83bc6ee50988e38a438e413c0e.smil/chunklist_b3992000.m3u8
@@ -697,25 +705,7 @@ https://asia01.fbcdn.space/rawhls/yecoNAGWPiInBgtN-b2.m3u8?v=1601008167
 https://asia01.fbcdn.space/rawhls/PGrjlQDDW88WdAtx-b2.m3u8?v=1601007824
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2019/10/11/landscape-avatar-copy-15708057837111431635439-crop-15708057966151203596181.jpg"    group-title="Phim Lẻ"  , Biệt Đội Bất Hảo - Phim Lẻ
 https://asia00.fbcdn.space/rawhls/o1gDDAJo/XvLOvgmG-b2.m3u8?v=1603259075
-#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 1 - Phim Bộ
-https://zplay.me/hls/a4s4m4m4n4e4140406g45494x5u5a4u2n5o4s2o5i594v574s2u5i5n454q4h4a454s53404t2q274t2p2w2y2t2v254142434u274z2f464y294c4c4t2j5841364s2a4b4j5o26494x223l254f5i5w2n2d4v27413n2z2s244644424x2r213l5l594449454s2q544p4d4.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 2 - Phim Bộ
-https://zplay.me/hls/a4s4m4m4n4e4140406g45494x5u5a4u2n5o4s2o5i594v574s2u5i5n454q4h4a454s53404t2q274t2p2w2y2t2v254142434u2s2t2d4b494u27484t24424z2b434v264f5o2741313c4l254h5e5t2n2i5s2v2c4n2v2a4k534g5h53344t2a4c403449454s2q544p4d4.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 3 - Phim Bộ
-https://zplay.me/hls/a4s4m4m4n4e4140406g45494x5u5a4u2n5o4s2o5i594v574s2u5i5n454q4h4a454s53404t2q274t2p2w2z2t2s254142424u2p274o5a4a4846433t214g5a4a4449454a4o2l554c423l254j584v2n2i5u2w223n2330344a4648403s2z2m5c4b4449454s2q544p4d4.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 4 - Phim Bộ
-https://zplay.me/hls/a4s4m4m4n4e4140406g45494x5u5a4u2n5o4s2o5i594v574s2u5i5n454q4h4a454s53404t2q274t2p2w2z2t2s254142494u244v2j5l5u2y264u2t2g54454l5o2z25414o2a494w294l25474a4x2n2d454r2w2n21313443444f543p264d4l594449454s2q544p4d4.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 5 - Phim Bộ
-https://zplay.me/hls/a4s4m4m4n4e4140406g45494x5u5a4u2n5o4s2o5i594v574s2u5i5n454q4h4a454s53404t2q274t2p2w2z2t2s2a4143444u25464o5n5x2w2k533t2h5f5a4n5r2x2j5a4o2m5y2c4b4l254f51444n2i584z253n2b4v284h5f5k503v2t2l58423449454s2q544p4d4.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 6 - Phim Bộ
-https://zplay.me/hls/a4s4m4m4n4e4140406g45494x5u5a4u2n5o4s2o5i594v574s2u5i5n454q4h4a454s53404t2q274t2p2w2z2t2s2a4143444u234s2f4e40374b4w2t2f51413e4u284a434o294642303l25484a4u2n2d494v2a4n2a49484g5j58484w213l5b494449454s2q544p4d4.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 7 - Phim Bộ
-https://zplay.me/hls/a4s4m4m4n4e4140406g45494x5u5a4u2n5o4s2o5i594v574s2u5i5n454q4h4a454s53404t2q274t2p2w2z2t2s2b4143444u2q274c4j5w2y2i503t224g5y2j5q2z2h574o2m584y2z2l2543494v2n2j584t2z2n2v2u264j5e58484q26474i5c4449454s2q544p4d4.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 8 - Phim Bộ
-https://zplay.me/hls/a4s4m4m4n4e4140406g45494x5u5a4u2n5o4s2o5i594v574s2u5i5n454q4h4a454s53404t2q274t2p2w2z2t2s2b4143454u2v2t264a4w2x2a403t27424s2a4q2y29474o2a474c474l254i5j5z2n2j59464z2n2c4a4i5h564j533s284e4a484449454s2q544p4d4.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 1 - Phim Bộ
 
-#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 1 - Phim Bộ
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.elle.vn/wp-content/uploads/2018/03/12/elle-viet-nam-thoi-trang-trong-phim-my-golden-life-feature-image.jpg"     group-title="Cuộc Sống Thượng Lưu"  , Cuộc Sống Thượng Lưu   - Tập 1 - Phim Bộ
 https://scontent.cdninstagram.com/v/t66.36240-6/10000000_2906002359665226_5398888708557007654_n.mp4?_nc_cat=103&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE3NzEsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=upel6i11m3wAX-pzS_R&rl=1771&vabr=1181&_nc_ht=scontent.fsgn2-2.fna&edm=APRAPSkEAAAA&oh=8e2d9aafbedee24476d32576bf4a9dda&oe=613B2068
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://ss-images.saostar.vn/w800/pc/1628216216198/saostar-q1m80q1cqe3etxjq.jpg"     group-title="Bi Kịch Thượng Lưu"  ,Bi Kịch Thượng Lưu   - Tập 1A - Phim Bộ
@@ -3715,10 +3705,16 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200831/pfj2sub_01/e80
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://newsmd1fr.keeng.net/tiin/archive/imageslead/510/201912/20191214/thumb4_125622255595592.jpg"    group-title="Nữ Công Tố Viên"  ,Nữ Công Tố Viên 2 - Tập 2 - Phim Bộ
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200831/pfj2sub-02/6194718794d520304227092b1c94a0b5-1080p.mp4/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 1 - Phim Bộ
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_3067125976849574_7251535001389395250_n.mp4?_nc_cat=106&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjIxMDQsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=YSNfCUllvkUAX8J35Hu&rl=2104&vabr=1403&_nc_ht=scontent-amt2-1.xx&edm=APRAPSkEAAAA&oh=9d04ace0d45f654e2f6f6dac970783bc&oe=613FC8C1
 
-Cuộc Chiến Ngầm
-Confidential Assignmen
-Chạy Đâu Cho Thoát
+
+
+
+
+
+
+
 gió mùa đông năm ấy
 
 
