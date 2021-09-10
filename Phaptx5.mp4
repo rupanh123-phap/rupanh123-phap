@@ -489,6 +489,28 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 #https://livecdn.fptplay.net/sdc/yenbai_2000.stream/chunklist.m3u8
 
 #PHÁP GROUP ANDROID BOX TX5 LÀM VÌ ĐAM MÊ CHIA SẺ ^^!
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://eatnmore.com/wp-content/uploads/2020/10/oldboy-272503.jpg"      group-title="Phim Lẻ"   ,Báo Thù - Phim Lẻ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210311/oldboy_2003_korea_tm/b65543efcb6afcdc3977d05b4ac8e24e_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/cong-to-vien-hung-bao-ctvhb363901.jpg"      group-title="Phim Lẻ"   ,Công Tố Viên Hung Bạo - Phim Lẻ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191128/a_violent_prosecutor_fptplay_1080p_logofptplay/5504a21c41ce77478d8308592b16791c_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://s3.cloud.cmctelecom.vn/tinhte2/2019/08/4746978_cover_phim_exit_han_quoc.jpg"      group-title="Phim Lẻ"   ,Lối Thoát Trên Không - Phim Lẻ
+http://s3-hcm1-r1.longvan.net/phimle/loithoattrenkhongtm.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://khophimhan.com/wp-content/uploads/2017/09/top-phim-han-hay-nhat-ve-chien-tranh-khien-nguoi-xem-quan-tim-9.jpg"      group-title="Phim Lẻ"   ,Cờ Thái Cực Giương Cao - Phim Lẻ
+https://vod06-cdn.fptplay.net/encoded/20200711/taegukgihwinalrimyeo_2004_korea_v2_sub/1080p/index.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://thegioidienanh.vn/stores/news_dataimages/hath/082017/19/10/1619_11_7.jpg"      group-title="Phim Lẻ"   ,Cảnh Sát Tập Sự - Phim Lẻ
+http://s3-hcm1-r1.longvan.net/phimle/canhsattapsu.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets.glxplay.io/images/w700/title/the-man-from-nowhere_web_backdrop_bc181c4885ce3445594fc0d1add9ae36.jpg"      group-title="Phim Lẻ"   ,Người Vô Danh Tính - Phim Lẻ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201119/the_man_from_nowhere_fptplay_1080p_sub_logofptplay/dca121e1023f189d84742aee00d0cf0d_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/YEXLz8L_hLs/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Chạy Đâu Cho Thoát - Phim Lẻ
+http://s3-hcm-r1.longvan.net/phimle/chaydauchothoattm.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://cdn.tgdd.vn/Files/2020/12/24/1315847/review-phim-ky-sinh-trung-parasite-2019-phim-han-quoc-dau-tien-doat-giai-oscar-202012241800157650.jpg"      group-title="Phim Lẻ"   ,Ký Sinh Trùng - Phim Lẻ
+http://s3-hcm1-r1.longvan.net/phimle/kysinhtrungtm.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/oOSataDfoo8/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Tội Ác Ghê Tởm - Phim Lẻ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200914/i-saw-the-devil-2010-korea-sub-sub/b8df664240da80fb2f83002fa4f0a41b-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/DsEJkUyFAi0/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Trùm, Cớm và Ác Quỷ - Phim Lẻ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200115/the_gangster_the_cop_the_devil_1080p_sub_logofptplay/25331b09a80bcf6c32ce785154064e32_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/jQDwoFZVWxM/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Kẻ Đi Săn - Phim Lẻ
+https://vod07-cdn.fptplay.net/encoded/20200813/the-chaser-2008-korea-1080p-sub/1080p/index.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/07/12/ouj4qxsr_1920x1080-vungdatquydu1_1267_712.jpg"      group-title="Phim Lẻ"   ,Vùng Đất Quỷ Dữ - Phim Lẻ
 https://hls.phimno1.com:443/files/d6af05825e819b253ed35befcb3faccb_720p.mp4.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://4.bp.blogspot.com/-_9e0KJ-ETW0/WrjkJi7cwhI/AAAAAAAAE04/rAIm-Qk1r6ElSMXQJDTPxs0vRg_ADZS-ACLcBGAs/s1600/r-0006residentevilapocalypsequadmovieposterl-201611670.jpg"      group-title="Phim Lẻ"   ,Vùng Đất Quỷ Dữ 2 - Phim Lẻ
@@ -675,8 +697,27 @@ https://asia01.fbcdn.space/rawhls/yecoNAGWPiInBgtN-b2.m3u8?v=1601008167
 https://asia01.fbcdn.space/rawhls/PGrjlQDDW88WdAtx-b2.m3u8?v=1601007824
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2019/10/11/landscape-avatar-copy-15708057837111431635439-crop-15708057966151203596181.jpg"    group-title="Phim Lẻ"  , Biệt Đội Bất Hảo - Phim Lẻ
 https://asia00.fbcdn.space/rawhls/o1gDDAJo/XvLOvgmG-b2.m3u8?v=1603259075
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 1 - Phim Bộ
+https://zplay.me/hls/a4s4m4m4n4e4140406g45494x5u5a4u2n5o4s2o5i594v574s2u5i5n454q4h4a454s53404t2q274t2p2w2y2t2v254142434u274z2f464y294c4c4t2j5841364s2a4b4j5o26494x223l254f5i5w2n2d4v27413n2z2s244644424x2r213l5l594449454s2q544p4d4.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 2 - Phim Bộ
+https://zplay.me/hls/a4s4m4m4n4e4140406g45494x5u5a4u2n5o4s2o5i594v574s2u5i5n454q4h4a454s53404t2q274t2p2w2y2t2v254142434u2s2t2d4b494u27484t24424z2b434v264f5o2741313c4l254h5e5t2n2i5s2v2c4n2v2a4k534g5h53344t2a4c403449454s2q544p4d4.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 3 - Phim Bộ
+https://zplay.me/hls/a4s4m4m4n4e4140406g45494x5u5a4u2n5o4s2o5i594v574s2u5i5n454q4h4a454s53404t2q274t2p2w2z2t2s254142424u2p274o5a4a4846433t214g5a4a4449454a4o2l554c423l254j584v2n2i5u2w223n2330344a4648403s2z2m5c4b4449454s2q544p4d4.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 4 - Phim Bộ
+https://zplay.me/hls/a4s4m4m4n4e4140406g45494x5u5a4u2n5o4s2o5i594v574s2u5i5n454q4h4a454s53404t2q274t2p2w2z2t2s254142494u244v2j5l5u2y264u2t2g54454l5o2z25414o2a494w294l25474a4x2n2d454r2w2n21313443444f543p264d4l594449454s2q544p4d4.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 5 - Phim Bộ
+https://zplay.me/hls/a4s4m4m4n4e4140406g45494x5u5a4u2n5o4s2o5i594v574s2u5i5n454q4h4a454s53404t2q274t2p2w2z2t2s2a4143444u25464o5n5x2w2k533t2h5f5a4n5r2x2j5a4o2m5y2c4b4l254f51444n2i584z253n2b4v284h5f5k503v2t2l58423449454s2q544p4d4.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 6 - Phim Bộ
+https://zplay.me/hls/a4s4m4m4n4e4140406g45494x5u5a4u2n5o4s2o5i594v574s2u5i5n454q4h4a454s53404t2q274t2p2w2z2t2s2a4143444u234s2f4e40374b4w2t2f51413e4u284a434o294642303l25484a4u2n2d494v2a4n2a49484g5j58484w213l5b494449454s2q544p4d4.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 7 - Phim Bộ
+https://zplay.me/hls/a4s4m4m4n4e4140406g45494x5u5a4u2n5o4s2o5i594v574s2u5i5n454q4h4a454s53404t2q274t2p2w2z2t2s2b4143444u2q274c4j5w2y2i503t224g5y2j5q2z2h574o2m584y2z2l2543494v2n2j584t2z2n2v2u264j5e58484q26474i5c4449454s2q544p4d4.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 8 - Phim Bộ
+https://zplay.me/hls/a4s4m4m4n4e4140406g45494x5u5a4u2n5o4s2o5i594v574s2u5i5n454q4h4a454s53404t2q274t2p2w2z2t2s2b4143454u2v2t264a4w2x2a403t27424s2a4q2y29474o2a474c474l254i5j5z2n2j59464z2n2c4a4i5h564j533s284e4a484449454s2q544p4d4.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 1 - Phim Bộ
 
-
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg"     group-title="Bầu Trời Rực Đỏ"  ,Bầu Trời Rực Đỏ - Tập 1 - Phim Bộ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.elle.vn/wp-content/uploads/2018/03/12/elle-viet-nam-thoi-trang-trong-phim-my-golden-life-feature-image.jpg"     group-title="Cuộc Sống Thượng Lưu"  , Cuộc Sống Thượng Lưu   - Tập 1 - Phim Bộ
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_2906002359665226_5398888708557007654_n.mp4?_nc_cat=103&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE3NzEsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=upel6i11m3wAX-pzS_R&rl=1771&vabr=1181&_nc_ht=scontent.fsgn2-2.fna&edm=APRAPSkEAAAA&oh=8e2d9aafbedee24476d32576bf4a9dda&oe=613B2068
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://ss-images.saostar.vn/w800/pc/1628216216198/saostar-q1m80q1cqe3etxjq.jpg"     group-title="Bi Kịch Thượng Lưu"  ,Bi Kịch Thượng Lưu   - Tập 1A - Phim Bộ
 https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210805/the_road_tragedy_of_one_01_1080p_a/d132e4d16400c39cc9dab214b3d655e9_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://ss-images.saostar.vn/w800/pc/1628216216198/saostar-q1m80q1cqe3etxjq.jpg"     group-title="Bi Kịch Thượng Lưu"  ,Bi Kịch Thượng Lưu   - Tập 1B - Phim Bộ
@@ -719,19 +760,9 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210904/the_road_trage
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210904/the_road_tragedy_of_one_10_1080p_b/feea8a30a53166f6945c41e737798aca_1080p.mp4/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://ss-images.saostar.vn/w800/pc/1628216216198/saostar-q1m80q1cqe3etxjq.jpg"     group-title="Bi Kịch Thượng Lưu"  ,Bi Kịch Thượng Lưu   - Tập 11A - Phim Bộ
-
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20210910/d68da5f78b1829713c4e9631c8cdb068.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://ss-images.saostar.vn/w800/pc/1628216216198/saostar-q1m80q1cqe3etxjq.jpg"     group-title="Bi Kịch Thượng Lưu"  ,Bi Kịch Thượng Lưu   - Tập 11B - Phim Bộ
-
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://ss-images.saostar.vn/w800/pc/1628216216198/saostar-q1m80q1cqe3etxjq.jpg"     group-title="Bi Kịch Thượng Lưu"  ,Bi Kịch Thượng Lưu   - Tập 12A - Phim Bộ
-
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://ss-images.saostar.vn/w800/pc/1628216216198/saostar-q1m80q1cqe3etxjq.jpg"     group-title="Bi Kịch Thượng Lưu"  ,Bi Kịch Thượng Lưu   - Tập 12B - Phim Bộ
-
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://ss-images.saostar.vn/w800/pc/1628216216198/saostar-q1m80q1cqe3etxjq.jpg"     group-title="Bi Kịch Thượng Lưu"  ,Bi Kịch Thượng Lưu   - Tập 13A - Phim Bộ
-
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://ss-images.saostar.vn/w800/pc/1628216216198/saostar-q1m80q1cqe3etxjq.jpg"     group-title="Bi Kịch Thượng Lưu"  ,Bi Kịch Thượng Lưu   - Tập 13B - Phim Bộ
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://ss-images.saostar.vn/w800/pc/1628216216198/saostar-q1m80q1cqe3etxjq.jpg"     group-title="Bi Kịch Thượng Lưu"  ,Bi Kịch Thượng Lưu   - Tập 14A - Phim Bộ
-
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://ss-images.saostar.vn/w800/pc/1628216216198/saostar-q1m80q1cqe3etxjq.jpg"     group-title="Bi Kịch Thượng Lưu"  ,Bi Kịch Thượng Lưu   - Tập 14B - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20210910/90867ec3cc80e651724cf23352331576.mp4/chunklist.m3u8
 
 
 
@@ -741,13 +772,13 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210907/high_class_ep0
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/31/8zk4ae1m_1920x1080-highclass-opt4.jpg"     group-title="Đẳng Cấp Thượng Lưu"  ,Đẳng Cấp Thượng Lưu   - Tập 1B - Phim Bộ
 https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210907/high_class_ep01b/0e94f4c2579ca167c3701987cc7fdfd4_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/31/8zk4ae1m_1920x1080-highclass-opt4.jpg"     group-title="Đẳng Cấp Thượng Lưu"  ,Đẳng Cấp Thượng Lưu   - Tập 2A - Phim Bộ
-https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20210908/b60cd7c1e84209f218e2b2ad9ebaf607.mp4/chunklist.m3u8
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210908/high_class_ep02a/9d77b8cd75b90086eaba7f2aa0ad0fd2_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/31/8zk4ae1m_1920x1080-highclass-opt4.jpg"     group-title="Đẳng Cấp Thượng Lưu"  ,Đẳng Cấp Thượng Lưu   - Tập 2B - Phim Bộ
-https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20210908/78144f014d1bd91df16e2384080dba97.mp4/chunklist.m3u8
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210908/high_class_ep02b/e34268c0eb4166b62d888811f2c65d3b_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/31/8zk4ae1m_1920x1080-highclass-opt4.jpg"     group-title="Đẳng Cấp Thượng Lưu"  ,Đẳng Cấp Thượng Lưu   - Tập 2C - Phim Bộ
-https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20210908/7fcc2ab50e8ae2e18f2b87711c946b66.mp4/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/31/8zk4ae1m_1920x1080-highclass-opt4.jpg"     group-title="Đẳng Cấp Thượng Lưu"  ,Đẳng Cấp Thượng Lưu   - Tập 2D - Phim Bộ
-https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20210908/0bac180cfc9d51b4f11f28d58f09782c.mp4/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/31/8zk4ae1m_1920x1080-highclass-opt4.jpg"     group-title="Đẳng Cấp Thượng Lưu"  ,Đẳng Cấp Thượng Lưu   - Tập 1 - Phim Bộ
 
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/31/8zk4ae1m_1920x1080-highclass-opt4.jpg"     group-title="Đẳng Cấp Thượng Lưu"  ,Đẳng Cấp Thượng Lưu   - Tập 1 - Phim Bộ
@@ -3349,7 +3380,7 @@ http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap21.mp4
 
 
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg"    group-title="Điên Thì Có Sao"  ,Điên Thì Có Sao - Tập 1 - Phim Bộ
-https://dsing-39.vkool.info/videos/rdgmxdwuebnbmd6b7rbqsaq98c.mp4
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_588905485856256_8002509153188016043_n.mp4?_nc_cat=107&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=VOfFWTcdk2gAX__4yrX&rl=1500&vabr=683&_nc_ht=scontent.fsgn2-1.fna&edm=APRAPSkEAAAA&oh=8ad99783b950fed085d6653db26cec40&oe=613C70F5
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg"    group-title="Điên Thì Có Sao"  ,Điên Thì Có Sao - Tập 2 - Phim Bộ
 https://dsing-39.vkool.info/videos/osdeqag8pfdqimr45y7ye8srqc.mp4
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg"    group-title="Điên Thì Có Sao"  ,Điên Thì Có Sao - Tập 3 - Phim Bộ
@@ -3423,34 +3454,282 @@ https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_18/Reply_18_720p.m3u8
 https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_19/Reply_19_720p.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg"    group-title="Lời Hồi Đáp 1998"  ,Lời Hồi Đáp 1998 - Tập 20 - Phim Bộ
 https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_20/Reply_20_720p.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 1A - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210328/truebeauty_01_logo_a/ba5425dfcdcec514c290b944891e3c40.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 1B - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/truebeauty_01_logo_b/5ac23e2d89870fd1187944705ca7e8f4_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 2A - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_02_logo_a/2360e664d282f2ed89f7b7ca7e87d12d_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 2B - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty-02-logo-b/1075fb800ab36cf944bf4522f65c88b8-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 3A - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty-03-logo-a/ee0f10a490c6c592d12c3a501711f60a-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 3B - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_03_logo_b/5f370e787edf6762d31810f116b7c90f_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImUyNmViYThkNzkyODE3ZTVlNDEyZWUzMzhlMTM4MDZlIiwgInZpZGVvX2lkIjogIjYwNjBjMTNhMjA4OWJkNTQwZmViYjNhZCIsICJzZXJ2ZXJfdGltZSI6IDE2MzA3NzYwNDUsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 4A - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_04_logo_a/732e1da61d0d52bf80730fb3d82d6d8c_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 4B - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty-04-logo-b/2cae9c052360bb67ac962c670da788cc-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 5A - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_05_logo_a/e8abcbefe7272193e13f13f3382d8e95_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 5B - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_05_logo_b/9bee12f90c70c2afb351a9b831600c87_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 6A - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_06_logo_a/b436c19b82b0252cf739e2ede0181ff9_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 6B - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_06_logo_b/e940c97c51fa657ec3670896cf9124be_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 7A - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_07_logo_a/10eeddbc8f7bb439d43c5dc8f0c4f28e_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 7B - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_07_logo_b/5f2a9eb83ecee08a46624562309f478a_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 8A - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_08_logo_a/2e6afd8d3becf033e4a99225835ab00b_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 8B - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_08_logo_b/48f0ed1698a7dfe3ff49e16d8f0024d0_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 9A - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_09_logo_a/2521bae1b338ed36550aff55da95f272_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 9B - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_09_logo_b/d89223e6cac0f194dffb7b39ace3f944_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 10A - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_10_logo_a/ea534d2b60e1ac37c61ec4e9f2f3f5dc_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjEwMjhhMWU4MTZkZjE0Y2NiM2Y2NmYzNDllNmZjZTJmIiwgInZpZGVvX2lkIjogIjYwNjBjMTNhMjA4OWJkNTQwZmViYjNhZCIsICJzZXJ2ZXJfdGltZSI6IDE2MzA3NzcwODEsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 10B - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_10_logo_b/91808e5cb6e0459400bfb811bab63f75_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 11A - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty-11-logo-a/62503665c411d2d79b00746ac0eb58d2-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 11B - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_11_logo_b/aab968a979921fafebe2cf281b456d94_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 12A - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty-12-logo-a/cbc799242832c909f0c491e3daa99e93-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 12B - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_12_logo_b/a29f93bb345da6011eba92839eeb5302_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 13A - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty-13-logo-a/7deb27b4f577566dbe09ee3a73983a41-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 13B - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_13_logo_b/46f054de8a368baee7e6c5df7aff28da_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 14A - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty-14-logo-a/5bd9f6ae595956a1abfb2500616acf85-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 14B - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_14_logo_b/729f547a76aa7c52494dfbf78f8a1b27_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImMzZGYzZTViMzQ4ODc5OGZiZWJjYWJiYjMyNjA3NjlhIiwgInZpZGVvX2lkIjogIjYwNjBjMTNhMjA4OWJkNTQwZmViYjNhZCIsICJzZXJ2ZXJfdGltZSI6IDE2MzA3ODU5NzQsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 15A - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210331/truebeauty-15-logo-a-v2/c637b73944c301a746799c68afa037b0-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 15B - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210331/truebeauty_15_logo_b_v2/a1369be851c3dd71fd8346221bcfb18f_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 16A - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210331/truebeauty-16-logo-a-v2/18e63f57544a24c49acdca573dd02ad7-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg"    group-title="Vẻ Đẹp Đích Thực"  ,Vẻ Đẹp Đích Thực - Tập 16B - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210331/truebeauty_16_logo_b_v3/3267ac7d782992b0f6054dc4c1bac6c1_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg"    group-title="Yêu Không Kiểm Soát"  ,Yêu Không Kiểm Soát- Tập 1 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_01/98831933d1b54ef50ab8995a7cf47d27_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg"    group-title="Yêu Không Kiểm Soát"  ,Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-02/e0b37ae89796e3f63fd6a35b81edbb1c-1080p.mp4/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png"    group-title="Chàng Hậu"  ,Chàng Hậu - Tập 1 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_01/1e22cb73a9e7a7098be96969f6f07b72_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png"    group-title="Chàng Hậu"  ,Chàng Hậu - Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_02/bc0be134a72c8a294273eef67ec6efa7_1080p.mp4/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 1 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201008/taleoftheninetailed_01_logo_a/e70c603f86d19d84d564ba0fd3af00a1_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201008/taleoftheninetailed_01_logo_b/075263a267a492667159780c0a90a788_1080p.mp4/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2021/04/29/169diqne_1920x1080-yeutrongdauthuong.jpg"    group-title="Yêu Trong Đau Thương"  ,Yêu Trong Đau Thương - Tập 1 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200819/lissub_01/ca91998d17630a3b55c6a6149f7d7e70_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2021/04/29/169diqne_1920x1080-yeutrongdauthuong.jpg"    group-title="Yêu Trong Đau Thương"  ,Yêu Trong Đau Thương - Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200819/lissub-02/3e6353ff65fbf7e9e53b310c8d1f7164-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg"    group-title="Chị Đẹp Mua Thức Ăn Ngon Cho Tôi"  ,Chị Đẹp Mua Thức Ăn Ngon Cho Tôi - Tập 1 - Phim Bộ
-#https://dsing-33.vkool.info/videos/h7op8swhqifttgfto9qm1miexw.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg"    group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh"  ,Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg"    group-title="Chạm Vào Tim Em"  ,Chạm Vào Tim Em - Tập 1 - Phim Bộ
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg"    group-title="Chàng Hậu"  ,Chàng Hậu - Tập 1 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg"    group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh"  ,Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap1.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg"    group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh"  ,Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap2.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg"    group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh"  ,Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap3.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg"    group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh"  ,Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap4.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg"    group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh"  ,Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap5.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg"    group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh"  ,Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap6.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg"    group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh"  ,Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap7.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg"    group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh"  ,Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap8.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg"    group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh"  ,Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap9.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg"    group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh"  ,Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap10.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg"    group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh"  ,Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap11.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg"    group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh"  ,Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap12.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg"    group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh"  ,Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap13.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg"    group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh"  ,Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap14.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg"    group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh"  ,Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap15.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg"    group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh"  ,Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap16.
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg"    group-title="Bí Mật Nàng Fangirl"  ,Bí Mật Nàng Fangirl - Tập 1 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/HerPrivateLife/HerPrivateLife_01_TM/HerPrivateLife_01_TM_720p.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.pinimg.com/originals/7b/dc/26/7bdc26067f272d1cc4b039751791907f.jpg"    group-title="Tiên Nữ Cử Tạ Kim Bok Joo "  ,Tiên Nữ Cử Tạ Kim Bok Joo - Tập 1 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201025/wfkbjsub1080_01/ce46bb957eb86b41f6174507feedd0a1.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.pinimg.com/originals/7b/dc/26/7bdc26067f272d1cc4b039751791907f.jpg"    group-title="Tiên Nữ Cử Tạ Kim Bok Joo "  ,Tiên Nữ Cử Tạ Kim Bok Joo - Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201025/wfkbjsub1080-02/a822229516048e807681bd9b091b88eb-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg"    group-title="Cô Nàng Mạnh Mẽ Do Bong Soon"  ,Cô Nàng Mạnh Mẽ Do Bong Soon - Tập 1 - Phim Bộ
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg"    group-title="Yêu Trong Đau Thương"  ,Yêu Trong Đau Thương - Tập 1 - Phim Bộ
+
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg"    group-title="Cá Mực Hầm Mật"  ,Cá Mực Hầm Mật - Tập 1 - Phim Bộ
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg"    group-title="Chuyện Tình Bác Sĩ"  ,Chuyện Tình Bác Sĩ - Tập 1 - Phim Bộ
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg"    group-title="Tiên Nữ Cử Tạ "  ,Tiên Nữ Cử Tạ - Tập 1 - Phim Bộ
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg"    group-title="BÍ MẬT NÀNG FANGIRL"  ,BÍ MẬT NÀNG FANGIRL - Tập 1 - Phim Bộ
+
+
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg"    group-title="GỬI THỜI THANH XUÂN NGÂY THƠ TƯƠI ĐẸP"  ,GỬI THỜI THANH XUÂN NGÂY THƠ TƯƠI ĐẸP - Tập 1 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/GuiThoiThanhXuan/GuiThoiThanhXuan_01/GuiThoiThanhXuan_01_720p.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg"    group-title="Khi Nàng Say Giấc"  ,Khi Nàng Say Giấc - Tập 1 - Phim Bộ
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg"    group-title="Truy Sát"  ,Truy Sát - Tập 1 - Phim Bộ
-bạn trai tôi là hồ ly
-tâng lớp it
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/54523679_2198523730463732_7660334928470474752_n.jpg"    group-title="Truy Sát"  ,Truy Sát - Tập 1 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/KillIt/KillIt_01_fix/KillIt_01_720p.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg"    group-title="Tầng Lớp Itaewon"  ,Tầng Lớp Itaewon - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm1.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg"    group-title="Tầng Lớp Itaewon"  ,Tầng Lớp Itaewon - Tập 2 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm2.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg"    group-title="Tầng Lớp Itaewon"  ,Tầng Lớp Itaewon - Tập 3 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm3.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg"    group-title="Tầng Lớp Itaewon"  ,Tầng Lớp Itaewon - Tập 4 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm4.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg"    group-title="Tầng Lớp Itaewon"  ,Tầng Lớp Itaewon - Tập 5 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm5.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg"    group-title="Tầng Lớp Itaewon"  ,Tầng Lớp Itaewon - Tập 6 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm6.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg"    group-title="Tầng Lớp Itaewon"  ,Tầng Lớp Itaewon - Tập 7 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm7.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg"    group-title="Tầng Lớp Itaewon"  ,Tầng Lớp Itaewon - Tập 8 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm8.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg"    group-title="Tầng Lớp Itaewon"  ,Tầng Lớp Itaewon - Tập 9 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm9.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg"    group-title="Tầng Lớp Itaewon"  ,Tầng Lớp Itaewon - Tập 10 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm10.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg"    group-title="Tầng Lớp Itaewon"  ,Tầng Lớp Itaewon - Tập 11 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm11.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg"    group-title="Tầng Lớp Itaewon"  ,Tầng Lớp Itaewon - Tập 12 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm12.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg"    group-title="Tầng Lớp Itaewon"  ,Tầng Lớp Itaewon - Tập 13 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm13.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg"    group-title="Tầng Lớp Itaewon"  ,Tầng Lớp Itaewon - Tập 14 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm14.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg"    group-title="Tầng Lớp Itaewon"  ,Tầng Lớp Itaewon - Tập 15 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm15.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg"    group-title="Tầng Lớp Itaewon"  ,Tầng Lớp Itaewon - Tập 16 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm16.mp4
+
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2021/04/12/rj3fke7m_1920x1080-matdanhk2.jpg"    group-title="Mật Danh K2"  ,Mật Danh K2 - Tập 1 - Phim Bộ
+https://vnw-vod-cdn.popsww.com/hn-fcb8AXDuoacTVJMZyIHIA2PHXFw/videos/transcoded/mat_danh_k2_-_ep01-popsapp/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg"    group-title="Khởi Nghiệp"  ,Khởi Nghiệp - Tập 1 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm1.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg"    group-title="Khởi Nghiệp"  ,Khởi Nghiệp - Tập 2 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm2.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg"    group-title="Khởi Nghiệp"  ,Khởi Nghiệp - Tập 3 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm3.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg"    group-title="Khởi Nghiệp"  ,Khởi Nghiệp - Tập 4 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm4.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg"    group-title="Khởi Nghiệp"  ,Khởi Nghiệp - Tập 5 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm5.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg"    group-title="Khởi Nghiệp"  ,Khởi Nghiệp - Tập 6 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm6.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg"    group-title="Khởi Nghiệp"  ,Khởi Nghiệp - Tập 7 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm7.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg"    group-title="Khởi Nghiệp"  ,Khởi Nghiệp - Tập 8 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm8.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg"    group-title="Khởi Nghiệp"  ,Khởi Nghiệp - Tập 9 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm9.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg"    group-title="Khởi Nghiệp"  ,Khởi Nghiệp - Tập 10 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm10.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg"    group-title="Khởi Nghiệp"  ,Khởi Nghiệp - Tập 11 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm11.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg"    group-title="Khởi Nghiệp"  ,Khởi Nghiệp - Tập 12 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm12.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg"    group-title="Khởi Nghiệp"  ,Khởi Nghiệp - Tập 13 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm13.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg"    group-title="Khởi Nghiệp"  ,Khởi Nghiệp - Tập 14 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm14.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg"    group-title="Khởi Nghiệp"  ,Khởi Nghiệp - Tập 15 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm15.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg"    group-title="Khởi Nghiệp"  ,Khởi Nghiệp - Tập 16 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm16.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg"    group-title="Học Viện Cảnh Sát"  ,Học Viện Cảnh Sát- Tập 1 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs1.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg"    group-title="Học Viện Cảnh Sát"  ,Học Viện Cảnh Sát- Tập 2 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs2.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg"    group-title="Học Viện Cảnh Sát"  ,Học Viện Cảnh Sát- Tập 3 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs3.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg"    group-title="Học Viện Cảnh Sát"  ,Học Viện Cảnh Sát- Tập 4 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs4.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg"    group-title="Học Viện Cảnh Sát"  ,Học Viện Cảnh Sát- Tập 5 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs5.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg"    group-title="Học Viện Cảnh Sát"  ,Học Viện Cảnh Sát- Tập 6 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs6.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg"    group-title="Học Viện Cảnh Sát"  ,Học Viện Cảnh Sát- Tập 7 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs7.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg"    group-title="Học Viện Cảnh Sát"  ,Học Viện Cảnh Sát- Tập 8 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs8.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg"    group-title="Học Viện Cảnh Sát"  ,Học Viện Cảnh Sát- Tập 9 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs9.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg"    group-title="Học Viện Cảnh Sát"  ,Học Viện Cảnh Sát- Tập 10 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs10.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg"    group-title="Học Viện Cảnh Sát"  ,Học Viện Cảnh Sát- Tập 11 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs11.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg"    group-title="Học Viện Cảnh Sát"  ,Học Viện Cảnh Sát- Tập 12 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs12.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg"    group-title="Học Viện Cảnh Sát"  ,Học Viện Cảnh Sát- Tập 13 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs13.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg"    group-title="Học Viện Cảnh Sát"  ,Học Viện Cảnh Sát- Tập 14 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs14.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg"    group-title="Học Viện Cảnh Sát"  ,Học Viện Cảnh Sát- Tập 15 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs15.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg"    group-title="Học Viện Cảnh Sát"  ,Học Viện Cảnh Sát- Tập 16 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs16.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg"    group-title="Học Viện Cảnh Sát"  ,Học Viện Cảnh Sát- Tập 17 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs17.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg"    group-title="Học Viện Cảnh Sát"  ,Học Viện Cảnh Sát- Tập 18 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs18.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg"    group-title="Học Viện Cảnh Sát"  ,Học Viện Cảnh Sát- Tập 19 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs19.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg"    group-title="Học Viện Cảnh Sát"  ,Học Viện Cảnh Sát- Tập 20 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs20.mp4
+
+
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/8/19/1-15662219574821186494559.jpg"    group-title="Học Viện Quân Sự Liệt Hỏa"  ,Học Viện Quân Sự Liệt Hỏa - Tập 1 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200911/hvqslhsub-01/956607f6aaa1b7145d8ad44d644d48f1-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/8/19/1-15662219574821186494559.jpg"    group-title="Học Viện Quân Sự Liệt Hỏa"  ,Học Viện Quân Sự Liệt Hỏa - Tập 2 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200911/hvqslhsub_02/32222768f888a18beee1f0fb9de13140_1080p.mp4/chunklist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2018/05/17/12/a305e466/a305e466-480f-4f54-a9f7-b2c88854205f_640_360.jpg"    group-title="Nữ Công Tố Viên"  ,Nữ Công Tố Viên  - Tập 1 - Phim Bộ
+http://vod-zlr2.tv360.vn/video1/2018/05/17/11/7b2b71c2/7b2b71c2-13e5-4156-ba33-2ace9dd13ebf_4_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2018/05/17/12/a305e466/a305e466-480f-4f54-a9f7-b2c88854205f_640_360.jpg"    group-title="Nữ Công Tố Viên"  ,Nữ Công Tố Viên  - Tập 2 - Phim Bộ
+http://vod-zlr2.tv360.vn/video1/2018/05/17/11/e0ddcb6f/e0ddcb6f-6d05-458b-bf21-524a4cf39cb0_4_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2018/05/17/12/a305e466/a305e466-480f-4f54-a9f7-b2c88854205f_640_360.jpg"    group-title="Nữ Công Tố Viên"  ,Nữ Công Tố Viên  - Tập 3 - Phim Bộ
+http://vod-zlr2.tv360.vn/video1/2018/05/17/17/5129b295/5129b295-1db2-42ac-a741-85366f39337c_4_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://newsmd1fr.keeng.net/tiin/archive/imageslead/510/201912/20191214/thumb4_125622255595592.jpg"    group-title="Nữ Công Tố Viên"  ,Nữ Công Tố Viên 2 - Tập 1 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200831/pfj2sub_01/e8045e48ec4e64287f018cbb56ee9c7b_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://newsmd1fr.keeng.net/tiin/archive/imageslead/510/201912/20191214/thumb4_125622255595592.jpg"    group-title="Nữ Công Tố Viên"  ,Nữ Công Tố Viên 2 - Tập 2 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200831/pfj2sub-02/6194718794d520304227092b1c94a0b5-1080p.mp4/chunklist.m3u8
+
+
+Cuộc Chiến Ngầm
+Confidential Assignmen
+Chạy Đâu Cho Thoát
 gió mùa đông năm ấy
-k2
-khởi nghiệp
+
+
 bay cao ước mơ
 cô bé người gỗ
 hai thế giới
-yêu không kiểm soát
+
 tình sử ok jang gung
-học viện cảnh sát
-học viện quân sự liệt hỏa
-kill it
+
+
+
 signal
 người đọc tâm lý
 căp đôi điều tra
