@@ -509,18 +509,16 @@ https://livecdn.fptplay.net/tvc/uefa08_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/tvc/uefa09_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-10_163147174718.jpg?w=282&mode=scale", Champions League 10
 https://livecdn.fptplay.net/tvc/uefa10_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-2_163147045172.jpg", AFC 1
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_afc-2_163160818016.jpg?w=282&mode=scale", AFC 1
 https://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-2_163147045172.jpg", AFC 2
-https://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-2_163147045172.jpg", AFC 3 
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_afc-3_163160820492.jpg?w=282&mode=scale", AFC 2
+https://livecdn.fptplay.net/tvc/afc03_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_afc-4_163160828336.jpg?w=282&mode=scale", AFC 3
 https://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-2_163147045172.jpg", AFC 4
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_afc-5_163160830607.jpg?w=282&mode=scale", AFC 4
 https://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-2_163147045172.jpg", AFC 5
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_afc-6_16316085044.jpg?w=282&mode=scale", AFC 5
 https://livecdn.fptplay.net/afcchampion/afc06_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-2_163147045172.jpg", AFC 6
-https://livecdn.fptplay.net/tvc/uefa01_2000.stream/chunklist.m3u8
 
 
 #PHÁP GROUP ANDROID BOX TX5 LÀM VÌ ĐAM MÊ CHIA SẺ ^^!
