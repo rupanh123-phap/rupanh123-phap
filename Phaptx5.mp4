@@ -319,7 +319,7 @@ https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b25000
 
 https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="quochoi"  group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-hoi-hd_145578230854.png",Quốc Hội TV
-
+https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="danang1" group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-nang-1_156455534553.jpg", Đà Nẵng 1 HD
 https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="danang2" group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-nang-2_156455535103.jpg", Đà Nẵng 2 HD
@@ -487,6 +487,41 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg", Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
 #https://livecdn.fptplay.net/sdc/yenbai_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-1_163147042362.jpg", Champions League 1
+https://livecdn.fptplay.net/tvc/uefa01_2000.stream/chunklist.m3u8
+#https://livecdn.fptplay.net/tvc/uefa01_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-2_163147045172.jpg", Champions League 2
+https://livecdn.fptplay.net/tvc/uefa02_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-3_16314705115.jpg", Champions League 3
+https://livecdn.fptplay.net/tvc/uefa03_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-4_163147057012.jpg", Champions League 4
+https://livecdn.fptplay.net/tvc/uefa04_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-5_163147061752.jpg", Champions League 5
+https://livecdn.fptplay.net/tvc/uefa05_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-6_163147067189.jpg", Champions League 6
+https://livecdn.fptplay.net/tvc/uefa06_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-7_163147070215.jpg", Champions League 7
+https://livecdn.fptplay.net/tvc/uefa07_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-8_163147072299.jpg", Champions League 8
+https://livecdn.fptplay.net/tvc/uefa08_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-9_163147171939.jpg?w=282&mode=scale", Champions League 9
+https://livecdn.fptplay.net/tvc/uefa09_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-10_163147174718.jpg?w=282&mode=scale", Champions League 10
+https://livecdn.fptplay.net/tvc/uefa10_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-2_163147045172.jpg", AFC 1
+https://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-2_163147045172.jpg", AFC 2
+https://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-2_163147045172.jpg", AFC 3 
+https://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-2_163147045172.jpg", AFC 4
+https://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-2_163147045172.jpg", AFC 5
+https://livecdn.fptplay.net/afcchampion/afc06_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực Tiếp Bóng Đá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_uefa-2_163147045172.jpg", AFC 6
+https://livecdn.fptplay.net/tvc/uefa01_2000.stream/chunklist.m3u8
+
 
 #PHÁP GROUP ANDROID BOX TX5 LÀM VÌ ĐAM MÊ CHIA SẺ ^^!
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://eatnmore.com/wp-content/uploads/2020/10/oldboy-272503.jpg"      group-title="Phim Lẻ"   ,Báo Thù - Phim Lẻ
@@ -3785,41 +3820,41 @@ https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201008/taleoftheninet
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201008/taleoftheninetailed_01_logo_b/075263a267a492667159780c0a90a788_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
-
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201012/taleoftheninetailed_02_logo_a/72f497533f3cdfb0aedf7528b0db12d1_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
-
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201012/taleoftheninetailed-02-logo-b/e6cb1793f82ec3de9e58014c104e3d1f-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
-
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201016/taleoftheninetailed_03_logo_a/8a7b1fe73cef27e58ee1010b7c515356_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
-
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201017/taleoftheninetailed_03_logo_b/117b43d606f24534de3544f894f07b4a_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
-
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201026/taleoftheninetailed-04-logo-a-v2/2377c4b7d49c0dc9501bcb7aca722164-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
-
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201026/taleoftheninetailed_04_logo_b_v2/e08d282eb450929b9d83ca9fdd406e1c_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
-
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201029/taleoftheninetailed-05-logo-a-v2/5557dd8f68b1315f7266e07ac9da70e6-1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjJjNjNiNTk5Y2FjODJhMWFmZDZkMjIwYWJkMzY2NmFiIiwgInZpZGVvX2lkIjogIjVmNzFhOTk5MjA4OWJkMDBkYTRkYjdmZCIsICJzZXJ2ZXJfdGltZSI6IDE2MzA3Nzg1OTcsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
-
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201029/taleoftheninetailed_05_logo_b_v2/353bed2f352dfb9eacff228ef56b704a_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
-
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201029/taleoftheninetailed-06-logo-a-v2/7a8c40fff9c92f0b0bab9edce09430f6-1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjA0M2M0ZGVhNDRjNWRkZjlkMGQ2OTBhOWFhMjA1ZmRiIiwgInZpZGVvX2lkIjogIjVmNzFhOTk5MjA4OWJkMDBkYTRkYjdmZCIsICJzZXJ2ZXJfdGltZSI6IDE2MzA3NzMyNzgsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
-
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201029/taleoftheninetailed_06_logo_b_v3/c192e377c14bc28f39e1f56509fd2031_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
-
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201029/taleoftheninetailed-07-logo-a/3a99a83d1b743c8f0b4378a41f00323a-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
-
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201029/taleoftheninetailed_07_logo_b/4c61ddd9d85feb717b06559298442456_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImJlMDUzNTE4ODM0MTZmZDhjMjUxNGU2N2Q3ZjBkNDQ0IiwgInZpZGVvX2lkIjogIjVmNzFhOTk5MjA4OWJkMDBkYTRkYjdmZCIsICJzZXJ2ZXJfdGltZSI6IDE2MzA3ODgxNDcsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
-
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201031/taleoftheninetailed-08-logo-a/11cc46fe048fb52b0d6663a8375b5f29-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
-
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201031/taleoftheninetailed_08_logo_b/489ce8c3000a8b0102a80e807d28607f_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
-
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201105/taleoftheninetailed_09_logo_a/6baaef5f4ab688e8702a16094c0ca0df_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
-
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201105/taleoftheninetailed-09-logo-b/a16b38e4674c7386e8205e3b60288132-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
-
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201112/taleoftheninetailed_10_logo_a/481d014a04b43f7ab8d88a582c851c7f_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
-
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201112/taleoftheninetailed-10-logo-b/48ff72541a23ce73f7c16f5c23e69ece-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
 
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png"    group-title="Bạn Trai Tôi Là Hồ Ly"  ,Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
