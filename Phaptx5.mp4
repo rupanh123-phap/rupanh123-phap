@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1 url="http://bit.ly/iptvphaptx5"
 #EXTM3U CHIA SẺ VÌ CỘNG ĐỒNG - PHÁP GROUP ANDROID BOX TX5 url="http://bit.ly/iptvphaptx5"
 
-#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://static.megavie.live/media/vtv1hd.jpg"  group-title="VTV"  catchup="append" catchup-days="1" catchup-source="?start_time=${start}&source=v1hd" ,VTV1 HD
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://static.megavie.live/media/vtv1hd.jpg"  group-title="https://cdn.tgdd.vn/Files/2015/09/10/698421/huong-dan-cai-dat-va-su-dung-vtv-go-0-1.png"  catchup="append" catchup-days="1" catchup-source="?start_time=${start}&source=v1hd" ,VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://static.megavie.live/media/vtv2hd.jpg"  group-title="VTV" tvg-chno="2" catchup="append" catchup-days="1" catchup-source="?start_time=${start}&source=v2hd",VTV2 HD
