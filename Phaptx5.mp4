@@ -243,7 +243,6 @@ https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
 
-
 #EXTINF:-1  tvg-id="hbohd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hbo_155834899497.png" group-title="Quốc Tế" tvg-chno="117",HBO HD
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-id="cinemaxhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_162970702915.jpg" group-title="Quốc Tế" tvg-chno="118",Cinemax HD
