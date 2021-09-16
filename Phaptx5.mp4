@@ -849,10 +849,10 @@ https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201102/nevergone
 
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://tv.hoangbin.com/wp-content/uploads/2019/01/cuoc-chien-luan-hoi.jpg"      group-title="Phim Lẻ"   ,Cuộc Chiến Luân Hồi - Edge of Tomorrow (2014) - Phim Lẻ    
 
-h#ttp://s3-hcm-r1.longvan.net/phimle/cuocchienluanhoi.mp4
+#http://s3-hcm-r1.longvan.net/phimle/cuocchienluanhoi.mp4
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/5rlgfkdN55CYJRhfWf2vfextv8dIqp/Image/2015/05/review-mad-max/mad_max___fury_road_wallpaper_1920x1080_by_sachso74-d8o2uzz-e8559.jpg"      group-title="Phim Lẻ"   ,Con Đường Tử Thần - Phim Lẻ   
 
-https://asia00.fbcdn.space/rawhls/5Ag7pgkM/wupDJwFS-b2.m3u8?v=1603250824
+#https://asia00.fbcdn.space/rawhls/5Ag7pgkM/wupDJwFS-b2.m3u8?v=1603250824
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/IVqqYgAEfY8/maxresdefault.jpg"       group-title="Phim Lẻ"  ,Vị Khách Bí Ẩn - Phim Lẻ                                                                                                                                                         
 #https://biphim.club/hls/2ef17bbd01bf6813e53116461b3dec2c/playlist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/1Mp1SVEBv88/maxresdefault.jpg"    group-title="Phim Lẻ"  ,Biệt Đội Cảm Tử - Phim Lẻ                                                                                                                              
@@ -885,7 +885,7 @@ https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210623/train_to_
 
 
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/1024/uploaded/tuyenth/2018_12_19/aquaman_abjz.jpg"     group-title="Phim Lẻ" , Đế vương Atlantis - Phim Lẻ      
-https://asia01.fbcdn.space/rawhls/pn9zj78gh2/pnT0AKJgi7-b2.m3u8?v=1611657406
+#https://asia01.fbcdn.space/rawhls/pn9zj78gh2/pnT0AKJgi7-b2.m3u8?v=1611657406
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://channel.mediacdn.vn/thumb_w/640/prupload/164/2017/07/img20170712192611793.jpg"     group-title="Phim Lẻ" , Sự Trỗi Dậy Của Hành Tinh Khỉ - Phim Lẻ 
 #https://asia00.fbcdn.space/rawhls/x06CwA2z/txf10gaa-b2.m3u8?v=1603249086
 #https://asia01.fbcdn.space/htmls/rawhls/x06CwA2z/txf10gaa-ts/txf10gaa.m3u8?v=1599268911
@@ -1363,47 +1363,7 @@ http://s3-hcm-r1.longvan.net/phimle/thegioimaquaitm9.mp4
 http://s3-hcm-r1.longvan.net/phimle/thegioimaquaitm10.mp4
 
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"      group-title="Anh Nhớ Em" ,Anh Nhớ Em - Tập 1 - Phim Bộ
-https://biphim.club/hls/eba813699bd79628027f36f4018ae51d/playlist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"       group-title="Anh Nhớ Em" ,Anh Nhớ Em - Tập 2 - Phim Bộ
-https://biphim.club/hls/06d1a004e427bb0a1a632556f2ba1395/playlist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"      group-title="Anh Nhớ Em" ,Anh Nhớ Em - Tập 3 - Phim Bộ
-https://biphim.club/hls/ee647f8040617bf1e8c839c6035dee9c/playlist.m3u8 
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"      group-title="Anh Nhớ Em" ,Anh Nhớ Em - Tập 4 - Phim Bộ
-https://biphim.club/hls/84f59e4381df5d1e287ed518684ba3dd/playlist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"      group-title="Anh Nhớ Em" ,Anh Nhớ Em - Tập 5 - Phim Bộ
-https://biphim.club/hls/d4c3991b4f10cc4404b786933a7db535/playlist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"      group-title="Anh Nhớ Em" ,Anh Nhớ Em - Tập 6 - Phim Bộ
-https://biphim.club/hls/76a79a059776c7133b38b61dc3623056/playlist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"     group-title="Anh Nhớ Em"  ,Anh Nhớ Em - Tập 7 - Phim Bộ
-https://biphim.club/hls/41cfb0e57a08eecbbb4aeb77903a782f/playlist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"      group-title="Anh Nhớ Em" ,Anh Nhớ Em - Tập 8 - Phim Bộ
-https://biphim.club/hls/7f234c6efeefa350e23552df8bf1245c/playlist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"      group-title="Anh Nhớ Em" ,Anh Nhớ Em - Tập 9 - Phim Bộ
-https://biphim.club/hls/8b38e24e3f4dc2a71fab36b0d60d2c04/playlist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"      group-title="Anh Nhớ Em" ,Anh Nhớ Em - Tập 10 - Phim Bộ
-https://biphim.club/hls/02abc9744aedde9e814da8848720d292/playlist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"     group-title="Anh Nhớ Em"  ,Anh Nhớ Em - Tập 11 - Phim Bộ
-https://biphim.club/hls/267c41eb78b0c8243026c4ead5e9ae15/playlist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"      group-title="Anh Nhớ Em" ,Anh Nhớ Em - Tập 12 - Phim Bộ
-https://biphim.club/hls/27f3e83a3168dde6d4a2126d99dc305d/playlist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"      group-title="Anh Nhớ Em" ,Anh Nhớ Em - Tập 13 - Phim Bộ
-https://biphim.club/hls/6615516faac9c26f5d83c87c70cfec36/playlist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"      group-title="Anh Nhớ Em" ,Anh Nhớ Em - Tập 14 - Phim Bộ
-https://biphim.club/hls/a3fa6322f31d929b76b41d34d7700988/playlist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"      group-title="Anh Nhớ Em" ,Anh Nhớ Em - Tập 15 - Phim Bộ
-https://biphim.club/hls/eb05671a3f0048a4b2f33d4d9e0b7c1a/playlist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"      group-title="Anh Nhớ Em" ,Anh Nhớ Em - Tập 16 - Phim Bộ
-https://biphim.club/hls/ad2bb46b2161f94629c7e7a08b6896d5/playlist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"      group-title="Anh Nhớ Em" ,Anh Nhớ Em - Tập 17 - Phim Bộ
-https://biphim.club/hls/29b990c16b40eb0394231f2e95bbcfae/playlist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"      group-title="Anh Nhớ Em" ,Anh Nhớ Em - Tập 18 - Phim Bộ
-https://biphim.club/hls/120b4c5ff36bdb8dd5229563b51ce94d/playlist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"      group-title="Anh Nhớ Em" ,Anh Nhớ Em - Tập 19 - Phim Bộ
-https://biphim.club/hls/90b6ad307884c6d2c2e663da20138c04/playlist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"      group-title="Anh Nhớ Em" ,Anh Nhớ Em - Tập 20 - Phim Bộ
-https://biphim.club/hls/e7a5e944acac638e92634033f2c0c35a/playlist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://sohanews.sohacdn.com/zoom/600_315/2012/ava-3d6c3.jpg"      group-title="Anh Nhớ Em" ,Anh Nhớ Em - Tập 21 - Phim Bộ
-https://biphim.club/hls/f51437b3b029d86aa174a380e84167d7/playlist.m3u8
+
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://bazaarvietnam.vn/wp-content/uploads/2021/07/phim-tham-phan-ac-ma-the-devil-judge-1.jpg"      group-title="Thẩm Phán Ác Ma" ,Thẩm Phán Ác Ma - Tập 1A - Phim Bộ
 https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210705/thedeviljudge_01_logo_a_v2/fb7a0997b471c163c985d3477112dbc2_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImZiZjQzZDEzZjA0OGYzYjdkNDA3Yjk3ODZhZDM4Y2NmIiwgInZpZGVvX2lkIjogIjYwZGYyMDcxMjA4OWJkMDA5Njg3MTI1NyIsICJzZXJ2ZXJfdGltZSI6IDE2MzAyOTE3NTEsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://bazaarvietnam.vn/wp-content/uploads/2021/07/phim-tham-phan-ac-ma-the-devil-judge-1.jpg"      group-title="Thẩm Phán Ác Ma" ,Thẩm Phán Ác Ma - Tập 1B - Phim Bộ
