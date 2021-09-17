@@ -198,106 +198,106 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcplushd"  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-plus_159175078181.png" group-title="🅷🆃🆅🅲" ,HTVC Plus 
 https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_4606159a.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻",CNA HD
+#EXTINF:-1  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_4606159a.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="🅾🆃🅷🅴🆁",CNA HD
 https://e4.endpoint.cdn.sctvonline.vn/secure/boxmusic/index.m3u8?md5=pR0QrkdxGuSRmHtTGT028A&expires=2556118740|Referer=http://sctvonline.vn/
 
-#EXTINF:0 tvg-id="inthebox" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/7_e79f9654.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻",The Box Music Televison
+#EXTINF:0 tvg-id="inthebox" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/7_e79f9654.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="🅾🆃🅷🅴🆁",The Box Music Televison
 https://e4.endpoint.cdn.sctvonline.vn/secure/boxmusic/index.m3u8?md5=pR0QrkdxGuSRmHtTGT028A&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:0  tvg-id="woman"  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/62_82eb1789.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="105",Woman HD
+#EXTINF:0  tvg-id="woman"  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/62_82eb1789.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="🅾🆃🅷🅴🆁" tvg-chno="105",Woman HD
 https://e4.endpoint.cdn.sctvonline.vn/secure/woman/index.m3u8?md5=nYLg_liiJXqdWAdw4D1wzw&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:0  tvg-id="planetearthhd" tvg-logo="https://i.ibb.co/yBV6zTY/logoplayout-planetearth-3d-plain.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="102",Planet Earth HD
+#EXTINF:0  tvg-id="planetearthhd" tvg-logo="https://i.ibb.co/yBV6zTY/logoplayout-planetearth-3d-plain.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="102",Planet Earth HD
 https://e4.endpoint.cdn.sctvonline.vn/secure/planetearth/index.m3u8?md5=6LuAM_K-RRvmm5Vq-zMaZw&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="happykids"   tvg-logo="https://i.ibb.co/ymTnSZQ/happykids.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="101",Happy Kids HD
+#EXTINF:0 tvg-id="happykids"   tvg-logo="https://i.ibb.co/ymTnSZQ/happykids.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="101",Happy Kids HD
 https://e4.endpoint.cdn.sctvonline.vn/secure/happykid/index.m3u8?md5=RoppAcvPHs-dCJI1jRxvgQ&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:0  tvg-id="drfithd"  tvg-logo="https://i.ibb.co/0qh3zNs/drfit.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="104",Dr.Fit HD
+#EXTINF:0  tvg-id="drfithd"  tvg-logo="https://i.ibb.co/0qh3zNs/drfit.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="104",Dr.Fit HD
 https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740|Referer=http://sctvonline.vn/
 
 
 
 
-#EXTINF:0  tvg-id="blueantent" tvg-logo="https://static.megavie.live/media/blueantent.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="94",Blue Ant Entertainment HD
+#EXTINF:0  tvg-id="blueantent" tvg-logo="https://static.megavie.live/media/blueantent.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="94",Blue Ant Entertainment HD
 https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0  tvg-id="blueantext" tvg-logo="https://static.megavie.live/media/blueantext.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="95",Blue Ant Extreme HD
+#EXTINF:0  tvg-id="blueantext" tvg-logo="https://static.megavie.live/media/blueantext.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="95",Blue Ant Extreme HD
 https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="kix" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kix_152879800963.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="97",KIX HD
+#EXTINF:-1 tvg-id="kix" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kix_152879800963.png" group-title="🅾🆃🅷🅴🆁" tvg-chno="97",KIX HD
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="afnhd"  tvg-name="AFC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_158279877356.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="130",Asian Food Network HD 
+#EXTINF:-1  tvg-id="afnhd"  tvg-name="AFC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_158279877356.png" group-title="🅾🆃🅷🅴🆁" tvg-chno="130",Asian Food Network HD 
 https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="Da Vinci " tvg-name="davinci" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_160135703111.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",DaVinci HD
+#EXTINF:-1 tvg-id="Da Vinci " tvg-name="davinci" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_160135703111.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",DaVinci HD
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
- #EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS_World" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kbs-world_145931294803.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",KBS World
+ #EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS_World" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kbs-world_145931294803.jpg" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
- #EXTINF:-1 tvg-id="NHK World-JAPAN(HD)" tvg-name="NHK_World-JAPAN(HD)" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nhk-world-hd_150614115837.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",NHK World HD
+ #EXTINF:-1 tvg-id="NHK World-JAPAN(HD)" tvg-name="NHK_World-JAPAN(HD)" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nhk-world-hd_150614115837.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",NHK World HD
  https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="dw" tvg-name="DW" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dw_145681789801.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",DW HD
+#EXTINF:-1 tvg-id="dw" tvg-name="DW" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dw_145681789801.jpg" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",DW HD
 https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="arirang" tvg-name="arirang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_arirang_15148903242.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",Arirang
+#EXTINF:-1 tvg-id="arirang" tvg-name="arirang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_arirang_15148903242.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",Arirang
 https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="Channel News Asia" tvg-name="Channel_News_Asia" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_channel-newsasia_151495143843.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",New Asia
+#EXTINF:-1 tvg-id="Channel News Asia" tvg-name="Channel_News_Asia" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_channel-newsasia_151495143843.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",New Asia
 https://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="france24eng" tvg-name="France_24_English" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_france-24_151539541517.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",France 24 English
+#EXTINF:-1 tvg-id="france24eng" tvg-name="France_24_English" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_france-24_151539541517.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",France 24 English
 https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="TV5 ASIE" tvg-name="TV5_ASIE" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tv5-monde_151557279144.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",TV5MONDE
+#EXTINF:-1 tvg-id="TV5 ASIE" tvg-name="TV5_ASIE" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tv5-monde_151557279144.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",TV5MONDE
 https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="outdoorhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="127",Outdoor Channel HD
+#EXTINF:-1  tvg-id="outdoorhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="127",Outdoor Channel HD
 https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
 
 
-#EXTINF:-1  tvg-id="hbohd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hbo_155834899497.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="117",HBO HD
+#EXTINF:-1  tvg-id="hbohd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hbo_155834899497.png" group-title="🅾🆃🅷🅴🆁" tvg-chno="117",HBO HD
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="cinemaxhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_162970702915.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="118",Cinemax HD
+#EXTINF:-1  tvg-id="cinemaxhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_162970702915.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="118",Cinemax HD
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="foxsportshd tvg-name="Fox_Sports_1" tvg-logo="https://static.megavie.live/media/foxsportshd.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="91",Fox Sports HD
+#EXTINF:-1 tvg-id="foxsportshd tvg-name="Fox_Sports_1" tvg-logo="https://static.megavie.live/media/foxsportshd.jpg" group-title="🅾🆃🅷🅴🆁"  tvg-chno="91",Fox Sports HD
 https://vips-livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="foxsports2hd" tvg-name="Fox_Sports_2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="92",Fox Sports 2 HD
+#EXTINF:-1 tvg-id="foxsports2hd" tvg-name="Fox_Sports_2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg" group-title="🅾🆃🅷🅴🆁"  tvg-chno="92",Fox Sports 2 HD
 https://vips-livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="foxsports3hd" tvg-logo="https://static.megavie.live/media/foxsports3hd.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="93", Fox Sports 3 HD
+#EXTINF:-1  tvg-id="foxsports3hd" tvg-logo="https://static.megavie.live/media/foxsports3hd.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="93", Fox Sports 3 HD
 https://vips-livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="axnhd" tvg-name="AXN" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",AXN HD
+#EXTINF:-1 tvg-id="axnhd" tvg-name="AXN" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",AXN HD
 https://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="warnertvhd" tvg-name="WB" tvg-logo="https://static.megavie.live/media/warnertvhd.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="115",Warner TV HD
+#EXTINF:-1  tvg-id="warnertvhd" tvg-name="WB" tvg-logo="https://static.megavie.live/media/warnertvhd.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="115",Warner TV HD
 https://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="cinemaworldhd" tvg-logo="https://i.ibb.co/K0t7jJ0/cinemaw.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻",Cinema World HD
+#EXTINF:-1  tvg-id="cinemaworldhd" tvg-logo="https://i.ibb.co/K0t7jJ0/cinemaw.jpg" group-title="🅾🆃🅷🅴🆁",Cinema World HD
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="fashionhd" tvg-logo="https://static.megavie.live/media/fashionhd.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="129",Fashion TV HD
+#EXTINF:-1  tvg-id="fashionhd" tvg-logo="https://static.megavie.live/media/fashionhd.png" group-title="🅾🆃🅷🅴🆁" tvg-chno="129",Fashion TV HD
 https://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" tvg-name="CARTOON_NETWORK" tvg-logo="https://i.ibb.co/JqJVv5b/cn.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",Cartoon Network HD
+#EXTINF:-1 tvg-id="cartoonhd" tvg-name="CARTOON_NETWORK" tvg-logo="https://i.ibb.co/JqJVv5b/cn.jpg" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",Cartoon Network HD
 https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="animaxhd"  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png"  group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="107", Animax HD
+#EXTINF:-1 tvg-id="animaxhd"  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png"  group-title="🅾🆃🅷🅴🆁" tvg-chno="107", Animax HD
 https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="boomerang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_152240335127.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="108", Boomerang
+#EXTINF:-1  tvg-id="boomerang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_152240335127.png" group-title="🅾🆃🅷🅴🆁" tvg-chno="108", Boomerang
 https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="babyfirst" tvg-name="BabyFirst" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_baby-first_152332783386.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",BabyFirst
+#EXTINF:-1 tvg-id="babyfirst" tvg-name="BabyFirst" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_baby-first_152332783386.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",BabyFirst
 https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="tvg-id="cbeebies"" tvg-logo="https://i.ibb.co/mHNZbn0/bbc.jpg"  group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="110",Cbeebies
+#EXTINF:-1 tvg-id="tvg-id="cbeebies"" tvg-logo="https://i.ibb.co/mHNZbn0/bbc.jpg"  group-title="🅾🆃🅷🅴🆁" tvg-chno="110",Cbeebies
 https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNNHD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnn_146581309815.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",CNN
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNNHD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnn_146581309815.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",CNN
 https://livecdn.fptplay.net/sdb/cnn_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="109",BBC Earth
+#EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="109",BBC Earth
 https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="bbcworldnews" tvg-name="BBC_World_News" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-news_156325644439.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",BBC World News
+#EXTINF:-1 tvg-id="bbcworldnews" tvg-name="BBC_World_News" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-news_156325644439.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",BBC World News
 https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="110",BBC Lifestyle 
+#EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="110",BBC Lifestyle 
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bloomberg_146581277148.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="113",Bloomberg
+#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bloomberg_146581277148.png" group-title="🅾🆃🅷🅴🆁" tvg-chno="113",Bloomberg
 https://livecdn.fptplay.net/sdb/bloomberg_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="abcaustralia" tvg-name="Australia_Plus" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_australia-plus_153051623532.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",Australia Plus
+#EXTINF:-1 tvg-id="abcaustralia" tvg-name="Australia_Plus" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_australia-plus_153051623532.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",Australia Plus
 https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="discoveryhd" tvg-name="Discovery_Channel" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",Discovery HD
+#EXTINF:-1 tvg-id="discoveryhd" tvg-name="Discovery_Channel" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",Discovery HD
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="discoveryasiahd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="112",Discovery Asia HD
+#EXTINF:-1  tvg-id="discoveryasiahd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png" group-title="🅾🆃🅷🅴🆁" tvg-chno="112",Discovery Asia HD
 https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="animalhd" tvg-name="Animal_Planet" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_156335404347.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",Animal Planet HD
+#EXTINF:-1 tvg-id="animalhd" tvg-name="Animal_Planet" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_156335404347.jpg" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",Animal Planet HD
 https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="tlchd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_156455581568.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="114",Travel & Living HD
+#EXTINF:-1 tvg-id="tlchd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_156455581568.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="114",Travel & Living HD
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_youtv_162952854632.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="114",YouTV 
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_youtv_162952854632.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="114",YouTV 
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="mtvhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_mtv_162952660009.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="114",MTV HD
+#EXTINF:-1 tvg-id="mtvhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_mtv_162952660009.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="114",MTV HD
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="sbscnbchd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnbc_162952697893.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="114",CNBC 
+#EXTINF:-1 tvg-id="sbscnbchd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnbc_162952697893.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="114",CNBC 
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 
 
@@ -491,189 +491,189 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 
 
 
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h30-15/09: Spartak - Legia Warszawa
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h30-15/09: Spartak - Legia Warszawa
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb42b4d92252d0683f0ff-ZOmUrR&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-15/09: Costa Rica - Venezuela
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-15/09: Costa Rica - Venezuela
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb48d4d92252d0683f10c-lpiP68&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-15/09: Egypt - Guatemala
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-15/09: Egypt - Guatemala
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb4ac4d92252d0683f10f-07RwO6&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-15/09: Besiktas - Dortmund
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-15/09: Besiktas - Dortmund
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb40a4d92252d0683f0f6-OJh89d&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-15/09: FC Sheriff - Shakhtar Donetsk
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-15/09: FC Sheriff - Shakhtar Donetsk
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb40f4d92252d0683f0fb-4tQCoK&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-16/09: Lithuania - Kazakhstan
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-16/09: Lithuania - Kazakhstan
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb4c44d92252d0683f112-r0wnvv&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-16/09: Uzbekistan - Russia
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-16/09: Uzbekistan - Russia
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb4df4d92252d0683f115-v9VZUx&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",01h45-16/09: Stoke - Barnsley
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",01h45-16/09: Stoke - Barnsley
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa5958f771d768ed3919f-sREU3i&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Club Brugge - PSG
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Club Brugge - PSG
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9ef88f771d768ed390ab-scRaoX&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Man City - RB Leipzig
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Man City - RB Leipzig
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9efd8f771d768ed390ae-i2xwHs&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Atletico Madrid - FC Porto
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Atletico Madrid - FC Porto
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f018f771d768ed390af-WP8YTQ&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Liverpool - Milan
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Liverpool - Milan
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f048f771d768ed390b2-MS3VXb&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Sporting CP - Ajax
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Sporting CP - Ajax
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f078f771d768ed390b5-K3z7v6&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Inter - Real Madrid
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Inter - Real Madrid
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f0b8f771d768ed390b8-31dc9s&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",06h00-16/09: Atlanta United - Cincinnati
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",06h00-16/09: Atlanta United - Cincinnati
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141dc738f771d768ed394a4-JWizS1&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",06h00-16/09: New York Red Bulls II - San Antonio FC
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",06h00-16/09: New York Red Bulls II - San Antonio FC
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141dfe18f771d768ed394aa-bVRap4&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",06h30-16/09: Orlando - Montreal
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",06h30-16/09: Orlando - Montreal
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141dfe38f771d768ed394ab-w8CXVh&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",07h00-16/09: Newell's Old Boys - River Plate
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",07h00-16/09: Newell's Old Boys - River Plate
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141dfe58f771d768ed394ae-ehg7Is&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",07h30-16/09: Flamengo - Gremio
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",07h30-16/09: Flamengo - Gremio
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141e01a8f771d768ed394b6-WEqMKI&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",07h30-16/09: Fortaleza - Sao Paulo
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",07h30-16/09: Fortaleza - Sao Paulo
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141e0258f771d768ed394b9-S2v5Me&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",08h00-16/09: Austin FC - LAFC
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",08h00-16/09: Austin FC - LAFC
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141e0a68f771d768ed394c0-BAR16y&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",08h00-16/09: Colorado Springs Switchbacks FC - El Paso Locomotive
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",08h00-16/09: Colorado Springs Switchbacks FC - El Paso Locomotive
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141e0a78f771d768ed394c1-Aied8q&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",09h00-16/09: Portland - Colorado
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",09h00-16/09: Portland - Colorado
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141e0a98f771d768ed394c2-ektQhw&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",09h30-16/09: LA Galaxy - Houston
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",09h30-16/09: LA Galaxy - Houston
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141e0ac8f771d768ed394c7-8AgOSt&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",15h30-16/09: Shenyang - J. Liansheng
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",15h30-16/09: Shenyang - J. Liansheng
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141e5ab8f771d768ed394de-lGpReZ&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",17h00-16/09: Gelephu - Paro Rinpung
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",17h00-16/09: Gelephu - Paro Rinpung
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141e3678f771d768ed394d3-LZt786&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",18h35-16/09: Meizhou Hakka - Suzhou Dongwu
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",18h35-16/09: Meizhou Hakka - Suzhou Dongwu
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141e3e38f771d768ed394d8-r95r7Z&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h30-16/09: Kairat Almaty - Omonia Nicosia
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h30-16/09: Kairat Almaty - Omonia Nicosia
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9faf8f771d768ed390e1-53xa7t&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-16/09: Panama - Việt Nam
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-16/09: Panama - Việt Nam
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa1628f771d768ed39114-X9c0GL&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-16/09: Faroe Islands - Portugal
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-16/09: Faroe Islands - Portugal
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa1948f771d768ed39117-im2xPA&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Galatasaray - Lazio
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Galatasaray - Lazio
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f488f771d768ed390c2-MDeoSh&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Lokomotiv - Marseille
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Lokomotiv - Marseille
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f4d8f771d768ed390c5-KNJLyH&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Midtjylland - Ludogorets Razgrad
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Midtjylland - Ludogorets Razgrad
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f518f771d768ed390c8-KiCpJV&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: FK Crvena Zvezda - Braga
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: FK Crvena Zvezda - Braga
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f558f771d768ed390c9-uwc1PY&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Leverkusen - Ferencvaros
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Leverkusen - Ferencvaros
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f5b8f771d768ed390ce-gsOj2z&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Real Betis - Celtic
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Real Betis - Celtic
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f608f771d768ed390d1-uyKaiI&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Dinamo Zagreb - West Ham
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Dinamo Zagreb - West Ham
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f658f771d768ed390d4-9eZfUZ&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Rapid Wien - Genk
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Rapid Wien - Genk
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f6a8f771d768ed390d7-DPwl7h&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: HJK - LASK
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: HJK - LASK
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9fb38f771d768ed390e4-hoWZpE&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Flora Tallinn - Gent
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Flora Tallinn - Gent
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9fbb8f771d768ed390e7-BSSy4g&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Slavia Prague - Union Berlin
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Slavia Prague - Union Berlin
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9fc18f771d768ed390ea-oA7ePH&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Lincoln Red Imps FC - PAOK Thessaloniki FC
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Lincoln Red Imps FC - PAOK Thessaloniki FC
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9fc78f771d768ed390ed-6DwsjD&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Slovan Bratislava - FC København
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Slovan Bratislava - FC København
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9fcb8f771d768ed390f0-1Q8LRE&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Mura - Vitesse
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Mura - Vitesse
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9fd08f771d768ed390f3-I2pcRV&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Rennes - Tottenham
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Rennes - Tottenham
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9fd58f771d768ed390f6-QMXUv8&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Qarabag FK - Basel
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Qarabag FK - Basel
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9fda8f771d768ed390f9-HOzlHw&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-17/09: Brazil - Czech Republic
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-17/09: Brazil - Czech Republic
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa1c28f771d768ed3911a-WfQaVq&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-17/09: Thailand - Morocco
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-17/09: Thailand - Morocco
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa1e28f771d768ed3911d-yPWee4&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Brøndby IF - Sparta Prague
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Brøndby IF - Sparta Prague
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa2de8f771d768ed3912f-2d5KfH&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Rangers - Lyon
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Rangers - Lyon
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa2e58f771d768ed39132-HBJK1S&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Monaco - Sturm Graz
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Monaco - Sturm Graz
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa2eb8f771d768ed39135-IjC7h5&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: PSV Eindhoven - Real Sociedad
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: PSV Eindhoven - Real Sociedad
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa2f18f771d768ed39138-hhbG1L&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Leicester - Napoli
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Leicester - Napoli
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa2f68f771d768ed3913b-FZZPKZ&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Frankfurt - Fenerbahce
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Frankfurt - Fenerbahce
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa2fb8f771d768ed3913e-eCITGo&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Olympiacos - Royal Antwerp
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Olympiacos - Royal Antwerp
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa2ff8f771d768ed39141-FjX0qc&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Anorthosis - Partizan Beograd
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Anorthosis - Partizan Beograd
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa3518f771d768ed39146-gg4r2N&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Bodø/Glimt - Zorya
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Bodø/Glimt - Zorya
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa3578f771d768ed39149-zQcP54&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Roma - PFC CSKA-Sofia
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Roma - PFC CSKA-Sofia
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa35e8f771d768ed3914c-9J4CQC&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Jablonec - CFR Cluj
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Jablonec - CFR Cluj
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa3638f771d768ed3914f-yYBkz7&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Randers FC - AZ Alkmaar
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Randers FC - AZ Alkmaar
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa3688f771d768ed39152-k2pb1r&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-17/09: Iran - USA
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-17/09: Iran - USA
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa2148f771d768ed39120-611hqQ&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-17/09: Spain - Japan
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-17/09: Spain - Japan
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa22b8f771d768ed39123-InABWt&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-18/09: Angola - Paraguay
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-18/09: Angola - Paraguay
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa24c8f771d768ed39126-cztxch&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-18/09: Argentina - Serbia
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-18/09: Argentina - Serbia
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa2628f771d768ed39129-dRiFBH&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",01h30-18/09: Hertha BSC - Greuther Fürth
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",01h30-18/09: Hertha BSC - Greuther Fürth
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4b08f771d768ed3917f-0XBXxP&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",01h45-18/09: Sassuolo - Torino
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",01h45-18/09: Sassuolo - Torino
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4578f771d768ed39176-nIlSXe&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-18/09: Newcastle - Leeds
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-18/09: Newcastle - Leeds
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4068f771d768ed39155-caItfY&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-18/09: Celta Vigo - Cadiz
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-18/09: Celta Vigo - Cadiz
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4398f771d768ed3916a-PQSDl2&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-18/09: Strasbourg - Metz
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-18/09: Strasbourg - Metz
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4de8f771d768ed39191-WTrMOX&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",18h30-18/09: Wolves - Brentford
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",18h30-18/09: Wolves - Brentford
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4088f771d768ed39156-QDXP4I&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",18h30-18/09: Hull - Sheff Utd
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",18h30-18/09: Hull - Sheff Utd
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa5ee8f771d768ed391a9-RxVXXq&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",19h00-18/09: Rayo Vallecano - Getafe
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",19h00-18/09: Rayo Vallecano - Getafe
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa43a8f771d768ed3916b-bMcdGP&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",20h00-18/09: Genoa - Fiorentina
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",20h00-18/09: Genoa - Fiorentina
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4598f771d768ed39177-0aZfwW&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",20h30-18/09: Arminia Bielefeld - Hoffenheim
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",20h30-18/09: Arminia Bielefeld - Hoffenheim
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4b28f771d768ed39180-zfa04f&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",20h30-18/09: Augsburg - M'gladbach
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",20h30-18/09: Augsburg - M'gladbach
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4b38f771d768ed39181-4sDRD1&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",20h30-18/09: Bayern München - Bochum
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",20h30-18/09: Bayern München - Bochum
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4b58f771d768ed39184-hzHhYA&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",20h30-18/09: Mainz - Freiburg
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",20h30-18/09: Mainz - Freiburg
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4b68f771d768ed39185-uZH4Fx&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h00-18/09: Burnley - Arsenal
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h00-18/09: Burnley - Arsenal
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4098f771d768ed39157-HodPcQ&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h00-18/09: Norwich - Watford
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h00-18/09: Norwich - Watford
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa40a8f771d768ed3915a-P7KdZ9&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h00-18/09: Liverpool - Crystal Palace
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h00-18/09: Liverpool - Crystal Palace
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa40b8f771d768ed3915b-pXHR6V&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h00-18/09: Man City - Southampton
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h00-18/09: Man City - Southampton
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa40d8f771d768ed39160-Oo0mJq&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h00-18/09: Preston - West Brom
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h00-18/09: Preston - West Brom
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa5ef8f771d768ed391aa-u9x2Sj&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h15-18/09: Atletico Madrid - Athletic Club
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h15-18/09: Atletico Madrid - Athletic Club
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa43b8f771d768ed3916c-VLhobe&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-18/09: Lens - Lille
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-18/09: Lens - Lille
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4df8f771d768ed39192-1K97na&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-18/09: Egypt - Uzbekistan
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-18/09: Egypt - Uzbekistan
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa6208f771d768ed391af-GgZRTI&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-18/09: Guatemala - Russia
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-18/09: Guatemala - Russia
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa6448f771d768ed391b2-PREpuZ&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h00-18/09: Inter - Bologna
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h00-18/09: Inter - Bologna
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa45a8f771d768ed39178-AAbipg&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h30-18/09: Aston Villa - Everton
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h30-18/09: Aston Villa - Everton
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa40f8f771d768ed39163-l1r1nI&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h30-18/09: Elche - Levante
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h30-18/09: Elche - Levante
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa43d8f771d768ed3916f-Ty9BNK&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h30-18/09: Köln - RB Leipzig
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h30-18/09: Köln - RB Leipzig
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4b78f771d768ed39188-vz5PMe&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-19/09: Costa Rica - Lithuania
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-19/09: Costa Rica - Lithuania
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa67d8f771d768ed391b5-g5SY1l&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-19/09: Venezuela - Kazakhstan
+#EXTINF:-1 group-title="🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-19/09: Venezuela - Kazakhstan
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa69b8f771d768ed391b8-85fzFB&.m3u8|Referer=https://cakhiatv.live/truc-tiep
 
 
