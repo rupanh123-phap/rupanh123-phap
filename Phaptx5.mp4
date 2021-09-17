@@ -198,702 +198,702 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcplushd"  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-plus_159175078181.png" group-title="🅷🆃🆅🅲" ,HTVC Plus 
 https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_4606159a.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="Quốc Tế",CNA HD
+#EXTINF:-1  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_4606159a.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻",CNA HD
 https://e4.endpoint.cdn.sctvonline.vn/secure/boxmusic/index.m3u8?md5=pR0QrkdxGuSRmHtTGT028A&expires=2556118740|Referer=http://sctvonline.vn/
 
-#EXTINF:0 tvg-id="inthebox" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/7_e79f9654.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="Quốc Tế",The Box Music Televison
+#EXTINF:0 tvg-id="inthebox" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/7_e79f9654.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻",The Box Music Televison
 https://e4.endpoint.cdn.sctvonline.vn/secure/boxmusic/index.m3u8?md5=pR0QrkdxGuSRmHtTGT028A&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:0  tvg-id="woman"  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/62_82eb1789.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="Quốc Tế" tvg-chno="105",Woman HD
+#EXTINF:0  tvg-id="woman"  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/62_82eb1789.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="105",Woman HD
 https://e4.endpoint.cdn.sctvonline.vn/secure/woman/index.m3u8?md5=nYLg_liiJXqdWAdw4D1wzw&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:0  tvg-id="planetearthhd" tvg-logo="https://i.ibb.co/yBV6zTY/logoplayout-planetearth-3d-plain.jpg" group-title="Quốc Tế" tvg-chno="102",Planet Earth HD
+#EXTINF:0  tvg-id="planetearthhd" tvg-logo="https://i.ibb.co/yBV6zTY/logoplayout-planetearth-3d-plain.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="102",Planet Earth HD
 https://e4.endpoint.cdn.sctvonline.vn/secure/planetearth/index.m3u8?md5=6LuAM_K-RRvmm5Vq-zMaZw&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="happykids"   tvg-logo="https://i.ibb.co/ymTnSZQ/happykids.jpg" group-title="Quốc Tế" tvg-chno="101",Happy Kids HD
+#EXTINF:0 tvg-id="happykids"   tvg-logo="https://i.ibb.co/ymTnSZQ/happykids.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="101",Happy Kids HD
 https://e4.endpoint.cdn.sctvonline.vn/secure/happykid/index.m3u8?md5=RoppAcvPHs-dCJI1jRxvgQ&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:0  tvg-id="drfithd"  tvg-logo="https://i.ibb.co/0qh3zNs/drfit.jpg" group-title="Quốc Tế" tvg-chno="104",Dr.Fit HD
+#EXTINF:0  tvg-id="drfithd"  tvg-logo="https://i.ibb.co/0qh3zNs/drfit.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="104",Dr.Fit HD
 https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740|Referer=http://sctvonline.vn/
 
 
 
 
-#EXTINF:0  tvg-id="blueantent" tvg-logo="https://static.megavie.live/media/blueantent.jpg" group-title="Quốc Tế" tvg-chno="94",Blue Ant Entertainment HD
+#EXTINF:0  tvg-id="blueantent" tvg-logo="https://static.megavie.live/media/blueantent.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="94",Blue Ant Entertainment HD
 https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0  tvg-id="blueantext" tvg-logo="https://static.megavie.live/media/blueantext.jpg" group-title="Quốc Tế" tvg-chno="95",Blue Ant Extreme HD
+#EXTINF:0  tvg-id="blueantext" tvg-logo="https://static.megavie.live/media/blueantext.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="95",Blue Ant Extreme HD
 https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="kix" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kix_152879800963.png" group-title="Quốc Tế" tvg-chno="97",KIX HD
+#EXTINF:-1 tvg-id="kix" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kix_152879800963.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="97",KIX HD
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="afnhd"  tvg-name="AFC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_158279877356.png" group-title="Quốc Tế" tvg-chno="130",Asian Food Network HD 
+#EXTINF:-1  tvg-id="afnhd"  tvg-name="AFC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_158279877356.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="130",Asian Food Network HD 
 https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="Da Vinci " tvg-name="davinci" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_160135703111.png" group-title="Quốc Tế"  tvg-chno="",DaVinci HD
+#EXTINF:-1 tvg-id="Da Vinci " tvg-name="davinci" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_160135703111.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",DaVinci HD
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
- #EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS_World" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kbs-world_145931294803.jpg" group-title="Quốc Tế"  tvg-chno="",KBS World
+ #EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS_World" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kbs-world_145931294803.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
- #EXTINF:-1 tvg-id="NHK World-JAPAN(HD)" tvg-name="NHK_World-JAPAN(HD)" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nhk-world-hd_150614115837.png" group-title="Quốc Tế"  tvg-chno="",NHK World HD
+ #EXTINF:-1 tvg-id="NHK World-JAPAN(HD)" tvg-name="NHK_World-JAPAN(HD)" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nhk-world-hd_150614115837.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",NHK World HD
  https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="dw" tvg-name="DW" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dw_145681789801.jpg" group-title="Quốc Tế"  tvg-chno="",DW HD
+#EXTINF:-1 tvg-id="dw" tvg-name="DW" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dw_145681789801.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",DW HD
 https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="arirang" tvg-name="arirang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_arirang_15148903242.png" group-title="Quốc Tế"  tvg-chno="",Arirang
+#EXTINF:-1 tvg-id="arirang" tvg-name="arirang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_arirang_15148903242.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",Arirang
 https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="Channel News Asia" tvg-name="Channel_News_Asia" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_channel-newsasia_151495143843.png" group-title="Quốc Tế"  tvg-chno="",New Asia
+#EXTINF:-1 tvg-id="Channel News Asia" tvg-name="Channel_News_Asia" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_channel-newsasia_151495143843.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",New Asia
 https://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="france24eng" tvg-name="France_24_English" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_france-24_151539541517.png" group-title="Quốc Tế"  tvg-chno="",France 24 English
+#EXTINF:-1 tvg-id="france24eng" tvg-name="France_24_English" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_france-24_151539541517.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",France 24 English
 https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="TV5 ASIE" tvg-name="TV5_ASIE" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tv5-monde_151557279144.png" group-title="Quốc Tế"  tvg-chno="",TV5MONDE
+#EXTINF:-1 tvg-id="TV5 ASIE" tvg-name="TV5_ASIE" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tv5-monde_151557279144.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",TV5MONDE
 https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="outdoorhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg" group-title="Quốc Tế" tvg-chno="127",Outdoor Channel HD
+#EXTINF:-1  tvg-id="outdoorhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="127",Outdoor Channel HD
 https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
 
 
-#EXTINF:-1  tvg-id="hbohd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hbo_155834899497.png" group-title="Quốc Tế" tvg-chno="117",HBO HD
+#EXTINF:-1  tvg-id="hbohd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hbo_155834899497.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="117",HBO HD
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="cinemaxhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_162970702915.jpg" group-title="Quốc Tế" tvg-chno="118",Cinemax HD
+#EXTINF:-1  tvg-id="cinemaxhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_162970702915.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="118",Cinemax HD
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="foxsportshd tvg-name="Fox_Sports_1" tvg-logo="https://static.megavie.live/media/foxsportshd.jpg" group-title="Quốc Tế"  tvg-chno="91",Fox Sports HD
+#EXTINF:-1 tvg-id="foxsportshd tvg-name="Fox_Sports_1" tvg-logo="https://static.megavie.live/media/foxsportshd.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="91",Fox Sports HD
 https://vips-livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="foxsports2hd" tvg-name="Fox_Sports_2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg" group-title="Quốc Tế"  tvg-chno="92",Fox Sports 2 HD
+#EXTINF:-1 tvg-id="foxsports2hd" tvg-name="Fox_Sports_2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="92",Fox Sports 2 HD
 https://vips-livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="foxsports3hd" tvg-logo="https://static.megavie.live/media/foxsports3hd.jpg" group-title="Quốc Tế" tvg-chno="93", Fox Sports 3 HD
+#EXTINF:-1  tvg-id="foxsports3hd" tvg-logo="https://static.megavie.live/media/foxsports3hd.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="93", Fox Sports 3 HD
 https://vips-livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="axnhd" tvg-name="AXN" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg" group-title="Quốc Tế"  tvg-chno="",AXN HD
+#EXTINF:-1 tvg-id="axnhd" tvg-name="AXN" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",AXN HD
 https://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="warnertvhd" tvg-name="WB" tvg-logo="https://static.megavie.live/media/warnertvhd.jpg" group-title="Quốc Tế" tvg-chno="115",Warner TV HD
+#EXTINF:-1  tvg-id="warnertvhd" tvg-name="WB" tvg-logo="https://static.megavie.live/media/warnertvhd.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="115",Warner TV HD
 https://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="cinemaworldhd" tvg-logo="https://i.ibb.co/K0t7jJ0/cinemaw.jpg" group-title="Quốc Tế",Cinema World HD
+#EXTINF:-1  tvg-id="cinemaworldhd" tvg-logo="https://i.ibb.co/K0t7jJ0/cinemaw.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻",Cinema World HD
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="fashionhd" tvg-logo="https://static.megavie.live/media/fashionhd.png" group-title="Quốc Tế" tvg-chno="129",Fashion TV HD
+#EXTINF:-1  tvg-id="fashionhd" tvg-logo="https://static.megavie.live/media/fashionhd.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="129",Fashion TV HD
 https://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" tvg-name="CARTOON_NETWORK" tvg-logo="https://i.ibb.co/JqJVv5b/cn.jpg" group-title="Quốc Tế"  tvg-chno="",Cartoon Network HD
+#EXTINF:-1 tvg-id="cartoonhd" tvg-name="CARTOON_NETWORK" tvg-logo="https://i.ibb.co/JqJVv5b/cn.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",Cartoon Network HD
 https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="animaxhd"  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png"  group-title="Quốc Tế" tvg-chno="107", Animax HD
+#EXTINF:-1 tvg-id="animaxhd"  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png"  group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="107", Animax HD
 https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="boomerang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_152240335127.png" group-title="Quốc Tế" tvg-chno="108", Boomerang
+#EXTINF:-1  tvg-id="boomerang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_152240335127.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="108", Boomerang
 https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="babyfirst" tvg-name="BabyFirst" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_baby-first_152332783386.png" group-title="Quốc Tế"  tvg-chno="",BabyFirst
+#EXTINF:-1 tvg-id="babyfirst" tvg-name="BabyFirst" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_baby-first_152332783386.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",BabyFirst
 https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="tvg-id="cbeebies"" tvg-logo="https://i.ibb.co/mHNZbn0/bbc.jpg"  group-title="Quốc Tế" tvg-chno="110",Cbeebies
+#EXTINF:-1 tvg-id="tvg-id="cbeebies"" tvg-logo="https://i.ibb.co/mHNZbn0/bbc.jpg"  group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="110",Cbeebies
 https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNNHD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnn_146581309815.png" group-title="Quốc Tế"  tvg-chno="",CNN
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNNHD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnn_146581309815.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",CNN
 https://livecdn.fptplay.net/sdb/cnn_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" group-title="Quốc Tế" tvg-chno="109",BBC Earth
+#EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="109",BBC Earth
 https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="bbcworldnews" tvg-name="BBC_World_News" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-news_156325644439.png" group-title="Quốc Tế"  tvg-chno="",BBC World News
+#EXTINF:-1 tvg-id="bbcworldnews" tvg-name="BBC_World_News" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-news_156325644439.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",BBC World News
 https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="Quốc Tế" tvg-chno="110",BBC Lifestyle 
+#EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="110",BBC Lifestyle 
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bloomberg_146581277148.png" group-title="Quốc Tế" tvg-chno="113",Bloomberg
+#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bloomberg_146581277148.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="113",Bloomberg
 https://livecdn.fptplay.net/sdb/bloomberg_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="abcaustralia" tvg-name="Australia_Plus" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_australia-plus_153051623532.png" group-title="Quốc Tế"  tvg-chno="",Australia Plus
+#EXTINF:-1 tvg-id="abcaustralia" tvg-name="Australia_Plus" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_australia-plus_153051623532.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",Australia Plus
 https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="discoveryhd" tvg-name="Discovery_Channel" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png" group-title="Quốc Tế"  tvg-chno="",Discovery HD
+#EXTINF:-1 tvg-id="discoveryhd" tvg-name="Discovery_Channel" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",Discovery HD
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="discoveryasiahd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png" group-title="Quốc Tế" tvg-chno="112",Discovery Asia HD
+#EXTINF:-1  tvg-id="discoveryasiahd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="112",Discovery Asia HD
 https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="animalhd" tvg-name="Animal_Planet" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_156335404347.jpg" group-title="Quốc Tế"  tvg-chno="",Animal Planet HD
+#EXTINF:-1 tvg-id="animalhd" tvg-name="Animal_Planet" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_156335404347.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻"  tvg-chno="",Animal Planet HD
 https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="tlchd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_156455581568.jpg" group-title="Quốc Tế" tvg-chno="114",Travel & Living HD
+#EXTINF:-1 tvg-id="tlchd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_156455581568.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="114",Travel & Living HD
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_youtv_162952854632.jpg" group-title="Quốc Tế" tvg-chno="114",YouTV 
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_youtv_162952854632.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="114",YouTV 
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="mtvhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_mtv_162952660009.jpg" group-title="Quốc Tế" tvg-chno="114",MTV HD
+#EXTINF:-1 tvg-id="mtvhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_mtv_162952660009.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="114",MTV HD
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="sbscnbchd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnbc_162952697893.jpg" group-title="Quốc Tế" tvg-chno="114",CNBC 
+#EXTINF:-1 tvg-id="sbscnbchd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnbc_162952697893.jpg" group-title="🅸🅽🆃🅴🆁🅽🅰🆃🅸🅾🅽🅰🅻" tvg-chno="114",CNBC 
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:-1 tvg-id="vovtvhd" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vovtv_161070256824.jpg",VOV Đài Tiếng Nói Việt Nam
+#EXTINF:-1 tvg-id="vovtvhd" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vovtv_161070256824.jpg",VOV Đài Tiếng Nói Việt Nam
 #http://mediatech.vncdn.vn/vovlive/tv1live.m3u8
 #https://live.truyenhinhdulich.vn/vovlive/tv1live.m3u8
 https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ttxvnhd"  group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_162952438542.jpg",VNews Thông Tấn Xã Việt Nam
+#EXTINF:-1 tvg-id="ttxvnhd"  group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_162952438542.jpg",VNews Thông Tấn Xã Việt Nam
 
 http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="antvhd"  group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_antv_156455515067.jpg",An Ninh TV
+#EXTINF:-1 tvg-id="antvhd"  group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_antv_156455515067.jpg",An Ninh TV
 
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="nhandan"  group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_truyen-hinh-nhan-dan_15645602611.jpg",Nhân Dân TV
+#EXTINF:-1 tvg-id="nhandan"  group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_truyen-hinh-nhan-dan_15645602611.jpg",Nhân Dân TV
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/chunklist.m3u8
 #https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="qpvnhd"  group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-phong-vn_145673312681.jpg",Quốc Phòng TV
+#EXTINF:-1 tvg-id="qpvnhd"  group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-phong-vn_145673312681.jpg",Quốc Phòng TV
 
 https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="quochoi"  group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-hoi-hd_145578230854.png",Quốc Hội TV
+#EXTINF:-1 tvg-id="quochoi"  group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-hoi-hd_145578230854.png",Quốc Hội TV
 https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="danang1" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-nang-1_156455534553.jpg", Đà Nẵng 1 HD
+#EXTINF:-1 tvg-id="danang1" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-nang-1_156455534553.jpg", Đà Nẵng 1 HD
 https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="danang2" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-nang-2_156455535103.jpg", Đà Nẵng 2 HD
+#EXTINF:-1 tvg-id="danang2" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-nang-2_156455535103.jpg", Đà Nẵng 2 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #https://livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist_b2800000.m3u8
 
-#EXTINF:-1 tvg-id="hanoi1" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_145672747757.jpg", Hà Nội 1 HD
+#EXTINF:-1 tvg-id="hanoi1" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_145672747757.jpg", Hà Nội 1 HD
 https://live.hanoitv.vn/hntvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-2_145672748742.jpg", Hà Nội 2 HD
+#EXTINF:-1 tvg-id="hanoi2" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-2_145672748742.jpg", Hà Nội 2 HD
 https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="binhduong1" tvg-logo="https://i.ibb.co/w6G1F5H/btv1.png" tvg-chno="58" group-title="Địa Phương"  ,BTV1 HD
+#EXTINF:-1 tvg-id="binhduong1" tvg-logo="https://i.ibb.co/w6G1F5H/btv1.png" tvg-chno="58" group-title="🅻🅾🅲🅰🅻"  ,BTV1 HD
 https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="binhduong2" tvg-logo="https://i.ibb.co/Fz63hY5/btv2.jpg" tvg-chno="59" group-title="Địa Phương" ,BTV2 HD
+#EXTINF:-1  tvg-id="binhduong2" tvg-logo="https://i.ibb.co/Fz63hY5/btv2.jpg" tvg-chno="59" group-title="🅻🅾🅲🅰🅻" ,BTV2 HD
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="binhduong4"  tvg-logo="https://i.ibb.co/GFj9qVt/btv4.png" tvg-chno="60" group-title="Địa Phương" ,BTV4 HD
+#EXTINF:-1  tvg-id="binhduong4"  tvg-logo="https://i.ibb.co/GFj9qVt/btv4.png" tvg-chno="60" group-title="🅻🅾🅲🅰🅻" ,BTV4 HD
 #https://vips-livecdn.fptplay.net/hda2/btv4hd_4000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="btv5hd"  tvg-logo="https://i.ibb.co/0hkCNs2/btv5.jpg" tvg-chno="61" group-title="Địa Phương"  ,BTV5 HD
+#EXTINF:-1 tvg-id="btv5hd"  tvg-logo="https://i.ibb.co/0hkCNs2/btv5.jpg" tvg-chno="61" group-title="🅻🅾🅲🅰🅻"  ,BTV5 HD
 https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.ibb.co/9nryb07/btv6.jpg" tvg-chno="62" group-title="Địa Phương" ,BTV6 HD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9nryb07/btv6.jpg" tvg-chno="62" group-title="🅻🅾🅲🅰🅻" ,BTV6 HD
 https://livecdn.fptplay.net/sda/btv6_2000.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/6DnYvpH/btv9.jpg" tvg-chno="63" group-title="Địa Phương" ,BTV9 HD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/6DnYvpH/btv9.jpg" tvg-chno="63" group-title="🅻🅾🅲🅰🅻" ,BTV9 HD
 https://livecdn.fptplay.net/sdc/btv9_2000.stream/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/6bfTFkb/btv10.png" tvg-chno="64" group-title="Địa Phương"  ,BTV10 HD
+#EXTINF:-1   tvg-logo="https://i.ibb.co/6bfTFkb/btv10.png" tvg-chno="64" group-title="🅻🅾🅲🅰🅻"  ,BTV10 HD
 https://livecdn.fptplay.net/sda/ncm_2000.stream/playlist.m3u8?
-#EXTINF:-1 tvg-id="binhduong11" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv-11_158459383676.png", BTV11 HD
+#EXTINF:-1 tvg-id="binhduong11" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv-11_158459383676.png", BTV11 HD
 https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="dongnai1" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-nai-1_156455544303.jpg", Đồng Nai 1 HD
+#EXTINF:-1 tvg-id="dongnai1" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-nai-1_156455544303.jpg", Đồng Nai 1 HD
 https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-nai-2_156455545067.jpg", Đồng Nai 2 HD
+#EXTINF:-1 tvg-id="dongnai2" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-nai-2_156455545067.jpg", Đồng Nai 2 HD
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="dongthap1" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-thap_145880869744.jpg", Đồng Tháp 1 HD
+#EXTINF:-1 tvg-id="dongthap1" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-thap_145880869744.jpg", Đồng Tháp 1 HD
 http://202.43.109.142:1935/THDT/thdttv/chunklist.m3u8
-#EXTINF:-1 tvg-id="dongthap2" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-thap_145880869744.jpg", Đồng Tháp 2
+#EXTINF:-1 tvg-id="dongthap2" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-thap_145880869744.jpg", Đồng Tháp 2
 http://202.43.109.144:1935/thdt2/thdt2/chunklist.m3u8
-#EXTINF:-1 tvg-id="binhphuoc1" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ca-mau_145880865141.jpg", Bình Phước 1 HD
+#EXTINF:-1 tvg-id="binhphuoc1" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ca-mau_145880865141.jpg", Bình Phước 1 HD
 http://103.90.220.236/bptvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="binhphuoc2" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc-2_145880693943.jpg", Bình Phước 2 HD
+#EXTINF:-1 tvg-id="binhphuoc2" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc-2_145880693943.jpg", Bình Phước 2 HD
 http://103.90.220.236/bptvlive/tv2live.m3u8
-#EXTINF:-1 tvg-id="haiphong" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hai-phong_156455547372.jpg", Hải Phòng HD
+#EXTINF:-1 tvg-id="haiphong" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hai-phong_156455547372.jpg", Hải Phòng HD
 https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="haiphongplus" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hai-phong_156455547372.jpg", Hải Phòng HD+
+#EXTINF:-1 tvg-id="haiphongplus" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hai-phong_156455547372.jpg", Hải Phòng HD+
 https://live.thhp.vn/hls/thpplus/index.m3u8
-#EXTINF:-1 tvg-id="kiengiang" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kien-giang_145880815375.jpg", Kiên Giang HD
+#EXTINF:-1 tvg-id="kiengiang" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kien-giang_145880815375.jpg", Kiên Giang HD
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 tvg-id="kiengiang1" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kien-giang_145880815375.jpg",  Kiên Giang 1 HD
+#EXTINF:-1 tvg-id="kiengiang1" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kien-giang_145880815375.jpg",  Kiên Giang 1 HD
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ninh-1_145672976024.jpg", Quảng Ninh 1 HD
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ninh-1_145672976024.jpg", Quảng Ninh 1 HD
 http://103.90.220.236/qtvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ninh-3_145672977406.jpg", Quảng Ninh 3 HD
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ninh-3_145672977406.jpg", Quảng Ninh 3 HD
 http://103.90.220.236/qtvlive/tv3live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-nam_145880919575.jpg", Quảng Nam HD
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-nam_145880919575.jpg", Quảng Nam HD
 https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="angiang" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_an-giang_145578823421.png", An Giang HD
+#EXTINF:-1 tvg-id="angiang" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_an-giang_145578823421.png", An Giang HD
 https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="baria" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ba-ria-vung-tau_156455527078.jpg", Bà Rịa Vũng Tàu HD
+#EXTINF:-1 tvg-id="baria" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ba-ria-vung-tau_156455527078.jpg", Bà Rịa Vũng Tàu HD
 https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="bacgiang" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-giang_15700007937.jpg", Bắc Giang HD
+#EXTINF:-1 tvg-id="bacgiang" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-giang_15700007937.jpg", Bắc Giang HD
 http://103.90.220.236/bgtvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="bacninh" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-ninh_156455524327.jpg", Bắc Ninh HD
+#EXTINF:-1 tvg-id="bacninh" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-ninh_156455524327.jpg", Bắc Ninh HD
 https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="baccan" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-kan_162952900786.jpg", Bắc Kạn
+#EXTINF:-1 tvg-id="baccan" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-kan_162952900786.jpg", Bắc Kạn
 http://113.160.162.131:8080/tv/bk.m3u8
-#EXTINF:-1 tvg-id="baclieu" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-lieu_156455519874.jpg", Bạc Liêu HD
+#EXTINF:-1 tvg-id="baclieu" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-lieu_156455519874.jpg", Bạc Liêu HD
 https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="bentre" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ben-tre_14588084926.jpg", Bến Tre
+#EXTINF:-1 tvg-id="bentre" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ben-tre_14588084926.jpg", Bến Tre
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
-#EXTINF:-1 tvg-id="binhdinh" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-dinh_145672697062.jpg", Bình Định HD
+#EXTINF:-1 tvg-id="binhdinh" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-dinh_145672697062.jpg", Bình Định HD
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 
 
 
-#EXTINF:-1 tvg-id="binhthuan" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ca-mau_145880865141.jpg", Bình Thuận HD
+#EXTINF:-1 tvg-id="binhthuan" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ca-mau_145880865141.jpg", Bình Thuận HD
 http://202.43.109.144:1935/thbttv/bttv/chunklist.m3u8
-#EXTINF:-1 tvg-id="camau" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ca-mau_145880865141.jpg", Cà Mau HD
+#EXTINF:-1 tvg-id="camau" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ca-mau_145880865141.jpg", Cà Mau HD
 https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cantho" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_can-tho_145672728114.jpg", Cần Thơ HD
+#EXTINF:-1 tvg-id="cantho" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_can-tho_145672728114.jpg", Cần Thơ HD
 https://mekongpassion.com/live/tv/chunklist.m3u8
-#EXTINF:-1 tvg-id="caobang" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cao-bang_149283044994.jpg", Cao Bằng HD
+#EXTINF:-1 tvg-id="caobang" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cao-bang_149283044994.jpg", Cao Bằng HD
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
 
-#EXTINF:-1 tvg-id="daklak" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dak-lak_145880969366.jpg", Đắk Lắk
+#EXTINF:-1 tvg-id="daklak" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dak-lak_145880969366.jpg", Đắk Lắk
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="dienbien" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dien-bien_156455538188.jpg", Điện Biên
+#EXTINF:-1 tvg-id="dienbien" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dien-bien_156455538188.jpg", Điện Biên
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="gialai" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png", Gia Lai
+#EXTINF:-1 tvg-id="gialai" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png", Gia Lai
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hagiang" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png", Hà Giang
+#EXTINF:-1 tvg-id="hagiang" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png", Hà Giang
 http://113.162.84.113:8080/hls/fm/index.m3u8
-#EXTINF:-1 tvg-id="hanam" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-nam_15323304952.jpg", Hà Nam HD
+#EXTINF:-1 tvg-id="hanam" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-nam_15323304952.jpg", Hà Nam HD
 http://103.90.220.236/thhnlive/tv1live.m3u8
 
-#EXTINF:-1 tvg-id="hatinh" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-tinh_145881054027.jpg", Hà Tĩnh HD
+#EXTINF:-1 tvg-id="hatinh" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-tinh_145881054027.jpg", Hà Tĩnh HD
 http://hatinhtv.vn:82/hls/httv.m3u8
-#EXTINF:-1 tvg-id="haiduong" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hai-duong_145880941298.jpg", Hải Dương HD
+#EXTINF:-1 tvg-id="haiduong" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hai-duong_145880941298.jpg", Hải Dương HD
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="haugiang" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hau-giang_145673319528.jpg", Hậu Giang HD
+#EXTINF:-1 tvg-id="haugiang" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hau-giang_145673319528.jpg", Hậu Giang HD
 https://livecdn.fptplay.net/sda/haugiang_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="hoabinh" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hoa-binh_145681701391.jpg", Hòa Bình
+#EXTINF:-1 tvg-id="hoabinh" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hoa-binh_145681701391.jpg", Hòa Bình
 https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hungyen" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hung-yen_145880734258.jpg", Hưng Yên HD
+#EXTINF:-1 tvg-id="hungyen" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hung-yen_145880734258.jpg", Hưng Yên HD
 http://103.90.220.236/hytvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="khanhhoa" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_khanh-hoa_145672791198.jpg", Khánh Hòa HD
+#EXTINF:-1 tvg-id="khanhhoa" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_khanh-hoa_145672791198.jpg", Khánh Hòa HD
 https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="kontum" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kon-tum_145881138908.jpg", Kon Tum HD
+#EXTINF:-1 tvg-id="kontum" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kon-tum_145881138908.jpg", Kon Tum HD
 http://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
-#EXTINF:-1 tvg-id="laichau" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lai-chau_159849986283.png", Lai Châu
+#EXTINF:-1 tvg-id="laichau" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lai-chau_159849986283.png", Lai Châu
 https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="lamdong" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lam-dong_145880770362.jpg", Lâm Đồng HD
+#EXTINF:-1 tvg-id="lamdong" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lam-dong_145880770362.jpg", Lâm Đồng HD
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
-#EXTINF:-1 tvg-id="langson" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lang-son_145880895824.jpg", Lạng Sơn HD
+#EXTINF:-1 tvg-id="langson" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lang-son_145880895824.jpg", Lạng Sơn HD
 http://103.90.220.236/lstvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="laocai" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lao-cai_145880951162.jpg", Lào Cai HD
+#EXTINF:-1 tvg-id="laocai" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lao-cai_145880951162.jpg", Lào Cai HD
 http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_long-an_145880901975.jpg", Long An HD
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_long-an_145880901975.jpg", Long An HD
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nam-dinh_145880959527.jpg", Nam Định
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nam-dinh_145880959527.jpg", Nam Định
 https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nghe-an_15426016909.jpg", Nghệ An HD
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nghe-an_15426016909.jpg", Nghệ An HD
 http://103.90.220.236/natvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ninh-binh_145672792288.jpg", Ninh Bình HD
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ninh-binh_145672792288.jpg", Ninh Bình HD
 http://103.90.220.236/nbtvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ninh-thuan_154260171915.jpg", Ninh Thuận 
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ninh-thuan_154260171915.jpg", Ninh Thuận 
 https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_phu-tho_14588083472.jpg", Phú Thọ HD
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_phu-tho_14588083472.jpg", Phú Thọ HD
 http://cdn.3ssoft.vn/livetv/phuthotv/phuthotv/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_phu-yen_151298361962.png", Phú Yên HD
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_phu-yen_151298361962.png", Phú Yên HD
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-binh-tv_145734126864.jpg", Quảng Bình
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-binh-tv_145734126864.jpg", Quảng Bình
 https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ngai_146362646218.jpg", Quảng Ngãi HD
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ngai_146362646218.jpg", Quảng Ngãi HD
 https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-tri_150339367566.png", Quảng Trị HD
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-tri_150339367566.png", Quảng Trị HD
 http://103.90.220.236/qrtvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_soc-trang_153233048284.jpg", Sóc Trăng 1
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_soc-trang_153233048284.jpg", Sóc Trăng 1
 https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_son-la_145881052785.jpg", Sơn La HD
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_son-la_145881052785.jpg", Sơn La HD
 http://118.107.85.4:1935/live/smil:STV.smil/chunklist_b1384000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tay-ninh-hd_15323305071.jpg", Tây Ninh HD
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tay-ninh-hd_15323305071.jpg", Tây Ninh HD
 http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thai-binh_145673305396.jpg", Thái Bình HD
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thai-binh_145673305396.jpg", Thái Bình HD
 http://103.90.220.236/tbtvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thai-nguyen_156455574521.jpg", Thái Nguyên 1 HD
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thai-nguyen_156455574521.jpg", Thái Nguyên 1 HD
 http://103.90.220.236/tntvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thanh-hoa_145828820204.jpg", Thanh Hóa HD
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thanh-hoa_145828820204.jpg", Thanh Hóa HD
 https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thua-thien-hue_145880926795.jpg", Thừa Thiên Huế
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thua-thien-hue_145880926795.jpg", Thừa Thiên Huế
 https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tien-giang_145734128144.jpg", Tiền Giang HD
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tien-giang_145734128144.jpg", Tiền Giang HD
 http://thtg.vn:8001/thtg.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tra-vinh_156455583815.jpg", Trà Vinh HD
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tra-vinh_156455583815.jpg", Trà Vinh HD
 https://livecdn.fptplay.net/sdc/travinh_1000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tuyen-quang_145673727398.jpg", Tuyên Quang HD
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tuyen-quang_145673727398.jpg", Tuyên Quang HD
 https://livecdn.fptplay.net/sda/tuyenquang_2000.stream/chunklist.m3u8
 #http://live.tuyenquangtv.vn/hls/ttv.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-phuc_145880931198.jpg", Vĩnh Phúc HD
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-phuc_145880931198.jpg", Vĩnh Phúc HD
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg", Yên Bái HD
+#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg", Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
 #https://livecdn.fptplay.net/sdc/yenbai_2000.stream/chunklist.m3u8
 
 
 
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h30-15/09: Spartak - Legia Warszawa
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h30-15/09: Spartak - Legia Warszawa
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb42b4d92252d0683f0ff-ZOmUrR&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-15/09: Costa Rica - Venezuela
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-15/09: Costa Rica - Venezuela
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb48d4d92252d0683f10c-lpiP68&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-15/09: Egypt - Guatemala
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-15/09: Egypt - Guatemala
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb4ac4d92252d0683f10f-07RwO6&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-15/09: Besiktas - Dortmund
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-15/09: Besiktas - Dortmund
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb40a4d92252d0683f0f6-OJh89d&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-15/09: FC Sheriff - Shakhtar Donetsk
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-15/09: FC Sheriff - Shakhtar Donetsk
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb40f4d92252d0683f0fb-4tQCoK&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-16/09: Lithuania - Kazakhstan
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-16/09: Lithuania - Kazakhstan
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb4c44d92252d0683f112-r0wnvv&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-16/09: Uzbekistan - Russia
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-16/09: Uzbekistan - Russia
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb4df4d92252d0683f115-v9VZUx&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",01h45-16/09: Stoke - Barnsley
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",01h45-16/09: Stoke - Barnsley
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa5958f771d768ed3919f-sREU3i&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Club Brugge - PSG
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Club Brugge - PSG
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9ef88f771d768ed390ab-scRaoX&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Man City - RB Leipzig
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Man City - RB Leipzig
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9efd8f771d768ed390ae-i2xwHs&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Atletico Madrid - FC Porto
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Atletico Madrid - FC Porto
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f018f771d768ed390af-WP8YTQ&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Liverpool - Milan
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Liverpool - Milan
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f048f771d768ed390b2-MS3VXb&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Sporting CP - Ajax
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Sporting CP - Ajax
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f078f771d768ed390b5-K3z7v6&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Inter - Real Madrid
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-16/09: Inter - Real Madrid
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f0b8f771d768ed390b8-31dc9s&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",06h00-16/09: Atlanta United - Cincinnati
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",06h00-16/09: Atlanta United - Cincinnati
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141dc738f771d768ed394a4-JWizS1&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",06h00-16/09: New York Red Bulls II - San Antonio FC
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",06h00-16/09: New York Red Bulls II - San Antonio FC
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141dfe18f771d768ed394aa-bVRap4&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",06h30-16/09: Orlando - Montreal
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",06h30-16/09: Orlando - Montreal
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141dfe38f771d768ed394ab-w8CXVh&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",07h00-16/09: Newell's Old Boys - River Plate
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",07h00-16/09: Newell's Old Boys - River Plate
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141dfe58f771d768ed394ae-ehg7Is&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",07h30-16/09: Flamengo - Gremio
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",07h30-16/09: Flamengo - Gremio
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141e01a8f771d768ed394b6-WEqMKI&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",07h30-16/09: Fortaleza - Sao Paulo
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",07h30-16/09: Fortaleza - Sao Paulo
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141e0258f771d768ed394b9-S2v5Me&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",08h00-16/09: Austin FC - LAFC
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",08h00-16/09: Austin FC - LAFC
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141e0a68f771d768ed394c0-BAR16y&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",08h00-16/09: Colorado Springs Switchbacks FC - El Paso Locomotive
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",08h00-16/09: Colorado Springs Switchbacks FC - El Paso Locomotive
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141e0a78f771d768ed394c1-Aied8q&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",09h00-16/09: Portland - Colorado
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",09h00-16/09: Portland - Colorado
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141e0a98f771d768ed394c2-ektQhw&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",09h30-16/09: LA Galaxy - Houston
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",09h30-16/09: LA Galaxy - Houston
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141e0ac8f771d768ed394c7-8AgOSt&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",15h30-16/09: Shenyang - J. Liansheng
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",15h30-16/09: Shenyang - J. Liansheng
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141e5ab8f771d768ed394de-lGpReZ&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",17h00-16/09: Gelephu - Paro Rinpung
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",17h00-16/09: Gelephu - Paro Rinpung
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141e3678f771d768ed394d3-LZt786&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",18h35-16/09: Meizhou Hakka - Suzhou Dongwu
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",18h35-16/09: Meizhou Hakka - Suzhou Dongwu
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6141e3e38f771d768ed394d8-r95r7Z&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h30-16/09: Kairat Almaty - Omonia Nicosia
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h30-16/09: Kairat Almaty - Omonia Nicosia
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9faf8f771d768ed390e1-53xa7t&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-16/09: Panama - Việt Nam
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-16/09: Panama - Việt Nam
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa1628f771d768ed39114-X9c0GL&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-16/09: Faroe Islands - Portugal
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-16/09: Faroe Islands - Portugal
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa1948f771d768ed39117-im2xPA&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Galatasaray - Lazio
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Galatasaray - Lazio
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f488f771d768ed390c2-MDeoSh&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Lokomotiv - Marseille
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Lokomotiv - Marseille
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f4d8f771d768ed390c5-KNJLyH&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Midtjylland - Ludogorets Razgrad
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Midtjylland - Ludogorets Razgrad
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f518f771d768ed390c8-KiCpJV&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: FK Crvena Zvezda - Braga
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: FK Crvena Zvezda - Braga
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f558f771d768ed390c9-uwc1PY&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Leverkusen - Ferencvaros
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Leverkusen - Ferencvaros
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f5b8f771d768ed390ce-gsOj2z&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Real Betis - Celtic
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Real Betis - Celtic
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f608f771d768ed390d1-uyKaiI&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Dinamo Zagreb - West Ham
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Dinamo Zagreb - West Ham
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f658f771d768ed390d4-9eZfUZ&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Rapid Wien - Genk
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Rapid Wien - Genk
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9f6a8f771d768ed390d7-DPwl7h&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: HJK - LASK
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: HJK - LASK
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9fb38f771d768ed390e4-hoWZpE&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Flora Tallinn - Gent
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Flora Tallinn - Gent
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9fbb8f771d768ed390e7-BSSy4g&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Slavia Prague - Union Berlin
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Slavia Prague - Union Berlin
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9fc18f771d768ed390ea-oA7ePH&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Lincoln Red Imps FC - PAOK Thessaloniki FC
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Lincoln Red Imps FC - PAOK Thessaloniki FC
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9fc78f771d768ed390ed-6DwsjD&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Slovan Bratislava - FC København
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Slovan Bratislava - FC København
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9fcb8f771d768ed390f0-1Q8LRE&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Mura - Vitesse
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Mura - Vitesse
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9fd08f771d768ed390f3-I2pcRV&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Rennes - Tottenham
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Rennes - Tottenham
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9fd58f771d768ed390f6-QMXUv8&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Qarabag FK - Basel
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h45-16/09: Qarabag FK - Basel
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613f9fda8f771d768ed390f9-HOzlHw&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-17/09: Brazil - Czech Republic
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-17/09: Brazil - Czech Republic
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa1c28f771d768ed3911a-WfQaVq&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-17/09: Thailand - Morocco
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-17/09: Thailand - Morocco
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa1e28f771d768ed3911d-yPWee4&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Brøndby IF - Sparta Prague
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Brøndby IF - Sparta Prague
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa2de8f771d768ed3912f-2d5KfH&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Rangers - Lyon
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Rangers - Lyon
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa2e58f771d768ed39132-HBJK1S&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Monaco - Sturm Graz
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Monaco - Sturm Graz
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa2eb8f771d768ed39135-IjC7h5&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: PSV Eindhoven - Real Sociedad
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: PSV Eindhoven - Real Sociedad
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa2f18f771d768ed39138-hhbG1L&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Leicester - Napoli
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Leicester - Napoli
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa2f68f771d768ed3913b-FZZPKZ&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Frankfurt - Fenerbahce
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Frankfurt - Fenerbahce
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa2fb8f771d768ed3913e-eCITGo&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Olympiacos - Royal Antwerp
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Olympiacos - Royal Antwerp
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa2ff8f771d768ed39141-FjX0qc&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Anorthosis - Partizan Beograd
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Anorthosis - Partizan Beograd
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa3518f771d768ed39146-gg4r2N&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Bodø/Glimt - Zorya
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Bodø/Glimt - Zorya
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa3578f771d768ed39149-zQcP54&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Roma - PFC CSKA-Sofia
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Roma - PFC CSKA-Sofia
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa35e8f771d768ed3914c-9J4CQC&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Jablonec - CFR Cluj
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Jablonec - CFR Cluj
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa3638f771d768ed3914f-yYBkz7&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Randers FC - AZ Alkmaar
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-17/09: Randers FC - AZ Alkmaar
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa3688f771d768ed39152-k2pb1r&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-17/09: Iran - USA
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-17/09: Iran - USA
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa2148f771d768ed39120-611hqQ&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-17/09: Spain - Japan
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-17/09: Spain - Japan
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa22b8f771d768ed39123-InABWt&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-18/09: Angola - Paraguay
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-18/09: Angola - Paraguay
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa24c8f771d768ed39126-cztxch&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-18/09: Argentina - Serbia
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-18/09: Argentina - Serbia
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa2628f771d768ed39129-dRiFBH&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",01h30-18/09: Hertha BSC - Greuther Fürth
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",01h30-18/09: Hertha BSC - Greuther Fürth
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4b08f771d768ed3917f-0XBXxP&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",01h45-18/09: Sassuolo - Torino
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",01h45-18/09: Sassuolo - Torino
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4578f771d768ed39176-nIlSXe&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-18/09: Newcastle - Leeds
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-18/09: Newcastle - Leeds
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4068f771d768ed39155-caItfY&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-18/09: Celta Vigo - Cadiz
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-18/09: Celta Vigo - Cadiz
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4398f771d768ed3916a-PQSDl2&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-18/09: Strasbourg - Metz
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",02h00-18/09: Strasbourg - Metz
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4de8f771d768ed39191-WTrMOX&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",18h30-18/09: Wolves - Brentford
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",18h30-18/09: Wolves - Brentford
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4088f771d768ed39156-QDXP4I&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",18h30-18/09: Hull - Sheff Utd
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",18h30-18/09: Hull - Sheff Utd
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa5ee8f771d768ed391a9-RxVXXq&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",19h00-18/09: Rayo Vallecano - Getafe
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",19h00-18/09: Rayo Vallecano - Getafe
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa43a8f771d768ed3916b-bMcdGP&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",20h00-18/09: Genoa - Fiorentina
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",20h00-18/09: Genoa - Fiorentina
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4598f771d768ed39177-0aZfwW&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",20h30-18/09: Arminia Bielefeld - Hoffenheim
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",20h30-18/09: Arminia Bielefeld - Hoffenheim
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4b28f771d768ed39180-zfa04f&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",20h30-18/09: Augsburg - M'gladbach
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",20h30-18/09: Augsburg - M'gladbach
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4b38f771d768ed39181-4sDRD1&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",20h30-18/09: Bayern München - Bochum
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",20h30-18/09: Bayern München - Bochum
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4b58f771d768ed39184-hzHhYA&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",20h30-18/09: Mainz - Freiburg
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",20h30-18/09: Mainz - Freiburg
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4b68f771d768ed39185-uZH4Fx&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h00-18/09: Burnley - Arsenal
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h00-18/09: Burnley - Arsenal
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4098f771d768ed39157-HodPcQ&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h00-18/09: Norwich - Watford
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h00-18/09: Norwich - Watford
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa40a8f771d768ed3915a-P7KdZ9&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h00-18/09: Liverpool - Crystal Palace
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h00-18/09: Liverpool - Crystal Palace
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa40b8f771d768ed3915b-pXHR6V&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h00-18/09: Man City - Southampton
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h00-18/09: Man City - Southampton
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa40d8f771d768ed39160-Oo0mJq&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h00-18/09: Preston - West Brom
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h00-18/09: Preston - West Brom
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa5ef8f771d768ed391aa-u9x2Sj&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h15-18/09: Atletico Madrid - Athletic Club
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",21h15-18/09: Atletico Madrid - Athletic Club
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa43b8f771d768ed3916c-VLhobe&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-18/09: Lens - Lille
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-18/09: Lens - Lille
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4df8f771d768ed39192-1K97na&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-18/09: Egypt - Uzbekistan
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-18/09: Egypt - Uzbekistan
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa6208f771d768ed391af-GgZRTI&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-18/09: Guatemala - Russia
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",22h00-18/09: Guatemala - Russia
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa6448f771d768ed391b2-PREpuZ&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h00-18/09: Inter - Bologna
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h00-18/09: Inter - Bologna
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa45a8f771d768ed39178-AAbipg&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h30-18/09: Aston Villa - Everton
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h30-18/09: Aston Villa - Everton
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa40f8f771d768ed39163-l1r1nI&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h30-18/09: Elche - Levante
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h30-18/09: Elche - Levante
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa43d8f771d768ed3916f-Ty9BNK&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h30-18/09: Köln - RB Leipzig
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",23h30-18/09: Köln - RB Leipzig
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa4b78f771d768ed39188-vz5PMe&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-19/09: Costa Rica - Lithuania
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-19/09: Costa Rica - Lithuania
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa67d8f771d768ed391b5-g5SY1l&.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá ⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-19/09: Venezuela - Kazakhstan
+#EXTINF:-1 group-title="🅻🅸🆅🅴 🅵🅾🅾🅾🆃🅱🅰🅻🅻⚽" tvg-logo="http://cakhiatv.com/wp-content/uploads/2021/06/cakhia-tv.jpg",00h00-19/09: Venezuela - Kazakhstan
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613fa69b8f771d768ed391b8-85fzFB&.m3u8|Referer=https://cakhiatv.live/truc-tiep
 
 
 
 #PHÁP GROUP ANDROID BOX TX5 LÀM VÌ ĐAM MÊ CHIA SẺ ^^!
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://eatnmore.com/wp-content/uploads/2020/10/oldboy-272503.jpg"      group-title="Phim Lẻ"   ,Báo Thù - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://eatnmore.com/wp-content/uploads/2020/10/oldboy-272503.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Báo Thù - Phim Lẻ
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210311/oldboy_2003_korea_tm/b65543efcb6afcdc3977d05b4ac8e24e_1080p.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/cong-to-vien-hung-bao-ctvhb363901.jpg"      group-title="Phim Lẻ"   ,Công Tố Viên Hung Bạo - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/cong-to-vien-hung-bao-ctvhb363901.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Công Tố Viên Hung Bạo - Phim Lẻ
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191128/a_violent_prosecutor_fptplay_1080p_logofptplay/5504a21c41ce77478d8308592b16791c_1080p.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://s3.cloud.cmctelecom.vn/tinhte2/2019/08/4746978_cover_phim_exit_han_quoc.jpg"      group-title="Phim Lẻ"   ,Lối Thoát Trên Không - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://s3.cloud.cmctelecom.vn/tinhte2/2019/08/4746978_cover_phim_exit_han_quoc.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Lối Thoát Trên Không - Phim Lẻ
 #http://s3-hcm1-r1.longvan.net/phimle/loithoattrenkhongtm.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="http://khophimhan.com/wp-content/uploads/2017/09/top-phim-han-hay-nhat-ve-chien-tranh-khien-nguoi-xem-quan-tim-9.jpg"      group-title="Phim Lẻ"   ,Cờ Thái Cực Giương Cao - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://khophimhan.com/wp-content/uploads/2017/09/top-phim-han-hay-nhat-ve-chien-tranh-khien-nguoi-xem-quan-tim-9.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Cờ Thái Cực Giương Cao - Phim Lẻ
 https://vod06-cdn.fptplay.net/encoded/20200711/taegukgihwinalrimyeo_2004_korea_v2_sub/1080p/index.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="http://thegioidienanh.vn/stores/news_dataimages/hath/082017/19/10/1619_11_7.jpg"      group-title="Phim Lẻ"   ,Cảnh Sát Tập Sự - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://thegioidienanh.vn/stores/news_dataimages/hath/082017/19/10/1619_11_7.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Cảnh Sát Tập Sự - Phim Lẻ
 #http://s3-hcm1-r1.longvan.net/phimle/canhsattapsu.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets.glxplay.io/images/w700/title/the-man-from-nowhere_web_backdrop_bc181c4885ce3445594fc0d1add9ae36.jpg"      group-title="Phim Lẻ"   ,Người Vô Danh Tính - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets.glxplay.io/images/w700/title/the-man-from-nowhere_web_backdrop_bc181c4885ce3445594fc0d1add9ae36.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Người Vô Danh Tính - Phim Lẻ
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201119/the_man_from_nowhere_fptplay_1080p_sub_logofptplay/dca121e1023f189d84742aee00d0cf0d_1080p.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/YEXLz8L_hLs/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Chạy Đâu Cho Thoát - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/YEXLz8L_hLs/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Chạy Đâu Cho Thoát - Phim Lẻ
 
 #https://hls.phimno1.com:443/files/d57ad2647e1ea41d744e4a6165680bd8_720p.mp4.m3u8
 #http://s3-hcm-r1.longvan.net/phimle/chaydauchothoattm.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://media-cdn.laodong.vn/storage/newsportal/Uploaded/nguyenvanthang/2017_06_21/bai-hoc-tu-cuoc-chien-ngam-wshowbiz-2_OWNL.jpg"     group-title="Phim Lẻ" , Cuộc Chiến Ngầm - Phim Lẻ    
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://media-cdn.laodong.vn/storage/newsportal/Uploaded/nguyenvanthang/2017_06_21/bai-hoc-tu-cuoc-chien-ngam-wshowbiz-2_OWNL.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Cuộc Chiến Ngầm - Phim Lẻ    
 #https://hls.phimno1.com:443/files/33112ea9e2bcac310893f2f1f08f6666_720p.mp4.m3u8
 
 
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://loanghenhachay.com/wp-content/uploads/2019/01/Phim-Confidential-Assignment.jpg"     group-title="Phim Lẻ" , Nhiệm Vụ Tối Mật - Phim Lẻ    
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://loanghenhachay.com/wp-content/uploads/2019/01/Phim-Confidential-Assignment.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Nhiệm Vụ Tối Mật - Phim Lẻ    
 #https://hls.phimno1.com:443/files/158de82d3df9b9e24aa692d9ef90a0e4_720p.mp4.m3u8
 
-#EXTINF:-1 tvg-id="phim"  tvg-logo="http://cdn.tgdd.vn/Files/2020/12/24/1315847/review-phim-ky-sinh-trung-parasite-2019-phim-han-quoc-dau-tien-doat-giai-oscar-202012241800157650.jpg"      group-title="Phim Lẻ"   ,Ký Sinh Trùng - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://cdn.tgdd.vn/Files/2020/12/24/1315847/review-phim-ky-sinh-trung-parasite-2019-phim-han-quoc-dau-tien-doat-giai-oscar-202012241800157650.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Ký Sinh Trùng - Phim Lẻ
 #http://s3-hcm1-r1.longvan.net/phimle/kysinhtrungtm.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/oOSataDfoo8/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Tội Ác Ghê Tởm - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/oOSataDfoo8/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Tội Ác Ghê Tởm - Phim Lẻ
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200914/i-saw-the-devil-2010-korea-sub-sub/b8df664240da80fb2f83002fa4f0a41b-1080p.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/DsEJkUyFAi0/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Trùm, Cớm và Ác Quỷ - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/DsEJkUyFAi0/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Trùm, Cớm và Ác Quỷ - Phim Lẻ
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200115/the_gangster_the_cop_the_devil_1080p_sub_logofptplay/25331b09a80bcf6c32ce785154064e32_1080p.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/jQDwoFZVWxM/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Kẻ Đi Săn - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/jQDwoFZVWxM/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Kẻ Đi Săn - Phim Lẻ
 https://vod07-cdn.fptplay.net/encoded/20200813/the-chaser-2008-korea-1080p-sub/1080p/index.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/07/12/ouj4qxsr_1920x1080-vungdatquydu1_1267_712.jpg"      group-title="Phim Lẻ"   ,Vùng Đất Quỷ Dữ - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/07/12/ouj4qxsr_1920x1080-vungdatquydu1_1267_712.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ - Phim Lẻ
 #https://hls.phimno1.com:443/files/d6af05825e819b253ed35befcb3faccb_720p.mp4.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://4.bp.blogspot.com/-_9e0KJ-ETW0/WrjkJi7cwhI/AAAAAAAAE04/rAIm-Qk1r6ElSMXQJDTPxs0vRg_ADZS-ACLcBGAs/s1600/r-0006residentevilapocalypsequadmovieposterl-201611670.jpg"      group-title="Phim Lẻ"   ,Vùng Đất Quỷ Dữ 2 - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://4.bp.blogspot.com/-_9e0KJ-ETW0/WrjkJi7cwhI/AAAAAAAAE04/rAIm-Qk1r6ElSMXQJDTPxs0vRg_ADZS-ACLcBGAs/s1600/r-0006residentevilapocalypsequadmovieposterl-201611670.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ 2 - Phim Lẻ
 #https://hls.phimno1.com:443/files/8d44b6e8eb08d84da3b196b31537414c_720p.mp4.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ibb.co/dtdm5dR/ucuzyehr-1920x1080-vungdatquydu3-782-432.jpg"      group-title="Phim Lẻ"   ,Vùng Đất Quỷ Dữ 3 - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ibb.co/dtdm5dR/ucuzyehr-1920x1080-vungdatquydu3-782-432.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ 3 - Phim Lẻ
 #https://hls.phimno1.com:443/files/5396d54da6aa7d418ea574cc032f5c76_720p.mp4.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2021/07/12/fzei3gsg_1920x1080-vungdatquydu4_1920_1080.jpg"      group-title="Phim Lẻ"   ,Vùng Đất Quỷ Dữ 4 - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2021/07/12/fzei3gsg_1920x1080-vungdatquydu4_1920_1080.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ 4 - Phim Lẻ
 #https://hls.phimno1.com:443/files/457cd9991826f08b09598ba59327af6f_720p.mp4.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/12/quiubb7r_1920x1080-vungdatquydu5.jpg"      group-title="Phim Lẻ"   ,Vùng Đất Quỷ Dữ 5 - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/12/quiubb7r_1920x1080-vungdatquydu5.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ 5 - Phim Lẻ
 #https://hls.phimno1.com:443/files/076adaa531322cc6283fa15645e07686_720p.mp4.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://photo2.tinhte.vn/data/attachment-files/2020/10/5173903_Resident-Evil-The-Final-Chapter-Final-Poster-Featured.jpg"      group-title="Phim Lẻ"   ,Vùng Đất Quỷ Dữ 6 - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://photo2.tinhte.vn/data/attachment-files/2020/10/5173903_Resident-Evil-The-Final-Chapter-Final-Poster-Featured.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ 6 - Phim Lẻ
 #https://hls.phimno1.com:443/files/877e197cf3cf506f6570426c13278c63_720p.mp4.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/njzLrIAPi5Q/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Vùng Đất Quỷ Dữ - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/njzLrIAPi5Q/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ - Phim Lẻ
 
 
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2021/1/22/deadpool-marvel-header-16113082064141231162459.jpg"      group-title="Phim Lẻ"   , Quái Nhân Deadpool  - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2021/1/22/deadpool-marvel-header-16113082064141231162459.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   , Quái Nhân Deadpool  - Phim Lẻ
 #http://s3-hcm-r1.longvan.net/phimle/deadpool2016.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.moveek.com/media/cache/large/b25bd5c26e515adb40e4bdd349e6d8243b014416.jpg"      group-title="Phim Lẻ"   ,Quái Nhân Deadpool 2 - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.moveek.com/media/cache/large/b25bd5c26e515adb40e4bdd349e6d8243b014416.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Quái Nhân Deadpool 2 - Phim Lẻ
 #http://s3-hcm-r1.longvan.net/phimle/deadpool2018.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://media.songdep.com.vn/files/thaian/2021/05/11/lich-chieu-venom-doi-mat-tu-thu-tai-rap-viet-nam-8-164224.jpg"      group-title="Phim Lẻ"   , Quái Vật Venom - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://media.songdep.com.vn/files/thaian/2021/05/11/lich-chieu-venom-doi-mat-tu-thu-tai-rap-viet-nam-8-164224.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   , Quái Vật Venom - Phim Lẻ
 #http://s3-hcm1-r1.longvan.net/phimle/quaivatvenomtm.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.studyphim.vn/system/movies/2286/thumbnails/medium/GOTT.png"      group-title="Phim Lẻ"   ,Cưỡng Đoạt  - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.studyphim.vn/system/movies/2286/thumbnails/medium/GOTT.png"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Cưỡng Đoạt  - Phim Lẻ
 #https://hls.phimno1.com:443/files/2e5669fd1890f77385ccff141d67ecbf_720p.mp4.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://binhluanphim.files.wordpress.com/2012/10/taken-2_img.jpg"      group-title="Phim Lẻ"   ,Cưỡng Đoạt 2 - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://binhluanphim.files.wordpress.com/2012/10/taken-2_img.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Cưỡng Đoạt 2 - Phim Lẻ
 #https://hls.phimno1.com:443/files/efe26ab42d6dce1defc7cee2381e4614_720p.mp4.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/k:thumb_w/600/5rlgfkdN55CYJRhfWf2vfextv8dIqp/Image/2015/01/taken-3-tang-ve/6-9e1d0/trai-nghiem-lai-canh-hanh-dong-mau-lua-cua-taken-va-taken-2-.jpg"      group-title="Phim Lẻ"   ,Cưỡng Đoạt 3 - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/k:thumb_w/600/5rlgfkdN55CYJRhfWf2vfextv8dIqp/Image/2015/01/taken-3-tang-ve/6-9e1d0/trai-nghiem-lai-canh-hanh-dong-mau-lua-cua-taken-va-taken-2-.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Cưỡng Đoạt 3 - Phim Lẻ
 #https://hls.phimno1.com:443/files/d2d615de2c597db2740d6e521e8181f5_720p.mp4.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/1024/uploaded/hoangnam/2019_05_28/01_fpbp.jpg"      group-title="Phim Lẻ"   ,Sát thủ John Wick   - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/1024/uploaded/hoangnam/2019_05_28/01_fpbp.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Sát thủ John Wick   - Phim Lẻ
 #http://s3-hcm1-r1.longvan.net/phimle/satthujohnwick1tm.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.stereo.vn/uploads/2015/09/John-Wick-Poster.jpg"      group-title="Phim Lẻ"   ,Sát thủ John Wick 2 - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.stereo.vn/uploads/2015/09/John-Wick-Poster.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Sát thủ John Wick 2 - Phim Lẻ
 #http://s3-hcm1-r1.longvan.net/phimle/satthujohnwick2.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/9IQY2BN17dQ/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Sát thủ John Wick 3 - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/9IQY2BN17dQ/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Sát thủ John Wick 3 - Phim Lẻ
 #http://s3-hcm1-r1.longvan.net/phimle/satthujohnwick3tm.mp4
 
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/9N8RdZFl-6o/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Không Chốn Dung Thân  - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/9N8RdZFl-6o/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Không Chốn Dung Thân  - Phim Lẻ
 #http://s3-hcm-r1.longvan.net/phimle/khongchondungthantm.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/61225992416d7654dfad33d3_hoi-sinh-ky-uc-1.jpg"      group-title="Phim Lẻ"   ,Hồi Sinh Ký Ức  - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/61225992416d7654dfad33d3_hoi-sinh-ky-uc-1.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Hồi Sinh Ký Ức  - Phim Lẻ
 #https://hls.phimno1.com:443/files/e25b0c9d79626b904ce900966eb4d003_720p.mp4.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.galaxycine.vn/media/wysiwyg/images/4%285%29.jpg"      group-title="Phim Lẻ"   ,Sát Nhân Bóng Tối - Don't Breathe - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.galaxycine.vn/media/wysiwyg/images/4%285%29.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Sát Nhân Bóng Tối - Don't Breathe - Phim Lẻ
 #https://hls.phimno1.com:443/files/6661710c63c1a4fa668abf97bb2e1457_720p.mp4.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/jDFFqOzaBng/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Sát Nhân Bóng Tối 2 - Don't Breathe 2 - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/jDFFqOzaBng/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Sát Nhân Bóng Tối 2 - Don't Breathe 2 - Phim Lẻ
 #https://hls.phimno1.com:443/files/94551fab0d7b1a80fd0b8ef4a9daa728_720p.mp4.m3u8
 #http://s3-hcm-r1.longvan.net/phimle/satnhantrongbongtoitm.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/k4817Bng.jpg"      group-title="Phim Lẻ"   , Người Hobbit: Hành Trình Vô Định  - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/k4817Bng.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   , Người Hobbit: Hành Trình Vô Định  - Phim Lẻ
 #http://s3-hcm-r1.longvan.net/phimle/nguoihobbithanhtrinhvodinhtm.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="http://laurasblog.edenreign.net/wp-content/uploads/2014/02/the_hobbit__the_desolation_of_smaug.jpg"      group-title="Phim Lẻ"   , Người Hobbit: Đại Chiến Với Rồng Lửa  - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://laurasblog.edenreign.net/wp-content/uploads/2014/02/the_hobbit__the_desolation_of_smaug.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   , Người Hobbit: Đại Chiến Với Rồng Lửa  - Phim Lẻ
 #http://s3-hcm-r1.longvan.net/phimle/nguoihobbitdaichienvoirongluatm.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/nhdc5cq151336m1.jpg"      group-title="Phim Lẻ"   , Người Hobbit Đại Chiến Năm Cánh Quân - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/nhdc5cq151336m1.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   , Người Hobbit Đại Chiến Năm Cánh Quân - Phim Lẻ
 #http://s3-hcm-r1.longvan.net/phimle/nguoihobbitdaichiennamcanhquantm.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/650/2017/1-1489251315944.jpg"      group-title="Phim Lẻ"   ,Kong Và Người Đẹp - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/650/2017/1-1489251315944.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Kong Và Người Đẹp - Phim Lẻ
 #http://s3-hcm-r1.longvan.net/phimle/kingkongvanguoidep.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://photo-cms-viettimes.zadn.vn/666x374/Uploaded/2021/livospwi/2018_03_04/kongnewyorktimes_tjyi.jpg"      group-title="Phim Lẻ"   ,Kong: Đảo Đầu Lâu - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://photo-cms-viettimes.zadn.vn/666x374/Uploaded/2021/livospwi/2018_03_04/kongnewyorktimes_tjyi.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Kong: Đảo Đầu Lâu - Phim Lẻ
 #http://s3-hcm-r1.longvan.net/phimle/kong2017.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2021/3/25/ngang-1-16166501818641192461916.jpg"      group-title="Phim Lẻ"   ,Godzilla Đại Chiến Kong - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2021/3/25/ngang-1-16166501818641192461916.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Godzilla Đại Chiến Kong - Phim Lẻ
 #http://s3-hcm1-r1.longvan.net/phimle/godzilladaichienkongtm.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2021_02_13/vuong_bao_cuong4.jpg"      group-title="Phim Lẻ"   ,Thám Tử Phố Tàu - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2021_02_13/vuong_bao_cuong4.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thám Tử Phố Tàu - Phim Lẻ
 https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20160117/b36c3a4846a24fcc246a3e22c86cf30a.smil/chunklist_b1998000.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://afamilycdn.com/thumb_w/600/150157425591193600/2021/2/13/thamtu4-1613208019019892095482-42-0-388-660-crop-1613208364169920836889.jpg"      group-title="Phim Lẻ"   ,Thám Tử Phố Tàu 2 - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://afamilycdn.com/thumb_w/600/150157425591193600/2021/2/13/thamtu4-1613208019019892095482-42-0-388-660-crop-1613208364169920836889.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thám Tử Phố Tàu 2 - Phim Lẻ
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210203/detective-chinatown-2-2018-china-tm/03a82ef013d3b92bc10bcbb74ebe167a.smil/chunklist_b4628000.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh6.googleusercontent.com/LvrafZ96_KrF1NnDR4uLP4TtrFQrB7kFXRZinlGOnJQrwWX4TFNm976aGXF2_JCjw5M"      group-title="Phim Lẻ"   ,Thám Tử Phố Tàu 3 - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh6.googleusercontent.com/LvrafZ96_KrF1NnDR4uLP4TtrFQrB7kFXRZinlGOnJQrwWX4TFNm976aGXF2_JCjw5M"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thám Tử Phố Tàu 3 - Phim Lẻ
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210519/detective_chinatown_3_2021_sub_v5_sub/8e845eb0d74e2cfac69c75f93fbb9838_1080p.mp4/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/tham-tu-k-bi-mat-goa-phu-stkbmgp702957-2019120924.jpg"      group-title="Phim Lẻ"   ,Thám Tử K: Bí Mật Hoa Ô Đầu - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/tham-tu-k-bi-mat-goa-phu-stkbmgp702957-2019120924.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thám Tử K: Bí Mật Hoa Ô Đầu - Phim Lẻ
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201126/detective-k-secret-of-virtuous-widow-fptplay-1080p-sub-logofptplay/6aacaea92ad6acb2e7a3594c7ecb3eea-1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImI4MDJiYjMxYzg0OWFjOGJhYWM0MWY4YTMyYmRlN2MwIiwgInZpZGVvX2lkIjogIjVmYzg5YzI5MjA4OWJkMGI5NjdiMjhlMyIsICJzZXJ2ZXJfdGltZSI6IDE2MzA4MTc0NjUsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://2.bp.blogspot.com/-CHVGwoUz7_Q/WsHzuM_2LSI/AAAAAAAE734/SSCJDQ4DRjcNT-Zj2xiYyGl5U7mE765wACHMYCw/s0/XemPhimOn_gallery_tham-tu-k-bi-mat-goa-phu-0.jpg"      group-title="Phim Lẻ"   ,Thám Tử K: Ma Cà Rồng Báo Thù - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://2.bp.blogspot.com/-CHVGwoUz7_Q/WsHzuM_2LSI/AAAAAAAE734/SSCJDQ4DRjcNT-Zj2xiYyGl5U7mE765wACHMYCw/s0/XemPhimOn_gallery_tham-tu-k-bi-mat-goa-phu-0.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thám Tử K: Ma Cà Rồng Báo Thù - Phim Lẻ
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200618/detective_k_secret_of_the_living_dead_1080p_sub_logofptplay_v3/7ff832496f2755a6d194ed0053751cb3_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjIyYzkwNWNjOWI3MTFmNDQ0ZGNiMDY0Mzk0NWM0NTY1IiwgInZpZGVvX2lkIjogIjVlMjQxYzk5MjA4OWJkMDU0OTA2NjI5NCIsICJzZXJ2ZXJfdGltZSI6IDE2MzAxMTk4NDQsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/19_11_2020/untitled-119-11-2020_07g14-08.jpg"      group-title="Phim Lẻ"   ,Tuổi Trẻ Sục Sôi - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/19_11_2020/untitled-119-11-2020_07g14-08.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Tuổi Trẻ Sục Sôi - Phim Lẻ
 https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201119/hot_young_blood_fptplay_1080p_logofptplay_v2/98ae308c5a14cbe9d0abffd250d854ca_1080p.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://aumyhay.files.wordpress.com/2019/02/phim_phia_sau_tam_guong.jpg?w=1100&h=619"      group-title="Phim Lẻ"   ,Phía Sau Tấm Gương- Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://aumyhay.files.wordpress.com/2019/02/phim_phia_sau_tam_guong.jpg?w=1100&h=619"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Phía Sau Tấm Gương- Phim Lẻ
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210828/look_away_2018_usa_1080p_logofptplay_tm/5edd470cf16e474018db6b757e015663_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjA5NzQzY2YyNDZkMzVkNWVlNGM1ZTNkNzVhOTZiMzNlIiwgInZpZGVvX2lkIjogIjYxMmU1NDg3MjA4OWJkMDBhM2I1N2JmMSIsICJzZXJ2ZXJfdGltZSI6IDE2MzA0MjcyNDQsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://phunuvietnam.mediacdn.vn/zoom/660_412/media/news/a658d23016fb87f4536849e04851921d/thumb/phim-thay-oi-em-yeu-anh-tung-mv-giong-em-gai-mua-banner-thumb43.jpg"      group-title="Phim Lẻ"   ,Thầy Ơi… Em Yêu Anh - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://phunuvietnam.mediacdn.vn/zoom/660_412/media/news/a658d23016fb87f4536849e04851921d/thumb/phim-thay-oi-em-yeu-anh-tung-mv-giong-em-gai-mua-banner-thumb43.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thầy Ơi… Em Yêu Anh - Phim Lẻ
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200212/sensei_fptplay_4k_1080p_sub_logofptplay/6e652b40df1f46a68b1829b24643254e_1080p.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/TGRUeKg.jpg"      group-title="Phim Lẻ"   ,Dạ Quỷ - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/TGRUeKg.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Dạ Quỷ - Phim Lẻ
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191006/rampant_2018_korea_pd_1080p/02a04b8acf9805b901f1ed6e328dd9ab_1080p.mp4/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/07_04_2020/untitled-107-04-2020_09g47-56.jpg"      group-title="Phim Lẻ"   ,Sát Thủ Văn Phòng - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/07_04_2020/untitled-107-04-2020_09g47-56.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Sát Thủ Văn Phòng - Phim Lẻ
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201116/a_company_man_fptplay_1080p_logofptplay/89e2f8cbec8f370972d30ec946748a69_1080p.mp4/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://1.bp.blogspot.com/-Iirl1jTyfeM/XxsH3cdFtoI/AAAAAAAAMKc/awD2_tbCdSEneaesDukxGYOvvmQiiTnrQCLcBGAsYHQ/s1600/youku-original-film-Water-Monster.jpeg"      group-title="Phim Lẻ"   ,Thủy Quái - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://1.bp.blogspot.com/-Iirl1jTyfeM/XxsH3cdFtoI/AAAAAAAAMKc/awD2_tbCdSEneaesDukxGYOvvmQiiTnrQCLcBGAsYHQ/s1600/youku-original-film-Water-Monster.jpeg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thủy Quái - Phim Lẻ
 
 https://v95.x2convert.com/xbase/us40.x2convert.com/xcfiles/videos/2021/9/3/thuy_quai_the_water_monster_2019_phim_chieu_rap_moi_nhat_2021_thuyet_minh_-1368063836713880944.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/I3hpoKJULUE/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Thủy Quái 2 - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/I3hpoKJULUE/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thủy Quái 2 - Phim Lẻ
 https://v95.x2convert.com/xbase/us40.x2convert/xcfiles/videos/2021/9/12/vietsub_thuy_quai_rung_go_mun_khi_nuoc_quay_lai_bao_thu_phim_kinh_di_vien_tuong_hot_2021_youku_4665478123291504346.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/0VjwGRKisBY/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Siêu Đại Chiến Thái Bình Dương - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/0VjwGRKisBY/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Siêu Đại Chiến Thái Bình Dương - Phim Lẻ
 #https://hls.phimno1.com:443/files/35a76ee06fb662faf153a64069be9bad_720p.mp4.m3u8
 
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/2/2018/03/pacific-rim-uprising-1280x720-gipsy-avenger-2018-4k-12312-800x450.jpg"      group-title="Phim Lẻ"   ,Siêu Đại Chiến Thái Bình Dương 2: Trỗi Dậy - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/2/2018/03/pacific-rim-uprising-1280x720-gipsy-avenger-2018-4k-12312-800x450.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Siêu Đại Chiến Thái Bình Dương 2: Trỗi Dậy - Phim Lẻ
 #https://hls.phimno1.com:443/files/0321427c7d5cedb538a42bbd86844fc4_720p.mp4.m3u8
 
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/04_12_2019/untitled-104-12-2019_02g47-24.jpg"      group-title="Phim Lẻ"   ,Ẩn Thân - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/04_12_2019/untitled-104-12-2019_02g47-24.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Ẩn Thân - Phim Lẻ
 https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200413/secretly_greatly_fptplay_1080p_sub_logofptplay/5e495f83bc6ee50988e38a438e413c0e.smil/chunklist_b3992000.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/21_11_2019/201807191056251730_t21-11-2019_05g46-35.jpg"      group-title="Phim Lẻ"   ,Bạn Ma Phiền Toái - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/21_11_2019/201807191056251730_t21-11-2019_05g46-35.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Bạn Ma Phiền Toái - Phim Lẻ
 https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191120/the_soul_mate_1080p_logofptplay/df66379980f8c5ba1c81e3f5457659d9.smil/chunklist_b3992000.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn-2.tstatic.net/sultra/foto/bank/images/film-korea-hit-and-run-squad.jpg"      group-title="Phim Lẻ"   ,Biệt Đội Hit & Run - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn-2.tstatic.net/sultra/foto/bank/images/film-korea-hit-and-run-squad.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Biệt Đội Hit & Run - Phim Lẻ
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210801/hit_and_run_squad_2019_korea_1080p_sub/5a7ff0b555923e2feff4326995171f7a.smil/chunklist_b4628000.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://afamilycdn.com/zoom/480_300/150157425591193600/2020/4/6/800x500-1-1586171317013355997755-0-0-500-800-crop-1586171325365794783897.png"      group-title="Phim Lẻ"   ,Thợ Săn Tiền Thưởng - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://afamilycdn.com/zoom/480_300/150157425591193600/2020/4/6/800x500-1-1586171317013355997755-0-0-500-800-crop-1586171325365794783897.png"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thợ Săn Tiền Thưởng - Phim Lẻ
 https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210214/bounty-hunters-1080p-2016-korea-tm-v2/05bbb12160f74bb152d330ee3311bb54-1080p.mp4/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2020/12/25/frdbggv2_1920x1080cobeak.jpg"      group-title="Phim Lẻ"   ,Cô Baek - Phim Lẻ  
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2020/12/25/frdbggv2_1920x1080cobeak.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Cô Baek - Phim Lẻ  
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210801/miss_baek_2018_korea_logofptplay_tm/76d40b845fc624c83ddf25551e14267a.smil/chunklist_b4628000.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/10_09_2020/the-witch-banner10-09-2020_12g05-12.jpg"      group-title="Phim Lẻ"   ,Sát Thủ Nhân Tạo - The Witch: Part 1. The Subversion - Phim Lẻ  
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/10_09_2020/the-witch-banner10-09-2020_12g05-12.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Sát Thủ Nhân Tạo - The Witch: Part 1. The Subversion - Phim Lẻ  
 https://vod02-cdn.fptplay.net/encoded/20200910/the_witch_part_1_the_subversion_2018_korea_sub_v3/1080p/index.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2018/8/26/1hoabi-15352543573631587444741.png"      group-title="Phim Lẻ"   ,Họa Bì - Painted Skin 2008 - Phim Lẻ  
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2018/8/26/1hoabi-15352543573631587444741.png"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Họa Bì - Painted Skin 2008 - Phim Lẻ  
 https://vod05-cdn.fptplay.net/encoded/20200524/paintedskin_2008_chi_mul/1080p/index.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vcdn1-giaitri.vnecdn.net/2012/03/05/tao_hinh-1345817360.jpg?w=480&h=0&q=100&dpr=1&fit=crop&s=-XK0G6L2nLcmFPibyxLZHg"      group-title="Phim Lẻ"   ,Họa Bì 2 - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vcdn1-giaitri.vnecdn.net/2012/03/05/tao_hinh-1345817360.jpg?w=480&h=0&q=100&dpr=1&fit=crop&s=-XK0G6L2nLcmFPibyxLZHg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Họa Bì 2 - Phim Lẻ
 https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200726/psiitr2012dub/e84fbe510506ecb86c0e6edfc6b575ee.smil/chunklist_b4628000.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/2019/7/9/57355fa7b6fd4bbe96c7d21ba83a3c70-1562649233245510831468.jpeg"      group-title="Phim Lẻ"   ,Hoa Mộc Lan - Phim Lẻ  
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/2019/7/9/57355fa7b6fd4bbe96c7d21ba83a3c70-1562649233245510831468.jpeg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Hoa Mộc Lan - Phim Lẻ  
 
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://hdvietsub.net/wp-content/uploads/2017/04/bg_01_lrs63116-744x419.jpg"      group-title="Phim Lẻ"   ,Đường Hầm - Phim Lẻ  
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://hdvietsub.net/wp-content/uploads/2017/04/bg_01_lrs63116-744x419.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Đường Hầm - Phim Lẻ  
 https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200331/tunnel_fptplay_rerender_1080p_sub_logofptplay/f1bba0f9553b464277ff0a748bb5cc54.smil/chunklist_b3992000.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.6435-9/72995397_110657550355331_354254919823261696_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_ohc=m1-4D73iYAAAX83BnAY&_nc_ht=scontent.fdad2-1.fna&oh=4d003b0aba6183f19c722bde8c0f0416&oe=61549D8C"      group-title="Phim Lẻ"   ,Băng Trộm Siêu Đẳng - Phim Lẻ 
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.6435-9/72995397_110657550355331_354254919823261696_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_ohc=m1-4D73iYAAAX83BnAY&_nc_ht=scontent.fdad2-1.fna&oh=4d003b0aba6183f19c722bde8c0f0416&oe=61549D8C"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Băng Trộm Siêu Đẳng - Phim Lẻ 
  https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200317/the_con_artists_fptplay_1080p_sub_logofptplay/0e21f15ac8f9e1f54e064386fee6f324_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjEwOTg5MzQ5ZWI1NGViZjZiOGVkODcwMTE5OWIwMzU5IiwgInZpZGVvX2lkIjogIjVkZTZiNmQ2MjA4OWJkMDI0N2NlZDZkZCIsICJzZXJ2ZXJfdGltZSI6IDE2MjgzMjY3MjAsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://danviet.mediacdn.vn/upload/4-2014/images/2014-12-23/1434416605-kihd1419328659-gangnam-blue-1.jpg"      group-title="Phim Lẻ"   ,Bụi Đời Gangnam - Phim Lẻ  
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://danviet.mediacdn.vn/upload/4-2014/images/2014-12-23/1434416605-kihd1419328659-gangnam-blue-1.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Bụi Đời Gangnam - Phim Lẻ  
 https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170103/41e759c60bb8f417d91962230f797c3c.smil/chunklist_b2992000.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.mnewsvn.com/uploads/20/5c11ddecef60e.jpg"      group-title="Phim Lẻ"   ,Găng Tơ Tái Xuất - Unstoppable Angry Bull 2018 - Phim Lẻ  
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.mnewsvn.com/uploads/20/5c11ddecef60e.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Găng Tơ Tái Xuất - Unstoppable Angry Bull 2018 - Phim Lẻ  
 https://vod04-cdn.fptplay.net/encoded/20200905/unstoppable_2018_1080p_korea_sub/1080p/index.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anh.eva.vn/upload/4-2016/images/2016-12-01/1480588118-ava-songhye-kyo-thangnam.jpg"      group-title="Phim Lẻ"   ,Những Tháng Năm Rực Rỡ - Phim Lẻ  
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anh.eva.vn/upload/4-2016/images/2016-12-01/1480588118-ava-songhye-kyo-thangnam.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Những Tháng Năm Rực Rỡ - Phim Lẻ  
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200314/my_brilliant_life_fptplay_1080p_sub_logofptplay/124ad881347366836cf655191da10f62.smil/chunklist_b3992000.m3u8
 
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2018/10/25/bg01jkt35500-15404821307571432905898.jpg"      group-title="Phim Lẻ"   ,Hóa Ra Anh Vẫn Ở Đây - Phim Lẻ  
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2018/10/25/bg01jkt35500-15404821307571432905898.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Hóa Ra Anh Vẫn Ở Đây - Phim Lẻ  
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201102/nevergone_2016_china_v3/5bb271549df8335ace2ed22b61fc120c.smil/chunklist_b4628000.m3u8?token=eyJoYXNoX3ZhbHVlIjogImQ1N2U0NDJkYjcyYzc5YjI4NzgzN2M4YmUyYmQ2NWFjIiwgInZpZGVvX2lkIjogIjU3YjJkMDgxMTdkYzEzMDJkNDRkYWE1ZiIsICJzZXJ2ZXJfdGltZSI6IDE2Mjk5NjkxMjcsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/612a5a3ea0333c10660dc3d1_nu-sat-thu-bao-thu-1.jpg"      group-title="Phim Lẻ"   ,Nữ Sát Thủ - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/612a5a3ea0333c10660dc3d1_nu-sat-thu-bao-thu-1.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Nữ Sát Thủ - Phim Lẻ
 #http://s3-hcm-r1.longvan.net/phimle/nusatthuvs.mp4
 #https://scontent.cdninstagram.com/v/t66.36240-6/10000000_271070334584564_7374226469280233477_n.mp4?_nc_cat=106&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=8UKlV-LExI0AX9q_xTG&rl=1500&vabr=718&_nc_ht=scontent-frt3-1.xx&edm=APRAPSkEAAAA&oh=328f8861f20b59298accdaf34eeb3ca7&oe=613A0E30
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://genk.mediacdn.vn/2019/9/5/anh-6-15676539702691857193507.jpg"      group-title="Phim Lẻ"   ,Chú Hề Ma Quái 2 - Phim Lẻ  
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://genk.mediacdn.vn/2019/9/5/anh-6-15676539702691857193507.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Chú Hề Ma Quái 2 - Phim Lẻ  
 #https://asia00.fbcdn.space/rawhls/VggGKAF6VaHLbAG8-b2.m3u8?v=1603259019
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/DnSVf_aQNd8/maxresdefault.jpg"      group-title="Phim Lẻ"   ,Chuyện Kinh Dị Lúc Nửa Đêm - Phim Lẻ  
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/DnSVf_aQNd8/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Chuyện Kinh Dị Lúc Nửa Đêm - Phim Lẻ  
 #https://asia00.fbcdn.space/rawhls/4RZcQgAA/v4sIFAS9-b2.m3u8?v=1603258839
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/0zMyTIy.jpg"      group-title="Phim Lẻ"   ,Tay Đấm Thép - Phim Lẻ  
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/0zMyTIy.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Tay Đấm Thép - Phim Lẻ  
 #https://asia00.fbcdn.space/htmls/rawhls/GWbIOAfB/PSJFwwfv-ts/PSJFwwfv.m3u8?v=1604139717
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/mdf_qsklky/2019_02_04/alitabattleangel1548975493548_1280w.jpg"  group-title="Phim Lẻ"   ,Thiên Thần Chiến Binh - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/mdf_qsklky/2019_02_04/alitabattleangel1548975493548_1280w.jpg"  group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thiên Thần Chiến Binh - Phim Lẻ
 
 #https://asia00.fbcdn.space/rawhls/vipKWg9X/uLToLA6A-b2.m3u8?v=1603257125
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/1024/uploaded/sangdt/2020_12_28/flu_cccf.jpg"      group-title="Phim Lẻ"   ,Đại Dịch Cúm - Phim Lẻ    
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/1024/uploaded/sangdt/2020_12_28/flu_cccf.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Đại Dịch Cúm - Phim Lẻ    
 #https://asia00.fbcdn.space/rawhls/08JLkQMK/RvShbwTb-b2.m3u8?v=1607938896
 
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://tv.hoangbin.com/wp-content/uploads/2019/01/cuoc-chien-luan-hoi.jpg"      group-title="Phim Lẻ"   ,Cuộc Chiến Luân Hồi - Edge of Tomorrow (2014) - Phim Lẻ    
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://tv.hoangbin.com/wp-content/uploads/2019/01/cuoc-chien-luan-hoi.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Cuộc Chiến Luân Hồi - Edge of Tomorrow (2014) - Phim Lẻ    
 
 #http://s3-hcm-r1.longvan.net/phimle/cuocchienluanhoi.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/5rlgfkdN55CYJRhfWf2vfextv8dIqp/Image/2015/05/review-mad-max/mad_max___fury_road_wallpaper_1920x1080_by_sachso74-d8o2uzz-e8559.jpg"      group-title="Phim Lẻ"   ,Con Đường Tử Thần - Phim Lẻ   
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/5rlgfkdN55CYJRhfWf2vfextv8dIqp/Image/2015/05/review-mad-max/mad_max___fury_road_wallpaper_1920x1080_by_sachso74-d8o2uzz-e8559.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Con Đường Tử Thần - Phim Lẻ   
 
 #https://asia00.fbcdn.space/rawhls/5Ag7pgkM/wupDJwFS-b2.m3u8?v=1603250824
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/IVqqYgAEfY8/maxresdefault.jpg"       group-title="Phim Lẻ"  ,Vị Khách Bí Ẩn - Phim Lẻ                                                                                                                                                         
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/IVqqYgAEfY8/maxresdefault.jpg"       group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  ,Vị Khách Bí Ẩn - Phim Lẻ                                                                                                                                                         
 #https://biphim.club/hls/2ef17bbd01bf6813e53116461b3dec2c/playlist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/1Mp1SVEBv88/maxresdefault.jpg"    group-title="Phim Lẻ"  ,Biệt Đội Cảm Tử - Phim Lẻ                                                                                                                              
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/1Mp1SVEBv88/maxresdefault.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  ,Biệt Đội Cảm Tử - Phim Lẻ                                                                                                                              
 #https://asia00.fbcdn.space/rawhls/CDLYAwt1/NtND8Aqe-b2.m3u8?v=1629104486
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/1024/uploaded/minhnguyet/2019_07_31/f1_fihv.jpg"    group-title="Phim Lẻ"  , Nhanh Quá Nguy Hiểm (HOBBS & SHAW) - Phim Lẻ 
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/1024/uploaded/minhnguyet/2019_07_31/f1_fihv.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  , Nhanh Quá Nguy Hiểm (HOBBS & SHAW) - Phim Lẻ 
 #http://s3-hcm-r1.longvan.net/phimle/quanhanhHOBBSvsSHAW.mp4
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://saigon247.net/wp-content/uploads/2021/05/blogtienao.zcc.com.vn-bom-tan-fast-amp-furious-9-dang-lam-nong-phong-ve-tai-han-quoc-fast-and-furious-9-vin-diesel-john-cenas-action-film-gets-1024x569-1.jpg"      ,Quá Nhanh Quá Nguy Hiểm 9                                                                                                                 Phim Lẻ
 #https://tvhay.tv/hls-tvhay.php?id=6104d462f67c1b6a82e22492&type=video.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://hdvietsub.net/wp-content/uploads/2021/07/file-39725_poster.jpg"     group-title="Phim Lẻ" ,Cuộc Chiến Tương Lai - Phim Lẻ                                                                                                                                                                                                                                                         Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://hdvietsub.net/wp-content/uploads/2021/07/file-39725_poster.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" ,Cuộc Chiến Tương Lai - Phim Lẻ                                                                                                                                                                                                                                                         Phim Lẻ
 #https://tvhay.tv/hls-tvhay.php?id=60e781a8c29a8b3b0f94a25b&type=video.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/2FKI4jP_YAA/maxresdefault.jpg"    group-title="Phim Lẻ"  ,Vệ Sĩ Sát Thủ 2 - Phim Lẻ                                                                                                                                                                                                                                                                             Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/2FKI4jP_YAA/maxresdefault.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  ,Vệ Sĩ Sát Thủ 2 - Phim Lẻ                                                                                                                                                                                                                                                                             Phim Lẻ
 #https://tvhay.tv/hls-tvhay.php?id=60ffb0cf5160243b3c648f96&type=video.m3u8 
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b6402cc20ff4f21cfd9c1f_cruella-1.jpg"    group-title="Phim Lẻ"  , Cruella - Phim Lẻ                                                                               
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b6402cc20ff4f21cfd9c1f_cruella-1.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  , Cruella - Phim Lẻ                                                                               
 #https://tvhay.tv/hls-tvhay.php?id=60bd01188e55c2726c488b1e&type=video.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/vung-dat-cam-lang-vungdatcamlang-2019041957.jpg"    group-title="Phim Lẻ"  , Vùng Đất Câm Lặng - Phim Lẻ                                                                              
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/vung-dat-cam-lang-vungdatcamlang-2019041957.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  , Vùng Đất Câm Lặng - Phim Lẻ                                                                              
 #https://asia00.fbcdn.space/rawhls/h8E8yAwC/JnImVgEt-b2.m3u8?v=1627159991
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://dep.com.vn/wp-content/uploads/2020/01/phim-vung-dat-cam-lang-p2-2.jpg"    group-title="Phim Lẻ"  , Vùng Đất Câm Lặng 2 - Phim Lẻ                                                                                                                
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://dep.com.vn/wp-content/uploads/2020/01/phim-vung-dat-cam-lang-p2-2.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  , Vùng Đất Câm Lặng 2 - Phim Lẻ                                                                                                                
 #https://asia00.fbcdn.space/rawhls/EqCu8gw0/CFOfzw8b-b2.m3u8?v=1625557665
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/ZXxsRT5LWhg/maxresdefault.jpg"     group-title="Phim Lẻ" , Sống Sót - Phim Lẻ 
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/ZXxsRT5LWhg/maxresdefault.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Sống Sót - Phim Lẻ 
 #http://s3-hcm-r1.longvan.net/phimle/songsottm.mp4
 #https://asia00.fbcdn.space/rawhls/PIEoqgvZ/9SbKqwkt-b2.m3u8?v=1603261599
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.tuoitre.vn/tto/i/s626/2016/08/12/train-to-busan-6-1471017852.jpg"     group-title="Phim Lẻ" , Chuyến Tàu Sinh Tử - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.tuoitre.vn/tto/i/s626/2016/08/12/train-to-busan-6-1471017852.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Chuyến Tàu Sinh Tử - Phim Lẻ
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200504/train_to_busan_1080p_sub_logofptplay_v3/198cfd3cfabbca658a0818142450476e.smil/chunklist_b3992000.m3u8 
 #http://s3-hcm1-r1.longvan.net/phimle/chuyentausinhtutm.mp4
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/yVucSRLLeIM/maxresdefault.jpg"    group-title="Phim Lẻ"  , Bán Đảo Sinh Tử - Phim Lẻ    
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/yVucSRLLeIM/maxresdefault.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  , Bán Đảo Sinh Tử - Phim Lẻ    
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210623/train_to_busan_2_2020_korea_1080_sub/eb8797c6ff08713056f6788356dd0350.smil/chunklist_b4628000.m3u8?token=eyJoYXNoX3ZhbHVlIjogImQ1NTZlODU3YTBlNDhhN2U0ZmI2ZDYzOThkMGNmYThlIiwgInZpZGVvX2lkIjogIjYwZDZhZmY4MjA4OWJkMjJmYjVmNGNmZCIsICJzZXJ2ZXJfdGltZSI6IDE2Mjk4NjY5MjIsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
 
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://genk.mediacdn.vn/2019/2/16/anh-1-1550312457529197023733.jpg"     group-title="Phim Lẻ" ,  Thử Thách Thần Chết - Phim Lẻ 
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://genk.mediacdn.vn/2019/2/16/anh-1-1550312457529197023733.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" ,  Thử Thách Thần Chết - Phim Lẻ 
 #http://s3-hcm-r1.longvan.net/phimle/thuthachthanchet49ngaycuoicungtm.mp4
 
 
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/1024/uploaded/tuyenth/2018_12_19/aquaman_abjz.jpg"     group-title="Phim Lẻ" , Đế vương Atlantis - Phim Lẻ      
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/1024/uploaded/tuyenth/2018_12_19/aquaman_abjz.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Đế vương Atlantis - Phim Lẻ      
 #https://asia01.fbcdn.space/rawhls/pn9zj78gh2/pnT0AKJgi7-b2.m3u8?v=1611657406
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://channel.mediacdn.vn/thumb_w/640/prupload/164/2017/07/img20170712192611793.jpg"     group-title="Phim Lẻ" , Sự Trỗi Dậy Của Hành Tinh Khỉ - Phim Lẻ 
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://channel.mediacdn.vn/thumb_w/640/prupload/164/2017/07/img20170712192611793.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Sự Trỗi Dậy Của Hành Tinh Khỉ - Phim Lẻ 
 #https://asia00.fbcdn.space/rawhls/x06CwA2z/txf10gaa-b2.m3u8?v=1603249086
 #https://asia01.fbcdn.space/htmls/rawhls/x06CwA2z/txf10gaa-ts/txf10gaa.m3u8?v=1599268911
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://wordphim.files.wordpress.com/2014/11/wpid-10296555_10152635849840625_8228320565054346933_n.jpg"     group-title="Phim Lẻ" ,Sự Khởi Đầu Của Hành Tinh Khỉ - Phim Lẻ        
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://wordphim.files.wordpress.com/2014/11/wpid-10296555_10152635849840625_8228320565054346933_n.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" ,Sự Khởi Đầu Của Hành Tinh Khỉ - Phim Lẻ        
 #https://asia01.fbcdn.space/rawhls/yecoNAGWPiInBgtN-b2.m3u8?v=1601008167
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://blog.fshare.vn/wp-content/uploads/2017/07/p1.jpg"    group-title="Phim Lẻ"  , Cuộc Chiến Trên Hành Tinh Khỉ - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://blog.fshare.vn/wp-content/uploads/2017/07/p1.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  , Cuộc Chiến Trên Hành Tinh Khỉ - Phim Lẻ
 #https://asia01.fbcdn.space/rawhls/PGrjlQDDW88WdAtx-b2.m3u8?v=1601007824
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2019/10/11/landscape-avatar-copy-15708057837111431635439-crop-15708057966151203596181.jpg"    group-title="Phim Lẻ"  , Biệt Đội Bất Hảo - Phim Lẻ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2019/10/11/landscape-avatar-copy-15708057837111431635439-crop-15708057966151203596181.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  , Biệt Đội Bất Hảo - Phim Lẻ
 #https://asia00.fbcdn.space/rawhls/o1gDDAJo/XvLOvgmG-b2.m3u8?v=1603259075
 
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.elle.vn/wp-content/uploads/2018/03/12/elle-viet-nam-thoi-trang-trong-phim-my-golden-life-feature-image.jpg"     group-title="Cuộc Sống Thượng Lưu"  , Cuộc Sống Thượng Lưu   - Tập 1 - Phim Bộ
