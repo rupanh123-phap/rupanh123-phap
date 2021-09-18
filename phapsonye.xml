@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv source-info-name="iptvphaptx5sony" source-info-url="https://www.facebook.com/groups/2163827410367256" source-data-url="" generator-info-url="https://www.facebook.com/groups/2163827410367256">
+<channel id="ACE">
+    <display-name lang="vi">ACE</display-name> 
+    <display-number>200</display-number> 
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDG1vHt0fW0SlyWLBYT7bXEAqE9tNoO6dkpujToIblsWhPn-nZEbf6XalYhwdwcYHyoEs&usqp=CAU"/>
+</channel> 
+<channel id=".....">
+    <display-name lang="vi">.....</display-name> 
+    <display-number>201</display-number> 
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDG1vHt0fW0SlyWLBYT7bXEAqE9tNoO6dkpujToIblsWhPn-nZEbf6XalYhwdwcYHyoEs&usqp=CAU"/>
+</channel> 
+<channel id="ACE">
+    <display-name lang="vi">ACE</display-name> 
+    <display-number>202</display-number> 
+    <icon src="https://opasrilanka.com/wp-content/uploads/2019/08/ca-khia-la-gi.jpg"/>
+</channel> 
+<programme channel="ACE" channel-number="200" start="20210807200000 +0700" stop="20210808190000 +0700">
+    <title lang="vi">Hãy Cài Đặt ACESTREAM MEDIA trên GOOGLE PLAY và Phát bằng trình phát ACE Play để xem được các kênh bên dưới này nhé! </title> 
+    <desc lang="vi">Chúc Bạn Xem Bóng Đá Vui Vẻ ^^!..</desc> 
+    <icon src="https://opasrilanka.com/wp-content/uploads/2019/08/ca-khia-la-gi.jpg" />
+</programme> 
+<programme channel="ACE" channel-number="200" start="20210808200000 +0700" stop="20210809190000 +0700">
+    <title lang="vi">Hãy Cài Đặt ACESTREAM MEDIA trên GOOGLE PLAY và Phát bằng trình phát ACE Play để xem được các kênh bên dưới này nhé! </title> 
+    <desc lang="vi">Chúc Bạn Xem Bóng Đá Vui Vẻ ^^!..</desc> 
+    <icon src="" />
+</programme>
+<programme channel="ACE" channel-number="200" start="20210809200000 +0700" stop="20210810190000 +0700">
+    <title lang="vi">Hãy Cài Đặt ACESTREAM MEDIA trên GOOGLE PLAY và Phát bằng trình phát ACE Play để xem được các kênh bên dưới này nhé! </title> 
+    <desc lang="vi">Chúc Bạn Xem Bóng Đá Vui Vẻ ^^!...</desc> 
+    <icon src="" />
+</programme>
+<programme channel="....." channel-number="201" start="20210830200000 +0700" stop="20210930190000 +0700">
+    <title lang="vi">Hãy Cài Đặt ACESTREAM MEDIA trên GOOGLE PLAY và Phát bằng trình phát ACE Play để xem được các kênh bên dưới này nhé! </title> 
+    <desc lang="vi">Chúc Bạn Xem Bóng Đá Vui Vẻ ^^!.</desc> 
+    <icon src="https://opasrilanka.com/wp-content/uploads/2019/08/ca-khia-la-gi.jpg" />
+</programme>    
+<programme channel="....." channel-number="201" start="20210830200000 +0700" stop="20210930190000 +0700">
+    <title lang="vi"></title> 
+    <desc lang="vi">.</desc> 
+    <icon src="" />
+</programme> 
+<programme channel="abcx" channel-number="202" start="20210804200000 +0700" stop="20210807190000 +0700">
+    <title lang="vi"></title> 
+    <desc lang="vi"></desc> 
+    <icon src="" />
+</programme>
+<programme channel="abcx" channel-number="202" start="20210807200000 +0700" stop="20210830190000 +0700">
+    <title lang="vi"></title> 
+    <desc lang="vi"></desc> 
+    <icon src="" />
+</programme>
+</tv>
