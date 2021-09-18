@@ -3,7 +3,7 @@
 #COPY Link ACESTREAM by KHAMPHA - Copy Link CAKHIATV by 360SPORT - Thank all for Share
 
 #LIVEKHICOBONG
-#EXTINF:-1 group-title="🆂🅾🅲🅲🅴🆁 ⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShepN2wOFhusaV0Q42lencTkH7fynI1xS1M6tLT1cjAzJE5W1zhPxO2P6--jHe7sbu3tU&usqp=CAU",MỞ = TRÌNH PHÁT ACESREAM MEDIA TẤT CẢ LINK DƯỚI
+#EXTINF:-1 group-title="🆂🅾🅲🅲🅴🆁 ⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShepN2wOFhusaV0Q42lencTkH7fynI1xS1M6tLT1cjAzJE5W1zhPxO2P6--jHe7sbu3tU&usqp=CAU" HÃY MỞ = ACESREAM TẤT CẢ LINK DƯỚI
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
 #EXTINF:-1 group-title="🆂🅾🅲🅲🅴🆁 ⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShepN2wOFhusaV0Q42lencTkH7fynI1xS1M6tLT1cjAzJE5W1zhPxO2P6--jHe7sbu3tU&usqp=CAU",PIMPLETV 1 HD 50FPS
 acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
@@ -450,14 +450,14 @@ https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210907/high_class_ep0
 https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210908/high_class_ep02a/9d77b8cd75b90086eaba7f2aa0ad0fd2_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/31/8zk4ae1m_1920x1080-highclass-opt4.jpg"     group-title="Đẳng Cấp Thượng Lưu"  ,Đẳng Cấp Thượng Lưu   - Tập 2B - Phim Bộ
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210908/high_class_ep02b/e34268c0eb4166b62d888811f2c65d3b_1080p.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/31/8zk4ae1m_1920x1080-highclass-opt4.jpg"     group-title="Đẳng Cấp Thượng Lưu"  ,Đẳng Cấp Thượng Lưu   - Tập 2C - Phim Bộ
-
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/31/8zk4ae1m_1920x1080-highclass-opt4.jpg"     group-title="Đẳng Cấp Thượng Lưu"  ,Đẳng Cấp Thượng Lưu   - Tập 2D - Phim Bộ
-
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/31/8zk4ae1m_1920x1080-highclass-opt4.jpg"     group-title="Đẳng Cấp Thượng Lưu"  ,Đẳng Cấp Thượng Lưu   - Tập 1 - Phim Bộ
-
-#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/31/8zk4ae1m_1920x1080-highclass-opt4.jpg"     group-title="Đẳng Cấp Thượng Lưu"  ,Đẳng Cấp Thượng Lưu   - Tập 1 - Phim Bộ
-
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/31/8zk4ae1m_1920x1080-highclass-opt4.jpg"     group-title="Đẳng Cấp Thượng Lưu"  ,Đẳng Cấp Thượng Lưu   - Tập 3A - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210914/high_class_ep03a/8188cf57d4d5990ab3ada94e0c816af9_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/31/8zk4ae1m_1920x1080-highclass-opt4.jpg"     group-title="Đẳng Cấp Thượng Lưu"  ,Đẳng Cấp Thượng Lưu   - Tập 3B - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210914/high_class_ep03b/4358fede8377ae6e664e092abf8836d5_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/31/8zk4ae1m_1920x1080-highclass-opt4.jpg"     group-title="Đẳng Cấp Thượng Lưu"  ,Đẳng Cấp Thượng Lưu   - Tập 4A - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210915/high_class_ep04a/6d9ce32fd9a18ab0f58d445e24b94674_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/31/8zk4ae1m_1920x1080-highclass-opt4.jpg"     group-title="Đẳng Cấp Thượng Lưu"  ,Đẳng Cấp Thượng Lưu   - Tập 4B - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210915/high_class_ep04b/cdf730d7669a368ec8a1e677fb8d267a_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/31/8zk4ae1m_1920x1080-highclass-opt4.jpg"     group-title="Đẳng Cấp Thượng Lưu"  ,Đẳng Cấp Thượng Lưu   - Tập 1 - Phim Bộ
 
 #EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/31/8zk4ae1m_1920x1080-highclass-opt4.jpg"     group-title="Đẳng Cấp Thượng Lưu"  ,Đẳng Cấp Thượng Lưu   - Tập 1 - Phim Bộ
