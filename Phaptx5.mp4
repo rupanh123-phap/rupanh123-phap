@@ -336,7 +336,6 @@ http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="antg"  group-title="🅻🅾🅲🅰🅻" tvg-logo="http://imageidc1.tv360.vn/image1/2020_09_23/1600823403571/7eff0ae17e22_640_360.png",An Ninh Thế Giới
 
-http://171.238.180.230:18080/51.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/8FcQF2/nRXK+f3QTVxj8xkutBUZQLVU5LXN3loXgVxDJSRKtmc10Xg8ddi0nC23315RbD9lnlLo857FZrWmA0TvPo7P8Do/q7ChZ9yrxiwyiKtzTZkYPHUYNAJkvvRaKWEEvaeEkOnV9cLHyI79OG9lpl91Cbh5HfZzA8KGYnYh
 #EXTINF:-1 tvg-id="nhandan"  group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_truyen-hinh-nhan-dan_15645602611.jpg",Nhân Dân TV
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/chunklist.m3u8
 #https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
@@ -546,7 +545,4 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg", Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
 #https://livecdn.fptplay.net/sdc/yenbai_2000.stream/chunklist.m3u8
-
-
-
 
