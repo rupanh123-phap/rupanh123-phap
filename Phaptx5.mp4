@@ -97,8 +97,9 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctv4/sd1/index.m3u8?md5=VvFuYftKuN
 #EXTINF:-1 tvg-id="sctv5hd"  tvg-logo="https://i.ibb.co/bLcnbBR/sctv5-auto-x2.jpg" tvg-chno="39" group-title="🆂🅲🆃🆅" ,SCTV5 HD 
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv5/sd1/index.m3u8?md5=WgFj80nCKRlhZ4R9zQoZzg&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv6hd"  tvg-logo="https://static.megavie.live/media/sctv6hd.png" tvg-chno="40" group-title="🆂🅲🆃🆅" ,SCTV6 HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv6/sd1/index.m3u8?md5=4SolymWJ8gDfu-b_dR7biA&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv7hd"  tvg-logo="https://static.megavie.live/media/sctv7hd.png" tvg-chno="41" group-title="🆂🅲🆃🆅" ,SCTV7 HD
+http://27.67.50.93:18080//297_2.m3u8?AdaptiveType=HLS&SessionID=72e7345b-c522-4e37-8713-2018bb59a3fd&MinBw=0&MaxBw=20000000
+#https://e1.endpoint.cdn.sctvonline.vn/secure/sctv6/sd1/index.m3u8?md5=4SolymWJ8gDfu-b_dR7biA&expires=2556118740|Referer=http://sctvonline.vn/
+EXTINF:-1 tvg-id="sctv7hd"  tvg-logo="https://static.megavie.live/media/sctv7hd.png" tvg-chno="41" group-title="🆂🅲🆃🆅" ,SCTV7 HD
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv7/sd1/index.m3u8?md5=t2rQwa4sPnnjLhLl96Sgng&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv8hd"  tvg-logo="https://static.megavie.live/media/sctv8hd.png" tvg-chno="42" group-title="🆂🅲🆃🆅" ,SCTV8 HD
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv8/sd1/index.m3u8?md5=4VmSMUN05v9AhUS7aYe6Ig&expires=2556118740|Referer=http://sctvonline.vn/
@@ -312,6 +313,12 @@ https://e4.endpoint.cdn.sctvonline.vn/secure/happykid/index.m3u8?md5=RoppAcvPHs-
 https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_4606159a.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="🅾🆃🅷🅴🆁",CNA HD
 https://e4.endpoint.cdn.sctvonline.vn/secure/cna/sd1/index.m3u8?md5=PbxpiXxwvnbhM64ms3PoWw&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF:0  tvg-id="hitshd"  tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hits-large.jpg" group-title="🅾🆃🅷🅴🆁" ",Hits FHD
+http://27.67.50.69:18080//1192_2.m3u8?AdaptiveType=HLS&SessionID=a257dd1c-210c-4bcc-8dda-412e7cf3959c&MinBw=0&MaxBw=20000000
+#EXTINF:0  tvg-id="hitshd"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/WWJ_M.jpg" group-title="🅾🆃🅷🅴🆁" ",Waku Waku Japan FHD
+http://27.67.50.135:18080//292_2.m3u8?AdaptiveType=HLS&SessionID=8971e47d-5aa0-49bf-8c2c-4c06debcb8a9&MinBw=0&MaxBw=20000000
+#EXTINF:0  tvg-id="hitshd"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/HGTV_Logo.jpg/640px-HGTV_Logo.jpg" group-title="🅾🆃🅷🅴🆁" ",HGTV FHD
+http://27.67.50.136:18080//1193_2.m3u8?AdaptiveType=HLS&SessionID=7b5db286-9ec4-4a2d-9dcf-bc37592ea61f&MinBw=0&MaxBw=20000000
 #EXTINF:0 tvg-id="boxmovie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="🅾🆃🅷🅴🆁",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
@@ -326,6 +333,8 @@ http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="antvhd"  group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_antv_156455515067.jpg",An Ninh TV
 
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="antg"  group-title="🅻🅾🅲🅰🅻" tvg-logo="http://imageidc1.tv360.vn/image1/2020_09_23/1600823403571/7eff0ae17e22_640_360.png",An Ninh Thế Giới
+http://27.67.50.136:18080//51_0.m3u8?AdaptiveType=HLS&SessionID=04a460e2-7aaa-4404-8b98-88f65062e78a&MinBw=0&MaxBw=20000000
 #EXTINF:-1 tvg-id="nhandan"  group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_truyen-hinh-nhan-dan_15645602611.jpg",Nhân Dân TV
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/chunklist.m3u8
 #https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
@@ -535,6 +544,13 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg", Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
 #https://livecdn.fptplay.net/sdc/yenbai_2000.stream/chunklist.m3u8
+
+
+
+
+
+
+
 
 
 
