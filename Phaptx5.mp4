@@ -319,7 +319,7 @@ https://e4.endpoint.cdn.sctvonline.vn/secure/cna/sd1/index.m3u8?md5=PbxpiXxwvnbh
 
 
 #EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/HGTV_Logo.jpg/640px-HGTV_Logo.jpg" group-title="🅾🆃🅷🅴🆁" ",HGTV FHD
-http://27.67.50.136:18080//1193_2.m3u8?AdaptiveType=HLS&SessionID=7b5db286-9ec4-4a2d-9dcf-bc37592ea61f&MinBw=0&MaxBw=20000000
+
 #EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="🅾🆃🅷🅴🆁",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
@@ -545,4 +545,12 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg", Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
 #https://livecdn.fptplay.net/sdc/yenbai_2000.stream/chunklist.m3u8
+
+
+
+
+
+
+
+
 
