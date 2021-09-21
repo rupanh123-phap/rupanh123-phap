@@ -1,5 +1,5 @@
 #Thank FPTPLAY for SHARE
-#EXTM3U url-tvg="https://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1  
+#EXTM3U url-tvg="https://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1  url="http://bit.ly/iptvphaptx5sony"
 
 #Thank EPG Bảo Chính For Share
 #CHIA SẺ VÌ CỘNG ĐỒNG - PHÁP GROUP ANDROID BOX TX5 
@@ -321,13 +321,13 @@ https://e4.endpoint.cdn.sctvonline.vn/secure/cna/sd1/index.m3u8?md5=PbxpiXxwvnbh
 
 #EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://www.wakuwakujapan.com/fileadmin/res/ogp.png" group-title="🅾🆃🅷🅴🆁",Waku Waku Japan FHD
 
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://i.ibb.co/9yHf81Q/MTV-HIT.png" group-title="🅾🆃🅷🅴🆁" ",MTV HITS
+#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://i.ibb.co/bQ3TBH6/MTV-HIT.jpg" group-title="🅾🆃🅷🅴🆁" ",MTV HITS
 https://tv.dansk.live:8443/enba/enba/113
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://creativedesign.rs/cd_app/public/images/products/3313002426527403.jpg" group-title="🅾🆃🅷🅴🆁" ",MUSIC HD
+#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://i.ytimg.com/vi/vROsUu8NuoA/maxresdefault.jpg" group-title="🅾🆃🅷🅴🆁" ",MUSIC HD
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://static.wikia.nocookie.net/viacom4633/images/0/06/CMT_Music_logo.png" group-title="🅾🆃🅷🅴🆁" ",CMT MUSIC
+#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://i.ytimg.com/vi/HCPBgDC6xhY/maxresdefault.jpg" group-title="🅾🆃🅷🅴🆁" ",CMT MUSIC
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE18zCfOpQ9Iid0tyC6YmHnVCqhQtCKdpeoQ&usqp=CAU" group-title="🅾🆃🅷🅴🆁" ",MTV BIGGEST POP
+#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://pbs.twimg.com/media/EgIJQzeWkAMT4F0.jpg" group-title="🅾🆃🅷🅴🆁" ",MTV BIGGEST POP
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hits-large.jpg" group-title="🅾🆃🅷🅴🆁" ",Hits FHD
 
@@ -335,19 +335,19 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
 
 #EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/HGTV_Logo.jpg/640px-HGTV_Logo.jpg" group-title="🅾🆃🅷🅴🆁" ",HGTV FHD
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 #EXTINF:-1  tvg-id="channelvhd"  tvg-logo="https://lh3.googleusercontent.com/-VMD7bQzHp0o/W2c9_eiYTCI/AAAAAAAAEQI/fkIrJO8TpW0C4hGBdAkk9ZRIA8gqLHxxQCLcBGAs/h300/icon_channel_channel-v-hd_152238787152.png" group-title="🅾🆃🅷🅴🆁" ",[V]HD
 http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://i.ibb.co/QkBGqPN/STAR.png" group-title="🅾🆃🅷🅴🆁" ",STAR MOVIES
+#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/starmovies-lg.jpg" group-title="🅾🆃🅷🅴🆁" ",STAR MOVIES
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?ib=tienmedi478535
 #EXTINF:-1  tvg-id="hitshd"  tvg-logo="http://www.cinemapolitics.com/public_images/all-news/5081-hollywood.jpg" group-title="🅾🆃🅷🅴🆁" ",HOLLYWOOD
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHNstVpqySaUCsZ9kxOGnswKc9zUJp2t3SEsRnP5TSakUgh__y3oazkSb0iCcq2cJvkmU&usqp=CAU" group-title="🅾🆃🅷🅴🆁" tvg-chno="113",Bloomberg 4K
+#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bloomberg_146581277148.png" group-title="🅾🆃🅷🅴🆁" tvg-chno="113",Bloomberg UHD
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="🅾🆃🅷🅴🆁",Love4K Nature 
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1  tvg-id="fashionhd"  tvg-logo="https://i.ibb.co/kJHsxRx/FASHION.png" group-title="🅾🆃🅷🅴🆁" ",Fashion4K TV 
+#EXTINF:-1  tvg-id="fashionhd"  tvg-logo="https://i.ibb.co/kJHsxRx/FASHION.png" group-title="🅾🆃🅷🅴🆁" ",FTV UHD 
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vovtv_161070256824.jpg",VOV Đài Tiếng Nói Việt Nam
 #http://mediatech.vncdn.vn/vovlive/tv1live.m3u8
