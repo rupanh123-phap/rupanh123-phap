@@ -2,20 +2,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	#PHÁP GROUP ANDROID BOX TX5 LÀM VÌ ĐAM MÊ CHIA SẺ ^^!
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaxD62VrrweqPV6tPNYxoSiUJSCFV3W8jZAA&usqp=CAU"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Truy Đuổi - Phim Lẻ  
 	https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191209/montage_vi_1080p_sub_logofptplay_v2/e05e07cf638a7dbfb6e41dc77ce965f7_1080p.mp4/chunklist.m3u8
@@ -179,6 +165,8 @@
 	http://s3-hcm-r1.longvan.net/phimle/nguoihobbitdaichienvoirongluatm.mp4
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/nhdc5cq151336m1.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   , Người Hobbit Đại Chiến Năm Cánh Quân - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/nguoihobbitdaichiennamcanhquantm.mp4
+		#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2018/4/18/12-1524011293741618555327.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  ,Siêu Thú Cuồng Nộ - Phim Lẻ
+	http://s3-hcm-r1.longvan.net/phimle/sieuthucuongno.mp4
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/650/2017/1-1489251315944.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Kong Và Người Đẹp - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/kingkongvanguoidep.mp4
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://photo-cms-viettimes.zadn.vn/666x374/Uploaded/2021/livospwi/2018_03_04/kongnewyorktimes_tjyi.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Kong: Đảo Đầu Lâu - Phim Lẻ
@@ -5575,60 +5563,41 @@ https://www.youtube.com/watch?v=UoUgXuVEgIQ&list=PL1u8gTjsYIAj4PzHC-UGAvP-gNisAQ
 
 
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg"    group-title="Điên Thì Có Sao"  ,Điên Thì Có Sao - Tập 1 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_250135193786114_2053213292067406313_n.mp4?_nc_cat=109&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=w1JOjV_Xx_QAX9aOAwV&rl=1500&vabr=967&_nc_ht=scontent-amt2-1.xx&edm=APRAPSkEAAAA&oh=f1181576e0a401b23d043983a82e3e43&oe=614B2DDD
+	http://s3-hcm-r1.longvan.net/phimle/dienthicosaovs1.mp4
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg"    group-title="Điên Thì Có Sao"  ,Điên Thì Có Sao - Tập 2 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_417305589825790_2731259614788929602_n.mp4?_nc_cat=100&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MTIsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=sV4Le5boESgAX8EsgbN&rl=1512&vabr=1008&_nc_ht=scontent-ams4-1.xx&edm=APRAPSkEAAAA&oh=49a3d52afbad210d6f1771221fa060a3&oe=614B0666
+	http://s3-hcm-r1.longvan.net/phimle/dienthicosaovs2.mp4
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg"    group-title="Điên Thì Có Sao"  ,Điên Thì Có Sao - Tập 3 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_409042807234970_4469935967752171804_n.mp4?_nc_cat=109&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MjEsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=_IrEitl-qygAX-BqJF-&rl=1521&vabr=1014&_nc_ht=scontent-amt2-1.xx&oh=28ce16e7c0e802f4604c5987c67bd52f&oe=6149B566
-	#https://scontent.cdninstagram.com/v/t66.36240-6/10000000_264454238637335_2738010924079993220_n.mp4?_nc_cat=101&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=3JHvk_jhM-sAX_9dZdq&rl=1500&vabr=707&_nc_ht=scontent.fsgn2-4.fna&edm=APRAPSkEAAAA&oh=488108dc7c51ca9ee0cc345c48379cb6&oe=613E2733
+	http://s3-hcm-r1.longvan.net/phimle/dienthicosaovs3.mp4
+
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg"    group-title="Điên Thì Có Sao"  ,Điên Thì Có Sao - Tập 4 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_385122233023374_8516998141688254865_n.mp4?_nc_cat=108&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MjgsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=nh05CWkviuoAX-OB-kd&rl=1528&vabr=1019&_nc_ht=scontent-ams4-1.xx&edm=APRAPSkEAAAA&oh=646f07d78bb18e940b9408321a4a3750&oe=6149F79C
-	#https://scontent.cdninstagram.com/v/t66.36240-6/10000000_525379068537109_6436794886843225693_n.mp4?_nc_cat=1&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=yvkjt2JOiEsAX8v9qHH&rl=1500&vabr=789&_nc_ht=scontent.fsgn2-4.fna&edm=APRAPSkEAAAA&oh=dab7f93141173c236b89271273a0c92a&oe=6141BA50
+	http://s3-hcm-r1.longvan.net/phimle/dienthicosaovs4.mp4
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg"    group-title="Điên Thì Có Sao"  ,Điên Thì Có Sao - Tập 5 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_1219867431868363_1851141555546874191_n.mp4?_nc_cat=104&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=9wX2A9PuK5UAX9HcbVG&rl=1500&vabr=691&_nc_ht=scontent-ams4-1.xx&edm=APRAPSkEAAAA&oh=115abb895efe7672c98716b055d1b169&oe=614B3F81
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg"    group-title="Điên Thì Có Sao"  ,Điên Thì Có Sao - Tập 6 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_352443756562396_4120061208517195760_n.mp4?_nc_cat=107&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=vIWnfCmn_nwAX840GZN&rl=1500&vabr=806&_nc_ht=scontent-ams4-1.xx&edm=APRAPSkEAAAA&oh=8e9cdd10a27cdce70e4ca57c644a2e6b&oe=614B3F2E
+    http://s3-hcm-r1.longvan.net/phimle/dienthicosaovs5.mp4
+    #EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg"    group-title="Điên Thì Có Sao"  ,Điên Thì Có Sao - Tập 6 - Phim Bộ
+    http://s3-hcm-r1.longvan.net/phimle/dienthicosaovs6.mp4
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg"    group-title="Điên Thì Có Sao"  ,Điên Thì Có Sao - Tập 7 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_4392102300884828_4089214369532394122_n.mp4?_nc_cat=100&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=RMkzHbCyCPkAX_HL4oe&rl=1500&vabr=747&_nc_ht=scontent-ams4-1.xx&edm=APRAPSkEAAAA&oh=b7cb5365a3c39352136c7ad75794e570&oe=614B1C54
+    http://s3-hcm-r1.longvan.net/phimle/dienthicosaovs7.mp4
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg"    group-title="Điên Thì Có Sao"  ,Điên Thì Có Sao - Tập 8 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_886817715297924_6645269308829009678_n.mp4?_nc_cat=101&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=4pfKnXs8XXwAX-_Q_iP&rl=1500&vabr=813&_nc_ht=scontent-amt2-1.xx&edm=APRAPSkEAAAA&oh=dbe0adc4a4c36fc909de427e12f929e7&oe=614B5A34
+    http://s3-hcm-r1.longvan.net/phimle/dienthicosaovs8.mp4
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg"    group-title="Điên Thì Có Sao"  ,Điên Thì Có Sao - Tập 9 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_180300927512309_2708681838647460193_n.mp4?_nc_cat=100&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=8PEsj4644rAAX91vMba&rl=1500&vabr=815&_nc_ht=scontent-ams4-1.xx&edm=APRAPSkEAAAA&oh=443bff1d2c18d72ad635b811773ea23d&oe=614B1D38
+    http://s3-hcm-r1.longvan.net/phimle/dienthicosaovs9.mp4
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg"    group-title="Điên Thì Có Sao"  ,Điên Thì Có Sao - Tập 10 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_887107665236325_12566815037324575_n.mp4?_nc_cat=107&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=e4irnNcd1T0AX9D9UIE&rl=1500&vabr=699&_nc_ht=scontent-ams4-1.xx&edm=APRAPSkEAAAA&oh=ef6d2867d13a2845b49860944e4ff714&oe=614ABD84
+    http://s3-hcm-r1.longvan.net/phimle/dienthicosaovs10.mp4
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg"    group-title="Điên Thì Có Sao"  ,Điên Thì Có Sao - Tập 11 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_4390900537611868_4632302767101359557_n.mp4?_nc_cat=105&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=LT4NDLoaC6UAX9YbcFI&rl=1500&vabr=685&_nc_ht=scontent-amt2-1.xx&edm=APRAPSkEAAAA&oh=76fdcaccc3361c1a95ba1c5308da1290&oe=614C70FD
+    http://s3-hcm-r1.longvan.net/phimle/dienthicosaovs11.mp4
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg"    group-title="Điên Thì Có Sao"  ,Điên Thì Có Sao - Tập 12 - Phim Bộ
-	https://ns36.kenhvn2.com/12022020/2201-2400/2335/12.mp4https://scontent.cdninstagram.com/v/t66.36240-6/10000000_1002984473579016_803339431091647634_n.mp4?_nc_cat=105&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=jNeFsWjm1W8AX9EHa7c&rl=1500&vabr=697&_nc_ht=scontent-amt2-1.xx&edm=APRAPSkEAAAA&oh=6a98efe8dd7941187175257e68760508&oe=614BEA4B
+    http://s3-hcm-r1.longvan.net/phimle/dienthicosaovs12.mp4
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg"    group-title="Điên Thì Có Sao"  ,Điên Thì Có Sao - Tập 13 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_609277050078800_5991025847763407161_n.mp4?_nc_cat=110&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=P9e5jXkMevMAX9Ti3aX&rl=1500&vabr=705&_nc_ht=scontent-frx5-1.xx&edm=APRAPSkEAAAA&oh=e77f65bf004df920253080ce383152f2&oe=614BF0CE
+    http://s3-hcm-r1.longvan.net/phimle/dienthicosaovs13.mp4
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg"    group-title="Điên Thì Có Sao"  ,Điên Thì Có Sao - Tập 14 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_4644765418875511_5823790717918954833_n.mp4?_nc_cat=106&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=CiWqWTW8QfQAX85nM7J&rl=1500&vabr=674&_nc_ht=scontent-amt2-1.xx&edm=APRAPSkEAAAA&oh=9bb6488348a76ec664eb59de4fdc4d45&oe=614C4610
+    http://s3-hcm-r1.longvan.net/phimle/dienthicosaovs14.mp4
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg"    group-title="Điên Thì Có Sao"  ,Điên Thì Có Sao - Tập 15 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_1159662177895850_4696421252333339156_n.mp4?_nc_cat=106&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=dC10NyPpkS0AX8LK-7s&rl=1500&vabr=669&_nc_ht=scontent-amt2-1.xx&edm=APRAPSkEAAAA&oh=a169d16c4ccea661cad42bb3fc4fd772&oe=614C0091
+    http://s3-hcm-r1.longvan.net/phimle/dienthicosaovs15.mp4
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg"    group-title="Điên Thì Có Sao"  ,Điên Thì Có Sao - Tập 16 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_4296033137144733_6591389477553684520_n.mp4?_nc_cat=100&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=J0aqcufM_N4AX9Uln9n&rl=1500&vabr=810&_nc_ht=scontent-ams4-1.xx&edm=APRAPSkEAAAA&oh=5a15a44f92750948767831349765b073&oe=614B6886
+    http://s3-hcm-r1.longvan.net/phimle/dienthicosaovs16.mp4
 
-
+	
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i0.wp.com/www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/613c80bce67e856beb84bbd5_ai-se-gianh-chien-thang.jpg"      group-title="Trò Chơi Con Mực" ,Trò Chơi Con Mực - Tập 1 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_137842591895409_5656422133533669543_n.mp4?_nc_cat=104&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjIwMzIsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=PYMUMHfoQvYAX8P4PPq&rl=2032&vabr=1355&_nc_ht=scontent-ams4-1.xx&oh=5aa1e101521042a2e4a485e753b4ec58&oe=614EDCD2
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i0.wp.com/www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/613c80bce67e856beb84bbd5_ai-se-gianh-chien-thang.jpg"      group-title="Trò Chơi Con Mực" ,Trò Chơi Con Mực - Tập 2 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_385843019911635_6847381075501766690_n.mp4?_nc_cat=100&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MzEsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=9_BUyxWsnQ0AX-sQMD3&rl=1531&vabr=1021&_nc_ht=scontent-ams4-1.xx&edm=APRAPSkEAAAA&oh=262bba6094bc238b591927076caa1605&oe=61500A16
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i0.wp.com/www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/613c80bce67e856beb84bbd5_ai-se-gianh-chien-thang.jpg"      group-title="Trò Chơi Con Mực" ,Trò Chơi Con Mực - Tập 3 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_3102766163335059_7332929007730013286_n.mp4?_nc_cat=102&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE3NzAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=AGOwtNIXRfAAX__rrqo&rl=1770&vabr=1180&_nc_ht=scontent-amt2-1.xx&edm=APRAPSkEAAAA&oh=c3019517d4be998bb7c06ca112a36805&oe=614F71E9
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i0.wp.com/www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/613c80bce67e856beb84bbd5_ai-se-gianh-chien-thang.jpg"      group-title="Trò Chơi Con Mực" ,Trò Chơi Con Mực - Tập 4 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_396433552038881_4565481278875517698_n.mp4?_nc_cat=103&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE4MzAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=tlt1Sp_qZyEAX99vIBr&rl=1830&vabr=1220&_nc_ht=scontent-ams4-1.xx&edm=APRAPSkEAAAA&oh=fb89ea7ebf1cc2f4dcd0ce7bcca3a014&oe=6150041F
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i0.wp.com/www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/613c80bce67e856beb84bbd5_ai-se-gianh-chien-thang.jpg"      group-title="Trò Chơi Con Mực" ,Trò Chơi Con Mực - Tập 5 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_383673053328815_2891843321963004602_n.mp4?_nc_cat=107&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=4LBiczi0LBAAX9AEBxc&rl=1500&vabr=913&_nc_ht=scontent-ams4-1.xx&edm=APRAPSkEAAAA&oh=8167c480e866529217dd8d867896ac44&oe=614F0C52
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i0.wp.com/www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/613c80bce67e856beb84bbd5_ai-se-gianh-chien-thang.jpg"      group-title="Trò Chơi Con Mực" ,Trò Chơi Con Mực - Tập 6 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_926779998181970_9149336225649432724_n.mp4?_nc_cat=106&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE2NjUsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=5TOj8Od0_UwAX873tAT&rl=1665&vabr=1110&_nc_ht=scontent-amt2-1.xx&edm=APRAPSkEAAAA&oh=a366d2d7c9dbb8ee359131f87a1031c9&oe=61501C99
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i0.wp.com/www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/613c80bce67e856beb84bbd5_ai-se-gianh-chien-thang.jpg"      group-title="Trò Chơi Con Mực" ,Trò Chơi Con Mực - Tập 7 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_639878803664983_9154060483776024651_n.mp4?_nc_cat=111&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE3MjAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=VaIceik65gcAX8or_Qu&rl=1720&vabr=1147&_nc_ht=scontent-amt2-1.xx&edm=APRAPSkEAAAA&oh=5d47fec8ecbe6fdec1d657335205ab6f&oe=614F60E6
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i0.wp.com/www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/613c80bce67e856beb84bbd5_ai-se-gianh-chien-thang.jpg"      group-title="Trò Chơi Con Mực" ,Trò Chơi Con Mực - Tập 8 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_594576445247161_1094970238025312367_n.mp4?_nc_cat=100&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=W9fVL2nCubgAX_uL0yw&rl=1500&vabr=926&_nc_ht=scontent-ams4-1.xx&oh=cee75b264d263c48881b21a9919ea9ca&oe=615019EF
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i0.wp.com/www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/613c80bce67e856beb84bbd5_ai-se-gianh-chien-thang.jpg"      group-title="Trò Chơi Con Mực" ,Trò Chơi Con Mực - Tập 9 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_432969371495157_3000435558171983325_n.mp4?_nc_cat=106&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=WwVqpsQs_usAX9Vg3Hs&rl=1500&vabr=909&_nc_ht=scontent-amt2-1.xx&oh=af052db44588dcd4066a6f83ae5f72a3&oe=614F499C
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i0.wp.com/www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/613c80bce67e856beb84bbd5_ai-se-gianh-chien-thang.jpg"      group-title="Trò Chơi Con Mực" ,Trò Chơi Con Mực - Tập 10 - Phim Bộ
 
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i0.wp.com/www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/613c80bce67e856beb84bbd5_ai-se-gianh-chien-thang.jpg"      group-title="Thế Giới Không Lối Thoát" ,Thế Giới Không Lối Thoát - Tập 11 - Phim Bộ
 
@@ -5677,15 +5646,193 @@ https://www.youtube.com/watch?v=UoUgXuVEgIQ&list=PL1u8gTjsYIAj4PzHC-UGAvP-gNisAQ
 	http://s3-hcm-r1.longvan.net/phimle/dautruongsinhtu2012vs.mp4
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/768/uploaded/sangdt/2020_04_22/dautruong_qzfj.jpg"       group-title="Đấu Trường Sinh Tử" ,Đấu Trường Sinh Tử 2 -  P2 - Phim Lẻ
 	http://s3-hcm1-r1.longvan.net/phimle/dautruongsinhtu2batlua.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/768/uploaded/sangdt/2020_04_22/dautruong_qzfj.jpg"      group-title="Đấu Trường Sinh Tử" ,Đấu Trường Sinh Tử 3 -  P3 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/768/uploaded/sangdt/2020_04_22/dautruong_qzfj.jpg"      group-title="Đấu Trường Sinh Tử" ,Đấu Trường Sinh Tử: Húng Nhại -  T1 - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/dautruongsinhtuhungnhai2tm.mp4
 
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anhtuanptnk.files.wordpress.com/2011/06/irise6b5b7e68aa5big-size.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris -  Tập 1 - Phim Bộ
 	http://s3-hcm-r1.longvan.net/phimle/matdanhirisphan1tap1.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anhtuanptnk.files.wordpress.com/2011/06/irise6b5b7e68aa5big-size.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris -  Tập 2 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/matdanhirisphan1tap2.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anhtuanptnk.files.wordpress.com/2011/06/irise6b5b7e68aa5big-size.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris -  Tập 3 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/matdanhirisphan1tap3.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anhtuanptnk.files.wordpress.com/2011/06/irise6b5b7e68aa5big-size.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris -  Tập 4 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/matdanhirisphan1tap4.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anhtuanptnk.files.wordpress.com/2011/06/irise6b5b7e68aa5big-size.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris -  Tập 5 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/matdanhirisphan1tap5.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anhtuanptnk.files.wordpress.com/2011/06/irise6b5b7e68aa5big-size.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris -  Tập 6 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/matdanhirisphan1tap6.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anhtuanptnk.files.wordpress.com/2011/06/irise6b5b7e68aa5big-size.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris -  Tập 7 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/matdanhirisphan1tap7.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anhtuanptnk.files.wordpress.com/2011/06/irise6b5b7e68aa5big-size.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris -  Tập 8 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/matdanhirisphan1tap8.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anhtuanptnk.files.wordpress.com/2011/06/irise6b5b7e68aa5big-size.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris -  Tập 9 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/matdanhirisphan1tap9.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anhtuanptnk.files.wordpress.com/2011/06/irise6b5b7e68aa5big-size.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris -  Tập 10 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/matdanhirisphan1tap10.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anhtuanptnk.files.wordpress.com/2011/06/irise6b5b7e68aa5big-size.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris -  Tập 11 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/matdanhirisphan1tap11.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anhtuanptnk.files.wordpress.com/2011/06/irise6b5b7e68aa5big-size.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris -  Tập 12 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/matdanhirisphan1tap12.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anhtuanptnk.files.wordpress.com/2011/06/irise6b5b7e68aa5big-size.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris -  Tập 13 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/matdanhirisphan1tap13.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anhtuanptnk.files.wordpress.com/2011/06/irise6b5b7e68aa5big-size.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris -  Tập 14 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/matdanhirisphan1tap14.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anhtuanptnk.files.wordpress.com/2011/06/irise6b5b7e68aa5big-size.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris -  Tập 15 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/matdanhirisphan1tap15.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anhtuanptnk.files.wordpress.com/2011/06/irise6b5b7e68aa5big-size.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris -  Tập 16 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/matdanhirisphan1tap16.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anhtuanptnk.files.wordpress.com/2011/06/irise6b5b7e68aa5big-size.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris -  Tập 17 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/matdanhirisphan1tap17.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anhtuanptnk.files.wordpress.com/2011/06/irise6b5b7e68aa5big-size.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris -  Tập 18 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/matdanhirisphan1tap18.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anhtuanptnk.files.wordpress.com/2011/06/irise6b5b7e68aa5big-size.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris -  Tập 19 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/matdanhirisphan1tap19.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anhtuanptnk.files.wordpress.com/2011/06/irise6b5b7e68aa5big-size.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris -  Tập 20 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/matdanhirisphan1tap20.mp4
 
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2015/2-matdanhiris-1-1449895311896-crop-1449895739848.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris 2 -  Tập 1 - Phim Bộ
 	http://s3-hcm1-r1.longvan.net/phimle/matdanhirisphan2tap1.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2015/2-matdanhiris-1-1449895311896-crop-1449895739848.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris 2 -  Tập 2 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/matdanhirisphan2tap2.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2015/2-matdanhiris-1-1449895311896-crop-1449895739848.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris 2 -  Tập 3 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/matdanhirisphan2tap3.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2015/2-matdanhiris-1-1449895311896-crop-1449895739848.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris 2 -  Tập 4 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/matdanhirisphan2tap4.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2015/2-matdanhiris-1-1449895311896-crop-1449895739848.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris 2 -  Tập 5 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/matdanhirisphan2tap5.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2015/2-matdanhiris-1-1449895311896-crop-1449895739848.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris 2 -  Tập 6 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/matdanhirisphan2tap6.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2015/2-matdanhiris-1-1449895311896-crop-1449895739848.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris 2 -  Tập 7 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/matdanhirisphan2tap7.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2015/2-matdanhiris-1-1449895311896-crop-1449895739848.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris 2 -  Tập 8 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/matdanhirisphan2tap8.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2015/2-matdanhiris-1-1449895311896-crop-1449895739848.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris 2 -  Tập 9 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/matdanhirisphan2tap9.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2015/2-matdanhiris-1-1449895311896-crop-1449895739848.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris 2 -  Tập 10 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/matdanhirisphan2tap10.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2015/2-matdanhiris-1-1449895311896-crop-1449895739848.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris 2 -  Tập 11 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/matdanhirisphan2tap11.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2015/2-matdanhiris-1-1449895311896-crop-1449895739848.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris 2 -  Tập 12 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/matdanhirisphan2tap12.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2015/2-matdanhiris-1-1449895311896-crop-1449895739848.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris 2 -  Tập 13 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/matdanhirisphan2tap13.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2015/2-matdanhiris-1-1449895311896-crop-1449895739848.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris 2 -  Tập 14 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/matdanhirisphan2tap14.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2015/2-matdanhiris-1-1449895311896-crop-1449895739848.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris 2 -  Tập 15 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/matdanhirisphan2tap15.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2015/2-matdanhiris-1-1449895311896-crop-1449895739848.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris 2 -  Tập 16 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/matdanhirisphan2tap16.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2015/2-matdanhiris-1-1449895311896-crop-1449895739848.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris 2 -  Tập 17 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/matdanhirisphan2tap17.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2015/2-matdanhiris-1-1449895311896-crop-1449895739848.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris 2 -  Tập 18 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/matdanhirisphan2tap18.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2015/2-matdanhiris-1-1449895311896-crop-1449895739848.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris 2 -  Tập 19 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/matdanhirisphan2tap19.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2015/2-matdanhiris-1-1449895311896-crop-1449895739848.jpg"      group-title="Mật Danh Iris" ,Mật Danh Iris 2 -  Tập 20 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/matdanhirisphan2tap20.mp4
+	
+	
 
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 1 - Phim Bộ
-	https://scontent.cdninstagram.com/v/t66.36240-6/10000000_2045592882276569_1255728667547871485_n.mp4?_nc_cat=110&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=m9ULv7SmZ9YAX8fAysX&rl=1500&vabr=899&_nc_ht=scontent-ams4-1.xx&oh=c344f1571802bbdcb9f46a3cae5a7c71&oe=614EEC0B
-	#http://s3-hcm-r1.longvan.net/phimle/sieutromtap1.mp4
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap1.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 2 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap2.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 3 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap3.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 4 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap4.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 5 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap5.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 6 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap6.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 7 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap7.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 8 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap8.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 9 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap9.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 10 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap10.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 11 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap11.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 12 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap12.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 13 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap13.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 14 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap14.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 15 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap15.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 16 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap16.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 17 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap17.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 18 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap18.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 19 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap19.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 20 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap20.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 21 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap21.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 22 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap22.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 23 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap23.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 24 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap24.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 25 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap25.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 26 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap26.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 27 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap27.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 28 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap28.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 29 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap29.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 30 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap30.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 31 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap31.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 32 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap32.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 33 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap33.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 34 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap34.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 35 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap35.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 36 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap36.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 37 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap37.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 38 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap38.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 39 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap39.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 40 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap40.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 41 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap41.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 42 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap42.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 43 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap43.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 44 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap44.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 45 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap45.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 46 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap46.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 47 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap47.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 48 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap48.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 49 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap49.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập 50 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap50.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.docbao.vn/images/uploads/2020/03/29/giai-tri/phim-sieu-trom-2.png"      group-title="Đội Quân Siêu Trộm " ,Siêu Trộm  -  Tập  - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/sieutromtap.mp4
+	
