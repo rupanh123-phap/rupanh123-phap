@@ -206,7 +206,7 @@ https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1  tvg-id="foxmovieshd" tvg-logo="https://lh3.googleusercontent.com/-Qkp_SUgbcuw/W1mAuWY3SgI/AAAAAAAAELE/rruHFb_wIg4HyiLpvoZYOkMt4pR1p9ymACLcBGAs/h250/icon_channel_fox-movies_152238665778.png" group-title="🅾🆃🅷🅴🆁",FOX MOVIES HD
-http://103.195.239.138/foxfamily/mpegts
+http://103.195.239.138/foxmovies/mpegts
 #https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-id="foxfamilymovieshd" tvg-logo="https://static.megavie.live/media/foxfamilymovieshd.jpg" group-title="🅾🆃🅷🅴🆁",FOX FAMILY MOVIES HD
 http://103.195.239.138/foxfamily/mpegts
@@ -592,13 +592,5 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 
 
 #PHAPTX5
-
-
-
-
-
-
-
-
 
 
