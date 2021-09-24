@@ -206,7 +206,10 @@ https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1  tvg-id="foxmovieshd" tvg-logo="https://lh3.googleusercontent.com/-Qkp_SUgbcuw/W1mAuWY3SgI/AAAAAAAAELE/rruHFb_wIg4HyiLpvoZYOkMt4pR1p9ymACLcBGAs/h250/icon_channel_fox-movies_152238665778.png" group-title="🅾🆃🅷🅴🆁",FOX MOVIES HD
+http://103.195.239.138/foxfamily/mpegts
 #https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1  tvg-id="foxfamilymovieshd" tvg-logo="https://static.megavie.live/media/foxfamilymovieshd.jpg" group-title="🅾🆃🅷🅴🆁",FOX FAMILY MOVIES HD
+http://103.195.239.138/foxfamily/mpegts
 #EXTINF:-1  tvg-id="foxhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-hd_152238767588.png" group-title="🅾🆃🅷🅴🆁",FOX HD
 #https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-id="foxlifehd" tvg-logo="https://lh3.googleusercontent.com/-fmippsPXbWM/W1mAPOBNBAI/AAAAAAAAEK8/movc4Mxn3ZADUClQ9-TNI-Tk2-z_kbS-QCLcBGAs/h350/icon_channel_fox-life_152238683897.png" group-title="🅾🆃🅷🅴🆁",FOX LIFE HD
@@ -320,10 +323,11 @@ https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV
 https://e4.endpoint.cdn.sctvonline.vn/secure/cna/sd1/index.m3u8?md5=PbxpiXxwvnbhM64ms3PoWw&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="disney"  group-title="🅾🆃🅷🅴🆁" tvg-logo="https://www.kindpng.com/picc/m/727-7279287_tv-ident-for-russua-disney-channel-disney-channel.png", Disney HD
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/DISNEYCHANNEL-audio_128052_und=128000-video=2900000.m3u8
+https://static.megavie.live/media/vtv5hd.jpg
+#https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/DISNEYCHANNEL-audio_128052_und=128000-video=2900000.m3u8
 #EXTINF:0 tvg-id="disneyjunior"    group-title="🅾🆃🅷🅴🆁"  tvg-logo="https://i.ibb.co/gSBw6w6/dnj.png", Disney Junior HD
 https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/DISNEYJUNIOR-audio_129224_spa=128000-video=2900000.m3u8
-#EXTINF:0 tvg-id="disneyxd" group-title="🅾🆃🅷🅴🆁" tvg-logo="https://i.ibb.co/10Ghq9X/daljbn6-41a5ab76-1cfc-4ab9-8c6e-ddd5bf7489bd.jpg", Disney XD HD
+#EXTINF:0 tvg-id="disneyjunior" group-title="🅾🆃🅷🅴🆁" tvg-logo="https://i.ibb.co/10Ghq9X/daljbn6-41a5ab76-1cfc-4ab9-8c6e-ddd5bf7489bd.jpg", Disney XD HD
 https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/DISNEYXD-audio_129324_und=128000-video=2900000.m3u8
 #EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://i.ibb.co/7Y9tY7d/hollywood.png" group-title="🅾🆃🅷🅴🆁" ",HOLLYWOOD HD
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -343,8 +347,8 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 #EXTINF:-1  tvg-id="hgtvhd"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/HGTV_Logo.jpg/640px-HGTV_Logo.jpg" group-title="🅾🆃🅷🅴🆁" ",HGTV FHD
 
 #EXTINF:-1  tvg-id="channelvhd"  tvg-logo="https://lh3.googleusercontent.com/-VMD7bQzHp0o/W2c9_eiYTCI/AAAAAAAAEQI/fkIrJO8TpW0C4hGBdAkk9ZRIA8gqLHxxQCLcBGAs/h300/icon_channel_channel-v-hd_152238787152.png" group-title="🅾🆃🅷🅴🆁" ",[V]HD
-#EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://i.ytimg.com/vi/4MmZzCqA9oI/maxresdefault.jpg" group-title="🅾🆃🅷🅴🆁",Popular Songs FHD
-https://youtu.be/eHmrhzvWPek
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://i.ibb.co/GcXvQSd/bd.png" group-title="🅾🆃🅷🅴🆁",FTV Body HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
 #EXTINF:-1  tvg-id="fashionhd"  tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fM18xNTU1MDAxNTE3XzA4Nw/screen-3.jpg?fakeurl=1&type=.jpg" group-title="🅾🆃🅷🅴🆁" ",FTV Midnight Haute HD   
@@ -360,6 +364,8 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://youtu.be/_nFMeEv0bk8
 #EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://i.ytimg.com/vi/qFZKK7K52uQ/maxresdefault.jpg" group-title="🅾🆃🅷🅴🆁",Beautiful Relax Music UHD
 https://youtu.be/HMnatoiMdjA
+#EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://i.ytimg.com/vi/4MmZzCqA9oI/maxresdefault.jpg" group-title="🅾🆃🅷🅴🆁",Popular Songs FHD
+https://youtu.be/eHmrhzvWPek
 
 #EXTINF:-1 tvg-id="vovtvhd" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vovtv_161070256824.jpg",VOV Đài Tiếng Nói Việt Nam
 #http://mediatech.vncdn.vn/vovlive/tv1live.m3u8
@@ -586,6 +592,7 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 
 
 #PHAPTX5
+
 
 
 
