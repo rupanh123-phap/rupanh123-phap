@@ -4,26 +4,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	#PHÁP GROUP ANDROID BOX TX5 LÀM VÌ ĐAM MÊ CHIA SẺ ^^!
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaxD62VrrweqPV6tPNYxoSiUJSCFV3W8jZAA&usqp=CAU"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Truy Đuổi - Phim Lẻ  
 	https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191209/montage_vi_1080p_sub_logofptplay_v2/e05e07cf638a7dbfb6e41dc77ce965f7_1080p.mp4/chunklist.m3u8
@@ -323,6 +303,8 @@
 	http://s3-hcm-r1.longvan.net/phimle/daichienhanhtinhkhi.mp4
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2019/10/11/landscape-avatar-copy-15708057837111431635439-crop-15708057966151203596181.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  , Biệt Đội Bất Hảo - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/bietdoibathao.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/fox-4AKJ23_24-Full-Image_GalleryCover-en-US-1487892159239._UR1920,1080_RI_.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  ,Vượt Ngục: Cuộc vượt ngục cuối cùng - Phim Lẻ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc5lancuoitm.mp4
 
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.elle.vn/wp-content/uploads/2018/03/12/elle-viet-nam-thoi-trang-trong-phim-my-golden-life-feature-image.jpg"     group-title="Cuộc Sống Thượng Lưu"  , Cuộc Sống Thượng Lưu   - Tập 1 - Phim Bộ
 
@@ -6158,3 +6140,183 @@ https://www.youtube.com/watch?v=UoUgXuVEgIQ&list=PL1u8gTjsYIAj4PzHC-UGAvP-gNisAQ
 	http://s3-hcm-r1.longvan.net/phimle/sohuutm15.mp4
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.bloganchoi.com/bloganchoi.com/wp-content/uploads/2021/05/review-phim-mine-so-huu-2021-11-696x385.jpg?fit=696%2C20000&quality=95&ssl=1"      group-title="Sở Hữu" ,Sở Hữu   -  Tập 16 - Phim Bộ
 	http://s3-hcm-r1.longvan.net/phimle/sohuutm16.mp4
+	
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 1 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm1.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 2 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm2.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 3 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm3.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 4 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm4.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 5 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm5.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 6 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm6.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 7 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm7.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 8 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm8.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 9 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm9.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 10 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm10.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 11 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm11.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 12 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm12.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 13 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm13.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 14 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm14.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 15 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm15.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 16 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm16.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 17 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm17.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 18 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm18.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 19 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm19.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 20 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm20.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 21 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm21.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Q51lCl9DB385FxgA8q_EV1v5Jeqcy3Jjtj8xdjVHohpg5l-5UydykqXh1E-oyx2JiJzgnWBntRE0jxf4K_RxY-KaNSZAj-_iifYLnLDzIJAnNmz8Mogs5gKB-3im9qfBO7e81USSRspX_7x2ld8djiJJLCe7gAQw9XZ2TFOswkrDAZ-KZxMtwDCE"      group-title="Vượt Ngục" ,Vượt Ngục  -  Tập 22 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc1tm22.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 1 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm1.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 2 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm2.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 3 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm3.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 4 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm4.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 5 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm5.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 6 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm6.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 7 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm7.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 8 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm8.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 9 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm9.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 10 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm10.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 11 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm11.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 12 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm12.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 13 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm13.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 14 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm14.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 15 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm15.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 16 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm16.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 17 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm17.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 18 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm18.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 19 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm19.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 20 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm20.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 21 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm21.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/AwFFSz8L1i8/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 2 -  Tập 22 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan2tm22.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://topreview.vn/wp-content/uploads/2020/03/vuot-nguc-3.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 3 -  Tập 1 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan3tm1.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://topreview.vn/wp-content/uploads/2020/03/vuot-nguc-3.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 3 -  Tập 2 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan3tm2.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://topreview.vn/wp-content/uploads/2020/03/vuot-nguc-3.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 3 -  Tập 3 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan3tm3.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://topreview.vn/wp-content/uploads/2020/03/vuot-nguc-3.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 3 -  Tập 4 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan3tm4.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://topreview.vn/wp-content/uploads/2020/03/vuot-nguc-3.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 3 -  Tập 5 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan3tm5.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://topreview.vn/wp-content/uploads/2020/03/vuot-nguc-3.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 3 -  Tập 6 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan3tm6.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://topreview.vn/wp-content/uploads/2020/03/vuot-nguc-3.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 3 -  Tập 7 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan3tm7.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://topreview.vn/wp-content/uploads/2020/03/vuot-nguc-3.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 3 -  Tập 8 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan3tm8.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://topreview.vn/wp-content/uploads/2020/03/vuot-nguc-3.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 3 -  Tập 9 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan3tm9.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://topreview.vn/wp-content/uploads/2020/03/vuot-nguc-3.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 3 -  Tập 10 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan3tm10.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://topreview.vn/wp-content/uploads/2020/03/vuot-nguc-3.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 3 -  Tập 11 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan3tm11.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://topreview.vn/wp-content/uploads/2020/03/vuot-nguc-3.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 3 -  Tập 12 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan3tm12.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://topreview.vn/wp-content/uploads/2020/03/vuot-nguc-3.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 3 -  Tập 13 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan3tm13.mp4
+	
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 1 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc4vs1.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 2 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm2.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 3 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm3.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 4 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm4.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 5 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm5.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 6 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm6.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 7 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm7.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 8 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm8.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 9 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm9.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 10 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm10.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 11 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm11.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 12 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm12.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 13 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm13.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 14 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm14.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 15 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm15.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 16 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm16.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 17 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm17.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 18 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm18.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 19 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm19.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 20 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm20.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 21 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm21.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/aSxhrXi8lvU/maxresdefault.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 4 -  Tập 22 - Phim Bộ
+	http://s3-hcm-r1.longvan.net/phimle/vuotngucphan4tm22.mp4
+
+	
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/918lHyRb5tL._RI_.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 5 -  Tập 1 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotngucphan5tm1.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/918lHyRb5tL._RI_.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 5 -  Tập 2 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotngucphan5tm2.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/918lHyRb5tL._RI_.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 5 -  Tập 3 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotngucphan5tm3.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/918lHyRb5tL._RI_.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 5 -  Tập 4 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotngucphan5tm4.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/918lHyRb5tL._RI_.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 5 -  Tập 5 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotngucphan5tm5.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/918lHyRb5tL._RI_.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 5 -  Tập 6 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotngucphan5tm6.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/918lHyRb5tL._RI_.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 5 -  Tập 7 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotngucphan5tm7.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/918lHyRb5tL._RI_.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 5 -  Tập 8 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotngucphan5tm8.mp4
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/918lHyRb5tL._RI_.jpg"      group-title="Vượt Ngục" ,Vượt Ngục 5 -  Tập 9 - Phim Bộ
+	http://s3-hcm1-r1.longvan.net/phimle/vuotngucphan5tm9.mp4
