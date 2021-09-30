@@ -1,5 +1,5 @@
 #Thank FPTPLAY for SHARE
-#EXTM3U url-tvg="http://bit.ly/epgphaptx5, https://megavie.live/schedule/epg.xml"
+#EXTM3U url-tvg="http://bom.to/epgvn, http://bit.ly/epgphaptx5"
 #Thank EPG Trada and Bảo Chính For Share
 
 #CHIA SẺ VÌ CỘNG ĐỒNG - PHÁP GROUP ANDROID BOX TX5 
@@ -86,7 +86,6 @@ https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda3/vinhlong4hd_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="sctv1hd"  tvg-logo="https://static.megavie.live/media/sctv1hd.png" tvg-chno="35"   group-title="🆂🅲🆃🆅" ,SCTV1 HD 
-
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv2hd"  tvg-logo="https://static.megavie.live/media/sctv1hd.png" tvg-chno="36" group-title="🆂🅲🆃🆅" ,SCTV2 HD
 https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
