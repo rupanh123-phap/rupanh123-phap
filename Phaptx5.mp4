@@ -1,6 +1,6 @@
 
-#EXTM3U url-tvg="http://bom.to/epgvn"
-#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml"
+#EXTM3U url-tvg="http://bom.to/epgvn" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=2
 #CHIA SẺ VÌ CỘNG ĐỒNG - PHÁP GROUP ANDROID BOX TX5 
 #Thank FPTPLAY for SHARE
 #Thank EPG Manhkendo Kodi and Bảo Chính For Share
