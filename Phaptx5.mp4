@@ -1,9 +1,9 @@
 
-#EXTM3U url-tvg="http://bom.to/epgvn" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://epgphaptx5" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=2
 #CHIA SẺ VÌ CỘNG ĐỒNG - PHÁP GROUP ANDROID BOX TX5 
 #Thank FPTPLAY for SHARE
-#Thank EPG Manhkendo Kodi and Bảo Chính For Share
+#Thank EPG Trada  and Bảo Chính For Share
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://static.megavie.live/media/vtv1hd.jpg"  group-title="🆅🆃🆅"  tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8" ,VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
