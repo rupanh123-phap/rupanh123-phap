@@ -214,7 +214,7 @@ https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="k1hd" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg" group-title="🅾🆃🅷🅴🆁"  tvg-chno="996",K+CINE HD
 https://22live00.akamaized.net:443/RMC_Sports_1/tracks-v1a1/mono.m3u8?token=JP9cDQmTumfCYDAB1GhETAZf3praOFYNmR%2BnveVZ3GgOUZKCkHEq%2Bw0vzgVHDh48ii7TpTeyk75tQHLRJyc1tNBKUn2hJlTJmadUzm47j0d7XRSnJpbnGF1%2BgUOKINtrqN5tzFTtw7lsoVxtXOf8jUhpJrmQDSwrd2xBc5ePUx366kpr8DeDFL5w24DEciNlol4TVI%2BDqbsgKZwrIcFYcsnw%3D%3D
 #EXTINF:-1 tvg-id="knshd"  logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg"  group-title="🅾🆃🅷🅴🆁" tvg-chno="997",K+LIFE HD
-http://stream.tvtap.live:8081/live/us-usanet.stream/chunks.m3u8
+https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="kpmhd" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="999",K+SPORT1 HD
 http://93.157.62.180:80/KSport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kpchd" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="998",K+SPORT2 HD
@@ -692,24 +692,3 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 
 
 #PHAPTX5
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
