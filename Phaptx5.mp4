@@ -376,10 +376,10 @@ http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f170d64b898490041b4938f&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
 #EXTINF:0 tvg-id="disneyjunior" group-title="🅾🆃🅷🅴🆁" tvg-logo="https://dthorder.com/wp-content/uploads/channel/kids/nick-hd+.gif", NICK HD+
 https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
-#EXTINF:0 tvg-id="disneyjunior" group-title="🅾🆃🅷🅴🆁" tvg-logo="https://lh3.googleusercontent.com/proxy/3eVillCXzt9XyH6QTwaKClk8OrUlAJHkytfXKeD1z1YbB_h46qxIquPClTsMEWW7UCWYrGC2PtAtcyF-mA0k27FNwEnh", 3ABN KIDS HD
+#EXTINF:0 tvg-id="disneyjunior" group-title="🅾🆃🅷🅴🆁" tvg-logo="https://i.ibb.co/VWthhcm/unnamed-1.jpg", 3ABN KIDS HD
 #https://moiptvhls-i.akamaihd.net/hls/live/652318-b/secure/SQs/chunklist.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:0 tvg-id="disneyjunior" group-title="🅾🆃🅷🅴🆁" tvg-logo="https://lh3.googleusercontent.com/proxy/PmmhRdCHl-GHWxxAjTRn4oP5iLziHhiW16sm8sycWQ_G3tTcw5AAPsMc-DpMfHFZV9-Utpss8arPa6W4u2rC_Pp006F17tztBauijSOeaMsgvIlPTw", TOONEE HD
+#EXTINF:0 tvg-id="disneyjunior" group-title="🅾🆃🅷🅴🆁" tvg-logo="https://i.ibb.co/BtnwZ0w/images-1.jpg", TOONEE HD
 https://edge6a.v2h-cdn.com/appt7/Toonee.stream_720p/playlist.m3u8
 #EXTINF:0 tvg-id="disneyjunior" group-title="🅾🆃🅷🅴🆁" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRilu4c8fv-yQ1ZMTIj2zzNijaENnhJ0iVrW5cXhjpfq9DqTjjWKslXDzS8dR42cpzJ2xk&usqp=CAU", NASA
 
@@ -388,18 +388,18 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://www.rapidtvnews.com/images/tvN_logo_-_29_April_2017_1.jpg" group-title="🅾🆃🅷🅴🆁" ",TVN HD
 https://tvn-seezn.pip.cjenm.com:443/tvn/_definst_/s5/chunklist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE&solsessionid=ced1d8fb89dd32a90e5dfa3d317ca053
-#EXTINF:0 group-title="🅾🆃🅷🅴🆁" tvg-id="       " tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/published/tvn-movies-horizontal-logo.jpg?1501942269",  TVN MOVIES HD
+#EXTINF:0 group-title="🅾🆃🅷🅴🆁" tvg-id="       " tvg-logo="https://i.ibb.co/Tqs8M02/unnamed.jpg",  TVN MOVIES HD
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066023
 
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2015/06/FILMBOX_HD.png", group-title="🅾🆃🅷🅴🆁",FILM HOT HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JR0Gk7M/Canal-Film-HD-Logo-Alternativ.jpg", group-title="🅾🆃🅷🅴🆁",FILM HOT HD
 https://tvonlineappitv.shortcm.li//fwmov_fw-iptv.stream/playlist.m3u8
-#EXTINF:0 group-title="🅾🆃🅷🅴🆁" tvg-id="       " tvg-logo="https://upload.wikimedia.org/wikipedia/de/f/fd/Canal%2B_Film_HD_-_Logo_Alternativ.png",BOO HD
+#EXTINF:0 group-title="🅾🆃🅷🅴🆁" tvg-id="       " tvg-logo="https://i.ibb.co/vHcspp0/FILMBOX-HD.jpg",BOO HD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://1.bp.blogspot.com/-Lpyykrgsurg/V4XS0ayqIbI/AAAAAAAAEtY/ZdrRD_O9GtMCsuE3JTA1CBdbbFoffuDWACLcB/s640/Mnet-p1.png" group-title="🅾🆃🅷🅴🆁" ",MNET HD
 https://mnet-seezn.pip.cjenm.com/mnet/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI3MzQ4OTIsInBhdGgiOiIvbW5ldC9fZGVmaW5zdF8vczUiLCJ1bm8iOiIxNjIyNzM0NTkyMjg5MTg3ODYiLCJpYXQiOjE2MjI3MzQ1OTJ9.Qy-cUxDm2zSdJFdFLYV_k6HB9wN_MPGm6ntVtOJASbY
 #EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://i.ibb.co/LR9XrZb/Colors-tv2017.jpg" group-title="🅾🆃🅷🅴🆁" ",COLORS FHD
 https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://lh3.googleusercontent.com/proxy/GddNoEWtUgJG1gbGkN6-cIgqAe0eRkC0buVcw85wMO6d3weTF8ZsztJIngHDCbeQqj7pPg379CBx-dIxz_DsTYP9WTfK3ODcJeI5-93AmVkxTAw7S1G5elo" group-title="🅾🆃🅷🅴🆁" ",TVB FHD
+#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg9nWE8XgCkl5e4z3zk-4RueePycVoDloF9eMGFFuYt96q4AH39ktCPcLDKnJTTcSc8lQ&usqp=CAU" group-title="🅾🆃🅷🅴🆁" ",TVB FHD
 https://edge6a.v2h-cdn.com:443/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w1547988809_b3564000_sltha.m3u8
 #EXTINF:-1  tvg-id="hitshd"  tvg-logo="http://www.homa-tv.com/logo/cinefilmhd.png" group-title="🅾🆃🅷🅴🆁" ",FILM HD
 https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
@@ -692,4 +692,3 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 
 
 #PHAPTX5
-
