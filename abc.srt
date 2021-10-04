@@ -294,11 +294,11 @@ https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3
 https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="babyfirst" tvg-name="BabyFirst" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_baby-first_152332783386.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",BabyFirst
 https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png" group-title="🅾🆃🅷🅴🆁" roup-title="🅲🅰🆁🆃🅾🅾🅽", BabyTV
+#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/e6/74/5d/e6745d40-210e-315f-eaec-d5206a7c356c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="🅾🆃🅷🅴🆁" roup-title="🅲🅰🆁🆃🅾🅾🅽", BabyTV
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png" group-title="🅾🆃🅷🅴🆁" roup-title="🅲🅰🆁🆃🅾🅾🅽", DREAMWORK
+#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2at9oYen2pIwn9j_iVDufP_98c6buM62QMxd4J9ZnO_HYZyJpaVWGmO9UIZr-EeoVE2Q&usqp=CAU" group-title="🅾🆃🅷🅴🆁" roup-title="🅲🅰🆁🆃🅾🅾🅽", DREAMWORK
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png" group-title="🅾🆃🅷🅴🆁" roup-title="🅲🅰🆁🆃🅾🅾🅽",, OSN MOVIES DISNEY 
+#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://i.ibb.co/DVghJC3/OSN-MOVIES-DISNEY-Logo.jpg" group-title="🅾🆃🅷🅴🆁" roup-title="🅲🅰🆁🆃🅾🅾🅽",, OSN Movies Disney
 http://9ov.top:41000/live/bv442u/9ijfa/12.ts
 #EXTINF:-1 tvg-id="tvg-id="cbeebies"" tvg-logo="https://i.ibb.co/mHNZbn0/bbc.jpg"  group-title="🅾🆃🅷🅴🆁" tvg-chno="110",Cbeebies
 https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
@@ -753,7 +753,7 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/02/09/5e4mcpav_1920x1080ongbangangto_1267_712.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Ông Bạn Găng Tơ - Phim Lẻ
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2020/12/25/b60c7rjz_1920x1080-cunconsieuquay.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Cún Con Siêu Quậy 2 - Phim Lẻ
 	https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191129/hearty_paws_2_fptplay_1080p_logofptplay/4432096cd5af2a3cb803432dc274d3e2_1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.ahaphim.com/movies/content/m.preview.aha.FHWIb6D.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Ngọn Gió Yêu Thương - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/NLq2MNHQO0OJXWCt_XH2j6iTuTHD4E44BtSZOFxC1j_ebF2um_rofyXEQry9MVSEtJO8cgtq2msvJo5DMB6EjHt9JVSLx1Y_B40Kv9b-FPNEqCHvGTyIsyHkPdEgPxBpF1NW3Aj-ehc00VRe-Q"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Ngọn Gió Yêu Thương - Phim Lẻ
 	https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20170109/903a2336f3f8e78c8e436dbd1b40918c-720p.mp4/chunklist.m3u8
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/-ZnlHS1On_8/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Hoa Cúc Dại - Phim Lẻ
 	https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20180405/daisy-2006-korea/455293b4ab91cf620aa5d78c18c00546.smil/chunklist_b2992000.m3u8
