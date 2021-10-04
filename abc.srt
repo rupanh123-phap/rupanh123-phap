@@ -329,6 +329,7 @@ https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="sbscnbchd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnbc_162952697893.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="114",CNBC 
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="🅾🆃🅷🅴🆁" tvg-id="     " tvg-logo="https://www.displaydaily.com/images/Logos/D-F/dmax-hd.png", DMAX
+
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/chunks.m3u8
 
 
@@ -358,7 +359,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sc
 https://e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="disney"  group-title="🅾🆃🅷🅴🆁" tvg-logo="https://d3atsf3fgek2rw.cloudfront.net/content/uploads/2012/01/Discovery-MAX-logo.jpg", Discovery DMAX HD
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/index_1672_av-p.m3u8?sd=10&rebase=on&id=AgB0bmIdF8uHts8oV2EfEFVT456nWJXpYSKJUV2QY7ksK1MYdSP5zspuq7hb2qCmFZtlqABKjsrfzQ%3d%3d
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/index_1672_av-p.m3u8?sd=10&rebase=on&id=AgB0YWHbFyDszGKhWWH6oumefdZuicjHxDth5mlCZpgLWQXbLq1lTT+vF3DE9JVzbSbKP4mbb5Chuw%3d%3d
+#https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/index_1672_av-p.m3u8?sd=10&rebase=on&id=AgB0bmIdF8uHts8oV2EfEFVT456nWJXpYSKJUV2QY7ksK1MYdSP5zspuq7hb2qCmFZtlqABKjsrfzQ%3d%3d
 #EXTINF:0 group-title="🅾🆃🅷🅴🆁" tvg-id="angiang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/2560px-Arirang-TV-Logo.svg.png",  ARIRANG TV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:0 tvg-id="disney"  group-title="🅾🆃🅷🅴🆁" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/c/c0/844e8969b50080cb05f4d62acc5cbecc.jpg/revision/latest?cb=20171118134405", Disney INTERNATIONAL FHD
