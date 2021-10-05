@@ -663,193 +663,17 @@ http://127.0.0.1:6878/ace/getstream?id=b120fc00572b516163aaa624f0d1ba095af58f9a
 http://127.0.0.1:6878/ace/getstream?id=4875a901a224a950421c9cb2d60456bd820d6199
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/J5yXP9m/bong389-6.png" ,Live90P Server 2
 http://127.0.0.1:6878/ace/getstream?id=4bc1bfdcc400164b7c8afd2644108dd3311e85eb
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="vtvcab16" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/kenh-16_4d3ff04e.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" ,VTVCab16
-#http://127.0.0.1:6878/ace/getstream?id=c1ffa1f05031239da527941f4d4d325c3f57ce35
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-id="vtvcab3" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/kenh-3_743a9dbd.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" ,VTVCab3
-#http://127.0.0.1:6878/ace/getstream?id=bed83ff3ace26c124e8d93a7e072e202e1272fbc
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="vtvcab6"  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/84_9b59e5ac.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" ,VTVCab6
-#http://127.0.0.1:6878/ace/getstream?id=cb6a79de6168e04c641a62c19bb1abadee70e08d
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-f1-vector-logo.png" ,SKY SPORT F1 DE FHD
-http://127.0.0.1:6878/ace/getstream?id=bf1c1973456c16eeb0dc6a2ce897b65c8f721706
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TIENG RUOI" tvg-logo="http://chipcun.dynu.com:8080/Upload/IPTV_M3U/channel_thumb/bongda90p.png" group-title="🆂🅿🅾🆁🆃🆂", TIENGRUOI LINK1
-http://127.0.0.1:6878/ace/getstream?id=4875a901a224a950421c9cb2d60456bd820d6199
-#EXTINF:-1 tvg-id="" tvg-name="TIENG RUOI" tvg-logo="http://chipcun.dynu.com:8080/Upload/IPTV_M3U/channel_thumb/bongda90p.png" group-title="🆂🅿🅾🆁🆃🆂", TIENGRUOI LINK2
-http://127.0.0.1:6878/ace/getstream?id=4bc1bfdcc400164b7c8afd2644108dd3311e85eb
-#EXTINF:-1 tvg-id="" tvg-name="TIENG RUOI" tvg-logo="http://chipcun.dynu.com:8080/Upload/IPTV_M3U/channel_thumb/bongda90p.png" group-title="🆂🅿🅾🆁🆃🆂", TIENGRUOI LINK3
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/J5yXP9m/bong389-6.png" ,Live90P Server 3
 http://127.0.0.1:6878/ace/getstream?id=e9ed9d82db929115c74f295e6c9503f47987635a
-#EXTINF:-1 tvg-id="" tvg-name="TIENG RUOI" tvg-logo="http://chipcun.dynu.com:8080/Upload/IPTV_M3U/channel_thumb/bongda90p.png" group-title="🆂🅿🅾🆁🆃🆂", TIENGRUOI LINK4
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/J5yXP9m/bong389-6.png" ,Live90P Server 4
 http://127.0.0.1:6878/ace/getstream?id=9d9e6ed068f0a5058b9e803a78fa765d8a8c3ffa
-#EXTINF:-1 tvg-id="" tvg-name="TIENG RUOI" tvg-logo="http://chipcun.dynu.com:8080/Upload/IPTV_M3U/channel_thumb/bongda90p.png" group-title="🆂🅿🅾🆁🆃🆂", TIENGRUOI LINK5
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/J5yXP9m/bong389-6.png" ,Live90P Server 5
 http://127.0.0.1:6878/ace/getstream?id=fbda842baf2646ce181a6560cfa3fe453c11991f
 
 
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-f1-vector-logo.png" ,SKY SPORT F1 DE FHD
+http://127.0.0.1:6878/ace/getstream?id=bf1c1973456c16eeb0dc6a2ce897b65c8f721706
 
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",PIMPLETV 1 HD 50FPS
-http://127.0.0.1:6878/ace/getstream?id=11b6aa16e978a409504b9e3e9c3b29c56f392bdf
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",PIMPLETV 2 HD 50FPS
-http://127.0.0.1:6878/ace/getstream?id=955bc653f090c238b8d933b41d8a66fee1bf7893
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",PIMPLETV 3 HD 50FPS
-http://127.0.0.1:6878/ace/getstream?id=d2a36e305458e200c2a4952317fc33e38bd80187
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",PIMPLETV 4 FHD 50FPS EPL
-http://127.0.0.1:6878/ace/getstream?id=722f34a71cedbeb96bda429dc0f4d0e015995ea4
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",PIMPLETV 5 FHD 50FPS EPL
-http://127.0.0.1:6878/ace/getstream?id=ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Canal+ sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B_Sport_2015.png/400px-Canal%2B_Sport_2015.png",CANAL+ SPORT FHD
-http://127.0.0.1:6878/ace/getstream?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="🆂🅿🅾🆁🆃🆂",Eleven Sports 1HD
-http://127.0.0.1:6878/ace/getstream?id=5f7ba5cddba6d44435b75e28649b00393bbf2dc4
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="🆂🅿🅾🆁🆃🆂",Eleven Sports 2HD
-http://127.0.0.1:6878/ace/getstream?id=572880fd38805efc2d5c9fa72a72669a00583808
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="🆂🅿🅾🆁🆃🆂",Eleven Sports 3HD
-http://127.0.0.1:6878/ace/getstream?id=d7f042a816012aaa4898b1f56107a2c13c7df323
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="🆂🅿🅾🆁🆃🆂",Eleven Sports 4HD
-http://127.0.0.1:6878/ace/getstream?id=0e86afa4f4aea82b00e527967eec9dc938ded8c1
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRSton9sXK_jrrOuDASB7q9t3BI-kye5CGcg&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Setetan Sports 1HD
-http://127.0.0.1:6878/ace/getstream?id=1512fb17842a64e7cecbc5a987ebf44e00a0b0ad 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRSton9sXK_jrrOuDASB7q9t3BI-kye5CGcg&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Setetan Sports 2HD
-http://127.0.0.1:6878/ace/getstream?id=4dfb535a08ce667b16d09b090717d93842a384a4 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSdYjHYAODVx1FD4qQgCT3ZgLYZ2cog-f3g&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Arena Sports 1HD
-http://127.0.0.1:6878/ace/getstream?id=e4c0aff2c98cc3bd09f678325ae09d8d560f2705 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSdYjHYAODVx1FD4qQgCT3ZgLYZ2cog-f3g&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Arena Sports 2HD
-http://127.0.0.1:6878/ace/getstream?id=776f3e403abc35022765ed0ea19ec38856ca291e
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWO6HPHSUg4ctYYDYHRgJJGI6ZAxhM3t8MkQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",TRT Sports HD
-http://127.0.0.1:6878/ace/getstream?id=d739c631ec0a21590a1d46d77c867f3c91f298f3 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://seeklogo.com/images/D/D-sport-logo-26504724DD-seeklogo.com.png" group-title="🆂🅿🅾🆁🆃🆂",Sports 1HD
-http://127.0.0.1:6878/ace/getstream?id=80c56f650421f104181a46a5d318584f3d9b64eb
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://seeklogo.com/images/D/D-sport-logo-26504724DD-seeklogo.com.png" group-title="🆂🅿🅾🆁🆃🆂",Sports 2HD
-http://127.0.0.1:6878/ace/getstream?id=b4a583fac6636b17823c327252dd7640a8đ64f3 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI09IZXjeKF1PpwnTai9sJcV50Ei1Ljcbbqw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Digi Sports 1HD
-http://127.0.0.1:6878/ace/getstream?id=4a4294c72188e91e24b8dd9f49246ba8c9307170
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI09IZXjeKF1PpwnTai9sJcV50Ei1Ljcbbqw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Digi Sports 2HD
-http://127.0.0.1:6878/ace/getstream?id=144909db8d0119e42e0b89810de615e2ad425ebe
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI09IZXjeKF1PpwnTai9sJcV50Ei1Ljcbbqw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Digi Sports 3HD
-http://127.0.0.1:6878/ace/getstream?id=13ee042b7446275702d30f4c7a87ee889c21c3d0
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI09IZXjeKF1PpwnTai9sJcV50Ei1Ljcbbqw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Digi Sports 4HD
-http://127.0.0.1:6878/ace/getstream?id=b257a0c1407214e613af6003f708b676b24b7c0c
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ikzaJ0Hfvp7-qfb0fXfUBsksuMtjepDFNA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Posat News HD
-http://127.0.0.1:6878/ace/getstream?id=22bf9f925c167ff4e2541d42fe1edf0d5668a8de 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ikzaJ0Hfvp7-qfb0fXfUBsksuMtjepDFNA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Posat Sports HD
-http://127.0.0.1:6878/ace/getstream?id=12989443272b25e8b402aa609aa436a89536933c
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ikzaJ0Hfvp7-qfb0fXfUBsksuMtjepDFNA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Posat Premium 1HD
-http://127.0.0.1:6878/ace/getstream?id=0e4f19a8e1d43880c228dfd522aa31cf726c7296 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ikzaJ0Hfvp7-qfb0fXfUBsksuMtjepDFNA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Posat Premium 2HD
-http://127.0.0.1:6878/ace/getstream?id=a5f1c6f87283e5c3f54f927d3825105961770112
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHjOy4sM5GuA9a9uDF2c1F7ixu_i9EFcAzw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Sports 1HD
-http://127.0.0.1:6878/ace/getstream?id=1885e9bcdda920291dd640c32ac3b137dc7a7b95
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9psuVkDA-xO9h6FIP7pBWj1GwSQcU_C1eA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Sports 2HD
-http://127.0.0.1:6878/ace/getstream?id=d342fee30beccf53f2563f5b81e4e909e57202bf
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYtnKTsvGJ7pQ3NaOedM-TSLA-jdUGfnGtw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Sports 3HD
-http://127.0.0.1:6878/ace/getstream?id=9ba8774882f10a28c986644f0aaff997e3fb3ca9
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRI-6lWlNJMH5HXePq9_W_WWs0_BwmK0cPDw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Sports 4HD
-http://127.0.0.1:6878/ace/getstream?id=5bfbc045dab5bf27841aeae8b1d1f1a111dd1799
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVbEv6nH-f8IMETv5_ZdZJyd-gRIpmK8XsyTycCqY&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",5 Sports HD
-http://127.0.0.1:6878/ace/getstream?id=f25827c9d236a4ec19cd49394e495928dd7813da 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="🆂🅿🅾🆁🆃🆂",FightBox HD
-http://127.0.0.1:6878/ace/getstream?id=ddfa71c1c676887fb06b1e732e2bbe37900fda72 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUM5kpFcR6_lXD_h6M-SicOw5kOd9w1DJ9qQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",FightKlub HD
-http://127.0.0.1:6878/ace/getstream?id=176afce7bf6860f1b848cbd29152bf20e79ad206 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdi2ZKlt1oQwuNZ2p0cezmx3R2WNNs7GZXvg&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Kok Fight HD
-http://127.0.0.1:6878/ace/getstream?id=88e4baadd0ef49935380c79f8e57dc0eaf277199 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKyntjh0a3BMA_WK0BD85yT2P3I1uDwj_fiLNSfdg&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",UFC HD
-http://127.0.0.1:6878/ace/getstream?id=585860881c0e1f4b9921a2d2db1f43f1bd45134f 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCeuCbDQoPzl5_rslqlj__CzPaALt8ZsEln52uOqEBrC-rslGx&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",WWE HD
-http://127.0.0.1:6878/ace/getstream?id=009ddb19c2d60882d671dae16a568b55dffe0c99
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK32iR45IFdzFXEVVf-lDu5sp__mBIgpLbDA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Sky F1HD
-http://127.0.0.1:6878/ace/getstream?id=bf1c1973456c16eeb0dc6a2ce897b65c8f721706 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlvCqs-2vbG2pOMrEc8y8QgWAIGomjyOM3MQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Giggo Racing HD
-http://127.0.0.1:6878/ace/getstream?id=e37b2a23b3484d9533035a60f08453acdc69599c 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXMGj_jlMpiO80TXOM4FrPPNcwz3p2yaaoA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Nova Sports 1HD
-http://127.0.0.1:6878/ace/getstream?id=d8c921e06e63427c97f423a4cdd63af05cc04f6e
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXMGj_jlMpiO80TXOM4FrPPNcwz3p2yaaoA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Nova Sports 2HD
-http://127.0.0.1:6878/ace/getstream?id=ecb8eaa3013119be6707cc16540ad455db33a512
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuyAwBLlZfT3Dnv381-3p3CE1rh3iUKkWGNQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Bundesliga 1HD
-http://127.0.0.1:6878/ace/getstream?id=363e0c3c0273cbf0d8f6d8d2e8768544ecd0f370 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuyAwBLlZfT3Dnv381-3p3CE1rh3iUKkWGNQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Bundesliga 2HD
-http://127.0.0.1:6878/ace/getstream?id=60927c52bb57d6865899736a5965eda4310c34d9 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqJ3yc6Hvv49w1-1nv5UyurFyQhnmneB83sA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Sky Sports 1HD
-http://127.0.0.1:6878/ace/getstream?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqJ3yc6Hvv49w1-1nv5UyurFyQhnmneB83sA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Sky Sports 2HD
-http://127.0.0.1:6878/ace/getstream?id=46c49e9e01749e13c7fd87300924bfa5dad66d11 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqJ3yc6Hvv49w1-1nv5UyurFyQhnmneB83sA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Sky Sports IT
-http://127.0.0.1:6878/ace/getstream?id=4fcc05b9342cfd48ab019400457716ac83c31ffd 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqJ3yc6Hvv49w1-1nv5UyurFyQhnmneB83sA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Sky Sports TG24
-http://127.0.0.1:6878/ace/getstream?id=4d1107f1f4eff0a3ece74add51a0f5c21418bd7a
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYsY37PAQTGEdtwYx2MJ1DbONRliLETyF3wg&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Rmc Sports 1HD
-http://127.0.0.1:6878/ace/getstream?id=49414b5621432ffcfd6dee648abc359a72e15993 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQX5L0rN5Cqp58EICz08u-sr1fEnaRFQRewg&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",SportsTV +HD
-http://127.0.0.1:6878/ace/getstream?id=5d6dbf22214c1a0118e9f4a8d5fe7f4ccf3f3886 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQX5L0rN5Cqp58EICz08u-sr1fEnaRFQRewg&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",SportsTV 1HD
-http://127.0.0.1:6878/ace/getstream?id=d027b34465b1ed60b45819ac6bf12070dab3d1ê 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQX5L0rN5Cqp58EICz08u-sr1fEnaRFQRewg&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",SportsTV 2HD
-http://127.0.0.1:6878/ace/getstream?id=6fae558689a5045dd02409711fa3b9bd2a8678đ 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQX5L0rN5Cqp58EICz08u-sr1fEnaRFQRewg&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",SportsTV 3HD
-http://127.0.0.1:6878/ace/getstream?id=7abfed961d37a0aae62097ac6ac5678dbeeef8bd
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQX5L0rN5Cqp58EICz08u-sr1fEnaRFQRewg&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",SportsTV 4HD
-http://127.0.0.1:6878/ace/getstream?id=e09a642d1b3d7ff62fe6838b84b007f5f2f90475
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6C5oSGbZo--HRNFAF6VH0RgEiinb4F_cUag&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",CBS Sports HQ
-http://127.0.0.1:6878/ace/getstream?id=7c213bb9895a185c7ce136d56e38ebb81f2931db 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9BkrtO7u2UG7Nqu6AaueOVbfzdbA-xUmRg&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",CBS Sports network
-http://127.0.0.1:6878/ace/getstream?id=b6b439d04acf1a6ee94f9c3e1e5da174d32f6b37 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="🆂🅿🅾🆁🆃🆂",M-laliga HD
-http://127.0.0.1:6878/ace/getstream?id=bede0333c1da4b8fceb28335028571735283a8bf 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="🆂🅿🅾🆁🆃🆂",M-laliga 1HD
-http://127.0.0.1:6878/ace/getstream?id=9de01446340e484eccaaa2f7d5b6c8e47762877c 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="🆂🅿🅾🆁🆃🆂",M-laliga 2HD
-http://127.0.0.1:6878/ace/getstream?id=a41b869fc15fd923d80de68b8624e5012955c919 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPZ8e6NIrUucuHutmSqtf2HiiFmDFGSXt6_w&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Euro Sports 1FR
-http://127.0.0.1:6878/ace/getstream?id=4ea1ad94480378835e26e71e4a65baddd2c9f7ea 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPZ8e6NIrUucuHutmSqtf2HiiFmDFGSXt6_w&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Euro Sports 2FR
-http://127.0.0.1:6878/ace/getstream?id=c0bf131adf43db2e86211a8c663380ffc7f5b0c3 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Eurosport_HD_Logo_%282011-2015%29.svg/1280px-Eurosport_HD_Logo_%282011-2015%29.svg.png" group-title="🆂🅿🅾🆁🆃🆂",Euro Sports 1DE
-http://127.0.0.1:6878/ace/getstream?id=d72051505d01ab6993ce9304973b8e6885e24229 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Eurosport_HD_Logo_%282011-2015%29.svg/1280px-Eurosport_HD_Logo_%282011-2015%29.svg.png" group-title="🆂🅿🅾🆁🆃🆂",Euro Sports 2DE
-http://127.0.0.1:6878/ace/getstream?id=0a8d397b734c653bcd810ea9e2742b986bcbec2f 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRevQghF1UC96tu5GYeSZQz20C8CUId0EtnsFNm00ZZKUldniNW&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",DAZN 1TBN
-http://127.0.0.1:6878/ace/getstream?id=f8cfb9c8c8f95a8e8848fd15f1b9be1e87d33284 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRevQghF1UC96tu5GYeSZQz20C8CUId0EtnsFNm00ZZKUldniNW&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",DAZN 2TBN
-http://127.0.0.1:6878/ace/getstream?id=fd547d738c9e35b790171019d7465c32f30dc753 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUFY_JS7c7-ZNGNe7qKfdR3O_FGkpaWBQUJw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",DAZN 1NL
-http://127.0.0.1:6878/ace/getstream?id=9c2a1031d972cb21e51d8ff6cf95a38d98b8f87e 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUFY_JS7c7-ZNGNe7qKfdR3O_FGkpaWBQUJw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",DAZN 2NL
-http://127.0.0.1:6878/ace/getstream?id=699ed54b2a140b7d75ba06ecbe8c578e079b8db2 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/TV_2_Sport_2015.svg/revision/latest/scale-to-width-down/300?cb=20160401214429" group-title="🆂🅿🅾🆁🆃🆂", TV2 Sports HD
-http://127.0.0.1:6878/ace/getstream?id=7e9e9c33c9e9697cc1f221b16172dce2a6a27331 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqYFHdpY88qBirGejvFqPdKQQvuwXOKgrEw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂", TV3 Sports 1HD
-http://127.0.0.1:6878/ace/getstream?id=024526a5659202ec13b077f21ea8e6044d6d7df2 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqYFHdpY88qBirGejvFqPdKQQvuwXOKgrEw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂", TV3 Sports 2HD
-http://127.0.0.1:6878/ace/getstream?id=8172d547d41ff1b8b30ec3f39601ca96269c6d43 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeuEBfDys420yd-ULRhdaIM9emdap-IbK8PQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Ziggo golf 
-http://127.0.0.1:6878/ace/getstream?id=0077bcf5759d69e7413bd3bcce79d8a5e19bb181 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeuEBfDys420yd-ULRhdaIM9emdap-IbK8PQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Ziggo Sleet
-http://127.0.0.1:6878/ace/getstream?id=38d77beafa2a8763686f76576480e9f73d9ae3e6 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeuEBfDys420yd-ULRhdaIM9emdap-IbK8PQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Ziggo Sports
-http://127.0.0.1:6878/ace/getstream?id=e0d5f1857fb135d83d32b5ba92f4a4f7efec4cb4 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJYXkucjlieLbYtTxdDzbSIpQjpba32pk4eQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",ESPN 1US
-http://127.0.0.1:6878/ace/getstream?id=8e2292385bfe2459c884736bb91017b49e37f566 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJYXkucjlieLbYtTxdDzbSIpQjpba32pk4eQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",ESPN 2US 
-http://127.0.0.1:6878/ace/getstream?id=a1ad5222a6e18d96d38e72173606b086a79278f5
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/ESPN_logo_red_bg.jpg" group-title="🆂🅿🅾🆁🆃🆂",ESPN 1NL
-http://127.0.0.1:6878/ace/getstream?id=11b05292665d1d265ced6b6fe4ed986ed68b9af8 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/ESPN_logo_red_bg.jpg" group-title="🆂🅿🅾🆁🆃🆂",ESPN 2NL
-http://127.0.0.1:6878/ace/getstream?id=da778ac51e5cf7accee2d2b5400d0642e01001b0
 
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Sport TV + HD" tvg-logo="http://163.172.96.72/picon/SPORT%20TV+.png",Sport TV + HD
 http://127.0.0.1:6878/ace/getstream?id=5d6dbf22214c1a0118e9f4a8d5fe7f4ccf3f3886
@@ -980,6 +804,151 @@ http://127.0.0.1:6878/ace/getstream?id=e4c0aff2c98cc3bd09f678325ae09d8d560f2705
 http://127.0.0.1:6878/ace/getstream?id=00e0f5e4990c1177512fed77430a9c3f945b4893
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",NBA TV FHD
 http://127.0.0.1:6878/ace/getstream?id=eb24f16f4c86976dfa96b928789bd2db4dcf15b7
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",PIMPLETV 1 HD 50FPS
+http://127.0.0.1:6878/ace/getstream?id=11b6aa16e978a409504b9e3e9c3b29c56f392bdf
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",PIMPLETV 2 HD 50FPS
+http://127.0.0.1:6878/ace/getstream?id=955bc653f090c238b8d933b41d8a66fee1bf7893
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",PIMPLETV 3 HD 50FPS
+http://127.0.0.1:6878/ace/getstream?id=d2a36e305458e200c2a4952317fc33e38bd80187
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",PIMPLETV 4 FHD 50FPS EPL
+http://127.0.0.1:6878/ace/getstream?id=722f34a71cedbeb96bda429dc0f4d0e015995ea4
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",PIMPLETV 5 FHD 50FPS EPL
+http://127.0.0.1:6878/ace/getstream?id=ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Canal+ sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B_Sport_2015.png/400px-Canal%2B_Sport_2015.png",CANAL+ SPORT FHD
+http://127.0.0.1:6878/ace/getstream?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="🆂🅿🅾🆁🆃🆂",Eleven Sports 1HD
+http://127.0.0.1:6878/ace/getstream?id=5f7ba5cddba6d44435b75e28649b00393bbf2dc4
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="🆂🅿🅾🆁🆃🆂",Eleven Sports 2HD
+http://127.0.0.1:6878/ace/getstream?id=572880fd38805efc2d5c9fa72a72669a00583808
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="🆂🅿🅾🆁🆃🆂",Eleven Sports 3HD
+http://127.0.0.1:6878/ace/getstream?id=d7f042a816012aaa4898b1f56107a2c13c7df323
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="🆂🅿🅾🆁🆃🆂",Eleven Sports 4HD
+http://127.0.0.1:6878/ace/getstream?id=0e86afa4f4aea82b00e527967eec9dc938ded8c1
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRSton9sXK_jrrOuDASB7q9t3BI-kye5CGcg&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Setetan Sports 1HD
+http://127.0.0.1:6878/ace/getstream?id=1512fb17842a64e7cecbc5a987ebf44e00a0b0ad 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRSton9sXK_jrrOuDASB7q9t3BI-kye5CGcg&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Setetan Sports 2HD
+http://127.0.0.1:6878/ace/getstream?id=4dfb535a08ce667b16d09b090717d93842a384a4 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSdYjHYAODVx1FD4qQgCT3ZgLYZ2cog-f3g&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Arena Sports 1HD
+http://127.0.0.1:6878/ace/getstream?id=e4c0aff2c98cc3bd09f678325ae09d8d560f2705 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSdYjHYAODVx1FD4qQgCT3ZgLYZ2cog-f3g&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Arena Sports 2HD
+http://127.0.0.1:6878/ace/getstream?id=776f3e403abc35022765ed0ea19ec38856ca291e
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWO6HPHSUg4ctYYDYHRgJJGI6ZAxhM3t8MkQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",TRT Sports HD
+http://127.0.0.1:6878/ace/getstream?id=d739c631ec0a21590a1d46d77c867f3c91f298f3 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://seeklogo.com/images/D/D-sport-logo-26504724DD-seeklogo.com.png" group-title="🆂🅿🅾🆁🆃🆂",Sports 1HD
+http://127.0.0.1:6878/ace/getstream?id=80c56f650421f104181a46a5d318584f3d9b64eb
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://seeklogo.com/images/D/D-sport-logo-26504724DD-seeklogo.com.png" group-title="🆂🅿🅾🆁🆃🆂",Sports 2HD
+http://127.0.0.1:6878/ace/getstream?id=b4a583fac6636b17823c327252dd7640a8đ64f3 
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ikzaJ0Hfvp7-qfb0fXfUBsksuMtjepDFNA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Posat News HD
+http://127.0.0.1:6878/ace/getstream?id=22bf9f925c167ff4e2541d42fe1edf0d5668a8de 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ikzaJ0Hfvp7-qfb0fXfUBsksuMtjepDFNA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Posat Sports HD
+http://127.0.0.1:6878/ace/getstream?id=12989443272b25e8b402aa609aa436a89536933c
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ikzaJ0Hfvp7-qfb0fXfUBsksuMtjepDFNA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Posat Premium 1HD
+http://127.0.0.1:6878/ace/getstream?id=0e4f19a8e1d43880c228dfd522aa31cf726c7296 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ikzaJ0Hfvp7-qfb0fXfUBsksuMtjepDFNA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Posat Premium 2HD
+http://127.0.0.1:6878/ace/getstream?id=a5f1c6f87283e5c3f54f927d3825105961770112
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHjOy4sM5GuA9a9uDF2c1F7ixu_i9EFcAzw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Sports 1 HD
+http://127.0.0.1:6878/ace/getstream?id=1885e9bcdda920291dd640c32ac3b137dc7a7b95
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9psuVkDA-xO9h6FIP7pBWj1GwSQcU_C1eA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Sports 2 HD
+http://127.0.0.1:6878/ace/getstream?id=d342fee30beccf53f2563f5b81e4e909e57202bf
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYtnKTsvGJ7pQ3NaOedM-TSLA-jdUGfnGtw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Sports 3 FHD
+http://127.0.0.1:6878/ace/getstream?id=9ba8774882f10a28c986644f0aaff997e3fb3ca9
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRI-6lWlNJMH5HXePq9_W_WWs0_BwmK0cPDw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Sports 4 FHD
+http://127.0.0.1:6878/ace/getstream?id=5bfbc045dab5bf27841aeae8b1d1f1a111dd1799
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVbEv6nH-f8IMETv5_ZdZJyd-gRIpmK8XsyTycCqY&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",5 Sports HD
+http://127.0.0.1:6878/ace/getstream?id=f25827c9d236a4ec19cd49394e495928dd7813da 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="🆂🅿🅾🆁🆃🆂",FightBox FHD
+http://127.0.0.1:6878/ace/getstream?id=ddfa71c1c676887fb06b1e732e2bbe37900fda72 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUM5kpFcR6_lXD_h6M-SicOw5kOd9w1DJ9qQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",FightKlub FHD
+http://127.0.0.1:6878/ace/getstream?id=176afce7bf6860f1b848cbd29152bf20e79ad206 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdi2ZKlt1oQwuNZ2p0cezmx3R2WNNs7GZXvg&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Kok Fight HD
+http://127.0.0.1:6878/ace/getstream?id=88e4baadd0ef49935380c79f8e57dc0eaf277199 
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://rogersarena.com/wp-content/uploads/2016/06/ufc-logo-small.png", UFC - Boxing FHD
+http://127.0.0.1:6878/ace/getstream?id=585860881c0e1f4b9921a2d2db1f43f1bd45134f 
+
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK32iR45IFdzFXEVVf-lDu5sp__mBIgpLbDA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Sky F1 FHD 5.1s
+http://127.0.0.1:6878/ace/getstream?id=bf1c1973456c16eeb0dc6a2ce897b65c8f721706 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlvCqs-2vbG2pOMrEc8y8QgWAIGomjyOM3MQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Giggo Racing FHD 
+http://127.0.0.1:6878/ace/getstream?id=e37b2a23b3484d9533035a60f08453acdc69599c 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXMGj_jlMpiO80TXOM4FrPPNcwz3p2yaaoA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Nova Sports 1 FHD 5.1
+http://127.0.0.1:6878/ace/getstream?id=d8c921e06e63427c97f423a4cdd63af05cc04f6e
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXMGj_jlMpiO80TXOM4FrPPNcwz3p2yaaoA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Nova Sports 2 FHD 5.1
+http://127.0.0.1:6878/ace/getstream?id=ecb8eaa3013119be6707cc16540ad455db33a512
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuyAwBLlZfT3Dnv381-3p3CE1rh3iUKkWGNQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Bundesliga 1 FHD 5.1
+http://127.0.0.1:6878/ace/getstream?id=363e0c3c0273cbf0d8f6d8d2e8768544ecd0f370 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuyAwBLlZfT3Dnv381-3p3CE1rh3iUKkWGNQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Bundesliga 2 FHD 5.1
+http://127.0.0.1:6878/ace/getstream?id=60927c52bb57d6865899736a5965eda4310c34d9 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqJ3yc6Hvv49w1-1nv5UyurFyQhnmneB83sA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Sky Sports 1 FHD 5.1
+http://127.0.0.1:6878/ace/getstream?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqJ3yc6Hvv49w1-1nv5UyurFyQhnmneB83sA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Sky Sports 2 FHD 5.1
+http://127.0.0.1:6878/ace/getstream?id=46c49e9e01749e13c7fd87300924bfa5dad66d11 
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6C5oSGbZo--HRNFAF6VH0RgEiinb4F_cUag&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",CBS Sports HQ FHD
+http://127.0.0.1:6878/ace/getstream?id=7c213bb9895a185c7ce136d56e38ebb81f2931db 
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="🆂🅿🅾🆁🆃🆂",M-laliga HD
+http://127.0.0.1:6878/ace/getstream?id=bede0333c1da4b8fceb28335028571735283a8bf 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="🆂🅿🅾🆁🆃🆂",M-laliga 1HD
+http://127.0.0.1:6878/ace/getstream?id=9de01446340e484eccaaa2f7d5b6c8e47762877c 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="🆂🅿🅾🆁🆃🆂",M-laliga 2HD
+http://127.0.0.1:6878/ace/getstream?id=a41b869fc15fd923d80de68b8624e5012955c919 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPZ8e6NIrUucuHutmSqtf2HiiFmDFGSXt6_w&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Euro Sports 1FR
+http://127.0.0.1:6878/ace/getstream?id=4ea1ad94480378835e26e71e4a65baddd2c9f7ea 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPZ8e6NIrUucuHutmSqtf2HiiFmDFGSXt6_w&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Euro Sports 2FR
+http://127.0.0.1:6878/ace/getstream?id=c0bf131adf43db2e86211a8c663380ffc7f5b0c3 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Eurosport_HD_Logo_%282011-2015%29.svg/1280px-Eurosport_HD_Logo_%282011-2015%29.svg.png" group-title="🆂🅿🅾🆁🆃🆂",Euro Sports 1DE
+http://127.0.0.1:6878/ace/getstream?id=d72051505d01ab6993ce9304973b8e6885e24229 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Eurosport_HD_Logo_%282011-2015%29.svg/1280px-Eurosport_HD_Logo_%282011-2015%29.svg.png" group-title="🆂🅿🅾🆁🆃🆂",Euro Sports 2DE
+http://127.0.0.1:6878/ace/getstream?id=0a8d397b734c653bcd810ea9e2742b986bcbec2f 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRevQghF1UC96tu5GYeSZQz20C8CUId0EtnsFNm00ZZKUldniNW&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",DAZN 1TBN
+http://127.0.0.1:6878/ace/getstream?id=f8cfb9c8c8f95a8e8848fd15f1b9be1e87d33284 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRevQghF1UC96tu5GYeSZQz20C8CUId0EtnsFNm00ZZKUldniNW&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",DAZN 2TBN
+http://127.0.0.1:6878/ace/getstream?id=fd547d738c9e35b790171019d7465c32f30dc753 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUFY_JS7c7-ZNGNe7qKfdR3O_FGkpaWBQUJw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",DAZN 1NL
+http://127.0.0.1:6878/ace/getstream?id=9c2a1031d972cb21e51d8ff6cf95a38d98b8f87e 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUFY_JS7c7-ZNGNe7qKfdR3O_FGkpaWBQUJw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",DAZN 2NL
+http://127.0.0.1:6878/ace/getstream?id=699ed54b2a140b7d75ba06ecbe8c578e079b8db2 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/TV_2_Sport_2015.svg/revision/latest/scale-to-width-down/300?cb=20160401214429" group-title="🆂🅿🅾🆁🆃🆂", TV2 Sports HD
+http://127.0.0.1:6878/ace/getstream?id=7e9e9c33c9e9697cc1f221b16172dce2a6a27331 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqYFHdpY88qBirGejvFqPdKQQvuwXOKgrEw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂", TV3 Sports 1HD
+http://127.0.0.1:6878/ace/getstream?id=024526a5659202ec13b077f21ea8e6044d6d7df2 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqYFHdpY88qBirGejvFqPdKQQvuwXOKgrEw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂", TV3 Sports 2HD
+http://127.0.0.1:6878/ace/getstream?id=8172d547d41ff1b8b30ec3f39601ca96269c6d43 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeuEBfDys420yd-ULRhdaIM9emdap-IbK8PQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Ziggo golf 
+http://127.0.0.1:6878/ace/getstream?id=0077bcf5759d69e7413bd3bcce79d8a5e19bb181 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeuEBfDys420yd-ULRhdaIM9emdap-IbK8PQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Ziggo Sleet
+http://127.0.0.1:6878/ace/getstream?id=38d77beafa2a8763686f76576480e9f73d9ae3e6 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeuEBfDys420yd-ULRhdaIM9emdap-IbK8PQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Ziggo Sports
+http://127.0.0.1:6878/ace/getstream?id=e0d5f1857fb135d83d32b5ba92f4a4f7efec4cb4 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJYXkucjlieLbYtTxdDzbSIpQjpba32pk4eQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",ESPN 1US
+http://127.0.0.1:6878/ace/getstream?id=8e2292385bfe2459c884736bb91017b49e37f566 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJYXkucjlieLbYtTxdDzbSIpQjpba32pk4eQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",ESPN 2US 
+http://127.0.0.1:6878/ace/getstream?id=a1ad5222a6e18d96d38e72173606b086a79278f5
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/ESPN_logo_red_bg.jpg" group-title="🆂🅿🅾🆁🆃🆂",ESPN 1NL
+http://127.0.0.1:6878/ace/getstream?id=11b05292665d1d265ced6b6fe4ed986ed68b9af8 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/ESPN_logo_red_bg.jpg" group-title="🆂🅿🅾🆁🆃🆂",ESPN 2NL
+http://127.0.0.1:6878/ace/getstream?id=da778ac51e5cf7accee2d2b5400d0642e01001b0
+
+
 
 
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  ,DAZN 1 ES
