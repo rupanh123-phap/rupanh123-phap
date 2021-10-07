@@ -316,8 +316,7 @@ https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2at9oYen2pIwn9j_iVDufP_98c6buM62QMxd4J9ZnO_HYZyJpaVWGmO9UIZr-EeoVE2Q&usqp=CAU" group-title="🅾🆃🅷🅴🆁" roup-title="🅲🅰🆁🆃🅾🅾🅽", DREAMWORK
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://i.ibb.co/DVghJC3/OSN-MOVIES-DISNEY-Logo.jpg" group-title="🅾🆃🅷🅴🆁" roup-title="🅲🅰🆁🆃🅾🅾🅽",, OSN Movies Disney
-http://9ov.top:41000/live/bv442u/9ijfa/12.ts
+
 #EXTINF:-1 tvg-id="tvg-id="cbeebies"" tvg-logo="https://i.ibb.co/mHNZbn0/bbc.jpg"  group-title="🅾🆃🅷🅴🆁" tvg-chno="110",Cbeebies
 https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNNHD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnn_146581309815.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",CNN
@@ -451,37 +450,8 @@ https://f8e7y4c6.ssl.hwcdn.net:443/andprivehd/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="🅾🆃🅷🅴🆁" tvg-id="boxhits" tvg-logo="https://github.com/cooderiptv/logo/blob/main/BOX-HITS.png?raw=true", BOX HITS 
+#EXTINF:-1 group-title="🅾🆃🅷🅴🆁" tvg-id="boxhits" tvg-logo="https://i.ibb.co/hCjHHvV/thumb-1626834087channel3-Box-Hit.jpg", BOX HITS 
 http://103.195.239.138/boxhits/mpegts
-
-#EXTINF:-1 group-title="🅾🆃🅷🅴🆁" tvg-id="    " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png", BEIN MOVIES 1
-http://9ov.top:41000/live/bv442u/9ijfa/316.ts
-
-#EXTVLCOPT:http-user-agent="
-#EXTINF:-1 group-title="🅾🆃🅷🅴🆁" tvg-id="    " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png", BEIN MOVIES 2
-http://9ov.top:41000/live/bv442u/9ijfa/315.ts
-
-#EXTINF:-1 group-title="🅾🆃🅷🅴🆁" tvg-id="    " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png", BEIN MOVIES 3
-http://9ov.top:41000/live/bv442u/9ijfa/314.ts
-
-#EXTINF:-1 group-title="🅾🆃🅷🅴🆁" tvg-id="    " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png", BEIN MOVIES 4
-http://9ov.top:41000/live/bv442u/9ijfa/313.ts
-
-#EXTINF:-1 group-title="🅾🆃🅷🅴🆁" tvg-id="    " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/SERIES1_DIGITAL_Mono.png", BEIN SERIES 1
-http://9ov.top:41000/live/bv442u/9ijfa/301.ts'
-
-
-#EXTINF:-1 group-title="🅾🆃🅷🅴🆁" tvg-id="    " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/SERIES2_DIGITAL_Mono.png", BEIN SERIES 2
-http://9ov.top:41000/live/bv442u/9ijfa/302.ts
-
-
-#EXTINF:-1 group-title="🅾🆃🅷🅴🆁" tvg-id="       " tvg-logo="https://ewsat.com/img/OSN_MOVIES.png", OSN MOVIES 
-http://9ov.top:41000/live/bv442u/9ijfa/14.ts
-#EXTINF:-1 group-title="🅾🆃🅷🅴🆁" tvg-id="       " tvg-logo="https://www.cne-eg.com/uploads/logos/202018101232218.png", OSN SERIES 
-http://9ov.top:41000/live/bv442u/9ijfa/13.ts
-#EXTINF:-1 group-title="🅾🆃🅷🅴🆁" tvg-id="       " tvg-logo="https://ewsat.com/img/OSN_MOVIES_ACTION.png", OSN ACTION 
-http://9ov.top:41000/live/bv442u/9ijfa/17.ts
-
 
 
 
@@ -547,7 +517,7 @@ http://127.0.0.1:6878/ace/getstream?id=f1eb19e0733f7be5546a09f2aa89ff6b4d986767
 http://127.0.0.1:6878/ace/getstream?id=363e0c3c0273cbf0d8f6d8d2e8768544ecd0f370
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="МАТЧ! HD" tvg-logo="https://i.ibb.co/BzncktV/unnamed-2.jpg" ,Маtch ТV FHD TA
 http://127.0.0.1:6878/ace/getstream?id=c7f93329f3790d54491fe2c4146b59d0514d38b8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="МАТЧ ПРЕМЬЕР HD" tvg-logo="http://hoaivnpt.duckdns.org/icon/Match Premier.png",Матч! Премьер FHD
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="МАТЧ ПРЕМЬЕР HD" tvg-logo="https://tennismania.ru/wp-content/uploads/2020/08/match-premer-skolko-stoit_8.jpg",Матч! Премьер FHD
 http://127.0.0.1:6878/ace/getstream?id=513dabafb21429d6eff9813022b2d41f49dc5bdb
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT80ehXNTYsXAxyitSa6ZMYZ_tR9H8gALh9El0l0-nh4vat0wpQY8dp-eAbVm28bEauZI4&usqp=CAU" ,MOVISTAR LALIGA FHD TA
 http://127.0.0.1:6878/ace/getstream?id=9007568a18c3a3c89fb9e745206a60554c114917
@@ -602,59 +572,58 @@ http://127.0.0.1:6878/ace/getstream?id=e09a642d1b3d7ff62fe6838b84b007f5f2f90475
 
 
 
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://cdn.imgbin.com/11/9/23/imgbin-setanta-sports-logo-television-brand-geography-history-armenian-U8vxbrYFGSShKhnRHaCP7Z607.jpg",SETANTA SPORT UA FHD
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/qNcThQ4/setanta-sports-ukraine.jpg",SETANTA SPORT UA FHD
 http://127.0.0.1:6878/ace/getstream?id=4b7b97e7e516eb1e2375c8d026c2ea5aac0d4d26
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://www.arax.md/assets/channels/519.png",SETANTA SPORT+ UA FHD
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/wYvktHQ/bigthumb-227-9675029428.jpg",SETANTA SPORT+ UA FHD
 http://127.0.0.1:6878/ace/getstream?id=eb44e7bd39a1c6bb73a0ab62baa8ae7965d0811f
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Setanta Sports 1" tvg-logo="https://i.ibb.co/0tjXfkT/SETANTA1-BEARTV.png",SETANTA SPORT 1 FHD
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Setanta Sports 1" tvg-logo="https://i.ibb.co/SPXdkkm/se.jpg",SETANTA SPORT 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=1512fb17842a64e7cecbc5a987ebf44e00a0b0ad
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Setanta Sports 2" tvg-logo="https://i.ibb.co/vVwVcHw/SETANTA2-BEARTV.png",SETANTA SPORT 2 FHD
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Setanta Sports 2" tvg-logo="https://i.ibb.co/3fVr9d8/o-h-0-438-setanta-sports-2-2.jpg",SETANTA SPORT 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=4dfb535a08ce667b16d09b090717d93842a384a4
 
 #
 
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://img.sport-tv-guide.live/images/stations/a598.png",DIGI SPORT 1 HU FHD
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://www.coolstreaming.us/img/ch/image24452744424.jpg",DIGI SPORT 1 HU FHD
 http://127.0.0.1:6878/ace/getstream?id=467b8af5fb3f51bb46632ddc9e5f4bc3fd6bc399
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://img.sport-tv-guide.live/images/stations/a599.png",DIGI SPORT 2 HU FHD
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/9Vj7wPn/unnamed-2.jpg",DIGI SPORT 2 HU FHD
 http://127.0.0.1:6878/ace/getstream?id=96301308f598c999279e27d035cfd78d4ec46546
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-hu-digi-sport-3-600.png",DIGI SPORT 3 HU FHD
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/BCJpmy2/ta-i-xu-ng-1.jpg",DIGI SPORT 3 HU FHD
 http://127.0.0.1:6878/ace/getstream?id=5ad076155333ea8f362bf66300333b64a3151e26
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",DIGI SPORT 1 RO FHD
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://www.coolstreaming.us/img/ch/image24452744424.jpg" ,DIGI SPORT 1 RO FHD
 http://127.0.0.1:6878/ace/getstream?id=c575315526a0b6a1a75bd6ebe548b62b7dc50a82
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",DIGI SPORT 2 RO FHD
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/9Vj7wPn/unnamed-2.jpg" ,DIGI SPORT 2 RO FHD
 http://127.0.0.1:6878/ace/getstream?id=3b3d22e60aa72aff95a92e7667878f63ba898a50
 
 
 
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",PREMIER SPORT CZ FHD 50FPS
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://www.dsl.cz/files/images/article/15887.jpg" ,PREMIER SPORT CZ FHD 50FPS
 http://127.0.0.1:6878/ace/getstream?id=b0b2db107f292437139d735b469df71c8a553f46
 
 
 
 
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",MOVISTAR DEPORTES FHD
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/HH51ZcV/Movistar-Deportes-Logo-wine.jpg",MOVISTAR DEPORTES FHD
 http://127.0.0.1:6878/ace/getstream?id=57fb15b9403695ef6eaa79699a7ea5c374e4fa2f
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",MOVISTAR GOLF FHD
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/WHcNN3N/Movistar-Golf-Logo-wine.jpg" ,MOVISTAR GOLF FHD
 http://127.0.0.1:6878/ace/getstream?id=b93ec5d6adee1c59192ae9811b0d5df66adc29af
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",MOVISTAR TOROS FHD
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/WFYCqPN/Toros-movistar.jpg" ,MOVISTAR TOROS FHD
 http://127.0.0.1:6878/ace/getstream?id=a6b3bd14c848f9b9573cbc52e08dca6b76059349
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",MOVISTAR FORMULA 1 FHD
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://p.kindpng.com/picc/s/47-477972_movistar-deportes-1-logo-hd-png-download.png" ,MOVISTAR FORMULA 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=00e0f5e4990c1177512fed77430a9c3f945b4893
 
 
 
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXMGj_jlMpiO80TXOM4FrPPNcwz3p2yaaoA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Nova Sports 1 FHD 5.1
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Novasports21.jpg" group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="",Nova Sports 1 FHD 5.1
 http://127.0.0.1:6878/ace/getstream?id=d8c921e06e63427c97f423a4cdd63af05cc04f6e
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXMGj_jlMpiO80TXOM4FrPPNcwz3p2yaaoA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Nova Sports 2 FHD 5.1
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Novasports21.jpg" group-title="🆂🅿🅾🆁🆃🆂",Nova Sports 2 FHD 5.1
 http://127.0.0.1:6878/ace/getstream?id=ecb8eaa3013119be6707cc16540ad455db33a512
 
 
 
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",SPORT 1 HU FHD
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://www.satellitetveurope.co.uk/IMAGES/eurobird9a/hello%20+%20UPC/sport1.jpg" ,SPORT 1 HU FHD
 http://127.0.0.1:6878/ace/getstream?id=fd32c653e3e913a1ee8d654dafbfab9d86a464eb
 
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",NBA TV FHD
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://www.nicepng.com/png/detail/337-3372181_amway-center-orlando-fl-nba-and-wnba-logo.png",NBA TV FHD
 http://127.0.0.1:6878/ace/getstream?id=eb24f16f4c86976dfa96b928789bd2db4dcf15b7
 
 
@@ -666,15 +635,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb24f16f4c86976dfa96b928789bd2db4dcf15b7
 
 
 
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",PIMPLETV 1 HD 50FPS
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5xcUqqLZCAIWLKrEpkiWDnQ1Rhpaqyj8CR1d-MPDB4QW1L5KGBoc31_iO_WxZcQCEX4&usqp=CAU" ,PIMPLETV 1 HD 50FPS
 http://127.0.0.1:6878/ace/getstream?id=11b6aa16e978a409504b9e3e9c3b29c56f392bdf
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",PIMPLETV 2 HD 50FPS
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5xcUqqLZCAIWLKrEpkiWDnQ1Rhpaqyj8CR1d-MPDB4QW1L5KGBoc31_iO_WxZcQCEX4&usqp=CAU" ,PIMPLETV 2 HD 50FPS
 http://127.0.0.1:6878/ace/getstream?id=955bc653f090c238b8d933b41d8a66fee1bf7893
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",PIMPLETV 3 HD 50FPS
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5xcUqqLZCAIWLKrEpkiWDnQ1Rhpaqyj8CR1d-MPDB4QW1L5KGBoc31_iO_WxZcQCEX4&usqp=CAU" ,PIMPLETV 3 HD 50FPS
 http://127.0.0.1:6878/ace/getstream?id=d2a36e305458e200c2a4952317fc33e38bd80187
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",PIMPLETV 4 FHD 50FPS EPL
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5xcUqqLZCAIWLKrEpkiWDnQ1Rhpaqyj8CR1d-MPDB4QW1L5KGBoc31_iO_WxZcQCEX4&usqp=CAU" ,PIMPLETV 4 FHD 50FPS EPL
 http://127.0.0.1:6878/ace/getstream?id=722f34a71cedbeb96bda429dc0f4d0e015995ea4
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂",PIMPLETV 5 FHD 50FPS EPL
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5xcUqqLZCAIWLKrEpkiWDnQ1Rhpaqyj8CR1d-MPDB4QW1L5KGBoc31_iO_WxZcQCEX4&usqp=CAU" ,PIMPLETV 5 FHD 50FPS EPL
 http://127.0.0.1:6878/ace/getstream?id=ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
 
 
@@ -683,7 +652,7 @@ http://127.0.0.1:6878/ace/getstream?id=ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
 
 
 
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Canal+ sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B_Sport_2015.png/400px-Canal%2B_Sport_2015.png",CANAL+ SPORT FHD
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Canal+ sport" tvg-logo="https://2.bp.blogspot.com/-jWrIfydwZQE/WUID4BxEjqI/AAAAAAAAEAE/goqjK1SLa5ESrlZuIERD97u11S8w_fbegCLcBGAs/s1600/CANAL_-_SPORT_HD_2013.jpg",CANAL+ SPORT FHD
 http://127.0.0.1:6878/ace/getstream?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="🆂🅿🅾🆁🆃🆂",Eleven Sports 1HD
@@ -695,13 +664,13 @@ http://127.0.0.1:6878/ace/getstream?id=d7f042a816012aaa4898b1f56107a2c13c7df323
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="🆂🅿🅾🆁🆃🆂",Eleven Sports 4HD
 http://127.0.0.1:6878/ace/getstream?id=0e86afa4f4aea82b00e527967eec9dc938ded8c1
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSdYjHYAODVx1FD4qQgCT3ZgLYZ2cog-f3g&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Arena Sports 1HD
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://i.ibb.co/ckNWqPj/infokanal-30-arenasport1.jpg" group-title="🆂🅿🅾🆁🆃🆂",Arena Sports 1HD
 http://127.0.0.1:6878/ace/getstream?id=e4c0aff2c98cc3bd09f678325ae09d8d560f2705 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSdYjHYAODVx1FD4qQgCT3ZgLYZ2cog-f3g&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Arena Sports 2HD
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSreVFxzor6iSGiwc17m8V-72FBZsLY5RoCsc1stE1EqZ9N99llZd9Y7swiVUcrAOdSkk&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Arena Sports 2HD
 http://127.0.0.1:6878/ace/getstream?id=776f3e403abc35022765ed0ea19ec38856ca291e
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWO6HPHSUg4ctYYDYHRgJJGI6ZAxhM3t8MkQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",TRT Sports HD
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgdBi7C3rDtD8Tt52lt6eri8mQRT0SbwKRKTIcMHHZ4ems2ui5RBS_gRoB9nmHLFQIHYE&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",TRT Sports HD
 http://127.0.0.1:6878/ace/getstream?id=d739c631ec0a21590a1d46d77c867f3c91f298f3 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://seeklogo.com/images/D/D-sport-logo-26504724DD-seeklogo.com.png" group-title="🆂🅿🅾🆁🆃🆂",Sports 1HD
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://i.ibb.co/8jSMZn6/D-sport-logo-26504724-DD-seeklogo-com.png" group-title="🆂🅿🅾🆁🆃🆂",Sports 1HD
 http://127.0.0.1:6878/ace/getstream?id=80c56f650421f104181a46a5d318584f3d9b64eb
 
 
@@ -713,46 +682,46 @@ http://127.0.0.1:6878/ace/getstream?id=12989443272b25e8b402aa609aa436a89536933c
 http://127.0.0.1:6878/ace/getstream?id=0e4f19a8e1d43880c228dfd522aa31cf726c7296 
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ikzaJ0Hfvp7-qfb0fXfUBsksuMtjepDFNA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Posat Premium 2HD
 http://127.0.0.1:6878/ace/getstream?id=a5f1c6f87283e5c3f54f927d3825105961770112
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHjOy4sM5GuA9a9uDF2c1F7ixu_i9EFcAzw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Sports 1 HD
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-523904158.jpg" group-title="🆂🅿🅾🆁🆃🆂",Sports 1 HD
 http://127.0.0.1:6878/ace/getstream?id=1885e9bcdda920291dd640c32ac3b137dc7a7b95
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9psuVkDA-xO9h6FIP7pBWj1GwSQcU_C1eA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Sports 2 HD
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-523904158.jpg" group-title="🆂🅿🅾🆁🆃🆂",Sports 2 HD
 http://127.0.0.1:6878/ace/getstream?id=d342fee30beccf53f2563f5b81e4e909e57202bf
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYtnKTsvGJ7pQ3NaOedM-TSLA-jdUGfnGtw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Sports 3 FHD
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-523904158.jpg" group-title="🆂🅿🅾🆁🆃🆂",Sports 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=9ba8774882f10a28c986644f0aaff997e3fb3ca9
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRI-6lWlNJMH5HXePq9_W_WWs0_BwmK0cPDw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Sports 4 FHD
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-523904158.jpg" group-title="🆂🅿🅾🆁🆃🆂",Sports 4 FHD
 http://127.0.0.1:6878/ace/getstream?id=5bfbc045dab5bf27841aeae8b1d1f1a111dd1799
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVbEv6nH-f8IMETv5_ZdZJyd-gRIpmK8XsyTycCqY&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",5 Sports HD
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://i.ibb.co/4FyPDz4/images.png" group-title="🆂🅿🅾🆁🆃🆂",5 Sports HD
 http://127.0.0.1:6878/ace/getstream?id=f25827c9d236a4ec19cd49394e495928dd7813da 
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="🆂🅿🅾🆁🆃🆂",FightBox FHD
 http://127.0.0.1:6878/ace/getstream?id=ddfa71c1c676887fb06b1e732e2bbe37900fda72 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUM5kpFcR6_lXD_h6M-SicOw5kOd9w1DJ9qQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",FightKlub FHD
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://i.ibb.co/LN5kp18/Untitled.jpg" group-title="🆂🅿🅾🆁🆃🆂",FightKlub FHD
 http://127.0.0.1:6878/ace/getstream?id=176afce7bf6860f1b848cbd29152bf20e79ad206 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdi2ZKlt1oQwuNZ2p0cezmx3R2WNNs7GZXvg&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Kok Fight HD
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://kokfights.com/wp-content/uploads/2018/05/kok_logo.jpg" group-title="🆂🅿🅾🆁🆃🆂",Kok Fight HD
 http://127.0.0.1:6878/ace/getstream?id=88e4baadd0ef49935380c79f8e57dc0eaf277199 
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://rogersarena.com/wp-content/uploads/2016/06/ufc-logo-small.png", UFC - Boxing FHD
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/gray/VSUJ6T2YJNJNPCWN65IR3X6F3A.png", UFC - Boxing FHD
 http://127.0.0.1:6878/ace/getstream?id=585860881c0e1f4b9921a2d2db1f43f1bd45134f 
 
 
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlvCqs-2vbG2pOMrEc8y8QgWAIGomjyOM3MQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Giggo Racing FHD 
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://i.ibb.co/CV0Nfkp/images-1.png" group-title="🆂🅿🅾🆁🆃🆂",Giggo Racing FHD 
 http://127.0.0.1:6878/ace/getstream?id=e37b2a23b3484d9533035a60f08453acdc69599c 
 
 
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6C5oSGbZo--HRNFAF6VH0RgEiinb4F_cUag&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",CBS Sports HQ FHD
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://sports.cbsimg.net/images/video/player/CBSSportsLogo_640x360.jpg" group-title="🆂🅿🅾🆁🆃🆂",CBS Sports HQ FHD
 http://127.0.0.1:6878/ace/getstream?id=7c213bb9895a185c7ce136d56e38ebb81f2931db 
 
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPZ8e6NIrUucuHutmSqtf2HiiFmDFGSXt6_w&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Euro Sports 1FR FHD 5.1
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrRVcFTWcoV3I2HfgpEE7DOmPc0H18JAg8NqlD82fnJk8VFcj4bpNOQFH4kRnlEDYA9Y&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Euro Sports 1FR FHD 5.1
 http://127.0.0.1:6878/ace/getstream?id=4ea1ad94480378835e26e71e4a65baddd2c9f7ea 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPZ8e6NIrUucuHutmSqtf2HiiFmDFGSXt6_w&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Euro Sports 2FR FHD 5.1
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://s3-eu-west-1.amazonaws.com/discovery-assets-production/app/uploads/2019/04/03130856/logo-eurosport-2-hd.jpg" group-title="🆂🅿🅾🆁🆃🆂",Euro Sports 2FR FHD 5.1
 http://127.0.0.1:6878/ace/getstream?id=c0bf131adf43db2e86211a8c663380ffc7f5b0c3 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Eurosport_HD_Logo_%282011-2015%29.svg/1280px-Eurosport_HD_Logo_%282011-2015%29.svg.png" group-title="🆂🅿🅾🆁🆃🆂",Euro Sports 1DE FHD
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg" group-title="🆂🅿🅾🆁🆃🆂",Euro Sports 1DE FHD
 http://127.0.0.1:6878/ace/getstream?id=d72051505d01ab6993ce9304973b8e6885e24229 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Eurosport_HD_Logo_%282011-2015%29.svg/1280px-Eurosport_HD_Logo_%282011-2015%29.svg.png" group-title="🆂🅿🅾🆁🆃🆂",Euro Sports 2DE FHD
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg" group-title="🆂🅿🅾🆁🆃🆂",Euro Sports 2DE FHD
 http://127.0.0.1:6878/ace/getstream?id=0a8d397b734c653bcd810ea9e2742b986bcbec2f 
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/TV_2_Sport_2015.svg/revision/latest/scale-to-width-down/300?cb=20160401214429" group-title="🆂🅿🅾🆁🆃🆂", TV2 Sports FHD 50FPS
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Tv2_sport.png" group-title="🆂🅿🅾🆁🆃🆂", TV2 Sports FHD 50FPS
 http://127.0.0.1:6878/ace/getstream?id=7e9e9c33c9e9697cc1f221b16172dce2a6a27331 
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqYFHdpY88qBirGejvFqPdKQQvuwXOKgrEw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂", TV3 Sports Live FHD
 http://127.0.0.1:6878/ace/getstream?id=024526a5659202ec13b077f21ea8e6044d6d7df2 
@@ -763,31 +732,32 @@ http://127.0.0.1:6878/ace/getstream?id=8172d547d41ff1b8b30ec3f39601ca96269c6d43
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeuEBfDys420yd-ULRhdaIM9emdap-IbK8PQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Ziggo Sleet FHD
 http://127.0.0.1:6878/ace/getstream?id=38d77beafa2a8763686f76576480e9f73d9ae3e6 
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJYXkucjlieLbYtTxdDzbSIpQjpba32pk4eQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",ESPN 1US HD 60FPS
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://media.thehypemagazine.com/wp-content/uploads/2018/04/ESPN-Logo2-660x400.jpg" group-title="🆂🅿🅾🆁🆃🆂",ESPN 1US HD 60FPS
 http://127.0.0.1:6878/ace/getstream?id=8e2292385bfe2459c884736bb91017b49e37f566 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJYXkucjlieLbYtTxdDzbSIpQjpba32pk4eQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",ESPN 2US HD 60FPS
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://media.thehypemagazine.com/wp-content/uploads/2018/04/ESPN-Logo2-660x400.jpg" group-title="🆂🅿🅾🆁🆃🆂",ESPN 2US HD 60FPS
 http://127.0.0.1:6878/ace/getstream?id=a1ad5222a6e18d96d38e72173606b086a79278f5
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/ESPN_logo_red_bg.jpg" group-title="🆂🅿🅾🆁🆃🆂",ESPN 1NL FHD
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://media.thehypemagazine.com/wp-content/uploads/2018/04/ESPN-Logo2-660x400.jpg" group-title="🆂🅿🅾🆁🆃🆂",ESPN 1NL FHD
 http://127.0.0.1:6878/ace/getstream?id=11b05292665d1d265ced6b6fe4ed986ed68b9af8 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/ESPN_logo_red_bg.jpg" group-title="🆂🅿🅾🆁🆃🆂",ESPN 2NL FHD
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://media.thehypemagazine.com/wp-content/uploads/2018/04/ESPN-Logo2-660x400.jpg" group-title="🆂🅿🅾🆁🆃🆂",ESPN 2NL FHD
 http://127.0.0.1:6878/ace/getstream?id=da778ac51e5cf7accee2d2b5400d0642e01001b0
-#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" ,ESPN 4NL FHD
+#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://media.thehypemagazine.com/wp-content/uploads/2018/04/ESPN-Logo2-660x400.jpg" ,ESPN 4NL FHD
 http://127.0.0.1:6878/ace/getstream?id=4609bc307d35ec87799a168b80978139e7e8018c
 
 
-#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂", MATCH! Arena HD 
+#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/BTjwtR9/326af919-99e8-4d30-b941-0bd579e253df.jpg", MATCH! Arena HD 
 http://127.0.0.1:6878/ace/getstream?id=d13cbb3eb8a843cbdacc9068fc76f98c2351af50
-#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" ,MATCH! NBA HD 
+#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://cdn.nba.com/manage/2012/12/44_Gift_Guide_24_NBA2K-1-1.jpg",MATCH! NBA HD 
 http://127.0.0.1:6878/ace/getstream?id=24428411815bc1dd069c0cbd377e55bee53c55a7
-#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" ,O2TV FOTBAL HD 50FPS
+#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/1f9rCsn/e20790.jpg",O2TV FOTBAL HD 50FPS
 http://127.0.0.1:6878/ace/getstream?id=22fc94c6dfe03a3356e6acc0665a385196b4be10
-#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" ,O2TV SPORT HD 50FPS
+#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/ch3B6xQ/fq0lii1590153399.jpg",O2TV SPORT HD 50FPS
 http://127.0.0.1:6878/ace/getstream?id=ce43864557dbe14a063f99d899a2017302bdcddb
-#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" ,O2TV TENIS HD 50FPS
+#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/rGFpXkV/e20791.jpg",O2TV TENIS HD 50FPS
 http://127.0.0.1:6878/ace/getstream?id=bccfad59f867eedf187e4c9422eb8313a415a7c9
-#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" ,ORF+ SPORT HD 50FPS 5.1
+#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/p0ZwskN/ORF-Sport-plus.jpg",ORF+ SPORT HD 50FPS 5.1
 http://127.0.0.1:6878/ace/getstream?id=8b943c6e740c4943b783ba89702b9e2d1d6f7e6b
-#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" ,ORANGE SPORT HD 
+#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" 
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUGvqU9mhZXwlv9wh3wfgZFZf0kSDiDM_c5Ay4FZ0I77bFGrjAxkVlJFoBIV0w8kZFps&usqp=CAU",ORANGE SPORT HD 
 http://127.0.0.1:6878/ace/getstream?id=a1e1a479f5bf0d7e9ac85cc706e8ff2c9c24ef2f
 
 
@@ -802,22 +772,27 @@ http://127.0.0.1:6878/ace/getstream?id=a1e1a479f5bf0d7e9ac85cc706e8ff2c9c24ef2f
 
 
 
-#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" ,SPORT 1 FHD DE
+#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0U2V5GUZIelNVBapQucPaAN4qJ0UOe3WCq__Pzd3quXZcXel94lZJKq0kpmsSzmzopcs&usqp=CAU"
+,SPORT 1 FHD DE
 http://127.0.0.1:6878/ace/getstream?id=d65a3f2c09ca1b697e4e3c522d5473b3376f869e
-#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" ,SPORT 1 FHD UA
+#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0U2V5GUZIelNVBapQucPaAN4qJ0UOe3WCq__Pzd3quXZcXel94lZJKq0kpmsSzmzopcs&usqp=CAU"
+,SPORT 1 FHD UA
 http://127.0.0.1:6878/ace/getstream?id=a2053661fd7e8fc4a81b58c4ab0c03374072bebe
 
-#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" ,SPORTKLUB HD
+#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/m4DGSXM/ta-i-xu-ng.png"
+,SPORTKLUB HD
 http://127.0.0.1:6878/ace/getstream?id=ce3a6a70f382eafa061f5b56d9e015609db94480
 
-#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" ,VIASAT SPORTHD 50FPS
+#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://www.chillglobal.com/images/channels/viasat-sport-1432658408.jpg"
+,VIASAT SPORTHD 50FPS
 http://127.0.0.1:6878/ace/getstream?id=82d1f00fb722aa8404f26c7e754c0d5fd82f5217
 
-#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" ,CT SPORT HD
+#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzmQMrgIKStBS3v44tQoxZwGTR6D63rDDlA5MAkKvWb1EEs4eob6A6RKIXpS3xviPa6k&usqp=CAU"
+,CT SPORT HD
 http://127.0.0.1:6878/ace/getstream?id=3d4ecd8d4c122c207da7970e7a00970f5c2e910c
-#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" ,VAMOS FHD
+#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29NTRlHMBKaB4fQtELgVmqhH8NU-SQpKlsWO_RzYvOkTzkHNkUCnwuAiisIiRu1nqeFw&usqp=CAU"
+,VAMOS FHD
 http://127.0.0.1:6878/ace/getstream?id=f9ab54a6e9180c0d58eceb165146eb0994d055b8
-
 
 
 
@@ -863,68 +838,6 @@ http://127.0.0.1:6878/ace/getstream?id=f9ab54a6e9180c0d58eceb165146eb0994d055b8
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1121px-WWE_Logo.svg.png",WWE - Đấu Vật Giải Trí Thế Giới
 http://198.16.106.62:8278/streams/d/wwe_zero/playlist.m3u8
 
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="  " tvg-logo="https://i.postimg.cc/r03ny2gs/bs1.png", BEIN SPORTS 1
-http://ricoootv.xyz:8080/live/rico1/rico1/4.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/p9V1qZpW/bs2.png", BEIN SPORTS 2
-http://ricoootv.xyz:8080/live/rico1/rico1/5.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/tY0SLyYm/bs3.png", BEIN SPORTS 3
-http://ricoootv.xyz:8080/live/rico1/rico1/6.m3u8
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/T5bkpNH9/bs4.png", BEIN SPORTS 4
-http://ricoootv.xyz:8080/live/rico1/rico1/7.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/mtQX4q9Z/bs5.png", BEIN SPORTS 5
-#http://ricoootv.xyz:8080/live/rico1/rico1/8.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/3yLf6vvg/bs6.png", BEIN SPORTS 6 FHD 30FPS
-http://ricoootv.xyz:8080/live/rico1/rico1/9.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/K1x98N7P/bs7.png", BEIN SPORTS 7 FHD 30FPS
-http://ricoootv.xyz:8080/live/rico1/rico1/10.m3u8
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/McGdypFX/bs1-premium.png", BEIN PREMIUM 1 HD 50FPS
-http://sos.moukrasa.xyz/live/6161655/index.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/DS6xJX5t/bs2-premium.png", BEIN PREMIUM 2
-http://gog.daroudaraw.xyz/live/616194987/index.m3u8
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/Lq0vvFcD/bs3-premium.png", BEIN PREMIUM 3
-http://dud.mawanroud.xyz/live/6151278887/index.m3u8
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/3dCBVGMd/bs1-fr.png", BEIN FRENCH 1
-#http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/33523510/index.m3u8
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/v40vHdZy/bs2-fr.png", BEIN FRENCH 2
-#http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/652177700/index.m3u8
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/7Cbn5Q52/bs3-fr.png", BEIN FRENCH 3
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", BEIN SPORTS 
-http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/1066
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/TyZgp28z/XTRA.png", BEIN XTRA 
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/WFF8Hfjv/bsxtra1.png", BEIN XTRA 1 
-http://ricoootv.xyz:8080/live/rico1/rico1/424.m3u8
-#http://ricoootv.xyz:8080/rico1/rico1/424
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F896%2Fbein-sports-xtra-1.png", BEIN XTRA 2
-http://ricoootv.xyz:8080/live/rico1/rico1/425.m3u8
-#http://ricoootv.xyz:8080/rico1/rico1/425
 
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Astro_Arena_Logo_2.jpg/revision/latest?cb=20190123083011.png", ASTRO ARENA
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
@@ -1003,20 +916,6 @@ http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52298.m3u8
 
 
 
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://www.france-galop.com/sites/default/files/v01_racing_tv_logo_rtv_blue_rgb.png", DUBAI RACING FHD
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="        ", 
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport1.png", DUBAI SPORTS 1 FHD
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://user-images.githubusercontent.com/90315720/134878069-8bc2632f-4687-4044-862a-1e7172b5225d.png", DUBAI SPORTS 2 FHD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png", DUBAI SPORTS 3 FHD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-
-
-
-
 
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/SK_1.png/revision/latest?cb=20171216060443.png", SK 1
 http://stream.tvtap.live:8081/live/klub1.stream/chunks.m3u8
@@ -1033,27 +932,39 @@ https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 https://95-213-224-181.livesports24.online/setantaplusru.m3u8
 
 
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://user-images.githubusercontent.com/90315720/134815014-d6dc81bb-42eb-4b02-8ad7-056c214a7f54.png", SONY TEN 1 FHD - Đấu Vật
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://user-images.githubusercontent.com/90315720/134815014-d6dc81bb-42eb-4b02-8ad7-056c214a7f54.png", SONY TEN 1 FHD 
 https://feed.play.mv/live/10005200/fMLTkj4OJC/1.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://img2.pngio.com/sony-ten2-sdon-white-realvu-sony-ten-2-png-1024_819.png", SONY TEN 2 FHD - Đấu Vật
-https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://user-images.githubusercontent.com/90315720/134815114-9e28e285-c190-4ac9-8713-0749efa2972d.png", SONY TEN 3 FHD - Đấu Vật
-https://feed.play.mv/live/10005200/RG2fKR6d9p/1.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png", SONY SIX FHD - Bóng Chày
-https://feed.play.mv/live/10005200/hr55LTnS53/1.m3u8
-
-
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/3kLTJn3T/SPORTTV1.png", SPORT TV1
 https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/ykHBfDLw/SPORTTV2.png", SPORT TV2
 https://cloudserver.server-cdn-streaming.com/live-player/20/live.m3u8
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/1ggLRSW-G/SPORTTV3.png", SPORT TV3
 https://cloudserver.server-cdn-streaming.com/live-player/21/live.m3u8
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://img2.pngio.com/sony-ten2-sdon-white-realvu-sony-ten-2-png-1024_819.png", SONY TEN 2 FHD
+https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
+
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://user-images.githubusercontent.com/90315720/134815114-9e28e285-c190-4ac9-8713-0749efa2972d.png", SONY TEN 3 FHD 
+https://feed.play.mv/live/10005200/RG2fKR6d9p/1.m3u8
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png", SONY SIX FHD 
+https://feed.play.mv/live/10005200/hr55LTnS53/1.m3u8
+
+
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/ZWsGhnLY/SPORTTV4.png", SPORT TV4
-https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
+#https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/ZW5GgppD/SPORTTV5.png", SPORT TV5
-https://cloudserver.server-cdn-streaming.com/live-player/23/live.m3u8
+#https://cloudserver.server-cdn-streaming.com/live-player/23/live.m3u8
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-id="   " tvg-logo="https://blog.lcotiv.com/i/81895977092.png", BAHRAIN SPORTS 
+http://185.105.4.106:1935/live/Bahrain+Sports/chunklist_w1566557580.m3u8
+
+
+
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-id="   " tvg-logo="https://www.edgesports.eu/assets/images/layout/logo@2x.png", EDGE FHD
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/1920x1080_5640800/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-id="   " tvg-logo="https://trends365.net/images/article/2020/09/11/e0ad14b5-2e58-3cfa-9e79-dab020536be5.jpg", RUGBY TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png", TRUE SPORTS HD
@@ -1085,30 +996,18 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-id="   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png", ESPN 2 
-http://rec2.distv.net/live/damaris/123456/143.m3u8
+#http://rec2.distv.net/live/damaris/123456/143.m3u8
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-id="   " tvg-logo="https://www.nowonline.com.br/img/channels/espn_extra.png", ESPN EXTRA 
 http://rec2.distv.net/live/damaris/123456/145.m3u8
 
 
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-id="   " tvg-logo="https://blog.lcotiv.com/i/81895977092.png", BAHRAIN SPORTS 
-http://185.105.4.106:1935/live/Bahrain+Sports/chunklist_w1566557580.m3u8
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-id="   " tvg-logo="https://www.edgesports.eu/assets/images/layout/logo@2x.png", EDGE FHD
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/1920x1080_5640800/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-id="   " tvg-logo="https://trends365.net/images/article/2020/09/11/e0ad14b5-2e58-3cfa-9e79-dab020536be5.jpg", RUGBY TV
-https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 
 
 
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-512.png", ONE GOLF 
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://rogersarena.com/wp-content/uploads/2016/06/ufc-logo-small.png", UFC - Boxing
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
 
@@ -1119,25 +1018,14 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://driftpointmedia.com/wp-content/uploads/logo-Clients-REDBull.png", REDBULL TV FHD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?id=eroz_brebes.m3u8
-
-
 
 
 
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/w7pKTfpP/Pics-Art-04-19-11-39-21.png", CCTV5 FHD
 http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/Y4VZc8Rd/Pics-Art-04-19-11-37-50.png", CCTV5+ - Boxing FHD
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/Y4VZc8Rd/Pics-Art-04-19-11-37-50.png", CCTV5+ 
 https://itv.olevod.tv:5443/live/cctv5phdbupt.m3u8
 
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://www.thesportsdb.com/images/media/logo/Ziggo_Sport_Racing.png", ZIGGO RACING FHD
-http://stream.tvtap.live:8081/live/nl-ziggoracing.stream/chunks.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Ziggo Sport Select HD NL" tvg-logo="https://www.thesportsdb.com/images/media/logo/Ziggo_Sport_Select.png", ZIGGO SELECT 
-http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
 
 
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="http://runnel.ir/ax/logo/adsports-1.png", AD SPORTS 1 FHD
@@ -1151,9 +1039,8 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_
 
 
 
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png", RTM SPORTS FHD
-http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
- 
+
+
 
 
 
@@ -1164,9 +1051,28 @@ http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:0 group-title="🅵🅾🅾🆃🅱🅰🅻🅻" tvg-id="   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png", RTM SPORTS 
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://www.france-galop.com/sites/default/files/v01_racing_tv_logo_rtv_blue_rgb.png", DUBAI RACING FHD
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="        ", 
+
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport1.png", DUBAI SPORTS 1 FHD
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://user-images.githubusercontent.com/90315720/134878069-8bc2632f-4687-4044-862a-1e7172b5225d.png", DUBAI SPORTS 2 FHD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png", DUBAI SPORTS 3 FHD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://www.thesportsdb.com/images/media/logo/Ziggo_Sport_Racing.png", ZIGGO RACING FHD
+#http://stream.tvtap.live:8081/live/nl-ziggoracing.stream/chunks.m3u8
+#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Ziggo Sport Select HD NL" tvg-logo="https://www.thesportsdb.com/images/media/logo/Ziggo_Sport_Select.png", ZIGGO SELECT 
+#http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
 
 
 
@@ -1458,357 +1364,360 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 
 
 	#PHÁP GROUP ANDROID BOX TX5 LÀM VÌ ĐAM MÊ CHIA SẺ ^^!
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.tuoitre.vn/tto/i/s626/2016/08/12/train-to-busan-6-1471017852.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Chuyến Tàu Sinh Tử - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ibb.co/8m63vdv/a.jpg"     group-title="🅼🅾🆅🅸🅴" , Vua Bạch Phiến - Phim Lẻ
+	https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210723/the_drug_king_2018_korea_1080p_sub_sub_v2/7cd6a18b7599385d38b7e2837698a6c6_1080p.mp4/chunklist.m3u8
+	https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210723/the_drug_king_2018_korea_1080p_tm_v2/d87030311fa4846098c61a913e3b56e2_1080p.mp4/chunklist.m3u8
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.tuoitre.vn/tto/i/s626/2016/08/12/train-to-busan-6-1471017852.jpg"     group-title="🅼🅾🆅🅸🅴" , Chuyến Tàu Sinh Tử - Phim Lẻ
 	https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200504/train_to_busan_1080p_sub_logofptplay_v3/198cfd3cfabbca658a0818142450476e.smil/chunklist_b3992000.m3u8 
 	#http://s3-hcm-r1.longvan.net/phimle/chuyentausinhtutm.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/yVucSRLLeIM/maxresdefault.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  , Bán Đảo Sinh Tử - Phim Lẻ    
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/yVucSRLLeIM/maxresdefault.jpg"    group-title="🅼🅾🆅🅸🅴"  , Bán Đảo Sinh Tử - Phim Lẻ    
 	https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210623/train_to_busan_2_2020_korea_1080_sub/eb8797c6ff08713056f6788356dd0350.smil/chunklist_b4628000.m3u8?token=eyJoYXNoX3ZhbHVlIjogImQ1NTZlODU3YTBlNDhhN2U0ZmI2ZDYzOThkMGNmYThlIiwgInZpZGVvX2lkIjogIjYwZDZhZmY4MjA4OWJkMjJmYjVmNGNmZCIsICJzZXJ2ZXJfdGltZSI6IDE2Mjk4NjY5MjIsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
 
-		#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/19_07_2018/untitled-119-07-2018_15g46-47.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   , Ký Ức Kẻ Sát Nhân - Phim Lẻ
+		#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/19_07_2018/untitled-119-07-2018_15g46-47.jpg"      group-title="🅼🅾🆅🅸🅴"   , Ký Ức Kẻ Sát Nhân - Phim Lẻ
 	https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200115/memoir-of-murderer-1080p-sub-logofptplay/57c57f220b5df0dbb42e4f9d362ace96-1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/oOSataDfoo8/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Tội Ác Ghê Tởm - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/oOSataDfoo8/maxresdefault.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Tội Ác Ghê Tởm - Phim Lẻ
 	https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200914/i-saw-the-devil-2010-korea-sub-sub/b8df664240da80fb2f83002fa4f0a41b-1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/DsEJkUyFAi0/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Trùm, Cớm và Ác Quỷ - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/DsEJkUyFAi0/maxresdefault.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Trùm, Cớm và Ác Quỷ - Phim Lẻ
 	https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200115/the_gangster_the_cop_the_devil_1080p_sub_logofptplay/25331b09a80bcf6c32ce785154064e32_1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/jQDwoFZVWxM/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Kẻ Đi Săn - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/jQDwoFZVWxM/maxresdefault.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Kẻ Đi Săn - Phim Lẻ
 	https://vod07-cdn.fptplay.net/encoded/20200813/the-chaser-2008-korea-1080p-sub/1080p/index.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/02/09/5e4mcpav_1920x1080ongbangangto_1267_712.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Ông Bạn Găng Tơ - Phim Lẻ
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/02/09/5e4mcpav_1920x1080ongbangangto_1267_712.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Ông Bạn Găng Tơ - Phim Lẻ
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/02/09/5e4mcpav_1920x1080ongbangangto_1267_712.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Ông Bạn Găng Tơ - Phim Lẻ
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/02/09/5e4mcpav_1920x1080ongbangangto_1267_712.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Ông Bạn Găng Tơ - Phim Lẻ
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2020/12/25/b60c7rjz_1920x1080-cunconsieuquay.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Cún Con Siêu Quậy 2 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/02/09/5e4mcpav_1920x1080ongbangangto_1267_712.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Ông Bạn Găng Tơ - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/02/09/5e4mcpav_1920x1080ongbangangto_1267_712.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Ông Bạn Găng Tơ - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/02/09/5e4mcpav_1920x1080ongbangangto_1267_712.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Ông Bạn Găng Tơ - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/02/09/5e4mcpav_1920x1080ongbangangto_1267_712.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Ông Bạn Găng Tơ - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2020/12/25/b60c7rjz_1920x1080-cunconsieuquay.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Cún Con Siêu Quậy 2 - Phim Lẻ
 	https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191129/hearty_paws_2_fptplay_1080p_logofptplay/4432096cd5af2a3cb803432dc274d3e2_1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/NLq2MNHQO0OJXWCt_XH2j6iTuTHD4E44BtSZOFxC1j_ebF2um_rofyXEQry9MVSEtJO8cgtq2msvJo5DMB6EjHt9JVSLx1Y_B40Kv9b-FPNEqCHvGTyIsyHkPdEgPxBpF1NW3Aj-ehc00VRe-Q"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Ngọn Gió Yêu Thương - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/NLq2MNHQO0OJXWCt_XH2j6iTuTHD4E44BtSZOFxC1j_ebF2um_rofyXEQry9MVSEtJO8cgtq2msvJo5DMB6EjHt9JVSLx1Y_B40Kv9b-FPNEqCHvGTyIsyHkPdEgPxBpF1NW3Aj-ehc00VRe-Q"      group-title="🅼🅾🆅🅸🅴"   ,Ngọn Gió Yêu Thương - Phim Lẻ
 	https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20170109/903a2336f3f8e78c8e436dbd1b40918c-720p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/-ZnlHS1On_8/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Hoa Cúc Dại - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/-ZnlHS1On_8/maxresdefault.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Hoa Cúc Dại - Phim Lẻ
 	https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20180405/daisy-2006-korea/455293b4ab91cf620aa5d78c18c00546.smil/chunklist_b2992000.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/28_04_2016/cspcsaszu0528-04-2016_14g08-38.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Sứ Mệnh Truy Sát - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/28_04_2016/cspcsaszu0528-04-2016_14g08-38.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Sứ Mệnh Truy Sát - Phim Lẻ
 	https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200913/assassination-2015-korea-tm-v2/84f5fc3df0fc916b4dad8a9210612ec2-1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets.glxplay.io/static/the-thieves-poster_banner_landscape_21x9_2048x878_3x.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Đội Quân Siêu Trộm - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets.glxplay.io/static/the-thieves-poster_banner_landscape_21x9_2048x878_3x.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Đội Quân Siêu Trộm - Phim Lẻ
 	https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191202/the_thieves_fptplay_1080p_logofptplay/6805ab9e422d4bab8fd492b173433c93_1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/tudtt987212m1.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"    ,Ứng Dụng Tử Thần - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/tudtt987212m1.jpg"     group-title="🅼🅾🆅🅸🅴"    ,Ứng Dụng Tử Thần - Phim Lẻ
 	http://vod-zlr2.tv360.vn/video1/2020/08/31/23/62a80013/62a80013-71f1-4edb-81b1-0d01eca31371_5_.m3u8
 	
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://blogtuoitre.vn/wp-content/uploads/2020/09/co-gai-nam-ay-chung-ta-cung-theo-duoi.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Cô Gái Năm Ấy Chúng Ta Cùng Theo Đuổi - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://blogtuoitre.vn/wp-content/uploads/2020/09/co-gai-nam-ay-chung-ta-cung-theo-duoi.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Cô Gái Năm Ấy Chúng Ta Cùng Theo Đuổi - Phim Lẻ
 	https://vod05-cdn.fptplay.net/encoded/20200905/you_are_the_apple_of_my_eye_2011_china_sub/1080p/index.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.pinimg.com/originals/0e/11/f1/0e11f11683f9c85a95320f2a03268bc1.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Tài Xế Taxi - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.pinimg.com/originals/0e/11/f1/0e11f11683f9c85a95320f2a03268bc1.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Tài Xế Taxi - Phim Lẻ
 	https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200116/taxi_driver_1080p_sub_logofptplay/b96c009f9316422c65303e06f6c94abb.smil/chunklist_b3992000.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/eNG1R-x3uEY/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,3 Chàng Ngốc - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/eNG1R-x3uEY/maxresdefault.jpg"      group-title="🅼🅾🆅🅸🅴"   ,3 Chàng Ngốc - Phim Lẻ
 	https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201109/3idiots_2009_india_pd_v2/deb94013bcf0f0570ce1d291527ef7cb_1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2021/2/9/-1612861687785990603196.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Trò Chơi Sinh Tử - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2021/2/9/-1612861687785990603196.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Trò Chơi Sinh Tử - Phim Lẻ
 	https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210915/battleroyale_2000_japan_sub_v2/d261f7451f0b60293d514f900a82903f_1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/15_03_2017/o6x1qkouhbpvjajxdvhlnkndzsj15-03-2017_12g06-04.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Ngày Khó Khăn - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/15_03_2017/o6x1qkouhbpvjajxdvhlnkndzsj15-03-2017_12g06-04.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Ngày Khó Khăn - Phim Lẻ
 	https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200614/a_hard_day_1080p_tm_2014_korea_logofptplay/488c552981e369e97f4954982746172b.smil/chunklist_b3992000.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="http://2.bp.blogspot.com/-c1c92FaWxwU/VbBWIY4a2RI/AAAAAAAABM8/bOGYN2Q7M5Q/s1600/Athena.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Athena: Nữ Thần Chiến Tranh - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="http://2.bp.blogspot.com/-c1c92FaWxwU/VbBWIY4a2RI/AAAAAAAABM8/bOGYN2Q7M5Q/s1600/Athena.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Athena: Nữ Thần Chiến Tranh - Phim Lẻ
 	https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191203/athena_vi_1080p_sub_logofptplay/626e136c522cabbe6dda7d1eb74a3ffb_1080p.mp4/chunklist.m3u8
 	
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/04_12_2019/untitled-104-12-2019_02g47-24.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Ẩn Thân - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/04_12_2019/untitled-104-12-2019_02g47-24.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Ẩn Thân - Phim Lẻ
 	https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200413/secretly_greatly_fptplay_1080p_sub_logofptplay/5e495f83bc6ee50988e38a438e413c0e.smil/chunklist_b3992000.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/21_11_2019/201807191056251730_t21-11-2019_05g46-35.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Bạn Ma Phiền Toái - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/21_11_2019/201807191056251730_t21-11-2019_05g46-35.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Bạn Ma Phiền Toái - Phim Lẻ
 	https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191120/the_soul_mate_1080p_logofptplay/df66379980f8c5ba1c81e3f5457659d9.smil/chunklist_b3992000.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn-2.tstatic.net/sultra/foto/bank/images/film-korea-hit-and-run-squad.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Biệt Đội Hit & Run - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn-2.tstatic.net/sultra/foto/bank/images/film-korea-hit-and-run-squad.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Biệt Đội Hit & Run - Phim Lẻ
 	https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210801/hit_and_run_squad_2019_korea_1080p_sub/5a7ff0b555923e2feff4326995171f7a.smil/chunklist_b4628000.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://afamilycdn.com/zoom/480_300/150157425591193600/2020/4/6/800x500-1-1586171317013355997755-0-0-500-800-crop-1586171325365794783897.png"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thợ Săn Tiền Thưởng - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://afamilycdn.com/zoom/480_300/150157425591193600/2020/4/6/800x500-1-1586171317013355997755-0-0-500-800-crop-1586171325365794783897.png"      group-title="🅼🅾🆅🅸🅴"   ,Thợ Săn Tiền Thưởng - Phim Lẻ
 	https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210214/bounty-hunters-1080p-2016-korea-tm-v2/05bbb12160f74bb152d330ee3311bb54-1080p.mp4/chunklist.m3u8
 
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2020/12/25/frdbggv2_1920x1080cobeak.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Cô Baek - Phim Lẻ  
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2020/12/25/frdbggv2_1920x1080cobeak.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Cô Baek - Phim Lẻ  
 	https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210801/miss_baek_2018_korea_logofptplay_tm/76d40b845fc624c83ddf25551e14267a.smil/chunklist_b4628000.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/10_09_2020/the-witch-banner10-09-2020_12g05-12.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Sát Thủ Nhân Tạo - The Witch: Part 1. The Subversion - Phim Lẻ  
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/10_09_2020/the-witch-banner10-09-2020_12g05-12.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Sát Thủ Nhân Tạo - The Witch: Part 1. The Subversion - Phim Lẻ  
 	https://vod02-cdn.fptplay.net/encoded/20200910/the_witch_part_1_the_subversion_2018_korea_sub_v3/1080p/index.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2018/8/26/1hoabi-15352543573631587444741.png"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Họa Bì - Painted Skin 2008 - Phim Lẻ  
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2018/8/26/1hoabi-15352543573631587444741.png"      group-title="🅼🅾🆅🅸🅴"   ,Họa Bì - Painted Skin 2008 - Phim Lẻ  
 	https://vod05-cdn.fptplay.net/encoded/20200524/paintedskin_2008_chi_mul/1080p/index.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vcdn1-giaitri.vnecdn.net/2012/03/05/tao_hinh-1345817360.jpg?w=480&h=0&q=100&dpr=1&fit=crop&s=-XK0G6L2nLcmFPibyxLZHg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Họa Bì 2 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vcdn1-giaitri.vnecdn.net/2012/03/05/tao_hinh-1345817360.jpg?w=480&h=0&q=100&dpr=1&fit=crop&s=-XK0G6L2nLcmFPibyxLZHg"      group-title="🅼🅾🆅🅸🅴"   ,Họa Bì 2 - Phim Lẻ
 	https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200726/psiitr2012dub/e84fbe510506ecb86c0e6edfc6b575ee.smil/chunklist_b4628000.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/2019/7/9/57355fa7b6fd4bbe96c7d21ba83a3c70-1562649233245510831468.jpeg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Hoa Mộc Lan - Phim Lẻ  
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/2019/7/9/57355fa7b6fd4bbe96c7d21ba83a3c70-1562649233245510831468.jpeg"      group-title="🅼🅾🆅🅸🅴"   ,Hoa Mộc Lan - Phim Lẻ  
 
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://hdvietsub.net/wp-content/uploads/2017/04/bg_01_lrs63116-744x419.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Đường Hầm - Phim Lẻ  
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://hdvietsub.net/wp-content/uploads/2017/04/bg_01_lrs63116-744x419.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Đường Hầm - Phim Lẻ  
 	https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200331/tunnel_fptplay_rerender_1080p_sub_logofptplay/f1bba0f9553b464277ff0a748bb5cc54.smil/chunklist_b3992000.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.6435-9/72995397_110657550355331_354254919823261696_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_ohc=m1-4D73iYAAAX83BnAY&_nc_ht=scontent.fdad2-1.fna&oh=4d003b0aba6183f19c722bde8c0f0416&oe=61549D8C"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Băng Trộm Siêu Đẳng - Phim Lẻ 
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.6435-9/72995397_110657550355331_354254919823261696_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_ohc=m1-4D73iYAAAX83BnAY&_nc_ht=scontent.fdad2-1.fna&oh=4d003b0aba6183f19c722bde8c0f0416&oe=61549D8C"      group-title="🅼🅾🆅🅸🅴"   ,Băng Trộm Siêu Đẳng - Phim Lẻ 
 	 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200317/the_con_artists_fptplay_1080p_sub_logofptplay/0e21f15ac8f9e1f54e064386fee6f324_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjEwOTg5MzQ5ZWI1NGViZjZiOGVkODcwMTE5OWIwMzU5IiwgInZpZGVvX2lkIjogIjVkZTZiNmQ2MjA4OWJkMDI0N2NlZDZkZCIsICJzZXJ2ZXJfdGltZSI6IDE2MjgzMjY3MjAsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://danviet.mediacdn.vn/upload/4-2014/images/2014-12-23/1434416605-kihd1419328659-gangnam-blue-1.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Bụi Đời Gangnam - Phim Lẻ  
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://danviet.mediacdn.vn/upload/4-2014/images/2014-12-23/1434416605-kihd1419328659-gangnam-blue-1.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Bụi Đời Gangnam - Phim Lẻ  
 	https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170103/41e759c60bb8f417d91962230f797c3c.smil/chunklist_b2992000.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.mnewsvn.com/uploads/20/5c11ddecef60e.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Găng Tơ Tái Xuất - Unstoppable Angry Bull 2018 - Phim Lẻ  
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.mnewsvn.com/uploads/20/5c11ddecef60e.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Găng Tơ Tái Xuất - Unstoppable Angry Bull 2018 - Phim Lẻ  
 	https://vod04-cdn.fptplay.net/encoded/20200905/unstoppable_2018_1080p_korea_sub/1080p/index.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anh.eva.vn/upload/4-2016/images/2016-12-01/1480588118-ava-songhye-kyo-thangnam.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Những Tháng Năm Rực Rỡ - Phim Lẻ  
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anh.eva.vn/upload/4-2016/images/2016-12-01/1480588118-ava-songhye-kyo-thangnam.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Những Tháng Năm Rực Rỡ - Phim Lẻ  
 	https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200314/my_brilliant_life_fptplay_1080p_sub_logofptplay/124ad881347366836cf655191da10f62.smil/chunklist_b3992000.m3u8
 
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://animeanime.jp/imgs/p/F0wY7sTvXbM-zUyY3Ct0qjajM6ytrq_oqaqr/99209.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Cuốn Sổ Tử Thần: Cái Tên Cuối Cùng - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://animeanime.jp/imgs/p/F0wY7sTvXbM-zUyY3Ct0qjajM6ytrq_oqaqr/99209.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Cuốn Sổ Tử Thần: Cái Tên Cuối Cùng - Phim Lẻ
 	https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210523/death_note_2_the_last_name_2006_japan_sub/14f093983a90ecd61e0271991ec2a3d2_1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2021/02/09/u661neb7_1920x1080camdotoiloi.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Cám Dỗ Tội Lỗi - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2021/02/09/u661neb7_1920x1080camdotoiloi.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Cám Dỗ Tội Lỗi - Phim Lẻ
 	https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200406/a_man_and_a_woman_fptplay_1080p_sub_logofptplay/2cb194201fa2a57b617fe55d69139342_1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/01/05/zd6k3dwp_truy-lung-sieu-trom_horizontal-thumbnail-png_1267_712.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Truy Lùng Siêu Trộm - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/01/05/zd6k3dwp_truy-lung-sieu-trom_horizontal-thumbnail-png_1267_712.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Truy Lùng Siêu Trộm - Phim Lẻ
 	https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201120/cold_eyes_fptplay_1080p_logofptplay_v2/730fb468eaef9d44686990811f98e9a8_1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/ovAVBX52Dho/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Trò Chơi Sinh Tồn - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/ovAVBX52Dho/maxresdefault.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Trò Chơi Sinh Tồn - Phim Lẻ
 	https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210914/as_the_gods_will_2014_japan_1080p_sub/b069fcbd90f71e4cf8b4632d31b8df81.smil/chunklist_b4628000.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Tf2ngAeaTE8WbxC3BOZDHqEPMPxY3lFBiF9LA5AQMHpc-tHGhcwYhY6V--AWGyCpe0UqDTotoAEFr1v7RY64cWnfvTZ1cXHxldBbKU28ryUSoa0lmuFiVDNnk6682TP0gFOQCNKWgnIqiyQC-wgZ8dWxi-u9"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Một Thời Học Sinh - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Tf2ngAeaTE8WbxC3BOZDHqEPMPxY3lFBiF9LA5AQMHpc-tHGhcwYhY6V--AWGyCpe0UqDTotoAEFr1v7RY64cWnfvTZ1cXHxldBbKU28ryUSoa0lmuFiVDNnk6682TP0gFOQCNKWgnIqiyQC-wgZ8dWxi-u9"      group-title="🅼🅾🆅🅸🅴"   ,Một Thời Học Sinh - Phim Lẻ
 	https://vod05-cdn.fptplay.net/encoded/20200518/onceuponatimeinhighschool_2004_kor_multi/1080p/index.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/02/09/5e4mcpav_1920x1080ongbangangto_1267_712.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Ông Bạn Găng Tơ - Phim Lẻ  
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/02/09/5e4mcpav_1920x1080ongbangangto_1267_712.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Ông Bạn Găng Tơ - Phim Lẻ  
 	https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200301/man_of_men_1080p_sub_logofptplay_v2/908d112b2215f981fed29e0316a41416_1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaxD62VrrweqPV6tPNYxoSiUJSCFV3W8jZAA&usqp=CAU"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Truy Đuổi - Phim Lẻ  
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaxD62VrrweqPV6tPNYxoSiUJSCFV3W8jZAA&usqp=CAU"      group-title="🅼🅾🆅🅸🅴"   ,Truy Đuổi - Phim Lẻ  
 	https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191209/montage_vi_1080p_sub_logofptplay_v2/e05e07cf638a7dbfb6e41dc77ce965f7_1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.dreamers.id/img_artikel/44lee-jong-suk-vip-movie.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Theo Dấu Sát Nhân - Phim Lẻ  
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.dreamers.id/img_artikel/44lee-jong-suk-vip-movie.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Theo Dấu Sát Nhân - Phim Lẻ  
 	https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201004/vip_2017_korea_sub_logofptplay/8c85790517e7f16a33ba2d9a1f10f230.smil/chunklist_b4628000.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2021_02_13/vuong_bao_cuong4.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thám Tử Phố Tàu - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2021_02_13/vuong_bao_cuong4.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Thám Tử Phố Tàu - Phim Lẻ
 	https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20160117/b36c3a4846a24fcc246a3e22c86cf30a.smil/chunklist_b1998000.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://afamilycdn.com/thumb_w/600/150157425591193600/2021/2/13/thamtu4-1613208019019892095482-42-0-388-660-crop-1613208364169920836889.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thám Tử Phố Tàu 2 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://afamilycdn.com/thumb_w/600/150157425591193600/2021/2/13/thamtu4-1613208019019892095482-42-0-388-660-crop-1613208364169920836889.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Thám Tử Phố Tàu 2 - Phim Lẻ
 	https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210203/detective-chinatown-2-2018-china-tm/03a82ef013d3b92bc10bcbb74ebe167a.smil/chunklist_b4628000.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh6.googleusercontent.com/LvrafZ96_KrF1NnDR4uLP4TtrFQrB7kFXRZinlGOnJQrwWX4TFNm976aGXF2_JCjw5M"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thám Tử Phố Tàu 3 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh6.googleusercontent.com/LvrafZ96_KrF1NnDR4uLP4TtrFQrB7kFXRZinlGOnJQrwWX4TFNm976aGXF2_JCjw5M"      group-title="🅼🅾🆅🅸🅴"   ,Thám Tử Phố Tàu 3 - Phim Lẻ
 	https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210519/detective_chinatown_3_2021_sub_v5_sub/8e845eb0d74e2cfac69c75f93fbb9838_1080p.mp4/chunklist.m3u8
 
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/tham-tu-k-bi-mat-goa-phu-stkbmgp702957-2019120924.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thám Tử K: Bí Mật Hoa Ô Đầu - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/tham-tu-k-bi-mat-goa-phu-stkbmgp702957-2019120924.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Thám Tử K: Bí Mật Hoa Ô Đầu - Phim Lẻ
 	https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201126/detective-k-secret-of-virtuous-widow-fptplay-1080p-sub-logofptplay/6aacaea92ad6acb2e7a3594c7ecb3eea-1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImI4MDJiYjMxYzg0OWFjOGJhYWM0MWY4YTMyYmRlN2MwIiwgInZpZGVvX2lkIjogIjVmYzg5YzI5MjA4OWJkMGI5NjdiMjhlMyIsICJzZXJ2ZXJfdGltZSI6IDE2MzA4MTc0NjUsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://2.bp.blogspot.com/-CHVGwoUz7_Q/WsHzuM_2LSI/AAAAAAAE734/SSCJDQ4DRjcNT-Zj2xiYyGl5U7mE765wACHMYCw/s0/XemPhimOn_gallery_tham-tu-k-bi-mat-goa-phu-0.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thám Tử K: Ma Cà Rồng Báo Thù - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://2.bp.blogspot.com/-CHVGwoUz7_Q/WsHzuM_2LSI/AAAAAAAE734/SSCJDQ4DRjcNT-Zj2xiYyGl5U7mE765wACHMYCw/s0/XemPhimOn_gallery_tham-tu-k-bi-mat-goa-phu-0.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Thám Tử K: Ma Cà Rồng Báo Thù - Phim Lẻ
 	https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200618/detective_k_secret_of_the_living_dead_1080p_sub_logofptplay_v3/7ff832496f2755a6d194ed0053751cb3_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjIyYzkwNWNjOWI3MTFmNDQ0ZGNiMDY0Mzk0NWM0NTY1IiwgInZpZGVvX2lkIjogIjVlMjQxYzk5MjA4OWJkMDU0OTA2NjI5NCIsICJzZXJ2ZXJfdGltZSI6IDE2MzAxMTk4NDQsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/19_11_2020/untitled-119-11-2020_07g14-08.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Tuổi Trẻ Sục Sôi - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/19_11_2020/untitled-119-11-2020_07g14-08.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Tuổi Trẻ Sục Sôi - Phim Lẻ
 	https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201119/hot_young_blood_fptplay_1080p_logofptplay_v2/98ae308c5a14cbe9d0abffd250d854ca_1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://aumyhay.files.wordpress.com/2019/02/phim_phia_sau_tam_guong.jpg?w=1100&h=619"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Phía Sau Tấm Gương- Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://aumyhay.files.wordpress.com/2019/02/phim_phia_sau_tam_guong.jpg?w=1100&h=619"      group-title="🅼🅾🆅🅸🅴"   ,Phía Sau Tấm Gương- Phim Lẻ
 	https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210828/look_away_2018_usa_1080p_logofptplay_tm/5edd470cf16e474018db6b757e015663_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjA5NzQzY2YyNDZkMzVkNWVlNGM1ZTNkNzVhOTZiMzNlIiwgInZpZGVvX2lkIjogIjYxMmU1NDg3MjA4OWJkMDBhM2I1N2JmMSIsICJzZXJ2ZXJfdGltZSI6IDE2MzA0MjcyNDQsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://phunuvietnam.mediacdn.vn/zoom/660_412/media/news/a658d23016fb87f4536849e04851921d/thumb/phim-thay-oi-em-yeu-anh-tung-mv-giong-em-gai-mua-banner-thumb43.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thầy Ơi… Em Yêu Anh - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://phunuvietnam.mediacdn.vn/zoom/660_412/media/news/a658d23016fb87f4536849e04851921d/thumb/phim-thay-oi-em-yeu-anh-tung-mv-giong-em-gai-mua-banner-thumb43.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Thầy Ơi… Em Yêu Anh - Phim Lẻ
 	https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200212/sensei_fptplay_4k_1080p_sub_logofptplay/6e652b40df1f46a68b1829b24643254e_1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/TGRUeKg.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Dạ Quỷ - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/TGRUeKg.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Dạ Quỷ - Phim Lẻ
 	https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191006/rampant_2018_korea_pd_1080p/02a04b8acf9805b901f1ed6e328dd9ab_1080p.mp4/chunklist.m3u8
 
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/07_04_2020/untitled-107-04-2020_09g47-56.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Sát Thủ Văn Phòng - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/07_04_2020/untitled-107-04-2020_09g47-56.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Sát Thủ Văn Phòng - Phim Lẻ
 	https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201116/a_company_man_fptplay_1080p_logofptplay/89e2f8cbec8f370972d30ec946748a69_1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2018/10/25/bg01jkt35500-15404821307571432905898.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Hóa Ra Anh Vẫn Ở Đây - Phim Lẻ  
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2018/10/25/bg01jkt35500-15404821307571432905898.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Hóa Ra Anh Vẫn Ở Đây - Phim Lẻ  
 	https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201102/nevergone_2016_china_v3/5bb271549df8335ace2ed22b61fc120c.smil/chunklist_b4628000.m3u8?token=eyJoYXNoX3ZhbHVlIjogImQ1N2U0NDJkYjcyYzc5YjI4NzgzN2M4YmUyYmQ2NWFjIiwgInZpZGVvX2lkIjogIjU3YjJkMDgxMTdkYzEzMDJkNDRkYWE1ZiIsICJzZXJ2ZXJfdGltZSI6IDE2Mjk5NjkxMjcsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
 	
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/DnSVf_aQNd8/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Chuyện Kinh Dị Lúc Nửa Đêm - Phim Lẻ  
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/DnSVf_aQNd8/maxresdefault.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Chuyện Kinh Dị Lúc Nửa Đêm - Phim Lẻ  
 	http://vod-zlr2.tv360.vn/video1/2020/01/08/12/bbeae1e3/bbeae1e3-2818-4d32-9b51-605e9339d6ba_5_.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/cqreI_UAT28/maxresdefault.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Chốt Chặn Cuối Cùng - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/cqreI_UAT28/maxresdefault.jpg"     group-title="🅼🅾🆅🅸🅴" , Chốt Chặn Cuối Cùng - Phim Lẻ
 	http://vod-zlr2.tv360.vn/video1/2021/04/01/13/83253eff/83253eff-1413-42ba-a3cf-641130b5aaf0_5_.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://genk.mediacdn.vn/2017/1-1503293393738.png"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Vệ Sĩ Sát Thủ  - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://genk.mediacdn.vn/2017/1-1503293393738.png"     group-title="🅼🅾🆅🅸🅴" , Vệ Sĩ Sát Thủ  - Phim Lẻ
 	http://vod-zlr2.tv360.vn/video1/2020/01/28/22/30ef57b3/30ef57b3-b441-46cc-915b-122802f837ae_5_.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/KFt07DTboEI/maxresdefault.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Sát Thủ Thợ Máy - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/KFt07DTboEI/maxresdefault.jpg"     group-title="🅼🅾🆅🅸🅴" , Sát Thủ Thợ Máy - Phim Lẻ
 	http://vod-zlr2.tv360.vn/s2-video3/2019/09/27/21/46023956/46023956-166a-4589-8b65-640685ae014f_5_.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/VKCnqKh02PU/maxresdefault.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Sát Thủ Thợ Máy: Sự Tái Xuất  - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/VKCnqKh02PU/maxresdefault.jpg"     group-title="🅼🅾🆅🅸🅴" , Sát Thủ Thợ Máy: Sự Tái Xuất  - Phim Lẻ
 	http://vod-zlr2.tv360.vn/video1/2020/08/04/14/3535c0fe/3535c0fe-133e-4f88-bab8-6e45caa40e4a_5_.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.thinkingfaith.org/sites/default/files/field/image/The%20Bank%20Job.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Vụ Cướp Thế Kỷ  - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.thinkingfaith.org/sites/default/files/field/image/The%20Bank%20Job.jpg"     group-title="🅼🅾🆅🅸🅴" , Vụ Cướp Thế Kỷ  - Phim Lẻ
 	http://vod-zlr2.tv360.vn/video1/2019/11/01/18/cdf8e6a0/cdf8e6a0-b3d4-491a-abf7-4b045be32a23_5_.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2020/12/25/1cu2uhof_1920x1080-taytromchuyennghiep.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Tay Trộm Chuyên Nghiệp  - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2020/12/25/1cu2uhof_1920x1080-taytromchuyennghiep.jpg"     group-title="🅼🅾🆅🅸🅴" , Tay Trộm Chuyên Nghiệp  - Phim Lẻ
 	http://vod-zlr2.tv360.vn/s2-video3/2019/11/01/19/2a4831da/2a4831da-ecdf-4765-97e4-88e3719f7a74_5_.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="http://static.ybox.vn/2019/2/4/1551343032451-cold-pursuit-co-phai-cu-da-cuoi-cung-o-tuoi-66-cua-ngoi-sao-taken-liam-neeson.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Báo Thù  - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="http://static.ybox.vn/2019/2/4/1551343032451-cold-pursuit-co-phai-cu-da-cuoi-cung-o-tuoi-66-cua-ngoi-sao-taken-liam-neeson.jpg"     group-title="🅼🅾🆅🅸🅴" , Báo Thù  - Phim Lẻ
 	http://vod-zlr2.tv360.vn/video1/2020/01/28/22/b036857d/b036857d-a9ef-4fcf-9202-656d74cd5533_5_.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/l8DAs9rVIWc/mqdefault.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Diệp Vấn 3 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/l8DAs9rVIWc/mqdefault.jpg"     group-title="🅼🅾🆅🅸🅴" , Diệp Vấn 3 - Phim Lẻ
 	http://vod-zlr2.tv360.vn/video1/2021/09/15/00/4ed31685/4ed31685-1bff-4c6f-af16-3d8f006982e3_5_.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/7Cc2wp17soM/maxresdefault.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Biệt Kích Ngầm - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/7Cc2wp17soM/maxresdefault.jpg"     group-title="🅼🅾🆅🅸🅴" , Biệt Kích Ngầm - Phim Lẻ
 	http://vod-zlr2.tv360.vn/video1/2021/03/30/17/c2a0f579/c2a0f579-fe92-4f25-b6e3-b3c4090d82ad_5_.m3u8
 
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="http://khenphim.com/wp-content/uploads/2018/07/Siberia-4.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Cuộc Chiến Kim Cương Xanh - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="http://khenphim.com/wp-content/uploads/2018/07/Siberia-4.jpg"     group-title="🅼🅾🆅🅸🅴" , Cuộc Chiến Kim Cương Xanh - Phim Lẻ
 	http://vod-zlr2.tv360.vn/video1/2021/04/15/09/18c0fcef/18c0fcef-99de-47ae-a022-847195612bf6_5_.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://koicine.com/wp-content/uploads/2021/03/District-9-1-1024x650.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Khu Vực 9 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://koicine.com/wp-content/uploads/2021/03/District-9-1-1024x650.jpg"     group-title="🅼🅾🆅🅸🅴" , Khu Vực 9 - Phim Lẻ
 	http://vod-zlr2.tv360.vn/s2-video3/2019/09/27/22/fa6cf16d/fa6cf16d-317b-4612-9a23-b3231586a425_5_.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/20_12_2019/y9ajn7yynm6atmmuau3xyaiiup320-12-2019_05g24-40.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Điều Kỳ Diệu Trong Phòng Giam Số 7 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/20_12_2019/y9ajn7yynm6atmmuau3xyaiiup320-12-2019_05g24-40.jpg"     group-title="🅼🅾🆅🅸🅴" , Điều Kỳ Diệu Trong Phòng Giam Số 7 - Phim Lẻ
 	https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191209/miracle_in_cell_no_7_1080p_sub_logofptplay/130a0b1ca63957caa4d97c41d161d883_1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2017/photo1513041713940-1513041713941.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Vòng Xoáy Lừa Đảo - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2017/photo1513041713940-1513041713941.jpg"     group-title="🅼🅾🆅🅸🅴" , Vòng Xoáy Lừa Đảo - Phim Lẻ
 	http://vod-zlr2.tv360.vn/video1/2020/02/14/18/e2f847ee/e2f847ee-88f9-4724-8f7e-2292adb783bb_5_.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2021/02/09/16xy0i4m_1920x1080nguctu_1920_1080.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Ngục Tù - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2021/02/09/16xy0i4m_1920x1080nguctu_1920_1080.jpg"     group-title="🅼🅾🆅🅸🅴" , Ngục Tù - Phim Lẻ
 	http://vod-zlr2.tv360.vn/video1/2020/02/19/12/e6b8ad5e/e6b8ad5e-8a07-417c-b66b-48c2605daefd_5_.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://khophimhan.com/wp-content/uploads/2020/01/7-phim-dien-anh-han-xong-dat-thang-1-2020-di-xem-thoi.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" ,Người Kế Tiếp - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://khophimhan.com/wp-content/uploads/2020/01/7-phim-dien-anh-han-xong-dat-thang-1-2020-di-xem-thoi.jpg"     group-title="🅼🅾🆅🅸🅴" ,Người Kế Tiếp - Phim Lẻ
 	http://vod-zlr2.tv360.vn/video1/2021/01/26/22/1886106b/1886106b-a815-4a1f-af94-cb23c76cb73d_5_.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/52dn-wClkz0/maxresdefault.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" ,Kim Ji-Young, Sinh Năm 1982  - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/52dn-wClkz0/maxresdefault.jpg"     group-title="🅼🅾🆅🅸🅴" ,Kim Ji-Young, Sinh Năm 1982  - Phim Lẻ
 	http://vod-zlr2.tv360.vn/video1/2021/01/26/22/ea063439/ea063439-7df0-472e-a955-4abf48f074e0_5_.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/0S1UxBMqa_g/maxresdefault.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" ,Mal·Mo·E: Nhiệm Vụ Bí Mật  - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/0S1UxBMqa_g/maxresdefault.jpg"     group-title="🅼🅾🆅🅸🅴" ,Mal·Mo·E: Nhiệm Vụ Bí Mật  - Phim Lẻ
 	http://vod-zlr2.tv360.vn/video1/2021/01/26/22/6a5ae5a3/6a5ae5a3-2145-4d00-8d06-5f6701644b7e_5_.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2020/12/08/18/164614f3/164614f3-d24a-42cd-9c17-c65a16e0a47d_640_360.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Ký Ức Diva  - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2020/12/08/18/164614f3/164614f3-d24a-42cd-9c17-c65a16e0a47d_640_360.jpg"     group-title="🅼🅾🆅🅸🅴" , Ký Ức Diva  - Phim Lẻ
 	http://vod-zlr2.tv360.vn/video1/2020/12/08/18/4293e36a/4293e36a-91c4-4227-a22c-234e3f712b6e_5_.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/MOXzpj8yZFk/maxresdefault.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Giám Sát - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/MOXzpj8yZFk/maxresdefault.jpg"     group-title="🅼🅾🆅🅸🅴" , Giám Sát - Phim Lẻ
 	http://vod-zlr2.tv360.vn/video1/2021/01/28/15/ef17ecb8/ef17ecb8-6560-4b8a-b4ea-707160a5caa8_5_.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.xemgi.us/image/upload/voice-of-silence-banner.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Thanh Âm Của Thinh Lặng - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.xemgi.us/image/upload/voice-of-silence-banner.jpg"     group-title="🅼🅾🆅🅸🅴" , Thanh Âm Của Thinh Lặng - Phim Lẻ
 	http://vod-zlr2.tv360.vn/video1/2021/01/27/14/c823742f/c823742f-025b-4ba6-8009-2cdd311a3d5c_5_.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://genk.mediacdn.vn/2019/2/16/anh-1-1550312457529197023733.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" ,  Thử Thách Thần Chết - Phim Lẻ 
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://genk.mediacdn.vn/2019/2/16/anh-1-1550312457529197023733.jpg"     group-title="🅼🅾🆅🅸🅴" ,  Thử Thách Thần Chết - Phim Lẻ 
 	http://vod-zlr2.tv360.vn/video1/2018/08/14/17/32627743/32627743-41f9-43c2-95c2-15f5c10f8a33_5_.m3u8
 	#http://s3-hcm-r1.longvan.net/phimle/thuthachthanchet49ngaycuoicungtm.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2021/01/22/a340nej4_1920x1080ngayemdepnhat02_1920_1080.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Ngày Em Đẹp Nhất - Phim Lẻ 
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2021/01/22/a340nej4_1920x1080ngayemdepnhat02_1920_1080.jpg"     group-title="🅼🅾🆅🅸🅴" , Ngày Em Đẹp Nhất - Phim Lẻ 
 	http://vod-zlr2.tv360.vn/video1/2021/07/27/22/b382a171/b382a171-9045-4103-885c-899bd2ca3e2b_5_.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/oCTqpqtgwo4/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Xà Nữ - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/oCTqpqtgwo4/maxresdefault.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Xà Nữ - Phim Lẻ
 	https://v95.x2convert.com/xbase/us40/xcfiles/videos/2021/9/20/thuyet_minh_xa_nu_co_gai_duoc_ran_khong_lo_nuoi_lon_phim_dien_anh_hanh_dong_hay_2021_youku_4352189262674262854.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://eatnmore.com/wp-content/uploads/2020/10/oldboy-272503.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Báo Thù - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://eatnmore.com/wp-content/uploads/2020/10/oldboy-272503.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Báo Thù - Phim Lẻ
 	https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210311/oldboy_2003_korea_tm/b65543efcb6afcdc3977d05b4ac8e24e_1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/cong-to-vien-hung-bao-ctvhb363901.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Công Tố Viên Hung Bạo - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/cong-to-vien-hung-bao-ctvhb363901.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Công Tố Viên Hung Bạo - Phim Lẻ
 	https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191128/a_violent_prosecutor_fptplay_1080p_logofptplay/5504a21c41ce77478d8308592b16791c_1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets.glxplay.io/images/w700/title/the-man-from-nowhere_web_backdrop_bc181c4885ce3445594fc0d1add9ae36.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Người Vô Danh Tính - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets.glxplay.io/images/w700/title/the-man-from-nowhere_web_backdrop_bc181c4885ce3445594fc0d1add9ae36.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Người Vô Danh Tính - Phim Lẻ
 	https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201119/the_man_from_nowhere_fptplay_1080p_sub_logofptplay/dca121e1023f189d84742aee00d0cf0d_1080p.mp4/chunklist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://s3.cloud.cmctelecom.vn/tinhte2/2019/08/4746978_cover_phim_exit_han_quoc.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Lối Thoát Trên Không - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://s3.cloud.cmctelecom.vn/tinhte2/2019/08/4746978_cover_phim_exit_han_quoc.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Lối Thoát Trên Không - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/loithoattrenkhongtm.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/sPUyZYA.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Đêm Thứ 8 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/sPUyZYA.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Đêm Thứ 8 - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/demthu8vs.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="http://khophimhan.com/wp-content/uploads/2017/09/top-phim-han-hay-nhat-ve-chien-tranh-khien-nguoi-xem-quan-tim-9.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Cờ Thái Cực Giương Cao - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="http://khophimhan.com/wp-content/uploads/2017/09/top-phim-han-hay-nhat-ve-chien-tranh-khien-nguoi-xem-quan-tim-9.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Cờ Thái Cực Giương Cao - Phim Lẻ
 	https://vod06-cdn.fptplay.net/encoded/20200711/taegukgihwinalrimyeo_2004_korea_v2_sub/1080p/index.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="http://thegioidienanh.vn/stores/news_dataimages/hath/082017/19/10/1619_11_7.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Cảnh Sát Tập Sự - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="http://thegioidienanh.vn/stores/news_dataimages/hath/082017/19/10/1619_11_7.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Cảnh Sát Tập Sự - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/canhsattapsu.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://s3img.vcdn.vn/123phim/2017/03/thanh-pho-ao-fabricated-city-14894759120550.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thành Phố Ảo - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://s3img.vcdn.vn/123phim/2017/03/thanh-pho-ao-fabricated-city-14894759120550.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Thành Phố Ảo - Phim Lẻ
 	http://s3-hcm1-r1.longvan.net/phimle/thanhphoao.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/YEXLz8L_hLs/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Chạy Đâu Cho Thoát - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/YEXLz8L_hLs/maxresdefault.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Chạy Đâu Cho Thoát - Phim Lẻ
 
 	#https://hls.phimno1.com:443/files/d57ad2647e1ea41d744e4a6165680bd8_720p.mp4.m3u8
 	http://s3-hcm-r1.longvan.net/phimle/chaydauchothoattm.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://media-cdn.laodong.vn/storage/newsportal/Uploaded/nguyenvanthang/2017_06_21/bai-hoc-tu-cuoc-chien-ngam-wshowbiz-2_OWNL.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Cuộc Chiến Ngầm - Phim Lẻ    
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://media-cdn.laodong.vn/storage/newsportal/Uploaded/nguyenvanthang/2017_06_21/bai-hoc-tu-cuoc-chien-ngam-wshowbiz-2_OWNL.jpg"     group-title="🅼🅾🆅🅸🅴" , Cuộc Chiến Ngầm - Phim Lẻ    
 	#https://hls.phimno1.com:443/files/33112ea9e2bcac310893f2f1f08f6666_720p.mp4.m3u8
 
 
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://loanghenhachay.com/wp-content/uploads/2019/01/Phim-Confidential-Assignment.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Nhiệm Vụ Tối Mật - Phim Lẻ    
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://loanghenhachay.com/wp-content/uploads/2019/01/Phim-Confidential-Assignment.jpg"     group-title="🅼🅾🆅🅸🅴" , Nhiệm Vụ Tối Mật - Phim Lẻ    
 	#https://hls.phimno1.com:443/files/158de82d3df9b9e24aa692d9ef90a0e4_720p.mp4.m3u8
 
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="http://cdn.tgdd.vn/Files/2020/12/24/1315847/review-phim-ky-sinh-trung-parasite-2019-phim-han-quoc-dau-tien-doat-giai-oscar-202012241800157650.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Ký Sinh Trùng - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="http://cdn.tgdd.vn/Files/2020/12/24/1315847/review-phim-ky-sinh-trung-parasite-2019-phim-han-quoc-dau-tien-doat-giai-oscar-202012241800157650.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Ký Sinh Trùng - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/kysinhtrungtm.mp4
 
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/07/12/ouj4qxsr_1920x1080-vungdatquydu1_1267_712.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/07/12/ouj4qxsr_1920x1080-vungdatquydu1_1267_712.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ - Phim Lẻ
 	#https://hls.phimno1.com:443/files/d6af05825e819b253ed35befcb3faccb_720p.mp4.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://4.bp.blogspot.com/-_9e0KJ-ETW0/WrjkJi7cwhI/AAAAAAAAE04/rAIm-Qk1r6ElSMXQJDTPxs0vRg_ADZS-ACLcBGAs/s1600/r-0006residentevilapocalypsequadmovieposterl-201611670.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ 2 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://4.bp.blogspot.com/-_9e0KJ-ETW0/WrjkJi7cwhI/AAAAAAAAE04/rAIm-Qk1r6ElSMXQJDTPxs0vRg_ADZS-ACLcBGAs/s1600/r-0006residentevilapocalypsequadmovieposterl-201611670.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ 2 - Phim Lẻ
 	#https://hls.phimno1.com:443/files/8d44b6e8eb08d84da3b196b31537414c_720p.mp4.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ibb.co/dtdm5dR/ucuzyehr-1920x1080-vungdatquydu3-782-432.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ 3 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ibb.co/dtdm5dR/ucuzyehr-1920x1080-vungdatquydu3-782-432.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ 3 - Phim Lẻ
 	#https://hls.phimno1.com:443/files/5396d54da6aa7d418ea574cc032f5c76_720p.mp4.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2021/07/12/fzei3gsg_1920x1080-vungdatquydu4_1920_1080.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ 4 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2021/07/12/fzei3gsg_1920x1080-vungdatquydu4_1920_1080.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ 4 - Phim Lẻ
 	#https://hls.phimno1.com:443/files/457cd9991826f08b09598ba59327af6f_720p.mp4.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/12/quiubb7r_1920x1080-vungdatquydu5.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ 5 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/12/quiubb7r_1920x1080-vungdatquydu5.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ 5 - Phim Lẻ
 	#https://hls.phimno1.com:443/files/076adaa531322cc6283fa15645e07686_720p.mp4.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://photo2.tinhte.vn/data/attachment-files/2020/10/5173903_Resident-Evil-The-Final-Chapter-Final-Poster-Featured.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ 6 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://photo2.tinhte.vn/data/attachment-files/2020/10/5173903_Resident-Evil-The-Final-Chapter-Final-Poster-Featured.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ 6 - Phim Lẻ
 	#https://hls.phimno1.com:443/files/877e197cf3cf506f6570426c13278c63_720p.mp4.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/njzLrIAPi5Q/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/njzLrIAPi5Q/maxresdefault.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Vùng Đất Quỷ Dữ - Phim Lẻ
 
 
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2021/1/22/deadpool-marvel-header-16113082064141231162459.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   , Quái Nhân Deadpool  - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2021/1/22/deadpool-marvel-header-16113082064141231162459.jpg"      group-title="🅼🅾🆅🅸🅴"   , Quái Nhân Deadpool  - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/deadpool2016.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.moveek.com/media/cache/large/b25bd5c26e515adb40e4bdd349e6d8243b014416.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Quái Nhân Deadpool 2 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.moveek.com/media/cache/large/b25bd5c26e515adb40e4bdd349e6d8243b014416.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Quái Nhân Deadpool 2 - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/deadpool2018.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://media.songdep.com.vn/files/thaian/2021/05/11/lich-chieu-venom-doi-mat-tu-thu-tai-rap-viet-nam-8-164224.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   , Quái Vật Venom - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://media.songdep.com.vn/files/thaian/2021/05/11/lich-chieu-venom-doi-mat-tu-thu-tai-rap-viet-nam-8-164224.jpg"      group-title="🅼🅾🆅🅸🅴"   , Quái Vật Venom - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/quaivatvenomtm.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.studyphim.vn/system/movies/2286/thumbnails/medium/GOTT.png"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Cưỡng Đoạt  - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.studyphim.vn/system/movies/2286/thumbnails/medium/GOTT.png"      group-title="🅼🅾🆅🅸🅴"   ,Cưỡng Đoạt  - Phim Lẻ
 	http://vod-zlr2.tv360.vn/s2-video3/2019/09/27/22/eb17f129/eb17f129-3e56-4d90-ba38-86648c88ba9e_5_.m3u8
 	#https://hls.phimno1.com:443/files/2e5669fd1890f77385ccff141d67ecbf_720p.mp4.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://binhluanphim.files.wordpress.com/2012/10/taken-2_img.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Cưỡng Đoạt 2 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://binhluanphim.files.wordpress.com/2012/10/taken-2_img.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Cưỡng Đoạt 2 - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/cuongdoat2.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/k:thumb_w/600/5rlgfkdN55CYJRhfWf2vfextv8dIqp/Image/2015/01/taken-3-tang-ve/6-9e1d0/trai-nghiem-lai-canh-hanh-dong-mau-lua-cua-taken-va-taken-2-.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Cưỡng Đoạt 3 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/k:thumb_w/600/5rlgfkdN55CYJRhfWf2vfextv8dIqp/Image/2015/01/taken-3-tang-ve/6-9e1d0/trai-nghiem-lai-canh-hanh-dong-mau-lua-cua-taken-va-taken-2-.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Cưỡng Đoạt 3 - Phim Lẻ
 	#https://hls.phimno1.com:443/files/d2d615de2c597db2740d6e521e8181f5_720p.mp4.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/1024/uploaded/hoangnam/2019_05_28/01_fpbp.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Sát thủ John Wick   - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/1024/uploaded/hoangnam/2019_05_28/01_fpbp.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Sát thủ John Wick   - Phim Lẻ
 	http://vod-zlr2.tv360.vn/video1/2019/12/06/09/c5d5845f/c5d5845f-3c0f-4f63-89f9-aa9b9158d17f_5_.m3u8
 	#http://s3-hcm-r1.longvan.net/phimle/satthujohnwick1tm.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.stereo.vn/uploads/2015/09/John-Wick-Poster.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Sát thủ John Wick 2 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn.stereo.vn/uploads/2015/09/John-Wick-Poster.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Sát thủ John Wick 2 - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/satthujohnwick2.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/9IQY2BN17dQ/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Sát thủ John Wick 3 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/9IQY2BN17dQ/maxresdefault.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Sát thủ John Wick 3 - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/satthujohnwick3tm.mp4
 
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://1.bp.blogspot.com/-WwBrCjRGZZ8/WypUGvRN0YI/AAAAAAAAY-I/QkUtyXYrvaAkdVTPmuk0lJq8wORca38iACLcBGAs/s1600/0%2B%25281%2529.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   , Vụ Án Chấn Động  - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://1.bp.blogspot.com/-WwBrCjRGZZ8/WypUGvRN0YI/AAAAAAAAY-I/QkUtyXYrvaAkdVTPmuk0lJq8wORca38iACLcBGAs/s1600/0%2B%25281%2529.jpg"      group-title="🅼🅾🆅🅸🅴"   , Vụ Án Chấn Động  - Phim Lẻ
 	http://s3-hcm1-r1.longvan.net/phimle/vuanchandong.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.heavenofhorror.com/wp-content/uploads/2021/08/The-Swarm-Netflix-review-1200x675.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   , Bầy Đàn Khát Máu  - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.heavenofhorror.com/wp-content/uploads/2021/08/The-Swarm-Netflix-review-1200x675.jpg"      group-title="🅼🅾🆅🅸🅴"   , Bầy Đàn Khát Máu  - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/baydankhatmauvs.mp4
 
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/hbo/AA002730-landscape.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,  Ván Cờ Sinh Tử - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/hbo/AA002730-landscape.jpg"      group-title="🅼🅾🆅🅸🅴"   ,  Ván Cờ Sinh Tử - Phim Lẻ
 	http://s3-hcm1-r1.longvan.net/phimle/vancosinhtu.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.viu.com/ott/id/articles/wp-content/uploads/2021/06/nonton-streaming-download-drakorindo-film-korea-recalled-sub-indo-viu-slide-banner-1.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   , Triệu Hồi - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.viu.com/ott/id/articles/wp-content/uploads/2021/06/nonton-streaming-download-drakorindo-film-korea-recalled-sub-indo-viu-slide-banner-1.jpg"      group-title="🅼🅾🆅🅸🅴"   , Triệu Hồi - Phim Lẻ
 	http://s3-hcm1-r1.longvan.net/phimle/trieuhoitm.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://hdvietsub.net/wp-content/uploads/2021/08/611743320df9384-83352_poster.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Giai Điệu Con Tim - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://hdvietsub.net/wp-content/uploads/2021/08/611743320df9384-83352_poster.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Giai Điệu Con Tim - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/giaidieucontimvs.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/16_12_2019/untitled-116-12-2019_05g21-13.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Nhật Ký Bán Máu - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/16_12_2019/untitled-116-12-2019_05g21-13.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Nhật Ký Bán Máu - Phim Lẻ
 	http://s3-hcm1-r1.longvan.net/phimle/nhatkybanmau.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://s3.cloud.cmctelecom.vn/tinhte1/2014/12/2667340_127hours.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,127 Giờ Sinh Tử - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://s3.cloud.cmctelecom.vn/tinhte1/2014/12/2667340_127hours.jpg"      group-title="🅼🅾🆅🅸🅴"   ,127 Giờ Sinh Tử - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/127giosinhtu.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/n4oXu6h.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Khi Đàn Ông Yêu - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/n4oXu6h.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Khi Đàn Ông Yêu - Phim Lẻ
 	http://s3-hcm1-r1.longvan.net/phimle/khidanongyeuvs.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZqTIE9TVKmctFz3LqUv5cztq-NbviITb2gdU_1NDtf9E-ou1-D4i93VstwVX-CfL5nsHjDi4Sn3Bzgzd_OEEDdi6smoGcme3iAkbCTYQ36bRZTYo0-Z1Yy_6k7WPA.jpg?r=af0"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Ngón Tay Thứ Sáu - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZqTIE9TVKmctFz3LqUv5cztq-NbviITb2gdU_1NDtf9E-ou1-D4i93VstwVX-CfL5nsHjDi4Sn3Bzgzd_OEEDdi6smoGcme3iAkbCTYQ36bRZTYo0-Z1Yy_6k7WPA.jpg?r=af0"      group-title="🅼🅾🆅🅸🅴"   ,Ngón Tay Thứ Sáu - Phim Lẻ
 	http://s3-hcm1-r1.longvan.net/phimle/ngontaythusauvs.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://ninenovelhome.files.wordpress.com/2021/07/midnight-2021.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Nửa Đêm - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://ninenovelhome.files.wordpress.com/2021/07/midnight-2021.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Nửa Đêm - Phim Lẻ
 	http://s3-hcm1-r1.longvan.net/phimle/nuademvs.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/9N8RdZFl-6o/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Không Chốn Dung Thân  - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/9N8RdZFl-6o/maxresdefault.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Không Chốn Dung Thân  - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/khongchondungthantm.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/TJVa9Vqjb50/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Hiện Thân Tà Ác - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/TJVa9Vqjb50/maxresdefault.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Hiện Thân Tà Ác - Phim Lẻ
 	http://s3-hcm1-r1.longvan.net/phimle/hienthantaacvs.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/MysGjRS9jFU/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Kate - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/MysGjRS9jFU/maxresdefault.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Kate - Phim Lẻ
 	http://s3-hcm1-r1.longvan.net/phimle/katevs.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/61225992416d7654dfad33d3_hoi-sinh-ky-uc-1.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Hồi Sinh Ký Ức  - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/61225992416d7654dfad33d3_hoi-sinh-ky-uc-1.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Hồi Sinh Ký Ức  - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/hoisinhkyucvs.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.galaxycine.vn/media/wysiwyg/images/4%285%29.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Sát Nhân Bóng Tối - Don't Breathe - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.galaxycine.vn/media/wysiwyg/images/4%285%29.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Sát Nhân Bóng Tối - Don't Breathe - Phim Lẻ
 	#https://hls.phimno1.com:443/files/6661710c63c1a4fa668abf97bb2e1457_720p.mp4.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/jDFFqOzaBng/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Sát Nhân Bóng Tối 2 - Don't Breathe 2 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/jDFFqOzaBng/maxresdefault.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Sát Nhân Bóng Tối 2 - Don't Breathe 2 - Phim Lẻ
 	#https://hls.phimno1.com:443/files/94551fab0d7b1a80fd0b8ef4a9daa728_720p.mp4.m3u8
 	http://s3-hcm-r1.longvan.net/phimle/satnhantrongbongtoitm.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/k4817Bng.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   , Người Hobbit: Hành Trình Vô Định  - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/k4817Bng.jpg"      group-title="🅼🅾🆅🅸🅴"   , Người Hobbit: Hành Trình Vô Định  - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/nguoihobbithanhtrinhvodinhtm.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="http://laurasblog.edenreign.net/wp-content/uploads/2014/02/the_hobbit__the_desolation_of_smaug.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   , Người Hobbit: Đại Chiến Với Rồng Lửa  - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="http://laurasblog.edenreign.net/wp-content/uploads/2014/02/the_hobbit__the_desolation_of_smaug.jpg"      group-title="🅼🅾🆅🅸🅴"   , Người Hobbit: Đại Chiến Với Rồng Lửa  - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/nguoihobbitdaichienvoirongluatm.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/nhdc5cq151336m1.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   , Người Hobbit Đại Chiến Năm Cánh Quân - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/nhdc5cq151336m1.jpg"      group-title="🅼🅾🆅🅸🅴"   , Người Hobbit Đại Chiến Năm Cánh Quân - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/nguoihobbitdaichiennamcanhquantm.mp4
-		#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2018/4/18/12-1524011293741618555327.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  ,Siêu Thú Cuồng Nộ - Phim Lẻ
+		#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2018/4/18/12-1524011293741618555327.jpg"      group-title="🅼🅾🆅🅸🅴"  ,Siêu Thú Cuồng Nộ - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/sieuthucuongno.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/650/2017/1-1489251315944.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Kong Và Người Đẹp - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/650/2017/1-1489251315944.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Kong Và Người Đẹp - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/kingkongvanguoidep.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://photo-cms-viettimes.zadn.vn/666x374/Uploaded/2021/livospwi/2018_03_04/kongnewyorktimes_tjyi.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Kong: Đảo Đầu Lâu - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://photo-cms-viettimes.zadn.vn/666x374/Uploaded/2021/livospwi/2018_03_04/kongnewyorktimes_tjyi.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Kong: Đảo Đầu Lâu - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/kong2017.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2021/3/25/ngang-1-16166501818641192461916.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Godzilla Đại Chiến Kong - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2021/3/25/ngang-1-16166501818641192461916.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Godzilla Đại Chiến Kong - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/godzilladaichienkongtm.mp4
 
 
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://1.bp.blogspot.com/-Iirl1jTyfeM/XxsH3cdFtoI/AAAAAAAAMKc/awD2_tbCdSEneaesDukxGYOvvmQiiTnrQCLcBGAsYHQ/s1600/youku-original-film-Water-Monster.jpeg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thủy Quái - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://1.bp.blogspot.com/-Iirl1jTyfeM/XxsH3cdFtoI/AAAAAAAAMKc/awD2_tbCdSEneaesDukxGYOvvmQiiTnrQCLcBGAsYHQ/s1600/youku-original-film-Water-Monster.jpeg"      group-title="🅼🅾🆅🅸🅴"   ,Thủy Quái - Phim Lẻ
 
 	https://v95.x2convert.com/xbase/us40.x2convert.com/xcfiles/videos/2021/9/3/thuy_quai_the_water_monster_2019_phim_chieu_rap_moi_nhat_2021_thuyet_minh_-1368063836713880944.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/I3hpoKJULUE/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thủy Quái 2 - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/I3hpoKJULUE/maxresdefault.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Thủy Quái 2 - Phim Lẻ
 	https://v95.x2convert.com/xbase/us40.x2convert/xcfiles/videos/2021/9/12/vietsub_thuy_quai_rung_go_mun_khi_nuoc_quay_lai_bao_thu_phim_kinh_di_vien_tuong_hot_2021_youku_4665478123291504346.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/0VjwGRKisBY/maxresdefault.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Siêu Đại Chiến Thái Bình Dương - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/0VjwGRKisBY/maxresdefault.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Siêu Đại Chiến Thái Bình Dương - Phim Lẻ
 	#https://hls.phimno1.com:443/files/35a76ee06fb662faf153a64069be9bad_720p.mp4.m3u8
 
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/2/2018/03/pacific-rim-uprising-1280x720-gipsy-avenger-2018-4k-12312-800x450.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Siêu Đại Chiến Thái Bình Dương 2: Trỗi Dậy - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/2/2018/03/pacific-rim-uprising-1280x720-gipsy-avenger-2018-4k-12312-800x450.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Siêu Đại Chiến Thái Bình Dương 2: Trỗi Dậy - Phim Lẻ
 	#https://hls.phimno1.com:443/files/0321427c7d5cedb538a42bbd86844fc4_720p.mp4.m3u8
 
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/612a5a3ea0333c10660dc3d1_nu-sat-thu-bao-thu-1.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Nữ Sát Thủ - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/612a5a3ea0333c10660dc3d1_nu-sat-thu-bao-thu-1.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Nữ Sát Thủ - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/nusatthuvs.mp4
 	#https://scontent.cdninstagram.com/v/t66.36240-6/10000000_271070334584564_7374226469280233477_n.mp4?_nc_cat=106&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=8UKlV-LExI0AX9q_xTG&rl=1500&vabr=718&_nc_ht=scontent-frt3-1.xx&edm=APRAPSkEAAAA&oh=328f8861f20b59298accdaf34eeb3ca7&oe=613A0E30
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://genk.mediacdn.vn/2019/9/5/anh-6-15676539702691857193507.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Chú Hề Ma Quái 2 - Phim Lẻ  
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://genk.mediacdn.vn/2019/9/5/anh-6-15676539702691857193507.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Chú Hề Ma Quái 2 - Phim Lẻ  
 	http://s3-hcm-r1.longvan.net/phimle/chuhemaquaiphan2.mp4
 
 	#http://s3-hcm-r1.longvan.net/phimle/chuyenmalucnuadem2017tm.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/0zMyTIy.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Tay Đấm Thép - Phim Lẻ  
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/0zMyTIy.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Tay Đấm Thép - Phim Lẻ  
 	#https://asia00.fbcdn.space/htmls/rawhls/GWbIOAfB/PSJFwwfv-ts/PSJFwwfv.m3u8?v=1604139717
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/mdf_qsklky/2019_02_04/alitabattleangel1548975493548_1280w.jpg"  group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Thiên Thần Chiến Binh - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/mdf_qsklky/2019_02_04/alitabattleangel1548975493548_1280w.jpg"  group-title="🅼🅾🆅🅸🅴"   ,Thiên Thần Chiến Binh - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/alita.mp4
 	#https://asia00.fbcdn.space/rawhls/vipKWg9X/uLToLA6A-b2.m3u8?v=1603257125
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/1024/uploaded/sangdt/2020_12_28/flu_cccf.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Đại Dịch Cúm - Phim Lẻ    
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/1024/uploaded/sangdt/2020_12_28/flu_cccf.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Đại Dịch Cúm - Phim Lẻ    
 	#https://asia00.fbcdn.space/rawhls/08JLkQMK/RvShbwTb-b2.m3u8?v=1607938896
 	http://s3-hcm-r1.longvan.net/phimle/daidichcumtm.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://tv.hoangbin.com/wp-content/uploads/2019/01/cuoc-chien-luan-hoi.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Cuộc Chiến Luân Hồi - Edge of Tomorrow (2014) - Phim Lẻ    
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://tv.hoangbin.com/wp-content/uploads/2019/01/cuoc-chien-luan-hoi.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Cuộc Chiến Luân Hồi - Edge of Tomorrow (2014) - Phim Lẻ    
 
 	http://s3-hcm-r1.longvan.net/phimle/cuocchienluanhoi.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/5rlgfkdN55CYJRhfWf2vfextv8dIqp/Image/2015/05/review-mad-max/mad_max___fury_road_wallpaper_1920x1080_by_sachso74-d8o2uzz-e8559.jpg"      group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"   ,Con Đường Tử Thần - Phim Lẻ   
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/5rlgfkdN55CYJRhfWf2vfextv8dIqp/Image/2015/05/review-mad-max/mad_max___fury_road_wallpaper_1920x1080_by_sachso74-d8o2uzz-e8559.jpg"      group-title="🅼🅾🆅🅸🅴"   ,Con Đường Tử Thần - Phim Lẻ   
 	http://s3-hcm-r1.longvan.net/phimle/maxdiencuongconduongchettm.mp4
 	#https://asia00.fbcdn.space/rawhls/5Ag7pgkM/wupDJwFS-b2.m3u8?v=1603250824
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/IVqqYgAEfY8/maxresdefault.jpg"       group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  ,Vị Khách Bí Ẩn - Phim Lẻ                                                                                                                                                         
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/IVqqYgAEfY8/maxresdefault.jpg"       group-title="🅼🅾🆅🅸🅴"  ,Vị Khách Bí Ẩn - Phim Lẻ                                                                                                                                                         
 	#https://biphim.club/hls/2ef17bbd01bf6813e53116461b3dec2c/playlist.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.galaxycine.vn/media/wysiwyg/images/1%288%29.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  ,Biệt Đội Cảm Tử - Phim Lẻ 
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.galaxycine.vn/media/wysiwyg/images/1%288%29.jpg"    group-title="🅼🅾🆅🅸🅴"  ,Biệt Đội Cảm Tử - Phim Lẻ 
 	http://s3-hcm1-r1.longvan.net/phimle/bietdoicamtu-suicidesquad.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/1Mp1SVEBv88/maxresdefault.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  ,Biệt Đội Cảm Tử 2 - Phim Lẻ                                                                                                                              
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/1Mp1SVEBv88/maxresdefault.jpg"    group-title="🅼🅾🆅🅸🅴"  ,Biệt Đội Cảm Tử 2 - Phim Lẻ                                                                                                                              
 	#https://asia00.fbcdn.space/rawhls/CDLYAwt1/NtND8Aqe-b2.m3u8?v=1629104486
 	http://s3-hcm-r1.longvan.net/phimle/diepvucamtutm.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/1024/uploaded/minhnguyet/2019_07_31/f1_fihv.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  , Nhanh Quá Nguy Hiểm (HOBBS & SHAW) - Phim Lẻ 
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/1024/uploaded/minhnguyet/2019_07_31/f1_fihv.jpg"    group-title="🅼🅾🆅🅸🅴"  , Nhanh Quá Nguy Hiểm (HOBBS & SHAW) - Phim Lẻ 
 	http://s3-hcm-r1.longvan.net/phimle/quanhanhHOBBSvsSHAW.mp4
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://saigon247.net/wp-content/uploads/2021/05/blogtienao.zcc.com.vn-bom-tan-fast-amp-furious-9-dang-lam-nong-phong-ve-tai-han-quoc-fast-and-furious-9-vin-diesel-john-cenas-action-film-gets-1024x569-1.jpg"      ,Quá Nhanh Quá Nguy Hiểm 9                                                                                                                 Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/quanhanhquanguyhiem9tm.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://hdvietsub.net/wp-content/uploads/2021/07/file-39725_poster.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" ,Cuộc Chiến Tương Lai - Phim Lẻ                                                                                                                                                                                                                                                         Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://hdvietsub.net/wp-content/uploads/2021/07/file-39725_poster.jpg"     group-title="🅼🅾🆅🅸🅴" ,Cuộc Chiến Tương Lai - Phim Lẻ                                                                                                                                                                                                                                                         Phim Lẻ
 	#https://tvhay.tv/hls-tvhay.php?id=60e781a8c29a8b3b0f94a25b&type=video.m3u8
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/2FKI4jP_YAA/maxresdefault.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  ,Vệ Sĩ Sát Thủ 2 - Phim Lẻ                                                                                                                                                                                                                                                                             Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/2FKI4jP_YAA/maxresdefault.jpg"    group-title="🅼🅾🆅🅸🅴"  ,Vệ Sĩ Sát Thủ 2 - Phim Lẻ                                                                                                                                                                                                                                                                             Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/vesisatthu2nhaconoctm.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b6402cc20ff4f21cfd9c1f_cruella-1.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  , Cruella - Phim Lẻ                                                                               
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b6402cc20ff4f21cfd9c1f_cruella-1.jpg"    group-title="🅼🅾🆅🅸🅴"  , Cruella - Phim Lẻ                                                                               
 	http://s3-hcm-r1.longvan.net/phimle/101chuchodomtm.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/vung-dat-cam-lang-vungdatcamlang-2019041957.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  , Vùng Đất Câm Lặng - Phim Lẻ                                                                              
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/vung-dat-cam-lang-vungdatcamlang-2019041957.jpg"    group-title="🅼🅾🆅🅸🅴"  , Vùng Đất Câm Lặng - Phim Lẻ                                                                              
 	#https://asia00.fbcdn.space/rawhls/h8E8yAwC/JnImVgEt-b2.m3u8?v=1627159991
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://dep.com.vn/wp-content/uploads/2020/01/phim-vung-dat-cam-lang-p2-2.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  , Vùng Đất Câm Lặng 2 - Phim Lẻ                                                                                                                
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://dep.com.vn/wp-content/uploads/2020/01/phim-vung-dat-cam-lang-p2-2.jpg"    group-title="🅼🅾🆅🅸🅴"  , Vùng Đất Câm Lặng 2 - Phim Lẻ                                                                                                                
 	http://s3-hcm-r1.longvan.net/phimle/vungdatcamlang2tm.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/ZXxsRT5LWhg/maxresdefault.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Sống Sót - Phim Lẻ 
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/ZXxsRT5LWhg/maxresdefault.jpg"     group-title="🅼🅾🆅🅸🅴" , Sống Sót - Phim Lẻ 
 	http://s3-hcm-r1.longvan.net/phimle/songsottm.mp4
 	#https://asia00.fbcdn.space/rawhls/PIEoqgvZ/9SbKqwkt-b2.m3u8?v=1603261599
 
 
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/1024/uploaded/tuyenth/2018_12_19/aquaman_abjz.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Đế vương Atlantis - Phim Lẻ      
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://image.thanhnien.vn/1024/uploaded/tuyenth/2018_12_19/aquaman_abjz.jpg"     group-title="🅼🅾🆅🅸🅴" , Đế vương Atlantis - Phim Lẻ      
 	http://s3-hcm-r1.longvan.net/phimle/aquaman.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://channel.mediacdn.vn/thumb_w/640/prupload/164/2017/07/img20170712192611793.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" , Sự Trỗi Dậy Của Hành Tinh Khỉ - Phim Lẻ 
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://channel.mediacdn.vn/thumb_w/640/prupload/164/2017/07/img20170712192611793.jpg"     group-title="🅼🅾🆅🅸🅴" , Sự Trỗi Dậy Của Hành Tinh Khỉ - Phim Lẻ 
 	#https://asia00.fbcdn.space/rawhls/x06CwA2z/txf10gaa-b2.m3u8?v=1603249086
 	#https://asia01.fbcdn.space/htmls/rawhls/x06CwA2z/txf10gaa-ts/txf10gaa.m3u8?v=1599268911
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://wordphim.files.wordpress.com/2014/11/wpid-10296555_10152635849840625_8228320565054346933_n.jpg"     group-title="🅾🅳🅳 🅼🅾🆅🅸🅴" ,Sự Khởi Đầu Của Hành Tinh Khỉ - Phim Lẻ        
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://wordphim.files.wordpress.com/2014/11/wpid-10296555_10152635849840625_8228320565054346933_n.jpg"     group-title="🅼🅾🆅🅸🅴" ,Sự Khởi Đầu Của Hành Tinh Khỉ - Phim Lẻ        
 	http://s3-hcm-r1.longvan.net/phimle/sukhoidaucuahanhtinhkhi2013.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://blog.fshare.vn/wp-content/uploads/2017/07/p1.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  , Cuộc Chiến Trên Hành Tinh Khỉ - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://blog.fshare.vn/wp-content/uploads/2017/07/p1.jpg"    group-title="🅼🅾🆅🅸🅴"  , Cuộc Chiến Trên Hành Tinh Khỉ - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/daichienhanhtinhkhi.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2019/10/11/landscape-avatar-copy-15708057837111431635439-crop-15708057966151203596181.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  , Biệt Đội Bất Hảo - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2019/10/11/landscape-avatar-copy-15708057837111431635439-crop-15708057966151203596181.jpg"    group-title="🅼🅾🆅🅸🅴"  , Biệt Đội Bất Hảo - Phim Lẻ
 	http://s3-hcm-r1.longvan.net/phimle/bietdoibathao.mp4
-	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/fox-4AKJ23_24-Full-Image_GalleryCover-en-US-1487892159239._UR1920,1080_RI_.jpg"    group-title="🅾🅳🅳 🅼🅾🆅🅸🅴"  ,Vượt Ngục: Cuộc vượt ngục cuối cùng - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/fox-4AKJ23_24-Full-Image_GalleryCover-en-US-1487892159239._UR1920,1080_RI_.jpg"    group-title="🅼🅾🆅🅸🅴"  ,Vượt Ngục: Cuộc vượt ngục cuối cùng - Phim Lẻ
 	http://s3-hcm1-r1.longvan.net/phimle/vuotnguc5lancuoitm.mp4
 
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.elle.vn/wp-content/uploads/2018/03/12/elle-viet-nam-thoi-trang-trong-phim-my-golden-life-feature-image.jpg"     group-title="Cuộc Sống Thượng Lưu"  , Cuộc Sống Thượng Lưu   - Tập 1 - Phim Bộ
