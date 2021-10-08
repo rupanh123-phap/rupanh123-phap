@@ -393,8 +393,7 @@ http://xcchui2.mrnova.online/live/60297.m3u8
 https://qlobbidev.s.llnwi.net:443/bpk-tv/DISNEYXD/hls/DISNEYXD-audio_129324_und=128000-video=2900000.m3u8?Token=TVLink
 #EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRsE4vQzM5JZrUmrzwXyf_YIFTji7y8Yug2EPO3WxMcC3OFNgnAGLnghvJReBuhaf7U6A&usqp=CAU", TRT COCUK HD
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://i.ibb.co/kSfwfBk/152-1523942-pbs-kids-channel-logotype-hd-png-download.png", PBS KIDS HD
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
 #EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTshkE3YMWGxlBTgWFVQrzmufv1LK7JsSa_zi1jVnXouMCIUUBWbfYRQPS1SX7APzzRGmk&usqp=CAU", JUNIOR HD
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -410,6 +409,9 @@ https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://i.ytimg.com/vi/48hmx022IJc/maxresdefault.jpg" group-title="🅺🅸🅳🆂",Adult Swim The Venture Bros
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+#EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://i.ibb.co/kSfwfBk/152-1523942-pbs-kids-channel-logotype-hd-png-download.png", PBS KIDS HD
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://reviewnao.com/wp-content/uploads/2021/08/anime-phep-thuat-2.jpg" group-title="🅺🅸🅳🆂",Anime Action
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://vnn-imgs-a1.vgcloud.vn/special-img.vnncdn.net/2021/4/20/9/thumbfb-kpop-600x400.jpg" group-title="🅺🅸🅳🆂",KPOP 
@@ -418,6 +420,7 @@ https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr57V5uAz8mYXlMk0GXZW51cHWVNVFKH-zKA&usqp=CAU" group-title="🅺🅸🅳🆂",Dora TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e43c344b54fe800093552f4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e43c344b54fe800093552f4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c28ebf75-0713-11eb-97af-0242ac110002&terminate=false&userId=
+
 #EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://previews.123rf.com/images/yuyuyi/yuyuyi1208/yuyuyi120800185/14990499-four-cute-little-kids.jpg", KIDS HD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f170d64b898490041b4938f&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
 #EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://dthorder.com/wp-content/uploads/channel/kids/nick-hd+.gif", NICK HD+
@@ -8414,6 +8417,7 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 	https://youtu.be/Zn5rE0AyZ3U?list=PLh4trvZExvP1itZtHO5yMxevk4yDjdkOz
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/uJQaVmfK5cA/maxresdefault.jpg"    group-title="Năm Ấy Hoa Nở Trăng Vừa Tròn"  ,Năm Ấy Hoa Nở Trăng Vừa Tròn - Tập 63 - Phim Bộ
 	https://youtu.be/NqXs7gmJyNA?list=PLh4trvZExvP1itZtHO5yMxevk4yDjdkOz
+
 
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/uJQaVmfK5cA/maxresdefault.jpg"    group-title="Năm Ấy Hoa Nở Trăng Vừa Tròn"  ,Năm Ấy Hoa Nở Trăng Vừa Tròn - Tập 64 - Phim Bộ
 	https://youtu.be/FdALvKubdVE?list=PLh4trvZExvP1itZtHO5yMxevk4yDjdkOz
