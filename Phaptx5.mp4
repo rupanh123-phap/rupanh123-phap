@@ -438,13 +438,13 @@ https://edge6a.v2h-cdn.com/appt7/Toonee.stream_720p/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="English Club" tvg-name="English Club TV" tvg-logo="https://image.roku.com/developer_channels/prod/d0211c2d8b2f22758d15853c98db949c1411240d5918424c2f36f1e19b8760ca.png" group-title="🅺🅸🅳🆂", English Club TV HD ACESTREAM
+#EXTINF:-1 tvg-id="English Club" tvg-name="English Club TV" tvg-logo="https://image.roku.com/developer_channels/prod/d0211c2d8b2f22758d15853c98db949c1411240d5918424c2f36f1e19b8760ca.png" group-title="🅺🅸🅳🆂", Học Tiếng Anh HD
 
 http://193.33.88.172/english_club_tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="English Club" tvg-name="English Club TV" tvg-logo="https://image.roku.com/developer_channels/prod/d0211c2d8b2f22758d15853c98db949c1411240d5918424c2f36f1e19b8760ca.png" group-title="🅺🅸🅳🆂", English Club TV ACESTREAM
+#EXTINF:-1 tvg-id="English Club" tvg-name="English Club TV" tvg-logo="https://image.roku.com/developer_channels/prod/d0211c2d8b2f22758d15853c98db949c1411240d5918424c2f36f1e19b8760ca.png" group-title="🅺🅸🅳🆂", English Club TV AceStream
 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=aeeed53fb95d563b95b16ad7ebfff20a4d48571a&.mkv&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#http://127.0.0.1:6878/ace/manifest.m3u8?id=aeeed53fb95d563b95b16ad7ebfff20a4d48571a&.mkv&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
 #EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
 #EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
