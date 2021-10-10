@@ -122,7 +122,7 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctv3/sd1/index.m3u8?md5=-RE2AlRfyZ
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv4/sd1/index.m3u8?md5=VvFuYftKuNK8bzBSxxbb0g&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv5"  tvg-logo="https://i.ibb.co/bLcnbBR/sctv5-auto-x2.jpg" tvg-chno="39" group-title="🆂🅲🆃🆅" ,SCTV5 HD 
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv5/sd1/index.m3u8?md5=WgFj80nCKRlhZ4R9zQoZzg&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv6hd"  tvg-logo="https://static.megavie.live/media/sctv6hd.png" tvg-chno="40" group-title="🆂🅲🆃🆅" ,SCTV6 HD
+#EXTINF:-1 tvg-id="sctv6hd"  tvg-logo="https://static.megavie.live/media/sctv6hd.png" tvg-chno="40" group-title="🆂🅲🆃🆅"  catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-10800.m3u8" ,SCTV6 HD
 https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #https://e1.endpoint.cdn.sctvonline.vn/secure/sctv6/sd1/index.m3u8?md5=4SolymWJ8gDfu-b_dR7biA&expires=2556118740|Referer=http://sctvonline.vn/
 EXTINF:-1 tvg-id="sctv7hd"  tvg-logo="https://static.megavie.live/media/sctv7hd.png" tvg-chno="41" group-title="🆂🅲🆃🆅" ,SCTV7 HD
@@ -241,7 +241,7 @@ http://93.157.62.180:80/KSport1/tracks-v1a1/mono.m3u8
 http://93.157.62.180:80/KSport2/tracks-v1a1/mono.m3u8	
 
 
-#EXTINF:-1  tvg-id="sctv6hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fim360_163298589919.jpg?w=282&mode=scale" group-title="🅾🆃🅷🅴🆁",Film 360
+#EXTINF:-1  tvg-id="sctv6hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fim360_163298589919.jpg?w=282&mode=scale" group-title="🅾🆃🅷🅴🆁"   catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-10800.m3u8",Film 360
 https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-id="foxmovieshd" tvg-logo="https://lh3.googleusercontent.com/-Qkp_SUgbcuw/W1mAuWY3SgI/AAAAAAAAELE/rruHFb_wIg4HyiLpvoZYOkMt4pR1p9ymACLcBGAs/h250/icon_channel_fox-movies_152238665778.png" group-title="🅾🆃🅷🅴🆁",FOX MOVIES HD
 #https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
@@ -468,14 +468,14 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="🅼🆄🆂🅸🅲",Vevo Pop Europe FHD
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="🅺🅸🅳🆂",Vevo R&B
+#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="🅼🆄🆂🅸🅲",Vevo R&B
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="🅺🅸🅳🆂",Vevo Country
+#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="🅼🆄🆂🅸🅲",Vevo Country
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="🅺🅸🅳🆂",Vevo Reggeaton & Trap
+#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="🅼🆄🆂🅸🅲",Vevo Reggeaton & Trap
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
@@ -897,17 +897,6 @@ http://127.0.0.1:6878/ace/getstream?id=3d4ecd8d4c122c207da7970e7a00970f5c2e910c
 http://127.0.0.1:6878/ace/getstream?id=f9ab54a6e9180c0d58eceb165146eb0994d055b8
 
 
-
-
-#EXTM3U 
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="" tvg-logo="https://static.sportzbusiness.com/uploads/2019/03/eleven-sports.jpg",Eleven Sports 1 UHD PL (VPN SING or HK)
-https://hoaivnpt-livefootball.000webhostapp.com/d_iptv.php?id=101897
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="" tvg-logo="https://www.zerodensity.tv/wp-content/uploads/2018/06/rmc-sport-reality-engine-zero-density-1.jpg",RMC UHD FR (VPN SING )
-https://hoaivnpt-livefootball.000webhostapp.com/d_iptv.php?id=19551
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="" tvg-logo="https://www.tvbeurope.com/wp-content/uploads/2019/03/RTL-UHD.jpg",RTL UHD DE (VPN SING)
-https://hoaivnpt-livefootball.000webhostapp.com/to_iptv.php?id=19548
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="" tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2018/08/bein-sports-directv.jpg",Bein LaLiga UHD ES (VPN SING)
-https://hoaivnpt-livefootball.000webhostapp.com/to_iptv.php?id=19547
 
 
 
