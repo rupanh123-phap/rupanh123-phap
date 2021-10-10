@@ -659,7 +659,8 @@ http://127.0.0.1:6878/ace/getstream?id=e9ed9d82db929115c74f295e6c9503f47987635a
 http://127.0.0.1:6878/ace/getstream?id=9d9e6ed068f0a5058b9e803a78fa765d8a8c3ffa
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/J5yXP9m/bong389-6.png" ,Live90P Server 5
 http://127.0.0.1:6878/ace/getstream?id=fbda842baf2646ce181a6560cfa3fe453c11991f
-
+#EXTINF:-1 tvg-id="kpchd" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="998",K+SPORT2 HD REAL
+http://127.0.0.1:6878/ace/getstream?id=371a5e5dbb66fff3e23c1b308eaf7cd9cfef9174
 
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-f1-vector-logo.png" ,SKY SPORT F1 DE FHD 5.1
 http://127.0.0.1:6878/ace/getstream?id=bf1c1973456c16eeb0dc6a2ce897b65c8f721706
