@@ -353,24 +353,24 @@ https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://i.ibb.co/vmx43Cc/CONtv-Logo.jpg" group-title="🅺🅸🅳🆂",CONTV ANIME FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vmx43Cc/CONtv-Logo.jpg" group-title="🅺🅸🅳🆂",CONTV ANIME FHD
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://www.cocoro.tv/channels/co/channel-banner.png" group-title="🅺🅸🅳🆂",Cocoro FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cocoro.tv/channels/co/channel-banner.png" group-title="🅺🅸🅳🆂",Cocoro FHD
 https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwnS0EuBx_GfSVb3UlL_CKZxmxmtxNOXCMhQeCPM8gEceQrhqzSW3Qb0FbTGjIX7LD-fo&usqp=CAU" group-title="🅺🅸🅳🆂",Lego TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwnS0EuBx_GfSVb3UlL_CKZxmxmtxNOXCMhQeCPM8gEceQrhqzSW3Qb0FbTGjIX7LD-fo&usqp=CAU" group-title="🅺🅸🅳🆂",Lego TV
 https://legochannel-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKAodqdGxRoBeslhDN17sdHnWw6GL0MUIkrY6iU93MYqcFNNuZbPF3955xiHTm1h4wozo&usqp=CAU" group-title="🅺🅸🅳🆂",Happy Kids
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKAodqdGxRoBeslhDN17sdHnWw6GL0MUIkrY6iU93MYqcFNNuZbPF3955xiHTm1h4wozo&usqp=CAU" group-title="🅺🅸🅳🆂",Happy Kids
 https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://i.ibb.co/yQ2T6wT/naruto-4eb4d771aae0d.jpg" group-title="🅺🅸🅳🆂",NaRuTo HD 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yQ2T6wT/naruto-4eb4d771aae0d.jpg" group-title="🅺🅸🅳🆂",NaRuTo HD 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://as.com/meristation/imagenes/2021/05/11/noticias/1620730378_165552_1620730455_sumario_normal.jpg" group-title="🅺🅸🅳🆂",Anime Clasico
+#EXTINF:-1 tvg-id="" tvg-logo="https://as.com/meristation/imagenes/2021/05/11/noticias/1620730378_165552_1620730455_sumario_normal.jpg" group-title="🅺🅸🅳🆂",Anime Clasico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://corporate.pluto.tv/wp-content/uploads/2017/03/AnimeAllDay_blog_facebook_2-960x502.jpg" group-title="🅺🅸🅳🆂",Anime All Day
+#EXTINF:-1 tvg-id=" " tvg-logo="https://corporate.pluto.tv/wp-content/uploads/2017/03/AnimeAllDay_blog_facebook_2-960x502.jpg" group-title="🅺🅸🅳🆂",Anime All Day
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed52a62fa750007733239/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://i.ytimg.com/vi/XPtOB6ok9H8/maxresdefault.jpg" group-title="🅺🅸🅳🆂",Anime All Ages
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ytimg.com/vi/XPtOB6ok9H8/maxresdefault.jpg" group-title="🅺🅸🅳🆂",Anime All Ages
 
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://i.ibb.co/xSZVCHw/CHN43-FB-535.jpg" group-title="🅺🅸🅳🆂",Disney Channel +1
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/xSZVCHw/CHN43-FB-535.jpg" group-title="🅺🅸🅳🆂",Disney Channel +1
 http://xcchui2.mrnova.online/live/60779_.m3u8
 #EXTINF:-1 tvg-id="disney"  group-title="🅺🅸🅳🆂" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/c/c0/844e8969b50080cb05f4d62acc5cbecc.jpg/revision/latest?cb=20171118134405", Disney International FHD
 https://feed.play.mv/live/10005200/IegKU9vXWg/1.m3u8
@@ -387,9 +387,9 @@ https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/DISNEYXD-audio_129324_und=1280
 #http://stream.tvtap.live:8081/live/disneyxd.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/disneyxd.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUW5ahpjJWQjf4vKXt9UbytaJ9oslZTdKEQw&usqp=CAU" group-title="🅺🅸🅳🆂",+Kids
+#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUW5ahpjJWQjf4vKXt9UbytaJ9oslZTdKEQw&usqp=CAU" group-title="🅺🅸🅳🆂",+Kids
 http://xcchui2.mrnova.online/live/60810_.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://play-lh.googleusercontent.com/hR1BERKoBclEbEjNP0dT7UyDLT2kWjjfVaKOwKT7gjjnz9T7FmqeYBiGB6qG-v-7nisz=w1024-h500" group-title="🅺🅸🅳🆂",Yes Movie Kids
+#EXTINF:-1 tvg-id=" " tvg-logo="https://play-lh.googleusercontent.com/hR1BERKoBclEbEjNP0dT7UyDLT2kWjjfVaKOwKT7gjjnz9T7FmqeYBiGB6qG-v-7nisz=w1024-h500" group-title="🅺🅸🅳🆂",Yes Movie Kids
 http://xcchui2.mrnova.online/live/60297.m3u8
 
 https://qlobbidev.s.llnwi.net:443/bpk-tv/DISNEYXD/hls/DISNEYXD-audio_129324_und=128000-video=2900000.m3u8?Token=TVLink
@@ -399,28 +399,28 @@ https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTshkE3YMWGxlBTgWFVQrzmufv1LK7JsSa_zi1jVnXouMCIUUBWbfYRQPS1SX7APzzRGmk&usqp=CAU", JUNIOR HD
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://lh3.googleusercontent.com/YT2O35P2rzInw8nJu4DS360GsxrzJypasmYqhqzmnx1CBV-s9l7Cz1Rgr76T6bGvv6I=w512" group-title="🅺🅸🅳🆂",Anime TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://lh3.googleusercontent.com/YT2O35P2rzInw8nJu4DS360GsxrzJypasmYqhqzmnx1CBV-s9l7Cz1Rgr76T6bGvv6I=w512" group-title="🅺🅸🅳🆂",Anime TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://i.cdn.turner.com/adultswim/big/video/aqua-teen-hunger-force-marathon/marathonStream_athf10.jpg" group-title="🅺🅸🅳🆂",Adult Swim Aqua Teen Hunger Force
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.cdn.turner.com/adultswim/big/video/aqua-teen-hunger-force-marathon/marathonStream_athf10.jpg" group-title="🅺🅸🅳🆂",Adult Swim Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://media.cdn.adultswim.com/uploads/20210610/thumbnails/2_21610117352-GlobalRAM_16x9_30_Dated.png" group-title="🅺🅸🅳🆂",Adult Swim Rick and Morty
+#EXTINF:-1 tvg-id=" " tvg-logo="https://media.cdn.adultswim.com/uploads/20210610/thumbnails/2_21610117352-GlobalRAM_16x9_30_Dated.png" group-title="🅺🅸🅳🆂",Adult Swim Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/03/00-robot-chicken-590x378.jpg" group-title="🅺🅸🅳🆂",Adult Swim Robot Chicken
+#EXTINF:-1 tvg-id=" " tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/03/00-robot-chicken-590x378.jpg" group-title="🅺🅸🅳🆂",Adult Swim Robot Chicken
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://cdn.gameplaymechanix.com/wp-content/uploads/2020/07/SAMURAI-JACK-VIDEO-GAME.jpg" group-title="🅺🅸🅳🆂",Adult Swim Samurai Jack
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.gameplaymechanix.com/wp-content/uploads/2020/07/SAMURAI-JACK-VIDEO-GAME.jpg" group-title="🅺🅸🅳🆂",Adult Swim Samurai Jack
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://i.ytimg.com/vi/48hmx022IJc/maxresdefault.jpg" group-title="🅺🅸🅳🆂",Adult Swim The Venture Bros
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ytimg.com/vi/48hmx022IJc/maxresdefault.jpg" group-title="🅺🅸🅳🆂",Adult Swim The Venture Bros
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
 #EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://i.ibb.co/kSfwfBk/152-1523942-pbs-kids-channel-logotype-hd-png-download.png", PBS KIDS HD
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://reviewnao.com/wp-content/uploads/2021/08/anime-phep-thuat-2.jpg" group-title="🅺🅸🅳🆂",Anime Action
+#EXTINF:-1 tvg-id=" " tvg-logo="https://reviewnao.com/wp-content/uploads/2021/08/anime-phep-thuat-2.jpg" group-title="🅺🅸🅳🆂",Anime Action
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://vnn-imgs-a1.vgcloud.vn/special-img.vnncdn.net/2021/4/20/9/thumbfb-kpop-600x400.jpg" group-title="🅺🅸🅳🆂",KPOP 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://vnn-imgs-a1.vgcloud.vn/special-img.vnncdn.net/2021/4/20/9/thumbfb-kpop-600x400.jpg" group-title="🅺🅸🅳🆂",KPOP 
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://i.ytimg.com/vi/hewioIU4a64/maxresdefault.jpg" group-title="🅺🅸🅳🆂",Animal Kids
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ytimg.com/vi/hewioIU4a64/maxresdefault.jpg" group-title="🅺🅸🅳🆂",Animal Kids
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr57V5uAz8mYXlMk0GXZW51cHWVNVFKH-zKA&usqp=CAU" group-title="🅺🅸🅳🆂",Dora TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr57V5uAz8mYXlMk0GXZW51cHWVNVFKH-zKA&usqp=CAU" group-title="🅺🅸🅳🆂",Dora TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e43c344b54fe800093552f4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e43c344b54fe800093552f4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c28ebf75-0713-11eb-97af-0242ac110002&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://previews.123rf.com/images/yuyuyi/yuyuyi1208/yuyuyi120800185/14990499-four-cute-little-kids.jpg", KIDS HD
@@ -437,53 +437,60 @@ https://edge6a.v2h-cdn.com/appt7/Toonee.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://1.bp.blogspot.com/-6ZmwyXEauTc/YJMzooOrqeI/AAAAAAAAFes/EM-Z5a84fzU0OABxkHD2hvuzsXPPRN4NgCLcBGAsYHQ/s1920/Red%2BBull%2BTV%252C%2BNBA%2BTV%252C%2BMLB%2BNetwork%252C%2BNFL%2BNetwork%252C%2BNFL%2BRedzone%252C%2BWatch%2BUSA%2BTV%2Blive%2Bonline.jpg", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="🅼🆄🆂🅸🅲",Vevo Pop Europe FHD
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id="English Club" tvg-name="English Club TV" tvg-logo="https://image.roku.com/developer_channels/prod/d0211c2d8b2f22758d15853c98db949c1411240d5918424c2f36f1e19b8760ca.png" group-title="🅺🅸🅳🆂", English Club TV HD ACESTREAM
+
+http://193.33.88.172/english_club_tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="English Club" tvg-name="English Club TV" tvg-logo="https://image.roku.com/developer_channels/prod/d0211c2d8b2f22758d15853c98db949c1411240d5918424c2f36f1e19b8760ca.png" group-title="🅺🅸🅳🆂", English Club TV ACESTREAM
+
+http://127.0.0.1:6878/ace/manifest.m3u8?id=aeeed53fb95d563b95b16ad7ebfff20a4d48571a&.mkv&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
+#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="🅼🆄🆂🅸🅲",Vevo Pop Europe FHD
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="🅼🆄🆂🅸🅲",Vevo R&B
+#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="🅼🆄🆂🅸🅲",Vevo R&B
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="🅼🆄🆂🅸🅲",Vevo Country
+#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="🅼🆄🆂🅸🅲",Vevo Country
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="🅼🆄🆂🅸🅲",Vevo Reggeaton & Trap
+#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="🅼🆄🆂🅸🅲",Vevo Reggeaton & Trap
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
 
 
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/6_60ce711b.jpg" group-title="🅾🆃🅷🅴🆁",Box Movie
-#https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#https://e4.endpoint.cdn.sctvonline.vn/secure/ /sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/ /sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="inthebox" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/7_e79f9654.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="🅼🆄🆂🅸🅲",The Box Music Televison
 #https://e4.endpoint.cdn.sctvonline.vn/secure/boxmusic/index.m3u8?md5=pR0QrkdxGuSRmHtTGT028A&expires=2556118740|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -504,16 +511,16 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sc
 #EXTINF:-1  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_4606159a.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="🅾🆃🅷🅴🆁",CNA HD
 #https://e4.endpoint.cdn.sctvonline.vn/secure/cna/sd1/index.m3u8?md5=PbxpiXxwvnbhM64ms3PoWw&expires=2556118740|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://lh3.googleusercontent.com/-WJtvINvLbXI/W1mCchJ_iiI/AAAAAAAAELw/9jm-ZtkJrXM3qDx_2qgO62MIuCP4cdS1gCLcBGAs/h250/icon_channel_national-geographic-hd_152238635227.png" group-title="🅾🆃🅷🅴🆁",National Geographic HD
+#EXTINF:-1 tvg-id=" " tvg-logo="https://lh3.googleusercontent.com/-WJtvINvLbXI/W1mCchJ_iiI/AAAAAAAAELw/9jm-ZtkJrXM3qDx_2qgO62MIuCP4cdS1gCLcBGAs/h250/icon_channel_national-geographic-hd_152238635227.png" group-title="🅾🆃🅷🅴🆁",National Geographic HD
 http://xcchui2.mrnova.online/live/60720_.m3u8
 #EXTINF:-1 tvg-id="disney"  group-title="🅾🆃🅷🅴🆁" tvg-logo="https://d3atsf3fgek2rw.cloudfront.net/content/uploads/2012/01/Discovery-MAX-logo.jpg", Discovery DMAX HD
 http://xcchui2.mrnova.online/live/60682_.m3u8
 #EXTINF:-1 group-title="🅾🆃🅷🅴🆁" tvg-id="angiang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaUmzru1dwSv4I22Odd72ZtwWU7M0dUPIEUG9he5oMPlrEl9euI7Wg62bDvjBLDoDON8&usqp=CAU",  Arirang Korea HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg" group-title="🅾🆃🅷🅴🆁",Fox Action HD
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg" group-title="🅾🆃🅷🅴🆁",Fox Action HD
 http://xcchui2.mrnova.online/live/60140_.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYvvaX4vgCNmd6Fnow82iII-LWsFQvoL3FdYiNzkth2iqACYctgLVcQdmhJzoxnT4eKc&usqp=CAU" group-title="🅾🆃🅷🅴🆁",Yes Movie Action HD
+#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYvvaX4vgCNmd6Fnow82iII-LWsFQvoL3FdYiNzkth2iqACYctgLVcQdmhJzoxnT4eKc&usqp=CAU" group-title="🅾🆃🅷🅴🆁",Yes Movie Action HD
 http://xcchui2.mrnova.online/live/60295_.m3u8
 
 #EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://www.rapidtvnews.com/images/tvN_logo_-_29_April_2017_1.jpg" group-title="🅾🆃🅷🅴🆁" ",TVN HD
