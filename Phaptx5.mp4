@@ -320,7 +320,8 @@ https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" tvg-name="BBC_World_News" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-news_156325644439.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",BBC World News
 https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="110",BBC Lifestyle 
-https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
+#https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bloomberg_146581277148.png" group-title="🅾🆃🅷🅴🆁" tvg-chno="113",Bloomberg
 https://livecdn.fptplay.net/sdb/bloomberg_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="abcaustralia" tvg-name="Australia_Plus" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_australia-plus_153051623532.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",Australia Plus
@@ -502,7 +503,11 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sc
 #https://e4.endpoint.cdn.sctvonline.vn/secure/cna/sd1/index.m3u8?md5=PbxpiXxwvnbhM64ms3PoWw&expires=2556118740|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id=" " tvg-logo="https://lh3.googleusercontent.com/-WJtvINvLbXI/W1mCchJ_iiI/AAAAAAAAELw/9jm-ZtkJrXM3qDx_2qgO62MIuCP4cdS1gCLcBGAs/h250/icon_channel_national-geographic-hd_152238635227.png" group-title="🅾🆃🅷🅴🆁",National Geographic HD
-http://xcchui2.mrnova.online/live/60720_.m3u8
+https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+#http://xcchui2.mrnova.online/live/60720_.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/CwLD1vf/img.png" group-title="🅾🆃🅷🅴🆁",History HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="disney"  group-title="🅾🆃🅷🅴🆁" tvg-logo="https://d3atsf3fgek2rw.cloudfront.net/content/uploads/2012/01/Discovery-MAX-logo.jpg", Discovery DMAX HD
 http://xcchui2.mrnova.online/live/60682_.m3u8
 #EXTINF:-1 group-title="🅾🆃🅷🅴🆁" tvg-id="angiang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaUmzru1dwSv4I22Odd72ZtwWU7M0dUPIEUG9he5oMPlrEl9euI7Wg62bDvjBLDoDON8&usqp=CAU",  Arirang Korea HD
@@ -1439,8 +1444,4 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 
 
 #PHAPTX5
-
-
-
-
 
