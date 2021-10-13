@@ -3,12 +3,12 @@
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=2
 #EXTM3U url-tvg="http://bit.ly/guidevn" tvg-shift=0 m3uautoload=3
 #CHIA SẺ VÌ CỘNG ĐỒNG - PHÁP GROUP ANDROID BOX TX5 
-#Thank FPTPLAY for SHARE
+#List Được Tổng Hợp Từ Nhiều Nguồn Khác Nhau
 #Thank Chủ Tịch V I P Hoàng Xuân Vĩnh Phú    Chúa Tể Hội Quán Truyền Hình 
 #Nghệ sĩ nhảy múa với IP ,  đội trưởng kiến tạo acc, ông hoàng tuyến giữa, vị thần điều tiết nhịp độ trận đấu, vua iptv , thánh đánh chặn, hoàng tử list 18+, tể tướng chiến thuật, đại tướng chia List, chuyên gia vọc List, 
 #Giáo sư cầm trịch , phượng hoàng tung cánh, mảnh ghép hoàn hảo,... For Share ListIPTV .
 #Thank EPG Trada  and Bảo Chính For Share
-
+#Thank All Source For Share
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://static.megavie.live/media/vtv1hd.jpg"  group-title="🆅🆃🆅"  tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8" ,VTV1 HD
 #EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -1444,4 +1444,3 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 
 
 #PHAPTX5
-
