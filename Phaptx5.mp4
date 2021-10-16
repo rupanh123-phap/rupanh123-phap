@@ -927,20 +927,6 @@ http://127.0.0.1:6878/ace/getstream?id=f9ab54a6e9180c0d58eceb165146eb0994d055b8
 
 
 
-
-
-
-
-
-
-----------------
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1121px-WWE_Logo.svg.png",WWE - Đấu Vật Giải Trí Thế Giới
 http://198.16.106.62:8278/streams/d/wwe_zero/playlist.m3u8
 
@@ -1180,9 +1166,6 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Ziggo Sport Select HD NL" tvg-logo="https://www.thesportsdb.com/images/media/logo/Ziggo_Sport_Select.png", ZIGGO SELECT 
 #http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
 
-
--------------------
-
 #EXTINF:-1 tvg-id="kcine" logo="https://360auto.vn/wp-content/uploads/2019/01/VIP.jpg" group-title="🆂🅿🅾🆁🆃🆂"  tvg-chno="996",CINE HD
 #https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
 
@@ -1220,7 +1203,7 @@ https://vstv.broadpeak-aas.com/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.is
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://kpluslive.akamaized.net/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
 
-#EXTINF:-1 tvg-id="kkidshd" tvg-name="K+ Kids" tvg-logo="https://360auto.vn/wp-content/uploads/2019/01/VIP.jpg" group-title="🆂🅿🅾🆁🆃🆂",KIDS HD
+#EXTINF:-1 tvg-id="kidshd" tvg-name="K+ Kids" tvg-logo="https://360auto.vn/wp-content/uploads/2019/01/VIP.jpg" group-title="🆂🅿🅾🆁🆃🆂",KIDS HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000223&SessionId=2CBEACE4255DC38A&Ticket=DE51370D2FE3804E
@@ -1482,8 +1465,5 @@ https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 https://yenbaitv.org.vn/hls/livestream.m3u8
 #https://livecdn.fptplay.net/sdc/yenbai_2000.stream/chunklist.m3u8
 
+
 #PHAPTX5
-
-
-
-
