@@ -652,7 +652,7 @@ https://vstv.broadpeak-aas.com/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.is
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://kpluslive.akamaized.net/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
 
-#EXTINF:-1 tvg-id="kkidshd" tvg-name="K+ Kids" tvg-logo="https://i.ibb.co/fQrGXrg/images.jpg" group-title="K+",K+KIDS HD
+#EXTINF:-1 tvg-id="kkidshd" tvg-name="K+ Kids" tvg-logo="https://i.ibb.co/fQrGXrg/images.jpg" group-title="🅾🆃🅷🅴🆁",K+KIDS HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000223&SessionId=2CBEACE4255DC38A&Ticket=DE51370D2FE3804E
@@ -1484,3 +1484,4 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 
 
 #PHAPTX5
+
