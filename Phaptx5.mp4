@@ -228,17 +228,11 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcplushd"  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-plus_159175078181.png" group-title="🅷🆃🆅🅲" ,HTVC Plus 
 https://vips-livecdn.fptplay.net/hda3/htvcplus_4000.stream/chunklist.m3u8
 #https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
+---------------
 
 
-#EXTINF:-1 tvg-id="kcine" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg" group-title="🅾🆃🅷🅴🆁"  tvg-chno="996",K+CINE HD
-https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
-#https://22live00.akamaized.net:443/RMC_Sports_1/tracks-v1a1/mono.m3u8?token=JP9cDQmTumfCYDAB1GhETAZf3praOFYNmR%2BnveVZ3GgOUZKCkHEq%2Bw0vzgVHDh48ii7TpTeyk75tQHLRJyc1tNBKUn2hJlTJmadUzm47j0d7XRSnJpbnGF1%2BgUOKINtrqN5tzFTtw7lsoVxtXOf8jUhpJrmQDSwrd2xBc5ePUx366kpr8DeDFL5w24DEciNlol4TVI%2BDqbsgKZwrIcFYcsnw%3D%3D
-#EXTINF:-1 tvg-id="klife"  logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg"  group-title="🅾🆃🅷🅴🆁" tvg-chno="997",K+LIFE HD
-https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="ksport1" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="999",K+SPORT1 HD
-http://93.157.62.180:80/KSport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ksport2" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="998",K+SPORT2 HD
-http://93.157.62.180:80/KSport2/tracks-v1a1/mono.m3u8	
+
+
 
 
 #EXTINF:-1  tvg-id="sctv6hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fim360_163298589919.jpg?w=282&mode=scale" group-title="🅾🆃🅷🅴🆁"   catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-10800.m3u8",Film 360
@@ -619,6 +613,52 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 
 
+-------------------
+
+#EXTINF:-1 tvg-id="kcine" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg" group-title="🅾🆃🅷🅴🆁"  tvg-chno="996",K+CINE HD
+#https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=2CBEACE4255DC38A&Ticket=DE51370D2FE3804E
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
+
+#https://22live00.akamaized.net:443/RMC_Sports_1/tracks-v1a1/mono.m3u8?token=JP9cDQmTumfCYDAB1GhETAZf3praOFYNmR%2BnveVZ3GgOUZKCkHEq%2Bw0vzgVHDh48ii7TpTeyk75tQHLRJyc1tNBKUn2hJlTJmadUzm47j0d7XRSnJpbnGF1%2BgUOKINtrqN5tzFTtw7lsoVxtXOf8jUhpJrmQDSwrd2xBc5ePUx366kpr8DeDFL5w24DEciNlol4TVI%2BDqbsgKZwrIcFYcsnw%3D%3D
+#EXTINF:-1 tvg-id="klife"  logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg"  group-title="🅾🆃🅷🅴🆁" tvg-chno="997",K+LIFE HD
+#https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=2CBEACE4255DC38A&Ticket=DE51370D2FE3804E
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
+
+#EXTINF:-1 tvg-id="ksport1" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="999",K+SPORT1 HD
+#http://93.157.62.180:80/KSport1/tracks-v1a1/mono.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000017&SessionId=2CBEACE4255DC38A&Ticket=DE51370D2FE3804E
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vstv.broadpeak-aas.com/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
+
+#EXTINF:-1 tvg-id="ksport2" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="998",K+SPORT2 HD
+#http://93.157.62.180:80/KSport2/tracks-v1a1/mono.m3u8	
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=2CBEACE4255DC38A&Ticket=DE51370D2FE3804E
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" tvg-name="K+ Kids" tvg-logo="https://i.ibb.co/fQrGXrg/images.jpg" group-title="K+",K+KIDS HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000223&SessionId=2CBEACE4255DC38A&Ticket=DE51370D2FE3804E
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
+
 
 
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Sky Sport 1 HD"  tvg-logo="https://i.ibb.co/yFKCHtc/Sky-Sport-1-HD-PRIMARY-RGB.jpg" ,SKY SPORT 1 FHD 5.1 - Cài Thêm App ACESTREAM Để Xem
@@ -655,19 +695,19 @@ http://127.0.0.1:6878/ace/getstream?id=cfc79383b29505fe88c4875e4997cbfce1a5196f
 http://127.0.0.1:6878/ace/getstream?id=b120fc00572b516163aaa624f0d1ba095af58f9a
 
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/J5yXP9m/bong389-6.png" ,Live90P Server 1
-http://127.0.0.1:6878/ace/getstream?id=4875a901a224a950421c9cb2d60456bd820d6199
+#http://127.0.0.1:6878/ace/getstream?id=4875a901a224a950421c9cb2d60456bd820d6199
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/J5yXP9m/bong389-6.png" ,Live90P Server 2
-http://127.0.0.1:6878/ace/getstream?id=4bc1bfdcc400164b7c8afd2644108dd3311e85eb
+#http://127.0.0.1:6878/ace/getstream?id=4bc1bfdcc400164b7c8afd2644108dd3311e85eb
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/J5yXP9m/bong389-6.png" ,Live90P Server 3
-http://127.0.0.1:6878/ace/getstream?id=e9ed9d82db929115c74f295e6c9503f47987635a
+#http://127.0.0.1:6878/ace/getstream?id=e9ed9d82db929115c74f295e6c9503f47987635a
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/J5yXP9m/bong389-6.png" ,Live90P Server 4
-http://127.0.0.1:6878/ace/getstream?id=9d9e6ed068f0a5058b9e803a78fa765d8a8c3ffa
+#http://127.0.0.1:6878/ace/getstream?id=9d9e6ed068f0a5058b9e803a78fa765d8a8c3ffa
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/J5yXP9m/bong389-6.png" ,Live90P Server 5
-http://127.0.0.1:6878/ace/getstream?id=fbda842baf2646ce181a6560cfa3fe453c11991f
+#http://127.0.0.1:6878/ace/getstream?id=fbda842baf2646ce181a6560cfa3fe453c11991f
 #EXTINF:-1 tvg-id="ksport2" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" group-title="🆂🅿🅾🆁🆃🆂" tvg-chno="998",K+SPORT2 HD REAL
-http://127.0.0.1:6878/ace/getstream?id=371a5e5dbb66fff3e23c1b308eaf7cd9cfef9174
+
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" logo="https://i.ibb.co/d2YWz0t/hqth.jpg",CVACE CHANNEL
-http://127.0.0.1:6878/ace/getstream?id=c33c9e6568f079c5c5f4a377f84aca3b4a265530
+http://127.0.0.1:6878/ace/getstream?id=3ff6dd67f269f7445f9132ca69888049c9b576f4
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-f1-vector-logo.png" ,SKY SPORT F1 DE FHD 5.1
 http://127.0.0.1:6878/ace/getstream?id=bf1c1973456c16eeb0dc6a2ce897b65c8f721706
 
@@ -1444,7 +1484,3 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 
 
 #PHAPTX5
-
-
-
-
