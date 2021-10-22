@@ -832,16 +832,16 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bloomberg_146581277148.png" group-title="🅾🆃🅷🅴🆁" tvg-chno="113",Bloomberg UHD
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="🅾🆃🅷🅴🆁",Love4K Nature 
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://cdn6.f-cdn.com/contestentries/1754102/33559757/5e7b8d68ee0a8_thumbCard.jpg" group-title="🅾🆃🅷🅴🆁",Relax Music UHD
 #https://youtu.be/_nFMeEv0bk8
 #EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://i.ytimg.com/vi/qFZKK7K52uQ/maxresdefault.jpg" group-title="🅾🆃🅷🅴🆁",Beautiful Relax Music UHD
 #https://youtu.be/HMnatoiMdjA
 #EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://i.ytimg.com/vi/4MmZzCqA9oI/maxresdefault.jpg" group-title="🅾🆃🅷🅴🆁",Popular Songs FHD
 #https://youtu.be/eHmrhzvWPek
+
+
+#EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="🅾🆃🅷🅴🆁",Love4K Nature 
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 
 #------------------
@@ -1394,25 +1394,3 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png", DUBAI SPORTS 3 FHD
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#PHAPTX5
