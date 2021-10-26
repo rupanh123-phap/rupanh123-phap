@@ -47,7 +47,7 @@ https://kpluslive.akamaized.net/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_f
 
 
 
-#EXTINF:0 group-title="K+" tvg-id="klive1hd" tvg-logo="https://i.ibb.co/qL6Y117/live1.jpg" group-title=""🅻🅸🆅🅴 ⚽", K+LIVE 1
+#EXTINF:0 group-title="K+" tvg-id="klive1hd" tvg-logo="https://i.ibb.co/qL6Y117/live1.jpg" group-title="🅻🅸🆅🅴 ⚽", K+LIVE 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
