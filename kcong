@@ -47,21 +47,21 @@ https://kpluslive.akamaized.net/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_f
 
 
 
-#EXTINF:0 group-title="K+" tvg-id="klive1hd" tvg-logo="https://i.ibb.co/qL6Y117/live1.jpg" group-title="🅻🅸🆅🅴 ⚽", K+LIVE 1
+#EXTINF:0  tvg-id="klive1hd" tvg-logo="https://i.ibb.co/qL6Y117/live1.jpg" group-title="🅻🅸🆅🅴 ⚽", K+LIVE 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_1_fps/prod_mykplus_live_tv_1_fps.isml/prod_mykplus_live_tv_1_fps.mpd
 
-#EXTINF:0 group-title="K+" tvg-id="klive2hd" tvg-logo="https://i.ibb.co/8B4ddt2/live2.jpg" group-title="🅻🅸🆅🅴 ⚽", K+LIVE 2
+#EXTINF:0  tvg-id="klive2hd" tvg-logo="https://i.ibb.co/8B4ddt2/live2.jpg" group-title="🅻🅸🆅🅴 ⚽", K+LIVE 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_2_fps/prod_mykplus_live_tv_2_fps.isml/prod_mykplus_live_tv_2_fps.mpd
 
-#EXTINF:0 group-title="K+" tvg-id="klive3hd" tvg-logo="https://i.ibb.co/f4dMm5S/live3.jpg" group-title="🅻🅸🆅🅴 ⚽", K+LIVE 3
+#EXTINF:0  tvg-id="klive3hd" tvg-logo="https://i.ibb.co/f4dMm5S/live3.jpg" group-title="🅻🅸🆅🅴 ⚽", K+LIVE 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
