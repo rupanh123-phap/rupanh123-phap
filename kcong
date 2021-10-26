@@ -9,7 +9,7 @@
 https://kpluslive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
 
 #https://22live00.akamaized.net:443/RMC_Sports_1/tracks-v1a1/mono.m3u8?token=JP9cDQmTumfCYDAB1GhETAZf3praOFYNmR%2BnveVZ3GgOUZKCkHEq%2Bw0vzgVHDh48ii7TpTeyk75tQHLRJyc1tNBKUn2hJlTJmadUzm47j0d7XRSnJpbnGF1%2BgUOKINtrqN5tzFTtw7lsoVxtXOf8jUhpJrmQDSwrd2xBc5ePUx366kpr8DeDFL5w24DEciNlol4TVI%2BDqbsgKZwrIcFYcsnw%3D%3D
-#EXTINF:-1 tvg-id="klife"  logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg"  group-title="???????? ?" tvg-chno="997",K+LIFE HD
+#EXTINF:-1 tvg-id="klife"  logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg"  group-title="🅻🅸🆅🅴 ⚽" tvg-chno="997",K+LIFE HD
 #https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -18,7 +18,7 @@ https://kpluslive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.ism
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://kpluslive.akamaized.net/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
 
-#EXTINF:-1 tvg-id="ksport1" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg" group-title="???????? ?" tvg-chno="999",K+SPORT1 HD
+#EXTINF:-1 tvg-id="ksport1" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg" group-title="🅻🅸🆅🅴 ⚽" tvg-chno="999",K+SPORT1 HD
 #http://93.157.62.180:80/KSport1/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -27,7 +27,7 @@ https://kpluslive.akamaized.net/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.i
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vstv.broadpeak-aas.com/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
 
-#EXTINF:-1 tvg-id="ksport2" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" group-title="???????? ?" tvg-chno="998",K+SPORT2 HD
+#EXTINF:-1 tvg-id="ksport2" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" group-title="🅻🅸🆅🅴 ⚽" tvg-chno="998",K+SPORT2 HD
 #http://93.157.62.180:80/KSport2/tracks-v1a1/mono.m3u8	
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -36,7 +36,7 @@ https://vstv.broadpeak-aas.com/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.is
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://kpluslive.akamaized.net/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
 
-#EXTINF:-1 tvg-id="kkidshd" tvg-name="K+ Kids" tvg-logo="https://i.ibb.co/HB3gXH3/005-KPLUS-KIDS-HD.jpg" group-title="???????? ?",K+KIDS HD
+#EXTINF:-1 tvg-id="kkidshd" tvg-name="K+ Kids" tvg-logo="https://i.ibb.co/HB3gXH3/005-KPLUS-KIDS-HD.jpg" group-title="🅻🅸🆅🅴 ⚽",K+KIDS HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000223&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
@@ -47,21 +47,21 @@ https://kpluslive.akamaized.net/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_f
 
 
 
-#EXTINF:0 group-title="K+" tvg-id="klive1hd" tvg-logo="https://i.ibb.co/qL6Y117/live1.jpg" group-title="???????? ?", K+LIVE 1
+#EXTINF:0 group-title="K+" tvg-id="klive1hd" tvg-logo="https://i.ibb.co/qL6Y117/live1.jpg" group-title=""🅻🅸🆅🅴 ⚽", K+LIVE 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_1_fps/prod_mykplus_live_tv_1_fps.isml/prod_mykplus_live_tv_1_fps.mpd
 
-#EXTINF:0 group-title="K+" tvg-id="klive2hd" tvg-logo="https://i.ibb.co/8B4ddt2/live2.jpg" group-title="???????? ?", K+LIVE 2
+#EXTINF:0 group-title="K+" tvg-id="klive2hd" tvg-logo="https://i.ibb.co/8B4ddt2/live2.jpg" group-title="🅻🅸🆅🅴 ⚽", K+LIVE 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_2_fps/prod_mykplus_live_tv_2_fps.isml/prod_mykplus_live_tv_2_fps.mpd
 
-#EXTINF:0 group-title="K+" tvg-id="klive3hd" tvg-logo="https://i.ibb.co/f4dMm5S/live3.jpg" group-title="???????? ?", K+LIVE 3
+#EXTINF:0 group-title="K+" tvg-id="klive3hd" tvg-logo="https://i.ibb.co/f4dMm5S/live3.jpg" group-title="🅻🅸🆅🅴 ⚽", K+LIVE 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
