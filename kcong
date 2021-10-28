@@ -1,3 +1,11 @@
+#EXTINF:-1 tvg-id="kcine" logo="https://i.ibb.co/dBpNytV/tramtien.png" group-title="🅻🅸🆅🅴 ⚽"  tvg-chno="996",Tks Trầm Tiến for share
+#https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
 
 #EXTINF:-1 tvg-id="kcine" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg" group-title="🅻🅸🆅🅴 ⚽"  tvg-chno="996",K+CINE HD
 #https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
