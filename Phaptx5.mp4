@@ -870,11 +870,10 @@ http://127.0.0.1:6878/ace/getstream?id=699ed54b2a140b7d75ba06ecbe8c578e079b8db2
 http://127.0.0.1:6878/ace/getstream?id=f8cfb9c8c8f95a8e8848fd15f1b9be1e87d33284 
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRevQghF1UC96tu5GYeSZQz20C8CUId0EtnsFNm00ZZKUldniNW&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",DAZN 2TBN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd547d738c9e35b790171019d7465c32f30dc753 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GsQc1f2/unnamed-1.jpg" group-title="🆂🅿🅾🆁🆃🆂",Маtch Arena FHD
+#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/BTjwtR9/326af919-99e8-4d30-b941-0bd579e253df.jpg", MATCH! Arena HD 
 http://127.0.0.1:6878/ace/getstream?id=d13cbb3eb8a843cbdacc9068fc76f98c2351af50
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GsQc1f2/unnamed-1.jpg" group-title="🆂🅿🅾🆁🆃🆂",Маtch Game FHD
+#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://cdn.nba.com/manage/2012/12/44_Gift_Guide_24_NBA2K-1-1.jpg",MATCH! NBA HD 
 http://127.0.0.1:6878/ace/getstream?id=24428411815bc1dd069c0cbd377e55bee53c55a7
-
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="МАТЧ! Футбол 1 (HD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfSX5e36865f4HQWBFrVS_2tcaTectTL16xgN2kQI1_gsFx3IsSdmVnYNo1Mtv7S6leVs&usqp=CAU" ,Маtch Futbol 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="МАТЧ! Футбол 2 (HD)" tvg-logo="https://user.vsevnet.ru/cache/smotreshka/match-football2.png" ,Маtch Futbol 2 FHD
@@ -1015,8 +1014,6 @@ http://127.0.0.1:6878/ace/getstream?id=776f3e403abc35022765ed0ea19ec38856ca291e
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgdBi7C3rDtD8Tt52lt6eri8mQRT0SbwKRKTIcMHHZ4ems2ui5RBS_gRoB9nmHLFQIHYE&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",TRT Sports HD
 http://127.0.0.1:6878/ace/getstream?id=d739c631ec0a21590a1d46d77c867f3c91f298f3 
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://i.ibb.co/8jSMZn6/D-sport-logo-26504724-DD-seeklogo-com.png" group-title="🆂🅿🅾🆁🆃🆂",Sports 1HD
-http://127.0.0.1:6878/ace/getstream?id=80c56f650421f104181a46a5d318584f3d9b64eb
-
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ikzaJ0Hfvp7-qfb0fXfUBsksuMtjepDFNA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Posat News HD
 http://127.0.0.1:6878/ace/getstream?id=22bf9f925c167ff4e2541d42fe1edf0d5668a8de 
@@ -1048,7 +1045,6 @@ http://127.0.0.1:6878/ace/getstream?id=585860881c0e1f4b9921a2d2db1f43f1bd45134f
 
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://i.ibb.co/CV0Nfkp/images-1.png" group-title="🆂🅿🅾🆁🆃🆂",Giggo Racing FHD 
-http://127.0.0.1:6878/ace/getstream?id=e37b2a23b3484d9533035a60f08453acdc69599c 
 
 
 
@@ -1088,10 +1084,7 @@ http://127.0.0.1:6878/ace/getstream?id=da778ac51e5cf7accee2d2b5400d0642e01001b0
 http://127.0.0.1:6878/ace/getstream?id=4609bc307d35ec87799a168b80978139e7e8018c
 
 
-#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/BTjwtR9/326af919-99e8-4d30-b941-0bd579e253df.jpg", MATCH! Arena HD 
-http://127.0.0.1:6878/ace/getstream?id=d13cbb3eb8a843cbdacc9068fc76f98c2351af50
-#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://cdn.nba.com/manage/2012/12/44_Gift_Guide_24_NBA2K-1-1.jpg",MATCH! NBA HD 
-http://127.0.0.1:6878/ace/getstream?id=24428411815bc1dd069c0cbd377e55bee53c55a7
+
 #EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/1f9rCsn/e20790.jpg",O2TV FOTBAL HD 50FPS
 http://127.0.0.1:6878/ace/getstream?id=22fc94c6dfe03a3356e6acc0665a385196b4be10
 #EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/ch3B6xQ/fq0lii1590153399.jpg",O2TV SPORT HD 50FPS
@@ -1393,4 +1386,28 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png", DUBAI SPORTS 3 FHD
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#PHAPTX5
+
 
