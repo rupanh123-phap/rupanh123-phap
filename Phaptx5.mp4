@@ -538,9 +538,9 @@ https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:-1 tvg-id="babyfirst" tvg-name="BabyFirst" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_baby-first_152332783386.png" group-title="🅺🅸🅳🆂"  tvg-chno="",BabyFirst
 
 https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/e6/74/5d/e6745d40-210e-315f-eaec-d5206a7c356c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="🅺🅸🅳🆂" roup-title="🅲🅰🆁🆃🅾🅾🅽", BabyTV
+#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/e6/74/5d/e6745d40-210e-315f-eaec-d5206a7c356c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="🅺🅸🅳🆂" ", BabyTV
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2at9oYen2pIwn9j_iVDufP_98c6buM62QMxd4J9ZnO_HYZyJpaVWGmO9UIZr-EeoVE2Q&usqp=CAU" group-title="🅺🅸🅳🆂" roup-title="🅲🅰🆁🆃🅾🅾🅽", DREAMWORK
+#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2at9oYen2pIwn9j_iVDufP_98c6buM62QMxd4J9ZnO_HYZyJpaVWGmO9UIZr-EeoVE2Q&usqp=CAU" group-title="🅺🅸🅳🆂" roup-title="PHIM HOẠT HÌNH   ", DREAMWORK
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="tvg-id="cbeebies"" tvg-logo="https://i.ibb.co/mHNZbn0/bbc.jpg"  group-title="🅺🅸🅳🆂" tvg-chno="110",Cbeebies
@@ -846,13 +846,13 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://cdn.dribbble.com/users/630990/screenshots/3853322/fotball.gif" group-title="🅲🅰🅺🅷🅸🅰 ⚽",TRỰC TIẾP BÓNG ĐÁ                                                    Tks Hoài Thanh For Share
+#EXTINF:-1  tvg-logo="https://cdn.dribbble.com/users/630990/screenshots/3853322/fotball.gif" group-title="🅲🅰🅺🅷🅸🅰 ⚽",TRỰC TIẾP BÓNG ĐÁ    #Tks Hoài Thanh For Share
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1  tvg-logo="https://cdn.dribbble.com/users/630990/screenshots/3853322/fotball.gif" group-title="9🅾🅿🅷🆄🆃 ⚽",TRỰC TIẾP BÓNG ĐÁ                                                  Tks Hoài Thanh For Share
+#EXTINF:-1  tvg-logo="https://cdn.dribbble.com/users/630990/screenshots/3853322/fotball.gif" group-title="9🅾🅿🅷🆄🆃 ⚽",TRỰC TIẾP BÓNG ĐÁ   #Tks Hoài Thanh For Share
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/630990/screenshots/3853322/fotball.gif" group-title="🅼🅸🆃🅾🅼 ⚽",TRỰC TIẾP BÓNG ĐÁ                                                      Tks Hoài Thanh For Share
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/630990/screenshots/3853322/fotball.gif" group-title="🅼🅸🆃🅾🅼 ⚽",TRỰC TIẾP BÓNG ĐÁ     #Tks Hoài Thanh For Share
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1  tvg-logo="https://cdn.dribbble.com/users/630990/screenshots/3853322/fotball.gif" group-title="🅻🅸🆅🅴 ⚽",TRỰC TIẾP BÓNG ĐÁ                                                       Tks Kham Pha For Share
+#EXTINF:-1  tvg-logo="https://cdn.dribbble.com/users/630990/screenshots/3853322/fotball.gif" group-title="🅻🅸🆅🅴 ⚽",TRỰC TIẾP BÓNG ĐÁ  #Tks Kham Pha For Share
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 
@@ -1368,6 +1368,10 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Ad_sport_3.png", AD SPORTS 3 FHD
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+
+
+
 
 
 #EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/TVP_Sport.png", TVP SPORTS 
