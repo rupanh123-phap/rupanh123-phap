@@ -1,22 +1,22 @@
 
 
-#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://static.megavie.live/media/vtv6hd.jpg"  group-title="🆅🆃🆅" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD2
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://static.megavie.live/media/vtv6hd.jpg"  group-title="🆅🆃🆅" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD FPT
 http://user:111222@hoatv001.vinaddns.com:9981/stream/channelid/1447077819?ticket=2F1D9BFCC23D9C00D8D2AEBDA906A11BB2B2FA0E&profile=pass
 #EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
-#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://static.megavie.live/media/vtv6hd.jpg"  group-title="🆅🆃🆅" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD3
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://static.megavie.live/media/vtv6hd.jpg"  group-title="🆅🆃🆅" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD VNPT
 http://user:111222@hoatv001.vinaddns.com:9981/stream/channelid/910158855
 #EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
-#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://static.megavie.live/media/vtv6hd.jpg"  group-title="🆅🆃🆅" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD4
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://static.megavie.live/media/vtv6hd.jpg"  group-title="🆅🆃🆅" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD MYTV
 http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.119:10266
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://static.megavie.live/media/vtv3hd.jpg"  group-title="🆅🆃🆅" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD4
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://static.megavie.live/media/vtv3hd.jpg"  group-title="🆅🆃🆅" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD MYTV
 #EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 
-#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://static.megavie.live/media/vtv3hd.jpg"  group-title="🆅🆃🆅" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD2
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://static.megavie.live/media/vtv3hd.jpg"  group-title="🆅🆃🆅" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD FPT
 #EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 http://user:111222@hoatv001.vinaddns.com:9981/stream/channelid/1187042611?ticket=CB4841F652414A82F9D89399066152B00F0600E8&profile=pass
 
-#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://static.megavie.live/media/vtv3hd.jpg"  group-title="🆅🆃🆅" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD3
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://static.megavie.live/media/vtv3hd.jpg"  group-title="🆅🆃🆅" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD  VNPT
 #EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 http://user:111222@hoatv001.vinaddns.com:9981/stream/channelid/696162016
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://static.megavie.live/media/vtv3hd.jpg"  group-title="🆅🆃🆅" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
