@@ -1,21 +1,21 @@
 
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://static.megavie.live/media/vtv6hd.jpg"  group-title="🆅🆃🆅" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD2
 http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.119:10266
-#EXTINF:-1  tvg-logo="https://cdn.dribbble.com/users/630990/screenshots/3853322/fotball.gif" group-title="🆂🅰🅾🅺🅴 ⚽",TRỰC TIẾP BÓNG ĐÁ 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+#EXTINF:-1  tvg-logo="https://media0.giphy.com/media/lOBwyrxw4nF69vR9hG/giphy.gif" group-title="🆂🅰🅾🅺🅴 ⚽",TRỰC TIẾP BÓNG ĐÁ 
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="🆂🅰🅾🅺🅴 ⚽" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://2459955770.slave.anycastapnic.com/pep/x2y2/chunklist.m3u8
-
-#EXTINF:-1 group-title="⚽|SaoKe.Live" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 2
+#EXTINF:-1 group-title="🆂🅰🅾🅺🅴 ⚽" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://2459955770.slave.anycastapnic.com/pep/sk2/chunklist.m3u8
 
-#EXTINF:-1 group-title="⚽|SaoKe.Live" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 3
+#EXTINF:-1 group-title="🆂🅰🅾🅺🅴 ⚽" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://2459955770.slave.anycastapnic.com/pep/saoke1x1/chunklist.m3u8
 
-#EXTINF:-1 group-title="⚽|SaoKe.Live" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 4
+#EXTINF:-1 group-title="🆂🅰🅾🅺🅴 ⚽" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 4
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://2459955770.slave.anycastapnic.com/pep/saoke3x1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg" group-title="🅻🅸🆅🅴 ⚽"  tvg-chno="996",K+CINE HD
