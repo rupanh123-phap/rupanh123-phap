@@ -1,7 +1,24 @@
 
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://static.megavie.live/media/vtv6hd.jpg"  group-title="🆅🆃🆅" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD2
+http://huynhphuocphap96.duckdns.org:28061/rtp/232.84.1.119:10266
+#EXTINF:-1 group-title="🆂🅰🅾🅺🅴 ⚽" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://2459955770.slave.anycastapnic.com/pep/x2y2/chunklist.m3u8
+
+#EXTINF:-1 group-title="⚽|SaoKe.Live" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://2459955770.slave.anycastapnic.com/pep/sk2/chunklist.m3u8
+
+#EXTINF:-1 group-title="⚽|SaoKe.Live" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://2459955770.slave.anycastapnic.com/pep/saoke1x1/chunklist.m3u8
+
+#EXTINF:-1 group-title="⚽|SaoKe.Live" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://2459955770.slave.anycastapnic.com/pep/saoke3x1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg" group-title="🅻🅸🆅🅴 ⚽"  tvg-chno="996",K+CINE HD
 #https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
-
+#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=80D149920BEEEF18&Ticket=40ED42F35C79FDF3
@@ -10,7 +27,7 @@ https://kpluslive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.ism
 #https://22live00.akamaized.net:443/RMC_Sports_1/tracks-v1a1/mono.m3u8?token=JP9cDQmTumfCYDAB1GhETAZf3praOFYNmR%2BnveVZ3GgOUZKCkHEq%2Bw0vzgVHDh48ii7TpTeyk75tQHLRJyc1tNBKUn2hJlTJmadUzm47j0d7XRSnJpbnGF1%2BgUOKINtrqN5tzFTtw7lsoVxtXOf8jUhpJrmQDSwrd2xBc5ePUx366kpr8DeDFL5w24DEciNlol4TVI%2BDqbsgKZwrIcFYcsnw%3D%3D
 #EXTINF:-1 tvg-id="klife"  logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg"  group-title="🅻🅸🆅🅴 ⚽" tvg-chno="997",K+LIFE HD
 #https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
-
+#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=80D149920BEEEF18&Ticket=40ED42F35C79FDF3
@@ -18,7 +35,7 @@ https://kpluslive.akamaized.net/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.i
 
 #EXTINF:-1 tvg-id="ksport1" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg" group-title="🅻🅸🆅🅴 ⚽" tvg-chno="999",K+SPORT1 HD
 #http://93.157.62.180:80/KSport1/tracks-v1a1/mono.m3u8
-
+#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000017&SessionId=80D149920BEEEF18&Ticket=40ED42F35C79FDF3
@@ -26,13 +43,14 @@ https://vstv.broadpeak-aas.com/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.is
 
 #EXTINF:-1 tvg-id="ksport2" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" group-title="🅻🅸🆅🅴 ⚽" tvg-chno="998",K+SPORT2 HD
 #http://93.157.62.180:80/KSport2/tracks-v1a1/mono.m3u8	
-
+#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=80D149920BEEEF18&Ticket=40ED42F35C79FDF3
 https://kpluslive.akamaized.net/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
 
 #EXTINF:-1 tvg-id="kkidshd" tvg-name="K+ Kids" tvg-logo="https://i.ibb.co/HB3gXH3/005-KPLUS-KIDS-HD.jpg" group-title="🅻🅸🆅🅴 ⚽",K+KIDS HD
+#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000223&SessionId=80D149920BEEEF18&Ticket=40ED42F35C79FDF3
@@ -43,12 +61,14 @@ https://kpluslive.akamaized.net/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_f
 
 
 #EXTINF:0  tvg-id="klive1hd" tvg-logo="https://i.ibb.co/qL6Y117/live1.jpg" group-title="🅻🅸🆅🅴 ⚽", K+LIVE 1
+#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=80D149920BEEEF18&Ticket=40ED42F35C79FDF3
 https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_1_fps/prod_mykplus_live_tv_1_fps.isml/prod_mykplus_live_tv_1_fps.mpd
 
 #EXTINF:0  tvg-id="klive2hd" tvg-logo="https://i.ibb.co/8B4ddt2/live2.jpg" group-title="🅻🅸🆅🅴 ⚽", K+LIVE 2
+#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=80D149920BEEEF18&Ticket=40ED42F35C79FDF3
@@ -56,6 +76,7 @@ https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_2_fps/prod_mykplus_liv
 
 
 #EXTINF:0  tvg-id="klive3hd" tvg-logo="https://i.ibb.co/f4dMm5S/live3.jpg" group-title="🅻🅸🆅🅴 ⚽", K+LIVE 3
+#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=80D149920BEEEF18&Ticket=40ED42F35C79FDF3
