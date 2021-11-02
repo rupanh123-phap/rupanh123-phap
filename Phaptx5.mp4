@@ -707,7 +707,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f3977
 
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/6_60ce711b.jpg" group-title="QUỐC TẾ    ",Box Movie
 #https://e4.endpoint.cdn.sctvonline.vn/secure/ /sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/ /sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
+
 #EXTINF:-1 tvg-id="inthebox" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/7_e79f9654.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="ÂM NHẠC   ",The Box Music Televison
 #https://e4.endpoint.cdn.sctvonline.vn/secure/boxmusic/index.m3u8?md5=pR0QrkdxGuSRmHtTGT028A&expires=2556118740|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -856,6 +857,22 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #Tks Hoài Thanh For Share
 #EXTINF:-1  tvg-logo="https://media0.giphy.com/media/lOBwyrxw4nF69vR9hG/giphy.gif" group-title="SAO KÊ ⚽",TRỰC TIẾP BÓNG ĐÁ 
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#Tks Lão Hạc For Share
+#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://2459955770.slave.anycastapnic.com/pep/x2y2/chunklist.m3u8
+#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://2459955770.slave.anycastapnic.com/pep/sk2/chunklist.m3u8
+#Tks Lão Hạc For Share
+#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://2459955770.slave.anycastapnic.com/pep/saoke1x1/chunklist.m3u8
+#Tks Lão Hạc For Share
+#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://2459955770.slave.anycastapnic.com/pep/saoke3x1/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.dribbble.com/users/630990/screenshots/3853322/fotball.gif" group-title="TRỰC TIẾP ⚽",TRỰC TIẾP BÓNG ĐÁ  
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #Tks Kham Pha For Share
@@ -910,8 +927,7 @@ http://127.0.0.1:6878/ace/getstream?id=b120fc00572b516163aaa624f0d1ba095af58f9a
 #http://127.0.0.1:6878/ace/getstream?id=fbda842baf2646ce181a6560cfa3fe453c11991f
 #EXTINF:-1 tvg-id="ksport2" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" group-title="THỂ THAO ⚽" tvg-chno="998",K+SPORT2 HD REAL
 
-#EXTINF:-1 group-title="THỂ THAO ⚽" logo="https://i.ibb.co/d2YWz0t/hqth.jpg",CVACE CHANNEL
-http://127.0.0.1:6878/ace/getstream?id=3ff6dd67f269f7445f9132ca69888049c9b576f4
+
 #EXTINF:-1 group-title="THỂ THAO ⚽"  tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-f1-vector-logo.png" ,SKY SPORT F1 DE FHD 5.1
 http://127.0.0.1:6878/ace/getstream?id=bf1c1973456c16eeb0dc6a2ce897b65c8f721706
 
