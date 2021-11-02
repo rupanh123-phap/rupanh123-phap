@@ -21,22 +21,7 @@ http://user:111222@hoatv001.vinaddns.com:9981/stream/channelid/1187042611?ticket
 http://user:111222@hoatv001.vinaddns.com:9981/stream/channelid/696162016
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://static.megavie.live/media/vtv3hd.jpg"  group-title="TRỰC TIẾP ⚽" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
 #EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
-#EXTINF:-1  tvg-logo="https://media0.giphy.com/media/lOBwyrxw4nF69vR9hG/giphy.gif" group-title="SAO KÊ ⚽",TRỰC TIẾP BÓNG ĐÁ 
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://2459955770.slave.anycastapnic.com/pep/x2y2/chunklist.m3u8
-#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://2459955770.slave.anycastapnic.com/pep/sk2/chunklist.m3u8
 
-#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://2459955770.slave.anycastapnic.com/pep/saoke1x1/chunklist.m3u8
-
-#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 4
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://2459955770.slave.anycastapnic.com/pep/saoke3x1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg" group-title="TRỰC TIẾP ⚽"  tvg-chno="996",K+CINE HD
 #https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
