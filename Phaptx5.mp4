@@ -7,6 +7,8 @@
 #Thank Chủ Tịch V I P Hoàng Xuân Vĩnh Phú    Chúa Tể Hội Quán Truyền Hình 
 #Nghệ sĩ nhảy múa với IP ,  đội trưởng kiến tạo acc, ông hoàng tuyến giữa, vị thần điều tiết nhịp độ trận đấu, vua iptv , thánh đánh chặn, hoàng tử list 18+, tể tướng chiến thuật, đại tướng chia List, chuyên gia vọc List, 
 #Giáo sư cầm trịch , phượng hoàng tung cánh, mảnh ghép hoàn hảo,... For Share ListIPTV .
+#Thank Pro Lão Hạc ,Kham Pha, Hoài Thanh , Trầm Tiến , CVACE  
+#Thank Trùm Kodi ManhKendo
 #Thank EPG Trada  and Bảo Chính For Share
 #Thank All Source For Share
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://static.megavie.live/media/vtv1hd.jpg"  group-title="VTV   "  tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8" ,VTV1 HD
@@ -164,7 +166,8 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctv22/sd1/index.m3u8?md5=MP6PbU0wC
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8?md5=YtjAmEoXNzWyuoMM48a3Ug&expires=2556118740|Referer=http://sctvonline.vn/
 
 
-#EXTINF:-1 tvg-id="vtvcab1hd"  tvg-logo="https://vtvcabtaidanang.com/wp-content/uploads/2017/05/vtvcab-1-giai-tri-tv.jpg"  tvg-chno="65" group-title="VTVCAB   " ,VTVCab1 HD 
+#EXTINF:-1 tvg-id="vtvcab1hd"  tvg-logo="https://vtvcabtaidanang.com/wp-content/uploads/2017/05/vtvcab-1-giai-tri-tv.jpg"  tvg-chno="65" group-title="VTVCAB   " ,VTVCab1 HD                                                                                                                                                                                                             
+                                                                                                                                                                            VTV Cup 1
 #https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/3166162cc7cf87d779c412c66ea79ac6/1635648121260/vtvcab/live/hd_vtvcab_1_test/playlist.m3u8
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab1/index.m3u8?md5=dBooYMMaJzuC4PQSnva4EQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab2hd"" tvg-logo="https://i.ibb.co/n0W0LS5/kenh-2-ce40790f.jpg"  tvg-chno="66" group-title="VTVCAB   " ,VTVCab2 HD 
@@ -859,18 +862,25 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1  tvg-logo="https://media0.giphy.com/media/lOBwyrxw4nF69vR9hG/giphy.gif" group-title="SAO KÊ ⚽",TRỰC TIẾP BÓNG ĐÁ 
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #Tks Lão Hạc For Share
-#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 1
+#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://i.ibb.co/R45nFg9/saoke.jpg",SaoKe.Live Xem Lại Bóng Đá 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://2459955770.slave.anycastapnic.com/pep/mu/chunklist.m3u8
+#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://i.ibb.co/R45nFg9/saoke.jpg",SaoKe.Live Xem Lại Bóng Đá 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://2459955770.slave.anycastapnic.com/pep/chel/chunklist.m3u8
+#Tks Lão Hạc For Share
+#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://i.ibb.co/R45nFg9/saoke.jpg",Saoke.Live Trực Tiếp 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://2459955770.slave.anycastapnic.com/pep/x2y2/chunklist.m3u8
-#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 2
+#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://i.ibb.co/R45nFg9/saoke.jpg",Saoke.Live Trực Tiếp 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://2459955770.slave.anycastapnic.com/pep/sk2/chunklist.m3u8
 #Tks Lão Hạc For Share
-#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 3
+#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://i.ibb.co/R45nFg9/saoke.jpg",Saoke.Live Trực Tiếp 3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://2459955770.slave.anycastapnic.com/pep/saoke1x1/chunklist.m3u8
 #Tks Lão Hạc For Share
-#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://static.saoke.live/template/public/images/logo1.png",Saoke.Live 4
+#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://i.ibb.co/R45nFg9/saoke.jpg",Saoke.Live Trực Tiếp 4
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://2459955770.slave.anycastapnic.com/pep/saoke3x1/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.dribbble.com/users/630990/screenshots/3853322/fotball.gif" group-title="TRỰC TIẾP ⚽",TRỰC TIẾP BÓNG ĐÁ  
