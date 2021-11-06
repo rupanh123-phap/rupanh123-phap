@@ -1178,11 +1178,11 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 
 
 #EXTINF:-1 group-title="THỂ THAO ⚽" tvg-id="Sky Sport 1 HD"  tvg-logo="https://i.ibb.co/yFKCHtc/Sky-Sport-1-HD-PRIMARY-RGB.jpg" ,SKY SPORT 1 FHD 5.1 
-http://127.0.0.1:6878/ace/getstream?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
+http://127.0.0.1:6878/ace/getstream?id=0c5c2fec058863f769d68253d8d6eba94fa6eab1
 #EXTINF:-1 group-title="THỂ THAO ⚽" tvg-id="Sky Sport 2 HD" tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/697.png",SKY SPORT 2 DE FHD 5.1
-http://127.0.0.1:6878/ace/getstream?id=46c49e9e01749e13c7fd87300924bfa5dad66d11
+http://127.0.0.1:6878/ace/getstream?id=e77f405167ab5d134121f058e803fcd3a28b8614
 #EXTINF:-1 group-title="THỂ THAO ⚽" tvg-id="Sky Sport Austria 1 HD" tvg-logo="https://i.ibb.co/yyBRKyN/katkotati-logo-chaine-skyausrtia1hd.jpg" ,SKY SPORT AUSTRIA 1 FHD 5.1
-http://127.0.0.1:6878/ace/getstream?id=f1eb19e0733f7be5546a09f2aa89ff6b4d986767
+http://127.0.0.1:6878/ace/getstream?id=9807d703e179cd8cc6337cf3fb70a6e5ca93bfcf
 #EXTINF:-1 group-title="THỂ THAO ⚽" tvg-logo="https://i.ibb.co/JRq4bjp/Sky-Bundesliga-1.jpg" ,SKY SPORT BUNDESLIGA 1 FHD TA
 http://127.0.0.1:6878/ace/getstream?id=363e0c3c0273cbf0d8f6d8d2e8768544ecd0f370
 #EXTINF:-1 group-title="THỂ THAO ⚽" tvg-id="МАТЧ! HD" tvg-logo="https://i.ibb.co/BzncktV/unnamed-2.jpg" ,Маtch ТV FHD TA
@@ -1190,7 +1190,7 @@ http://127.0.0.1:6878/ace/getstream?id=c7f93329f3790d54491fe2c4146b59d0514d38b8
 #EXTINF:-1 group-title="THỂ THAO ⚽" tvg-id="МАТЧ ПРЕМЬЕР HD" tvg-logo="https://tennismania.ru/wp-content/uploads/2020/08/match-premer-skolko-stoit_8.jpg",Матч! Премьер FHD
 http://127.0.0.1:6878/ace/getstream?id=513dabafb21429d6eff9813022b2d41f49dc5bdb
 #EXTINF:-1 group-title="THỂ THAO ⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT80ehXNTYsXAxyitSa6ZMYZ_tR9H8gALh9El0l0-nh4vat0wpQY8dp-eAbVm28bEauZI4&usqp=CAU" ,MOVISTAR LALIGA FHD TA
-http://127.0.0.1:6878/ace/getstream?id=9007568a18c3a3c89fb9e745206a60554c114917
+http://127.0.0.1:6878/ace/getstream?id=1092027bc944e2dfd7164c4c2ceca0d913aa4dc5
 #EXTINF:-1 group-title="THỂ THAO ⚽" tvg-logo="https://www.futbol-futbol.com/wp-content/uploads/2021/08/movistar-liga-de-campeones-operadores-y-guia-de-canales-para-ver.jpg" ,MOVISTAR LIGA DE CAMPEONES FHD TA
 http://127.0.0.1:6878/ace/getstream?id=b0aa6d932aaf12452c91ed5fb07642c6a31394d7
 #EXTINF:-1 group-title="THỂ THAO ⚽" tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/9sbHL6b/lr28p31602818839.png" ,DAZN 1 FHD
@@ -1206,27 +1206,16 @@ http://127.0.0.1:6878/ace/getstream?id=d13cbb3eb8a843cbdacc9068fc76f98c2351af50
 #EXTINF:0  group-title="THỂ THAO ⚽" tvg-logo="https://cdn.nba.com/manage/2012/12/44_Gift_Guide_24_NBA2K-1-1.jpg",MATCH! NBA HD 
 http://127.0.0.1:6878/ace/getstream?id=24428411815bc1dd069c0cbd377e55bee53c55a7
 #EXTINF:-1 group-title="THỂ THAO ⚽" tvg-id="МАТЧ! Футбол 1 (HD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfSX5e36865f4HQWBFrVS_2tcaTectTL16xgN2kQI1_gsFx3IsSdmVnYNo1Mtv7S6leVs&usqp=CAU" ,Маtch Futbol 1 FHD
-http://127.0.0.1:6878/ace/getstream?id=dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
+http://185.228.135.48:8080/tv_match_football_1_hd/index.m3u8
 #EXTINF:-1 group-title="THỂ THAO ⚽" tvg-id="МАТЧ! Футбол 2 (HD)" tvg-logo="https://user.vsevnet.ru/cache/smotreshka/match-football2.png" ,Маtch Futbol 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=cfc79383b29505fe88c4875e4997cbfce1a5196f
 #EXTINF:-1 group-title="THỂ THAO ⚽" tvg-id="МАТЧ! Футбол 3 (HD)" tvg-logo="https://user.vsevnet.ru/cache/smotreshka/match-football3.png"  ,Маtch Futbol 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=b120fc00572b516163aaa624f0d1ba095af58f9a
 
-#EXTINF:-1 group-title="THỂ THAO ⚽" tvg-logo="https://i.ibb.co/J5yXP9m/bong389-6.png" ,Live90P Server 1
-#http://127.0.0.1:6878/ace/getstream?id=4875a901a224a950421c9cb2d60456bd820d6199
-#EXTINF:-1 group-title="THỂ THAO ⚽" tvg-logo="https://i.ibb.co/J5yXP9m/bong389-6.png" ,Live90P Server 2
-#http://127.0.0.1:6878/ace/getstream?id=4bc1bfdcc400164b7c8afd2644108dd3311e85eb
-#EXTINF:-1 group-title="THỂ THAO ⚽" tvg-logo="https://i.ibb.co/J5yXP9m/bong389-6.png" ,Live90P Server 3
-#http://127.0.0.1:6878/ace/getstream?id=e9ed9d82db929115c74f295e6c9503f47987635a
-#EXTINF:-1 group-title="THỂ THAO ⚽" tvg-logo="https://i.ibb.co/J5yXP9m/bong389-6.png" ,Live90P Server 4
-#http://127.0.0.1:6878/ace/getstream?id=9d9e6ed068f0a5058b9e803a78fa765d8a8c3ffa
-#EXTINF:-1 group-title="THỂ THAO ⚽" tvg-logo="https://i.ibb.co/J5yXP9m/bong389-6.png" ,Live90P Server 5
-#http://127.0.0.1:6878/ace/getstream?id=fbda842baf2646ce181a6560cfa3fe453c11991f
-#EXTINF:-1 tvg-id="ksport2" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" group-title="THỂ THAO ⚽" tvg-chno="998",K+SPORT2 HD REAL
 
 
 #EXTINF:-1 group-title="THỂ THAO ⚽"  tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-f1-vector-logo.png" ,SKY SPORT F1 DE FHD 5.1
-http://127.0.0.1:6878/ace/getstream?id=bf1c1973456c16eeb0dc6a2ce897b65c8f721706
+http://127.0.0.1:6878/ace/getstream?id=d355cd10f64fcbf73422421e337efcc234687b87
 
 
 
