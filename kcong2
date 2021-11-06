@@ -22,70 +22,70 @@ http://user:111222@hoatv001.vinaddns.com:9981/stream/channelid/696162016
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://static.megavie.live/media/vtv3hd.jpg"  group-title="TRỰC TIẾP ⚽" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
 #EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 
-#EXTINF:-1 tvg-id="" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg" group-title="TRỰC TIẾP ⚽"  tvg-chno="996",K+CINE HD
+#EXTINF:-1 tvg-id="" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg" group-title="TRỰC TIẾP ⚽"  tvg-chno="996",K Cộng CINE HD
 #https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=80D149920BEEEF18&Ticket=40ED42F35C79FDF3
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=80D149920BEEEF18&Ticket=D7908DC3D767234B
 https://kpluslive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
 
 #https://22live00.akamaized.net:443/RMC_Sports_1/tracks-v1a1/mono.m3u8?token=JP9cDQmTumfCYDAB1GhETAZf3praOFYNmR%2BnveVZ3GgOUZKCkHEq%2Bw0vzgVHDh48ii7TpTeyk75tQHLRJyc1tNBKUn2hJlTJmadUzm47j0d7XRSnJpbnGF1%2BgUOKINtrqN5tzFTtw7lsoVxtXOf8jUhpJrmQDSwrd2xBc5ePUx366kpr8DeDFL5w24DEciNlol4TVI%2BDqbsgKZwrIcFYcsnw%3D%3D
-#EXTINF:-1 tvg-id="klife"  logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg"  group-title="TRỰC TIẾP ⚽" tvg-chno="997",K+LIFE HD
+#EXTINF:-1 tvg-id="klife"  logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg"  group-title="TRỰC TIẾP ⚽" tvg-chno="997",K Cộng LIFE HD
 #https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
 #EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=80D149920BEEEF18&Ticket=40ED42F35C79FDF3
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=80D149920BEEEF18&Ticket=D7908DC3D767234B
 https://kpluslive.akamaized.net/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
 
-#EXTINF:-1 tvg-id="ksport1" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg" group-title="TRỰC TIẾP ⚽" tvg-chno="999",K+SPORT1 HD
+#EXTINF:-1 tvg-id="ksport1" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg" group-title="TRỰC TIẾP ⚽" tvg-chno="999",K Cộng SPORT1 HD
 #http://93.157.62.180:80/KSport1/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000017&SessionId=80D149920BEEEF18&Ticket=40ED42F35C79FDF3
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000017&SessionId=80D149920BEEEF18&Ticket=D7908DC3D767234B
 https://vstv.broadpeak-aas.com/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
 
-#EXTINF:-1 tvg-id="ksport2" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" group-title="TRỰC TIẾP ⚽" tvg-chno="998",K+SPORT2 HD
+#EXTINF:-1 tvg-id="ksport2" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" group-title="TRỰC TIẾP ⚽" tvg-chno="998",K Cộng SPORT2 HD
 #http://93.157.62.180:80/KSport2/tracks-v1a1/mono.m3u8	
 #EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=80D149920BEEEF18&Ticket=40ED42F35C79FDF3
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=80D149920BEEEF18&Ticket=D7908DC3D767234B
 https://kpluslive.akamaized.net/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
 
-#EXTINF:-1 tvg-id="kkidshd" tvg-name="K+ Kids" tvg-logo="https://i.ibb.co/HB3gXH3/005-KPLUS-KIDS-HD.jpg" group-title="TRỰC TIẾP ⚽",K+KIDS HD
+#EXTINF:-1 tvg-id="kkidshd" tvg-name="K Cộng  Kids" tvg-logo="https://i.ibb.co/HB3gXH3/005-KPLUS-KIDS-HD.jpg" group-title="TRỰC TIẾP ⚽",K Cộng KIDS HD
 #EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000223&SessionId=80D149920BEEEF18&Ticket=40ED42F35C79FDF3
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000223&SessionId=80D149920BEEEF18&Ticket=D7908DC3D767234B
 https://kpluslive.akamaized.net/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
 
 
 
 
 
-#EXTINF:0  tvg-id="klive1hd" tvg-logo="https://i.ibb.co/qL6Y117/live1.jpg" group-title="TRỰC TIẾP ⚽", K+LIVE 1
+#EXTINF:0  tvg-id="klive1hd" tvg-logo="https://i.ibb.co/qL6Y117/live1.jpg" group-title="TRỰC TIẾP ⚽", K Cộng LIVE 1
 #EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=80D149920BEEEF18&Ticket=40ED42F35C79FDF3
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=80D149920BEEEF18&Ticket=D7908DC3D767234B
 https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_1_fps/prod_mykplus_live_tv_1_fps.isml/prod_mykplus_live_tv_1_fps.mpd
 
-#EXTINF:0  tvg-id="klive2hd" tvg-logo="https://i.ibb.co/8B4ddt2/live2.jpg" group-title="TRỰC TIẾP ⚽", K+LIVE 2
+#EXTINF:0  tvg-id="klive2hd" tvg-logo="https://i.ibb.co/8B4ddt2/live2.jpg" group-title="TRỰC TIẾP ⚽", K Cộng LIVE 2
 #EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=80D149920BEEEF18&Ticket=40ED42F35C79FDF3
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=80D149920BEEEF18&Ticket=D7908DC3D767234B
 https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_2_fps/prod_mykplus_live_tv_2_fps.isml/prod_mykplus_live_tv_2_fps.mpd
 
 
-#EXTINF:0  tvg-id="klive3hd" tvg-logo="https://i.ibb.co/f4dMm5S/live3.jpg" group-title="TRỰC TIẾP ⚽", K+LIVE 3
+#EXTINF:0  tvg-id="klive3hd" tvg-logo="https://i.ibb.co/f4dMm5S/live3.jpg" group-title="TRỰC TIẾP ⚽", K Cộng LIVE 3
 #EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=80D149920BEEEF18&Ticket=40ED42F35C79FDF3
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=80D149920BEEEF18&Ticket=D7908DC3D767234B
 https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_3_fps/prod_mykplus_live_tv_3_fps.isml/prod_mykplus_live_tv_3_fps.mpd
 #EXTINF:-1  tvg-id="vtvcab16hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/kenh-16_4d3ff04e.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" tvg-chno="78" group-title="TRỰC TIẾP ⚽" ,VTVCab16 HD 
 #EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
