@@ -1,4 +1,7 @@
 
+#PHAPTX5
+
+
 	#PHÁP GROUP ANDROID BOX TX5 LÀM VÌ ĐAM MÊ CHIA SẺ ^^!
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/1ZvJuWmwvTM/maxresdefault.jpg"     group-title="PHIM HOẠT HÌNH   " ,Tom & Jerry: Quậy tung New York - Phim Hoạt Hình
 	http://s3-hcm1-r1.longvan.net/phimle/tomvajerryquaytungnewyorktm.mp4|Referer=http://vaophim.org/.html
@@ -506,6 +509,14 @@
 	
 	#EXTINF:-1 tvg-id="phim"  tvg-logo=""     group-title="PHIM HOẠT HÌNH   " ,  -Phim Hoạt Hình
 	#hoathinh
+	
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://img.phimchill.tv/images/film/yara.jpg"     group-title="PHIM LẺ   " , Yara - Phim Lẻ
+	http://s3-hcm-r1.longvan.net/phimle/yaravs.mp4|Referer=http://vaophim.org/.html
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/61893192b4f512e8e98fb22a_Venom-2-2.jpg"     group-title="PHIM LẺ   " , Venom 2: Đối Mặt Tử Thù  - Phim Lẻ
+	http://s3-hcm-r1.longvan.net/phimle/venom2vs.mp4|Referer=http://vaophim.org/.html
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.studyphim.vn/system/movies/3552/thumbnails/medium/thumbnail.jpg"     group-title="PHIM LẺ   " , Shang-chi - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.studyphim.vn/system/movies/3552/thumbnails/medium/thumbnail.jpg"     group-title="PHIM LẺ   " ,  No time to die  - Phim Lẻ
+	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.studyphim.vn/system/movies/3552/thumbnails/medium/thumbnail.jpg"     group-title="PHIM LẺ   " , Nữ Vệ Sĩ - Phim Lẻ
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.studyphim.vn/system/movies/3552/thumbnails/medium/thumbnail.jpg"     group-title="PHIM LẺ   " , Nữ Vệ Sĩ - Phim Lẻ
 	https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200331/close_ftpplay_4k_1080p_sub_logofptplay_v5/8f8551439c6ee64b2db3dc8da3becaec.smil/chunklist_b3992000.m3u8
 	#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/02_12_2020/371c3956220a4e1594a8d9b9f211d92302-12-2020_15g36-41.jpeg"     group-title="PHIM LẺ   " , Vụ Án Bí Ẩn - Phim Lẻ
