@@ -1361,7 +1361,7 @@ http://127.0.0.1:6878/ace/getstream?id=8172d547d41ff1b8b30ec3f39601ca96269c6d43
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeuEBfDys420yd-ULRhdaIM9emdap-IbK8PQ&usqp=CAU" group-title="THỂ THAO ⚽",Ziggo Sleet FHD
 http://127.0.0.1:6878/ace/getstream?id=38d77beafa2a8763686f76576480e9f73d9ae3e6 
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://media.thehypemagazine.com/wp-content/uploads/2018/04/ESPN-Logo2-660x400.jpg" group-title="THỂ THAO ⚽",ESPN 1US HD 60FPS
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.beind" tvg-logo="https://media.thehypemagazine.com/wp-content/uploads/2018/04/ESPN-Logo2-660x400.jpg" group-title="THỂ THAO ⚽",ESPN 1US HD 60FPS
 http://127.0.0.1:6878/ace/getstream?id=8e2292385bfe2459c884736bb91017b49e37f566 
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://media.thehypemagazine.com/wp-content/uploads/2018/04/ESPN-Logo2-660x400.jpg" group-title="THỂ THAO ⚽",ESPN 2US HD 60FPS
 http://127.0.0.1:6878/ace/getstream?id=a1ad5222a6e18d96d38e72173606b086a79278f5
@@ -1391,3 +1391,4 @@ http://127.0.0.1:6878/ace/getstream?id=a1e1a479f5bf0d7e9ac85cc706e8ff2c9c24ef2f
 
 
 #PHAPTX5
+sdasdasd
