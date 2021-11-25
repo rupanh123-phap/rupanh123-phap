@@ -859,32 +859,8 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #Tks Hoài Thanh For Share
 #EXTINF:-1  tvg-logo="https://media0.giphy.com/media/lOBwyrxw4nF69vR9hG/giphy.gif" group-title="SAO KÊ ⚽",TRỰC TIẾP BÓNG ĐÁ 
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-<!-- 
-#Tks Lão Hạc For Share
-#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://i.ibb.co/R45nFg9/saoke.jpg",SaoKe.Live Xem Lại Trận Đấu ⚽ 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://2459955770.slave.anycastapnic.com/pep/mu/chunklist.m3u8
-#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://i.ibb.co/R45nFg9/saoke.jpg",SaoKe.Live Xem Lại Trận Đấu ⚽ 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://2459955770.slave.anycastapnic.com/pep/chel/chunklist.m3u8
-#Tks Lão Hạc For Share
-#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://i.ibb.co/R45nFg9/saoke.jpg",Saoke.Live Trực Tiếp 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://2459955770.slave.anycastapnic.com/pep/x2y2/chunklist.m3u8
-#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://i.ibb.co/R45nFg9/saoke.jpg",Saoke.Live Trực Tiếp 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://2459955770.slave.anycastapnic.com/pep/sk2/chunklist.m3u8
-#Tks Lão Hạc For Share
-#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://i.ibb.co/R45nFg9/saoke.jpg",Saoke.Live Trực Tiếp 3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://2459955770.slave.anycastapnic.com/pep/saoke1x1/chunklist.m3u8
-#Tks Lão Hạc For Share
-#EXTINF:-1 group-title="SAO KÊ ⚽" tvg-logo="https://i.ibb.co/R45nFg9/saoke.jpg",Saoke.Live Trực Tiếp 4
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://2459955770.slave.anycastapnic.com/pep/saoke3x1/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://cdn.dribbble.com/users/630990/screenshots/3853322/fotball.gif" group-title="TRỰC TIẾP ⚽",TRỰC TIẾP BÓNG ĐÁ  
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
---> 
+
+
 #Tks Kham Pha For Share
 
 #EXTINF:-1  tvg-logo="https://media0.giphy.com/media/lOBwyrxw4nF69vR9hG/giphy.gif" group-title="THỂ THAO ⚽",TRỰC TIẾP THỂ THAO
