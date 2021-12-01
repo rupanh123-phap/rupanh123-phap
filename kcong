@@ -6,7 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=14C0F1BB9A14154D&Ticket=F75ECCDF30FDD78A54D&Ticket=F75ECCDF30FDD78A
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://kpluslive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
+#https://kpluslive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
 
 #https://22live00.akamaized.net:443/RMC_Sports_1/tracks-v1a1/mono.m3u8?token=JP9cDQmTumfCYDAB1GhETAZf3praOFYNmR%2BnveVZ3GgOUZKCkHEq%2Bw0vzgVHDh48ii7TpTeyk75tQHLRJyc1tNBKUn2hJlTJmadUzm47j0d7XRSnJpbnGF1%2BgUOKINtrqN5tzFTtw7lsoVxtXOf8jUhpJrmQDSwrd2xBc5ePUx366kpr8DeDFL5w24DEciNlol4TVI%2BDqbsgKZwrIcFYcsnw%3D%3D
 #EXTINF:-1 tvg-id="klife"  logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg"  group-title="TRỰC TIẾP ⚽" tvg-chno="997",K Cộng LIFE HD
