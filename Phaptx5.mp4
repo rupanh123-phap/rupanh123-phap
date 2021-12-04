@@ -768,7 +768,7 @@ https://tvn-seezn.pip.cjenm.com:443/tvn/_definst_/s5/chunklist.m3u8?token=eyJhbG
 #EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://1.bp.blogspot.com/-Lpyykrgsurg/V4XS0ayqIbI/AAAAAAAAEtY/ZdrRD_O9GtMCsuE3JTA1CBdbbFoffuDWACLcB/s640/Mnet-p1.png" group-title="QUỐC TẾ    " ",MNET HD
 https://mnet-seezn.pip.cjenm.com/mnet/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI3MzQ4OTIsInBhdGgiOiIvbW5ldC9fZGVmaW5zdF8vczUiLCJ1bm8iOiIxNjIyNzM0NTkyMjg5MTg3ODYiLCJpYXQiOjE2MjI3MzQ1OTJ9.Qy-cUxDm2zSdJFdFLYV_k6HB9wN_MPGm6ntVtOJASbY
 #EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://i.ibb.co/LR9XrZb/Colors-tv2017.jpg" group-title="QUỐC TẾ    " ",COLORS FHD
-https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
+#https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 #EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg9nWE8XgCkl5e4z3zk-4RueePycVoDloF9eMGFFuYt96q4AH39ktCPcLDKnJTTcSc8lQ&usqp=CAU" group-title="QUỐC TẾ    " ",TVB FHD
 
 #EXTINF:-1  tvg-id="hitshd"  tvg-logo="http://www.homa-tv.com/logo/cinefilmhd.png" group-title="QUỐC TẾ    " ",FILM HD
@@ -822,7 +822,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
 #EXTINF:-1  tvg-id="hgtv"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/HGTV_Logo.jpg/640px-HGTV_Logo.jpg" group-title="QUỐC TẾ    " ,HGTV FHD
-https://feed.play.mv/live/10005200/Wvl02Co4S1/1.m3u8
+#https://feed.play.mv/live/10005200/Wvl02Co4S1/1.m3u8
 #EXTINF:-1  tvg-id="channelvhd"  tvg-logo="https://lh3.googleusercontent.com/-VMD7bQzHp0o/W2c9_eiYTCI/AAAAAAAAEQI/fkIrJO8TpW0C4hGBdAkk9ZRIA8gqLHxxQCLcBGAs/h300/icon_channel_channel-v-hd_152238787152.png" group-title="QUỐC TẾ    " ",[V]HD
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 
