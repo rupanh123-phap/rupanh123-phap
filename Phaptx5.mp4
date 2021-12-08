@@ -802,7 +802,6 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #http://xcchui2.mrnova.online/live/60136_.m3u8
 
 
-EXTINF:0 tvg-id="inthebox" group-title="🇧🌎🇽" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_BOXChannel_V1.jpg",BOX Channel
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://gg.gg/cc-box|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="waku" tvg-logo="https://www.wakuwakujapan.com/fileadmin/res/ogp.png" group-title="QUỐC TẾ    ",Waku Waku Japan FHD
