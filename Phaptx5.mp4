@@ -803,20 +803,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 http://gg.gg/cc-box
-#EXTINF:-1  tvg-id="foxlifehd" tvg-logo="https://lh3.googleusercontent.com/-fmippsPXbWM/W1mAPOBNBAI/AAAAAAAAEK8/movc4Mxn3ZADUClQ9-TNI-Tk2-z_kbS-QCLcBGAs/h350/icon_channel_fox-life_152238683897.png" group-title="QUỐC TẾ    ",BOX HITS HD
-#https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#http://xcchui2.mrnova.online/live/60136_.m3u8
 
-
-
-http://gg.gg/cc-hits
-#EXTINF:-1  tvg-id="foxlifehd" tvg-logo="https://lh3.googleusercontent.com/-fmippsPXbWM/W1mAPOBNBAI/AAAAAAAAEK8/movc4Mxn3ZADUClQ9-TNI-Tk2-z_kbS-QCLcBGAs/h350/icon_channel_fox-life_152238683897.png" group-title="QUỐC TẾ    ",MAN HD
-#https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#http://xcchui2.mrnova.online/live/60136_.m3u8
-
-
-
-#http://gg.gg/cc-man
 #EXTINF:-1 tvg-id="waku" tvg-logo="https://www.wakuwakujapan.com/fileadmin/res/ogp.png" group-title="QUỐC TẾ    ",Waku Waku Japan FHD
 
 #EXTINF:-1 tvg-id="waku" tvg-logo="https://i.ibb.co/MfFbyHG/Stingray-Karaoke-Hor.jpg" group-title="ÂM NHẠC   ",STINGRAY KARAOKE
