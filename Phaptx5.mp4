@@ -819,13 +819,13 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 #https://feed.play.mv/live/10005200/Wvl02Co4S1/1.m3u8
 #EXTINF:-1  tvg-id="channelvhd"  tvg-logo="https://lh3.googleusercontent.com/-VMD7bQzHp0o/W2c9_eiYTCI/AAAAAAAAEQI/fkIrJO8TpW0C4hGBdAkk9ZRIA8gqLHxxQCLcBGAs/h300/icon_channel_channel-v-hd_152238787152.png" group-title="QUỐC TẾ    " ",[V]HD
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="inthebox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ-2fk0OcN0yeMVW_F9IoW1CKWk0wiZbCI_jYhOel4X4l3w3EmnzSZDLI4hTf22N6yvfM&usqp=CAU",In The B▢x 
-https://gg.gg/cc-box|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="boxhits" tvg-logo="https://i.ibb.co/hCjHHvV/thumb-1626834087channel3-Box-Hit.jpg", B▢x Hits
-http://gg.gg/cc-hits|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="inthebox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ-2fk0OcN0yeMVW_F9IoW1CKWk0wiZbCI_jYhOel4X4l3w3EmnzSZDLI4hTf22N6yvfM&usqp=CAU",In The Box 
+http://gg.gg/cc-box
+#EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="boxhits" tvg-logo="https://i.ibb.co/hCjHHvV/thumb-1626834087channel3-Box-Hit.jpg", Box Hits
+http://gg.gg/cc-hits
 
-#EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="man" tvg-logo="https://i.ibb.co/4TGghQQ/Man-150x901j3.jpg", M△N
-https://gg.gg/cc-man|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="man" tvg-logo="https://i.ibb.co/4TGghQQ/Man-150x901j3.jpg", MAN
+http://gg.gg/cc-man
 #EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://i.ibb.co/GcXvQSd/bd.png" group-title="QUỐC TẾ    ",FTV Body HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
 #EXTINF:-1  tvg-id="fashionhd"  tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fM18xNTU1MDAxNTE3XzA4Nw/screen-3.jpg?fakeurl=1&type=.jpg" group-title="QUỐC TẾ    " ,FTV Midnight Haute HD   
