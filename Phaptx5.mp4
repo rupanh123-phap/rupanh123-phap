@@ -731,8 +731,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sc
 #https://e4.endpoint.cdn.sctvonline.vn/secure/cna/sd1/index.m3u8?md5=PbxpiXxwvnbhM64ms3PoWw&expires=2556118740|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="boxhits" tvg-logo="https://i.ibb.co/hCjHHvV/thumb-1626834087channel3-Box-Hit.jpg", BOX HITS 
-http://gg.gg/cc-hits|Referer=http://sctvonline.vn/
+http://gg.gg/cc-hits
 #EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="inthebox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ-2fk0OcN0yeMVW_F9IoW1CKWk0wiZbCI_jYhOel4X4l3w3EmnzSZDLI4hTf22N6yvfM&usqp=CAU", BOX 
+#EXTVLCOPT:http-user-agent="NETHUB"
 http://gg.gg/cc-box|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="man" tvg-logo="https://i.ibb.co/4TGghQQ/Man-150x901j3.jpg", MAN
 http://gg.gg/cc-man|Referer=http://sctvonline.vn/
