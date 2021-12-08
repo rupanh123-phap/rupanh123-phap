@@ -802,8 +802,8 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #http://xcchui2.mrnova.online/live/60136_.m3u8
 
 
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://gg.gg/cc-box|Referer=http://sctvonline.vn/
+
+http://gg.gg/cc-box
 #EXTINF:-1 tvg-id="waku" tvg-logo="https://www.wakuwakujapan.com/fileadmin/res/ogp.png" group-title="QUỐC TẾ    ",Waku Waku Japan FHD
 
 #EXTINF:-1 tvg-id="waku" tvg-logo="https://i.ibb.co/MfFbyHG/Stingray-Karaoke-Hor.jpg" group-title="ÂM NHẠC   ",STINGRAY KARAOKE
