@@ -715,6 +715,12 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http:
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="QUỐC TẾ    " tvg-logo="https://i.ibb.co/M7pxv8c/ta-i-xu-ng.jpg", Hollywood Classic
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="boxhits" tvg-logo="https://i.ibb.co/hCjHHvV/thumb-1626834087channel3-Box-Hit.jpg", BOX HITS 
+http://gg.gg/cc-hits
+#EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="inthebox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ-2fk0OcN0yeMVW_F9IoW1CKWk0wiZbCI_jYhOel4X4l3w3EmnzSZDLI4hTf22N6yvfM&usqp=CAU", BOX 
+http://gg.gg/cc-box
+#EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="man" tvg-logo="https://i.ibb.co/4TGghQQ/Man-150x901j3.jpg", MAN
+http://gg.gg/cc-man
 #EXTINF:-1  tvg-id="woman"  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/62_82eb1789.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="QUỐC TẾ    " tvg-chno="105",Woman HD
 #https://e4.endpoint.cdn.sctvonline.vn/secure/woman/index.m3u8?md5=nYLg_liiJXqdWAdw4D1wzw&expires=2556118740|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -730,16 +736,6 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sc
 #EXTINF:-1  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_4606159a.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="QUỐC TẾ    ",CNA HD
 #https://e4.endpoint.cdn.sctvonline.vn/secure/cna/sd1/index.m3u8?md5=PbxpiXxwvnbhM64ms3PoWw&expires=2556118740|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:0 group-title="QUỐC TẾ    " tvg-id="boxhits" tvg-logo="https://i.ibb.co/hCjHHvV/thumb-1626834087channel3-Box-Hit.jpg", BOX HITS 
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://gg.gg/cc-hits|Referer=http://sctvonline.vn/
-#EXTINF:0 group-title="QUỐC TẾ    " tvg-id="inthebox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ-2fk0OcN0yeMVW_F9IoW1CKWk0wiZbCI_jYhOel4X4l3w3EmnzSZDLI4hTf22N6yvfM&usqp=CAU", BOX 
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://gg.gg/cc-box|Referer=http://sctvonline.vn/
-#EXTINF:0 group-title="QUỐC TẾ    " tvg-id="man" tvg-logo="https://i.ibb.co/4TGghQQ/Man-150x901j3.jpg", MAN
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://gg.gg/cc-man|Referer=http://sctvonline.vn/
-
 
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://lh3.googleusercontent.com/-WJtvINvLbXI/W1mCchJ_iiI/AAAAAAAAELw/9jm-ZtkJrXM3qDx_2qgO62MIuCP4cdS1gCLcBGAs/h250/icon_channel_national-geographic-hd_152238635227.png" group-title="QUỐC TẾ    ",National Geographic HD
