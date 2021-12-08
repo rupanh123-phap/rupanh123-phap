@@ -705,8 +705,9 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 
 
 #EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="inthebox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ-2fk0OcN0yeMVW_F9IoW1CKWk0wiZbCI_jYhOel4X4l3w3EmnzSZDLI4hTf22N6yvfM&usqp=CAU",In The B▢x 
-http://gg.gg/cc-box
 
+#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/6_60ce711b.jpg" group-title="QUỐC TẾ    ",Box Movie
+http://gg.gg/cc-box
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/6_60ce711b.jpg" group-title="QUỐC TẾ    ",Box Movie
 #https://e4.endpoint.cdn.sctvonline.vn/secure/ /sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
