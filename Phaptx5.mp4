@@ -716,6 +716,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http:/
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="QUỐC TẾ    " tvg-logo="https://i.ibb.co/M7pxv8c/ta-i-xu-ng.jpg", Hollywood Classic
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="boxhits" tvg-logo="https://i.ibb.co/hCjHHvV/thumb-1626834087channel3-Box-Hit.jpg", BOX HITS 
+#EXTVLCOPT:http-user-agent="SONY"
 http://gg.gg/cc-hits
 #EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="inthebox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ-2fk0OcN0yeMVW_F9IoW1CKWk0wiZbCI_jYhOel4X4l3w3EmnzSZDLI4hTf22N6yvfM&usqp=CAU", BOX 
 http://gg.gg/cc-box
