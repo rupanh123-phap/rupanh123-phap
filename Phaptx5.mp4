@@ -511,12 +511,7 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 #https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="foxsportshd" tvg-name="Fox_Sports_1" tvg-logo="https://static.megavie.live/media/foxsportshd.jpg" group-title="QUỐC TẾ    "  tvg-chno="91",Fox Sports HD
-#https://vips-livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="foxsports2hd" tvg-name="Fox_Sports_2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg" group-title="QUỐC TẾ    "  tvg-chno="92",Fox Sports 2 HD
-#https://vips-livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="foxsports3hd" tvg-logo="https://static.megavie.live/media/foxsports3hd.jpg" group-title="QUỐC TẾ    " tvg-chno="93", Fox Sports 3 HD
-#https://vips-livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="axnhd" tvg-name="AXN" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg" group-title="QUỐC TẾ    "  tvg-chno="",AXN HD
 https://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-id="warnertvhd" tvg-name="WB" tvg-logo="https://static.megavie.live/media/warnertvhd.jpg" group-title="QUỐC TẾ    " tvg-chno="115",Warner TV HD
@@ -589,7 +584,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc87
 #EXTINF:-1 tvg-id=" " tvg-logo="https://corporate.pluto.tv/wp-content/uploads/2017/03/AnimeAllDay_blog_facebook_2-960x502.jpg" group-title="TRẺ EM   ",Anime All Day
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed52a62fa750007733239/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwnS0EuBx_GfSVb3UlL_CKZxmxmtxNOXCMhQeCPM8gEceQrhqzSW3Qb0FbTGjIX7LD-fo&usqp=CAU" group-title="TRẺ EM   ", Lego TV
+https://legochannel-roku.amagi.tv/playlist.m3u8
 
 
 
@@ -635,23 +631,13 @@ http://193.33.88.172/english_club_tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vmx43Cc/CONtv-Logo.jpg" group-title="TRẺ EM   ",Học Tiếng Anh CONTV ANIME FHD
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwnS0EuBx_GfSVb3UlL_CKZxmxmtxNOXCMhQeCPM8gEceQrhqzSW3Qb0FbTGjIX7LD-fo&usqp=CAU" group-title="TRẺ EM   ",Học Tiếng Anh Lego TV
-https://legochannel-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://dcassetcdn.com/design_img/61656/76317/76317_1090919_61656_thumbnail.jpg" group-title="ÂM NHẠC   ",KPOP 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://dcassetcdn.com/design_img/61656/76317/76317_1090919_61656_thumbnail.jpg" group-title="TRẺ EM   ",Học Tiếng Anh KPOP 
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="ÂM NHẠC   ",Vevo Pop Europe FHD
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="ÂM NHẠC   ",Vevo R&B
-#https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="ÂM NHẠC   ",Vevo Country
-#https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="ÂM NHẠC   ",Vevo Reggeaton & Trap
-#https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 
 
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/6_60ce711b.jpg" group-title="QUỐC TẾ    ",Box Movie
