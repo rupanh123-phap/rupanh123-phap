@@ -658,37 +658,8 @@ https://edge6a.v2h-cdn.com/appt7/Toonee.stream_720p/playlist.m3u8
 
 http://193.33.88.172/english_club_tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="English Club" tvg-name="English Club TV" tvg-logo="https://image.roku.com/developer_channels/prod/d0211c2d8b2f22758d15853c98db949c1411240d5918424c2f36f1e19b8760ca.png" group-title="TRẺ EM   ", English Club TV AceStream
 
-#http://127.0.0.1:6878/ace/manifest.m3u8?id=aeeed53fb95d563b95b16ad7ebfff20a4d48571a&.mkv&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="TRẺ EM   ",
+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://dcassetcdn.com/design_img/61656/76317/76317_1090919_61656_thumbnail.jpg" group-title="ÂM NHẠC   ",KPOP 
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="ÂM NHẠC   ",Vevo Pop Europe FHD
