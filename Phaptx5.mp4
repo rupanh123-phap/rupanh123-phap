@@ -738,11 +738,8 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #http://xcchui2.mrnova.online/live/60139_.m3u8
 #EXTINF:-1  tvg-id="foxfamilymovieshd" tvg-logo="https://static.megavie.live/media/foxfamilymovieshd.jpg" group-title="QUỐC TẾ    ",FOX FAMILY MOVIES HD
 
-#EXTINF:-1  tvg-id="foxhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-hd_152238767588.png" group-title="QUỐC TẾ    ",FOX HD
 
-#EXTINF:-1  tvg-id="foxlifehd" tvg-logo="https://lh3.googleusercontent.com/-fmippsPXbWM/W1mAPOBNBAI/AAAAAAAAEK8/movc4Mxn3ZADUClQ9-TNI-Tk2-z_kbS-QCLcBGAs/h350/icon_channel_fox-life_152238683897.png" group-title="QUỐC TẾ    ",B🍑X HD
-#https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#http://xcchui2.mrnova.online/live/60136_.m3u8
+
 
 
 #EXTINF:-1 tvg-id="waku" tvg-logo="https://www.wakuwakujapan.com/fileadmin/res/ogp.png" group-title="QUỐC TẾ    ",Waku Waku Japan FHD
@@ -764,17 +761,9 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://i.ibb.co/0C3MDDM/hdmuc.png" group-title="ÂM NHẠC   " ,MUSIC HD
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
-#EXTINF:-1  tvg-id="hgtv"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/HGTV_Logo.jpg/640px-HGTV_Logo.jpg" group-title="QUỐC TẾ    " ,HGTV FHD
-#https://feed.play.mv/live/10005200/Wvl02Co4S1/1.m3u8
-#EXTINF:-1  tvg-id="channelvhd"  tvg-logo="https://lh3.googleusercontent.com/-VMD7bQzHp0o/W2c9_eiYTCI/AAAAAAAAEQI/fkIrJO8TpW0C4hGBdAkk9ZRIA8gqLHxxQCLcBGAs/h300/icon_channel_channel-v-hd_152238787152.png" group-title="QUỐC TẾ    " ",[V]HD
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="inthebox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ-2fk0OcN0yeMVW_F9IoW1CKWk0wiZbCI_jYhOel4X4l3w3EmnzSZDLI4hTf22N6yvfM&usqp=CAU",In The Box 
-http://gg.gg/cc-box
-#EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="boxhits" tvg-logo="https://i.ibb.co/hCjHHvV/thumb-1626834087channel3-Box-Hit.jpg", Box Hits
-http://gg.gg/cc-hits
 
-#EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="man" tvg-logo="https://i.ibb.co/4TGghQQ/Man-150x901j3.jpg", MAN
-http://gg.gg/cc-man
+
+
 #EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://i.ibb.co/GcXvQSd/bd.png" group-title="QUỐC TẾ    ",FTV Body HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
 #EXTINF:-1  tvg-id="fashionhd"  tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fM18xNTU1MDAxNTE3XzA4Nw/screen-3.jpg?fakeurl=1&type=.jpg" group-title="QUỐC TẾ    " ,FTV Midnight Haute HD   
@@ -787,12 +776,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bloomberg_146581277148.png" group-title="QUỐC TẾ    " tvg-chno="113",Bloomberg UHD
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://cdn6.f-cdn.com/contestentries/1754102/33559757/5e7b8d68ee0a8_thumbCard.jpg" group-title="QUỐC TẾ    ",Relax Music UHD
-#https://youtu.be/_nFMeEv0bk8
-#EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://i.ytimg.com/vi/qFZKK7K52uQ/maxresdefault.jpg" group-title="QUỐC TẾ    ",Beautiful Relax Music UHD
-#https://youtu.be/HMnatoiMdjA
-#EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://i.ytimg.com/vi/4MmZzCqA9oI/maxresdefault.jpg" group-title="QUỐC TẾ    ",Popular Songs FHD
-#https://youtu.be/eHmrhzvWPek
+
 
 
 #EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="QUỐC TẾ    ",Love4K Nature 
