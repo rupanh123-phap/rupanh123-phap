@@ -676,32 +676,13 @@ https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="disney"  group-title="QUỐC TẾ    " tvg-logo="https://d3atsf3fgek2rw.cloudfront.net/content/uploads/2012/01/Discovery-MAX-logo.jpg", Discovery DMAX HD
 #http://xcchui2.mrnova.online/live/60682_.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="angiang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaUmzru1dwSv4I22Odd72ZtwWU7M0dUPIEUG9he5oMPlrEl9euI7Wg62bDvjBLDoDON8&usqp=CAU",  Arirang Korea HD
-#http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+
 #EXTINF:-1 tvg-id="disneyjunior" group-title="QUỐC TẾ    " tvg-logo="https://1.bp.blogspot.com/-6ZmwyXEauTc/YJMzooOrqeI/AAAAAAAAFes/EM-Z5a84fzU0OABxkHD2hvuzsXPPRN4NgCLcBGAsYHQ/s1920/Red%2BBull%2BTV%252C%2BNBA%2BTV%252C%2BMLB%2BNetwork%252C%2BNFL%2BNetwork%252C%2BNFL%2BRedzone%252C%2BWatch%2BUSA%2BTV%2Blive%2Bonline.jpg", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg" group-title="QUỐC TẾ    ",Fox Action HD
-#http://xcchui2.mrnova.online/live/60140_.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYvvaX4vgCNmd6Fnow82iII-LWsFQvoL3FdYiNzkth2iqACYctgLVcQdmhJzoxnT4eKc&usqp=CAU" group-title="QUỐC TẾ    ",Yes Movie Action HD
-#http://xcchui2.mrnova.online/live/60295_.m3u8
-
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://www.rapidtvnews.com/images/tvN_logo_-_29_April_2017_1.jpg" group-title="QUỐC TẾ    " ",TVN HD
-https://tvn-seezn.pip.cjenm.com:443/tvn/_definst_/s5/chunklist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE&solsessionid=ced1d8fb89dd32a90e5dfa3d317ca053
-#EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="       " tvg-logo="https://i.ibb.co/Tqs8M02/unnamed.jpg",  TVN MOVIES HD
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JR0Gk7M/Canal-Film-HD-Logo-Alternativ.jpg", group-title="QUỐC TẾ    ",FILM HOT HD
-
-#EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="       " tvg-logo="https://i.ibb.co/vHcspp0/FILMBOX-HD.jpg",BOO HD
-#http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://1.bp.blogspot.com/-Lpyykrgsurg/V4XS0ayqIbI/AAAAAAAAEtY/ZdrRD_O9GtMCsuE3JTA1CBdbbFoffuDWACLcB/s640/Mnet-p1.png" group-title="QUỐC TẾ    " ",MNET HD
-https://mnet-seezn.pip.cjenm.com/mnet/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI3MzQ4OTIsInBhdGgiOiIvbW5ldC9fZGVmaW5zdF8vczUiLCJ1bm8iOiIxNjIyNzM0NTkyMjg5MTg3ODYiLCJpYXQiOjE2MjI3MzQ1OTJ9.Qy-cUxDm2zSdJFdFLYV_k6HB9wN_MPGm6ntVtOJASbY
 
 
 
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://i.ibb.co/7Y9tY7d/hollywood.png" group-title="QUỐC TẾ    " ",HOLLYWOOD HD
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 
