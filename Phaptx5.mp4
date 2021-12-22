@@ -670,7 +670,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8|Referer=http://sctvonli
 #EXTINF:-1 tvg-id="boxhits" group-title="QUỐC TẾ    " tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/poster_1626834088channel3_BoxHit.png", boxhits
 http://192.53.113.67/Boxhits/index.m3u8
 
-#EXTINF:-1 tvg-id="inthebox" group-title="QUỐC TẾ    " tvg-logo="https://1.bp.blogshttps://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/poster_1623926686c_BOX%20W.png"  catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8", In The Box
+#EXTINF:-1 tvg-id="inthebox" group-title="QUỐC TẾ    " tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/poster_1623926686c_BOX%20W.png"  catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8", In The Box
 http://192.53.113.67/Inthebox/index.m3u8
 
 
