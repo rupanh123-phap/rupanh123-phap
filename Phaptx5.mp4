@@ -667,14 +667,14 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sc
 #https://e4.endpoint.cdn.sctvonline.vn/secure/cna/sd1/index.m3u8?md5=PbxpiXxwvnbhM64ms3PoWw&expires=2556118740|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="boxhits" group-title="QUỐC TẾ    " tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg", boxhits
+#EXTINF:-1 tvg-id="boxhits" group-title="QUỐC TẾ    " tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/poster_1626834088channel3_BoxHit.png", boxhits
 http://192.53.113.67/Boxhits/index.m3u8
 
-#EXTINF:-1 tvg-id="inthebox" group-title="QUỐC TẾ    " tvg-logo="https://1.bp.blogspot.com/-i5iPMUP7o2Q/YP61PW6bvvI/AAAAAAAAMqI/1IEtRZwUGJYKbpWQngu7blgjmxuCmDwMgCNcBGAsYHQ/s0/kenh-inthebox-mien-phi-tren-vtvcab.jpg"  catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8", In The Box
+#EXTINF:-1 tvg-id="inthebox" group-title="QUỐC TẾ    " tvg-logo="https://1.bp.blogshttps://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/poster_1623926686c_BOX%20W.png"  catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8", In The Box
 http://192.53.113.67/Inthebox/index.m3u8
 
 
-#EXTINF:-1 tvg-id="man" group-title="QUỐC TẾ    " tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Man_480x2701j3.jpg" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/man-tv/chunklist_2_${start}.m3u8", Man
+#EXTINF:-1 tvg-id="man" group-title="QUỐC TẾ    " tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/poster_1623742934c_Man.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/man-tv/chunklist_2_${start}.m3u8", Man
 http://192.53.113.67/Boxman/index.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://lh3.googleusercontent.com/-WJtvINvLbXI/W1mCchJ_iiI/AAAAAAAAELw/9jm-ZtkJrXM3qDx_2qgO62MIuCP4cdS1gCLcBGAs/h250/icon_channel_national-geographic-hd_152238635227.png" group-title="QUỐC TẾ    ",National Geographic HD
