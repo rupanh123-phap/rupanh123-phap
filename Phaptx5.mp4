@@ -77,7 +77,7 @@ https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc13hd" tvg-name="VTC13" tvg-logo="http://onetv.click/logo/vtc13hd.jpg"   group-title="VTC   " tvg-chno="22" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-10800.m3u8",,VTC13 HD
 http://vcdn1.vtc.gov.vn:1935/m_4K/smil:4k.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" tvg-name="VTC14" tvg-logo="http://onetv.click/logo/vtc14hd.jpg"   group-title="VTC   " tvg-chno="23"  catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC14 HD
-https://vtc130121.cdn.vnns.io/VTC14/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000
 #EXTINF:-1 tvg-id="vtc16" tvg-name="VTC16" tvg-logo="http://onetv.click/logo/vtc16.jpg"   group-title="VTC   " tvg-chno="24" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC16 HD
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
