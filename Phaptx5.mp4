@@ -690,6 +690,23 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sc
 #https://e4.endpoint.cdn.sctvonline.vn/secure/cna/sd1/index.m3u8?md5=PbxpiXxwvnbhM64ms3PoWw&expires=2556118740|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8|Referer=http://sctvonline.vn/
 
+#H---
+#EXTINF:0 tvg-id="france24eng" group-title="QUỐC TẾ    " tvg-logo="https://i.ibb.co/gZZrjWn/BlueStar.gif",NETHubTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/elx2hzpumgk2zgk/																						 ㅤ
+																				 ㅤ
+#EXTINF:0 tvg-id="inthebox" group-title="ㅤ" tvg-logo="https://i.ibb.co/x1xWNF2/box.jpg",BOX Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/vbw1it91f0wi3g6/																						 ㅤ
+#EXTINF:0 tvg-id="boxhits" group-title="ㅤ" tvg-logo="https://i.ibb.co/HVKXcH5/thumb-1626834087channel3-Box-Hit.jpg",BOX Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/28ty97que0ave8x/																						 ㅤ
+																		 ㅤ
+																		 ㅤ
+#EXTINF:0  tvg-id="man" group-title="ㅤ" tvg-logo="https://i.ibb.co/0ZJvWYn/man.jpg",Man
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/d6ee6vnwukqbk81/																		
+
 #EXTINF:0 tvg-id="france24eng" group-title="QUỐC TẾ    " tvg-logo="https://i.ibb.co/gZZrjWn/BlueStar.gif",NETHubTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dl.dropboxusercontent.com/s/elx2hzpumgk2zgk/		
@@ -731,8 +748,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
 
-#EXTINF:-1 tvg-id="waku" tvg-logo="https://i.ibb.co/MfFbyHG/Stingray-Karaoke-Hor.jpg" group-title="ÂM NHẠC   ",STINGRAY KARAOKE
-https://stirr.ott-channels.stingray.com/karaoke/master_1280x720_2000kbps.m3u8?=xemtvnhanh
+
 #EXTINF:-1 tvg-id="waku" tvg-logo="https://ws.shoutcast.com/images/contacts/2/2d3f/2d3f02f4-effc-42dc-8141-1cc55152a131/radios/486d1d77-2e18-4fc8-b6c9-53ce65283747/486d1d77-2e18-4fc8-b6c9-53ce65283747.png" group-title="ÂM NHẠC   ",KPOP MUSIC
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 #EXTINF:-1 tvg-id="waku" tvg-logo="https://i.ibb.co/WKbbbNc/1580029625.jpg" group-title="ÂM NHẠC   ",VIVA RUSSIA MUSIC
@@ -775,7 +791,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn.dribbble.com/users/630990/screenshots/3853322/fotball.gif" group-title="CÀ KHỊA ⚽",TRỰC TIẾP BÓNG ĐÁ    
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#Tks Hoài Thanh For Share
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="CÀ KHỊA ⚽" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/qs8nfynd_k-cine_296_168.webp", K+CINE HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
