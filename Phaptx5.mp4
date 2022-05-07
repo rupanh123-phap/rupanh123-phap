@@ -695,10 +695,10 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8|Referer=http://sctvonli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dl.dropboxusercontent.com/s/elx2hzpumgk2zgk/																						 ㅤ
 																				 ㅤ
-#EXTINF:0 tvg-id="inthebox" group-title="ㅤ" tvg-logo="https://i.ibb.co/x1xWNF2/box.jpg",BOX Channel
+#EXTINF:0 tvg-id="inthebox" group-title="QUỐC TẾ    " tvg-logo="https://i.ibb.co/x1xWNF2/box.jpg",BOX Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dl.dropboxusercontent.com/s/vbw1it91f0wi3g6/																						 ㅤ
-#EXTINF:0 tvg-id="boxhits" group-title="ㅤ" tvg-logo="https://i.ibb.co/HVKXcH5/thumb-1626834087channel3-Box-Hit.jpg",BOX Hits
+#EXTINF:0 tvg-id="boxhits" group-title="QUỐC TẾ    " tvg-logo="https://i.ibb.co/HVKXcH5/thumb-1626834087channel3-Box-Hit.jpg",BOX Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dl.dropboxusercontent.com/s/28ty97que0ave8x/																						 ㅤ
 																		 ㅤ
@@ -729,8 +729,7 @@ https://dl.dropboxusercontent.com/s/d6ee6vnwukqbk81/
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/CwLD1vf/img.png" group-title="QUỐC TẾ    ",History HD
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="disney"  group-title="QUỐC TẾ    " tvg-logo="https://d3atsf3fgek2rw.cloudfront.net/content/uploads/2012/01/Discovery-MAX-logo.jpg", Discovery DMAX HD
 #http://xcchui2.mrnova.online/live/60682_.m3u8
 
