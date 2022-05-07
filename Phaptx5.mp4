@@ -110,7 +110,7 @@ https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" tvg-logo="http://onetv.click/logo/vinhlong4hd.png" group-title="THVL   " tvg-chno="35" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDQtNzIwcCIsImV4cCI6MTYzMTg5ODA0OH0.ZVpAeEqyRh1eIv9w1l8gTU46FbbbcE6U9zGtS07xizo-/thvl4-720p/playlist_dvr_range-${start}-1138.m3u8",THVL4 HD
 https://livecdn.fptplay.net/hda3/vinhlong4hd_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="sctv1hd"  tvg-logo="http://onetv.click/logo/sctv1hd.png" tvg-chno="35"   group-title="SCTV   " ,SCTV1 HD 
+#EXTINF:-1 tvg-id="sctv1hd"  type="stream" tvg-logo="http://onetv.click/logo/sctv1hd.png" tvg-chno="35"   group-title="SCTV   " ,SCTV1 HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/s2/index.m3u8|Referer=http://sctvonline.vn/
 #https://e1.endpoint.cdn.sctvonline.vn/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740|Referer=http://sctvonline.vn/
