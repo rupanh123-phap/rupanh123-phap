@@ -504,8 +504,7 @@ https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-id="afnhd"  tvg-name="AFC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_158279877356.png" group-title="QUỐC TẾ    " tvg-chno="130",Asian Food Network HD 
 https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-id="ngwhd" tvg-logo="https://www.vippng.com/png/detail/442-4423779_nevet-s-log-t-v-lt-a-nat.png" group-title="QUỐC TẾ    " tvg-chno="95",Nat Geo Wild HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="Da Vinci " tvg-name="DaVinci Learning" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_160135703111.png" group-title="QUỐC TẾ    "  tvg-chno="",Da Vinci Learning HD
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -588,9 +587,7 @@ https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="sbscnbchd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnbc_162952697893.jpg" group-title="QUỐC TẾ    " tvg-chno="114",CNBC 
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ    " tvg-id="     " tvg-logo="https://www.displaydaily.com/images/Logos/D-F/dmax-hd.png", DMAX
 
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cocoro.tv/channels/co/channel-banner.png" group-title="TRẺ EM   ",Cocoro FHD
@@ -690,34 +687,29 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sc
 #https://e4.endpoint.cdn.sctvonline.vn/secure/cna/sd1/index.m3u8?md5=PbxpiXxwvnbhM64ms3PoWw&expires=2556118740|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8|Referer=http://sctvonline.vn/
 
-#H---
-#EXTINF:0 tvg-id="france24eng" group-title="QUỐC TẾ    " tvg-logo="https://i.ibb.co/gZZrjWn/BlueStar.gif",NETHubTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/elx2hzpumgk2zgk/																						 ㅤ
-																				 ㅤ
+
+													 ㅤ
 #EXTINF:0 tvg-id="inthebox" group-title="QUỐC TẾ    " tvg-logo="https://i.ibb.co/x1xWNF2/box.jpg",BOX Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dl.dropboxusercontent.com/s/vbw1it91f0wi3g6/																						 ㅤ
-#EXTINF:0 tvg-id="boxhits" group-title="QUỐC TẾ    " tvg-logo="https://i.ibb.co/HVKXcH5/thumb-1626834087channel3-Box-Hit.jpg",BOX Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/28ty97que0ave8x/																						 ㅤ
+																					 ㅤ
 																		 ㅤ
-																		 ㅤ
-#EXTINF:0  tvg-id="man" group-title="ㅤ" tvg-logo="https://i.ibb.co/0ZJvWYn/man.jpg",Man
+#EXTINF:0  tvg-id="man" group-title="ㅤ" tvg-logo="https://i.ibb.co/4Fb1FQ7/ccManTV.png",Man
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/d6ee6vnwukqbk81/																		
-
-#EXTINF:0 tvg-id="france24eng" group-title="QUỐC TẾ    " tvg-logo="https://i.ibb.co/gZZrjWn/BlueStar.gif",NETHubTV
+https://dl.dropboxusercontent.com/s/d6ee6vnwukqbk81/																				 ㅤ
+#EXTINF:0 tvg-id="boxhits" group-title="ㅤ" tvg-logo="https://i.ibb.co/Xzzztyy/cc-Box-Hits.jpg",BOX Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/elx2hzpumgk2zgk/		
+https://dl.dropboxusercontent.com/s/28ty97que0ave8x/																			
+#EXTINF:0 tvg-id="france24eng" group-title="ㅤ" tvg-logo="https://i.ibb.co/gZZrjWn/BlueStar.gif",NETHub🅃🅅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/elx2hzpumgk2zgk/						
+	
 
 #EXTINF:-1 tvg-id="boxhits" group-title="QUỐC TẾ    " tvg-logo="https://i.ibb.co/HVKXcH5/thumb-1626834087channel3-Box-Hit.jpg", Box Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dl.dropboxusercontent.com/s/28ty97que0ave8x/	
 
-#EXTINF:-1 tvg-id="inthebox" group-title="QUỐC TẾ    " tvg-logo="https://i.ibb.co/x1xWNF2/box.jpg"  catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8", In The Box
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/vbw1it91f0wi3g6/	
+
 
 
 #EXTINF:-1 tvg-id="man" group-title="QUỐC TẾ    " tvg-logo="https://i.ibb.co/0ZJvWYn/man.jpg" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/man-tv/chunklist_2_${start}.m3u8", Man
@@ -730,8 +722,6 @@ https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 
 
 
-#EXTINF:-1 tvg-id="disney"  group-title="QUỐC TẾ    " tvg-logo="https://d3atsf3fgek2rw.cloudfront.net/content/uploads/2012/01/Discovery-MAX-logo.jpg", Discovery DMAX HD
-#http://xcchui2.mrnova.online/live/60682_.m3u8
 
 #EXTINF:-1 tvg-id="disneyjunior" group-title="QUỐC TẾ    " tvg-logo="https://1.bp.blogspot.com/-6ZmwyXEauTc/YJMzooOrqeI/AAAAAAAAFes/EM-Z5a84fzU0OABxkHD2hvuzsXPPRN4NgCLcBGAsYHQ/s1920/Red%2BBull%2BTV%252C%2BNBA%2BTV%252C%2BMLB%2BNetwork%252C%2BNFL%2BNetwork%252C%2BNFL%2BRedzone%252C%2BWatch%2BUSA%2BTV%2Blive%2Bonline.jpg", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
