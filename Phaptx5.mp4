@@ -117,7 +117,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/s2/index.m3u8|Referer=http:/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv2/s2/index.m3u8|Referer=http://sctvonline.vn/
 #https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
-#https://e1.endpoint.cdn.sctvonline.vn/secure/sctv2/sd1/index.m3u8?md5=4uJKDAWdU9pdIfSzvhQJPQ&expires=2556118740|Referer=http://sctvonline.vn/
+
 #EXTINF:-1 tvg-id="sctv3hd"  tvg-logo="http://onetv.click/logo/sctv3hd.png" tvg-chno="37"  group-title="SCTV   " ,SCTV3 HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv3/s2/index.m3u8|Referer=http://sctvonline.vn/
@@ -129,7 +129,6 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv4/s2/index.m3u8|Referer=http:/
 #EXTINF:-1 tvg-id="sctv5" type="stream" tvg-logo="https://i.ibb.co/bLcnbBR/sctv5-auto-x2.jpg" tvg-chno="39" group-title="SCTV   " ,SCTV5 HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv5/s2/index.m3u8|Referer=http://sctvonline.vn/
-#https://e1.endpoint.cdn.sctvonline.vn/secure/sctv5/sd1/index.m3u8?md5=WgFj80nCKRlhZ4R9zQoZzg&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv6hd"  tvg-logo="http://onetv.click/logo/sctv6hd.png" tvg-chno="40" group-title="SCTV   "  catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-10800.m3u8" ,SCTV6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
@@ -142,15 +141,12 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/s2/index.m3u8|Referer=http:/
 #EXTINF:-1 tvg-id="sctv8hd"  tvg-logo="http://onetv.click/logo/sctv8hd.png" tvg-chno="42" group-title="SCTV   " ,SCTV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/s2/index.m3u8|Referer=http://sctvonline.vn/
-#https://e1.endpoint.cdn.sctvonline.vn/secure/sctv8/sd1/index.m3u8?md5=4VmSMUN05v9AhUS7aYe6Ig&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv9hd"  tvg-logo="http://onetv.click/logo/sctv9hd.png" tvg-chno="43" group-title="SCTV   " ,SCTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/s2/index.m3u8|Referer=http://sctvonline.vn/
-#https://e1.endpoint.cdn.sctvonline.vn/secure/sctv9/sd1/index.m3u8?md5=YbHnb-7yJPcp86S-bNWnvA&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv10"  tvg-logo="https://i.ibb.co/jWjs5kF/sctv5.jpg" tvg-chno="44" group-title="SCTV   " ,SCTV10 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8|Referer=http://sctvonline.vn/
-#https://e1.endpoint.cdn.sctvonline.vn/secure/sctv10/sd1/index.m3u8?md5=goeMc3OrV5Un43gP6kDnlw&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv11hd"  tvg-logo="http://onetv.click/logo/sctv11hd.png" tvg-chno="45" group-title="SCTV   " ,SCTV11 HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/s2/index.m3u8|Referer=http://sctvonline.vn/
