@@ -684,6 +684,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http:/
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_4606159a.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="QUỐC TẾ    ",CNA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 https://vips-livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 
 													 ㅤ
@@ -692,27 +694,13 @@ https://vips-livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 https://dl.dropboxusercontent.com/s/vbw1it91f0wi3g6/																						 ㅤ
 																					 ㅤ
 																		 ㅤ
-#EXTINF:0  tvg-id="man" group-title="ㅤ" tvg-logo="https://i.ibb.co/4Fb1FQ7/ccManTV.png",Man
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/d6ee6vnwukqbk81/																				 ㅤ
-#EXTINF:0 tvg-id="boxhits" group-title="ㅤ" tvg-logo="https://i.ibb.co/Xzzztyy/cc-Box-Hits.jpg",BOX Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/28ty97que0ave8x/																			
-#EXTINF:0 tvg-id="france24eng" group-title="ㅤ" tvg-logo="https://i.ibb.co/gZZrjWn/BlueStar.gif",NETHub🅃🅅
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/elx2hzpumgk2zgk/						
-	
 
 #EXTINF:-1 tvg-id="boxhits" group-title="QUỐC TẾ    " tvg-logo="https://i.ibb.co/HVKXcH5/thumb-1626834087channel3-Box-Hit.jpg", Box Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/28ty97que0ave8x/	
-
 
 
 
 #EXTINF:-1 tvg-id="man" group-title="QUỐC TẾ    " tvg-logo="https://i.ibb.co/0ZJvWYn/man.jpg" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/man-tv/chunklist_2_${start}.m3u8", Man
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/d6ee6vnwukqbk81/			
+		
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://lh3.googleusercontent.com/-WJtvINvLbXI/W1mCchJ_iiI/AAAAAAAAELw/9jm-ZtkJrXM3qDx_2qgO62MIuCP4cdS1gCLcBGAs/h250/icon_channel_national-geographic-hd_152238635227.png" group-title="QUỐC TẾ    ",National Geographic HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -778,54 +766,54 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn.dribbble.com/users/630990/screenshots/3853322/fotball.gif" group-title="CÀ KHỊA ⚽",TRỰC TIẾP BÓNG ĐÁ    
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
 #EXTINF:-1 tvg-id="kcinehd" group-title="CÀ KHỊA ⚽" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/qs8nfynd_k-cine_296_168.webp", K+CINE HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3ArmD4XF45Gi_EMWtAVN-6ZQ_IIH1XMYjqI-IuTzJs8pM%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjUxODk0Njg4ODg3LHU6IjQyMzdjNDJiLTA5YTQtYTFhYy0zZGJmLWNhMmY5ODVlYzMwMiIsZGU6NixsZjowLHM6IjEwMy4xNzAuMTIzLjE2OSJ9
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AiaD3GeUG4X-eqtmuhGcP54aQ5FCmK_HH8UKMKmy3iKU%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjUxOTAwODUxNDg3LHU6IjQyMzdjNDJiLTA5YTQtYTFhYy0zZGJmLWNhMmY5ODVlYzMwMiIsZGU6NixsZjowLHM6IjEwMy4xNzAuMTIzLjE2OSJ9
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
-#EXTINF:-1 tvg-id="klifehd" group-title="CÀ KHỊA ⚽" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/8cu1dyf9_k-life_296_168.webp", K+LIFE HD
+#EXTINF:-1 tvg-id="klifehd" group-title="CÀ KHỊA ⚽"tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/8cu1dyf9_k-life_296_168.webp", K+LIFE HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AhILQ3909XRH-06q2gSAOkoV0j9dAYUHM5E2ZxllXsQE%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFRIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjUxODk0Njg5Mjk0LHU6IjQyMzdjNDJiLTA5YTQtYTFhYy0zZGJmLWNhMmY5ODVlYzMwMiIsZGU6NixsZjowLHM6IjEwMy4xNzAuMTIzLjE2OSJ9
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3ACaQ5kqcOPXhkqoYQXzw-KGwXpz_VCu39iC9To3OcUcA%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFRIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjUxOTAwODUxOTA5LHU6IjQyMzdjNDJiLTA5YTQtYTFhYy0zZGJmLWNhMmY5ODVlYzMwMiIsZGU6NixsZjowLHM6IjEwMy4xNzAuMTIzLjE2OSJ9
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/i.mpd
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="CÀ KHỊA ⚽" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+KIDS HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AQ-hf907jluH5r6-tSYPuYK2NAoy7gYrM0vtuFK2ndvo%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFVIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjUxODk0Njg5NjcxLHU6IjQyMzdjNDJiLTA5YTQtYTFhYy0zZGJmLWNhMmY5ODVlYzMwMiIsZGU6NixsZjowLHM6IjEwMy4xNzAuMTIzLjE2OSJ9
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AeCXFfEsdYMlWXBDt2UwF0DgF5xRd1gQ1qht6RLa5zfg%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFVIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjUxOTAwODUyMzQ2LHU6IjQyMzdjNDJiLTA5YTQtYTFhYy0zZGJmLWNhMmY5ODVlYzMwMiIsZGU6NixsZjowLHM6IjEwMy4xNzAuMTIzLjE2OSJ9
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/i.mpd
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="CÀ KHỊA ⚽" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/fxxda3tb_k-sport1b118c9aa73fa0dff5b4b412563b03e7f_296_168.webp", K+SPORT1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3Ao_Ky7obtUcJTNPGtvH4wgKMCqu4NuXCbEI6XlbB6qG0%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFFIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjUxODk0NjkwMjk3LHU6IjQyMzdjNDJiLTA5YTQtYTFhYy0zZGJmLWNhMmY5ODVlYzMwMiIsZGU6NixsZjowLHM6IjEwMy4xNzAuMTIzLjE2OSJ9
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AgbdqZe_-7MgrDrClft3gIHZuyTXgHHHv90VwAChS_QI%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFFIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjUxOTAwODUzNjEyLHU6IjQyMzdjNDJiLTA5YTQtYTFhYy0zZGJmLWNhMmY5ODVlYzMwMiIsZGU6NixsZjowLHM6IjEwMy4xNzAuMTIzLjE2OSJ9
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="CÀ KHỊA ⚽"tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+SPORT2 HD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="CÀ KHỊA ⚽" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+SPORT2 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AUMzBAsUuHvk3Yyg0QOdchSwwq8VoYVGVFGsi5chtc0s%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFJIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjUxODk0NjkwNzM0LHU6IjQyMzdjNDJiLTA5YTQtYTFhYy0zZGJmLWNhMmY5ODVlYzMwMiIsZGU6NixsZjowLHM6IjEwMy4xNzAuMTIzLjE2OSJ9
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AhHkIUfzIWK6bhX1r-jgMdH3S4cbXhtnJQw5SqCsBn1E%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFJIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjUxOTAwODUzOTk3LHU6IjQyMzdjNDJiLTA5YTQtYTFhYy0zZGJmLWNhMmY5ODVlYzMwMiIsZGU6NixsZjowLHM6IjEwMy4xNzAuMTIzLjE2OSJ9
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/i.mpd
 
 #EXTINF:-1 tvg-id="VTVCab16hd" group-title="CÀ KHỊA ⚽" tvg-logo="https://vthanh.xyz/ic/26.png", ON Football HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3A94w2ccYq86RcBZnX2OVsyaPpp1eWBLrb7x9dWoX4vgA%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFrIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjUxODk0NjkxMTQxLHU6IjQyMzdjNDJiLTA5YTQtYTFhYy0zZGJmLWNhMmY5ODVlYzMwMiIsZGU6NixsZjowLHM6IjEwMy4xNzAuMTIzLjE2OSJ9
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3ApswEXFFQw9Yy82B_tNWAUKtcdAJxUg0WxMjHS1vhXw4%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFrIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjUxOTAwODU0NjQwLHU6IjQyMzdjNDJiLTA5YTQtYTFhYy0zZGJmLWNhMmY5ODVlYzMwMiIsZGU6NixsZjowLHM6IjEwMy4xNzAuMTIzLjE2OSJ9
 https://vstv.broadpeak-aas.com/bpk-tv/prod_on_football/default/i.mpd
 
 #EXTINF:-1 tvg-id="VTVCab3hd" group-title="CÀ KHỊA ⚽" tvg-logo="https://vthanh.xyz/ic/15.png", ON Sports HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AwPpgr-xo5JgTxrKQDfgpodeJzOkdw7XfT2hlr37STiE%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFvIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjUxODk0NjkxNjQxLHU6IjQyMzdjNDJiLTA5YTQtYTFhYy0zZGJmLWNhMmY5ODVlYzMwMiIsZGU6NixsZjowLHM6IjEwMy4xNzAuMTIzLjE2OSJ9
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AV0Fl1MpdA8dxm5a6U1k2BHHla-I1IZzjha1w00OQdjo%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFvIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjUxOTAwODU1MDQxLHU6IjQyMzdjNDJiLTA5YTQtYTFhYy0zZGJmLWNhMmY5ODVlYzMwMiIsZGU6NixsZjowLHM6IjEwMy4xNzAuMTIzLjE2OSJ9
 https://vstv.broadpeak-aas.com/bpk-tv/prod_on_sports/default/i.mpd
 
 #EXTINF:-1 tvg-id="VTVCab6hd" tvg-logo="https://vthanh.xyz/ic/18.png" group-title="CÀ KHỊA ⚽", ON SPORT +
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AnCubNbPiVeZhGKTrf2lMzHIOiwGVOJRqTZUpX_ZMz74%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUNZIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjUxODk0NjkzMTE1LHU6IjQyMzdjNDJiLTA5YTQtYTFhYy0zZGJmLWNhMmY5ODVlYzMwMiIsZGU6NixsZjowLHM6IjEwMy4xNzAuMTIzLjE2OSJ9
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AYiOg30Pu_RjgiMtjdOOmtPn831GomdNTjOCcfGoPMS4%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUNZIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjUxOTAwODU1NDYzLHU6IjQyMzdjNDJiLTA5YTQtYTFhYy0zZGJmLWNhMmY5ODVlYzMwMiIsZGU6NixsZjowLHM6IjEwMy4xNzAuMTIzLjE2OSJ9
 https://vstv.broadpeak-aas.com/bpk-tv/prod_onsport_plus/default/i.mpd
+
 #EXTINF:-1  tvg-logo="https://cdn.dribbble.com/users/630990/screenshots/3853322/fotball.gif" group-title="90 PHÚT ⚽",TRỰC TIẾP BÓNG ĐÁ   
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #Tks Hoài Thanh For Share
