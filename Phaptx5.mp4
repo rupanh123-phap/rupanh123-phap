@@ -1,5 +1,4 @@
 
-
 #EXTM3U url-tvg="http://bit.ly/epgphaptx5" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 
 #CHIA SẺ VÌ CỘNG ĐỒNG - PHÁP GROUP ANDROID BOX TX5 
@@ -776,4 +775,5 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #Tks Hoài Thanh For Share
 #EXTINF:-1  tvg-logo="https://media0.giphy.com/media/lOBwyrxw4nF69vR9hG/giphy.gif" group-title="SAO KÊ ⚽",TRỰC TIẾP BÓNG ĐÁ 
 #https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
 #PHAPTX5
