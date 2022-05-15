@@ -582,10 +582,8 @@ https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cocoro.tv/channels/co/channel-banner.png" group-title="TRẺ EM   ",Cocoro FHD
-https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
 
-#https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yQ2T6wT/naruto-4eb4d771aae0d.jpg" group-title="TRẺ EM   ",NaRuTo HD 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=
 #EXTINF:-1 tvg-id="" tvg-logo="https://as.com/meristation/imagenes/2021/05/11/noticias/1620730378_165552_1620730455_sumario_normal.jpg" group-title="TRẺ EM   ",Anime Clasico
@@ -601,32 +599,21 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="disneyjunior" group-title="TRẺ EM   " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRsE4vQzM5JZrUmrzwXyf_YIFTji7y8Yug2EPO3WxMcC3OFNgnAGLnghvJReBuhaf7U6A&usqp=CAU", TRT COCUK HD
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="disneyjunior" group-title="TRẺ EM   " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTshkE3YMWGxlBTgWFVQrzmufv1LK7JsSa_zi1jVnXouMCIUUBWbfYRQPS1SX7APzzRGmk&usqp=CAU", JUNIOR HD
-http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+
+
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id=" " tvg-logo="https://lh3.googleusercontent.com/YT2O35P2rzInw8nJu4DS360GsxrzJypasmYqhqzmnx1CBV-s9l7Cz1Rgr76T6bGvv6I=w512" group-title="TRẺ EM   ",Anime TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.cdn.turner.com/adultswim/big/video/aqua-teen-hunger-force-marathon/marathonStream_athf10.jpg" group-title="TRẺ EM   ",Adult Swim Aqua Teen Hunger Force
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://media.cdn.adultswim.com/uploads/20210610/thumbnails/2_21610117352-GlobalRAM_16x9_30_Dated.png" group-title="TRẺ EM   ",Adult Swim Rick and Morty
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/03/00-robot-chicken-590x378.jpg" group-title="TRẺ EM   ",Adult Swim Robot Chicken
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.gameplaymechanix.com/wp-content/uploads/2020/07/SAMURAI-JACK-VIDEO-GAME.jpg" group-title="TRẺ EM   ",Adult Swim Samurai Jack
-https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ytimg.com/vi/48hmx022IJc/maxresdefault.jpg" group-title="TRẺ EM   ",Adult Swim The Venture Bros
-https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
-#EXTINF:-1 tvg-id="disneyjunior" group-title="TRẺ EM   " tvg-logo="https://i.ibb.co/kSfwfBk/152-1523942-pbs-kids-channel-logotype-hd-png-download.png", PBS KIDS HD
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ytimg.com/vi/hewioIU4a64/maxresdefault.jpg" group-title="TRẺ EM   ",Animal Kids
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr57V5uAz8mYXlMk0GXZW51cHWVNVFKH-zKA&usqp=CAU" group-title="TRẺ EM   ",Dora TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e43c344b54fe800093552f4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e43c344b54fe800093552f4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c28ebf75-0713-11eb-97af-0242ac110002&terminate=false&userId=
 
-https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
+
+
+
 #EXTINF:-1 tvg-id="disneyjunior" group-title="TRẺ EM   " tvg-logo="https://i.ibb.co/VWthhcm/unnamed-1.jpg", 3ABN KIDS HD
 #https://moiptvhls-i.akamaihd.net/hls/live/652318-b/secure/SQs/chunklist.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
@@ -636,7 +623,7 @@ https://edge6a.v2h-cdn.com/appt7/Toonee.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="English Club" tvg-name="English Club TV" tvg-logo="https://image.roku.com/developer_channels/prod/d0211c2d8b2f22758d15853c98db949c1411240d5918424c2f36f1e19b8760ca.png" group-title="TRẺ EM   ", Học Tiếng Anh
 
-http://193.33.88.172/english_club_tv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vmx43Cc/CONtv-Logo.jpg" group-title="TRẺ EM   ",Học Tiếng Anh CONTV ANIME FHD
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
@@ -676,8 +663,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http:/
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_4606159a.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="QUỐC TẾ    ",CNA HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vips-livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
+
 
 													 ㅤ
 #EXTINF:-1 tvg-id="inthebox" group-title="QUỐC TẾ    " tvg-logo="https://i.ibb.co/x1xWNF2/box.jpg",BOX Channel																								 ㅤ
