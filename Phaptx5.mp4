@@ -634,7 +634,7 @@ https://edge6a.v2h-cdn.com/appt7/Toonee.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vmx43Cc/CONtv-Logo.jpg" group-title="TRẺ EM   ",Học Tiếng Anh CONTV ANIME FHD
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://dcassetcdn.com/design_img/61656/76317/76317_1090919_61656_thumbnail.jpg" group-title="TRẺ EM   ",Học Tiếng Anh KPOP 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://thehoneypop.com/wp-content/uploads/2021/01/image-2.png" group-title="TRẺ EM   ",Học Tiếng Anh KPOP 
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
 
 
@@ -741,6 +741,36 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="QUỐC TẾ    ",Love4K Nature 
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
+#EXTINF:-1 group-title="SEA GAMES 31" tvg-logo="https://media.vov.vn/sites/default/files/inline-images/Sea-Games-31-Vietnam.png",Trực Tiếp 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="SEA GAMES 31" tvg-logo="https://media.vov.vn/sites/default/files/inline-images/Sea-Games-31-Vietnam.png",Trực Tiếp 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="SEA GAMES 31" tvg-logo="https://media.vov.vn/sites/default/files/inline-images/Sea-Games-31-Vietnam.png",Trực Tiếp 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport03_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="SEA GAMES 31" tvg-logo="https://media.vov.vn/sites/default/files/inline-images/Sea-Games-31-Vietnam.png",Trực Tiếp 04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport04_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="SEA GAMES 31" tvg-logo="https://media.vov.vn/sites/default/files/inline-images/Sea-Games-31-Vietnam.png",Trực Tiếp 05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport05_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="SEA GAMES 31" tvg-logo="https://media.vov.vn/sites/default/files/inline-images/Sea-Games-31-Vietnam.png",Trực Tiếp 06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport06_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="SEA GAMES 31" tvg-logo="https://media.vov.vn/sites/default/files/inline-images/Sea-Games-31-Vietnam.png",Trực Tiếp 07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport07_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="SEA GAMES 31" tvg-logo="https://media.vov.vn/sites/default/files/inline-images/Sea-Games-31-Vietnam.png",Trực Tiếp 08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport08_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="SEA GAMES 31" tvg-logo="https://media.vov.vn/sites/default/files/inline-images/Sea-Games-31-Vietnam.png",Trực Tiếp 09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport09_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="SEA GAMES 31" tvg-logo="https://media.vov.vn/sites/default/files/inline-images/Sea-Games-31-Vietnam.png",Trực Tiếp 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport10_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://cdn.dribbble.com/users/630990/screenshots/3853322/fotball.gif" group-title="CÀ KHỊA ⚽",TRỰC TIẾP BÓNG ĐÁ    
@@ -749,11 +779,11 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn.dribbble.com/users/630990/screenshots/3853322/fotball.gif" group-title="90 PHÚT ⚽",TRỰC TIẾP BÓNG ĐÁ   
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#Tks Hoài Thanh For Share
+
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/630990/screenshots/3853322/fotball.gif" group-title="XÔI LẠC ⚽",TRỰC TIẾP BÓNG ĐÁ     
 
-#Tks Hoài Thanh For Share
+
 #EXTINF:-1  tvg-logo="https://media0.giphy.com/media/lOBwyrxw4nF69vR9hG/giphy.gif" group-title="SAO KÊ ⚽",TRỰC TIẾP BÓNG ĐÁ 
-#https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
 
 #PHAPTX5
