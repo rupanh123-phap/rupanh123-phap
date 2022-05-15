@@ -246,15 +246,8 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvcplushd"  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-plus_159175078181.png" group-title="HTVC   " ,HTVC Plus 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil /chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htvcplushd"  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-plus_159175078181.png" group-title="HTVC   " ,HTVC Plus 
----------------
 
 
-
-
-
-
-#http://45.137.21.81/madturnip07@yahoo.com/8832554033/28067?token=HRRcUhFaEA4SAgFSAVBSVAJWUFkBV1UBAAlaXVMBU1NVUAcKBAAAA1YTGENDRkUDVl07CFZECgYPCVVSHhRFQgNEa1oGEAgWBQUCVQUQG0RDWQkEEFwBAgQKUV0DAQkFShREWgYQCBYGAANVEh4VA09EARNcB1xrU1wVDFFTEgsIQ1hfThBdWm9VUQxRXFNEDRJUQx5EWUdHG1kLR1pcHURUXUcQU0ZREgsWUAMAAVEVHEYCXRNeQEVAQV8QYH4TShRRSxZXXEdZXlpDChBDFRUcRghBOUJRRE0RAFNbVUNEDBYDQB4QWVFJawJfXFkDVEQNDlwVEg4VDUFJEFtfXw9CW0E9QltQEgsWUwQLA1MVTQ==
 #EXTINF:-1 tvg-id="vovtvhd" group-title="ĐỊA PHƯƠNG   " tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vovtv_161070256824.jpg",VOV Đài Tiếng Nói Việt Nam
 #http://mediatech.vncdn.vn/vovlive/tv1live.m3u8
 #https://live.truyenhinhdulich.vn/vovlive/tv1live.m3u8
@@ -687,11 +680,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sc
 https://vips-livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 
 													 ㅤ
-#EXTINF:0 tvg-id="inthebox" group-title="QUỐC TẾ    " tvg-logo="https://i.ibb.co/x1xWNF2/box.jpg",BOX Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-																						 ㅤ
-																					 ㅤ
-																		 ㅤ
+#EXTINF:-1 tvg-id="inthebox" group-title="QUỐC TẾ    " tvg-logo="https://i.ibb.co/x1xWNF2/box.jpg",BOX Channel																								 ㅤ
 
 #EXTINF:-1 tvg-id="boxhits" group-title="QUỐC TẾ    " tvg-logo="https://i.ibb.co/HVKXcH5/thumb-1626834087channel3-Box-Hit.jpg", Box Hits
 
