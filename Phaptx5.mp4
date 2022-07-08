@@ -744,7 +744,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVCAB " tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png", ON GOLF http://live.television4you.xyz:8080/vtvcab23
 #EXTINF:-1 group-title="VTVCAB " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg", ON GOLF ENG https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/04.m3u8 #EXTINF:-1 group-title="VTVCAB " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/c9f48c4f-a407-4d48-90ce-dd7ec9422c0c.jpg", ON VFF https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
 
-#EXTINF:-1 group-title="TRỰC TIẾP U19 VN " tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", Live Việt Nam https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="TRỰC TIẾP AFF CUP U19 " tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", Trực tiếp https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.dribbble.com/users/630990/screenshots/3853322/fotball.gif" group-title="CÀ KHỊA ⚽",TRỰC TIẾP BÓNG ĐÁ    
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
