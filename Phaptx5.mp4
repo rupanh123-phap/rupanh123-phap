@@ -6,7 +6,7 @@
 #Thank Chủ Tịch V I P Hoàng Xuân Vĩnh Phú    Chúa Tể Hội Quán Truyền Hình 
 #Nghệ sĩ nhảy múa với IP ,  đội trưởng kiến tạo acc, ông hoàng tuyến giữa, vị thần điều tiết nhịp độ trận đấu, vua iptv , thánh đánh chặn, hoàng tử list 18+, tể tướng chiến thuật, đại tướng chia List, chuyên gia vọc List, 
 #Giáo sư cầm trịch , phượng hoàng tung cánh, mảnh ghép hoàn hảo,... For Share ListIPTV .
-#Thank Pro Lão Hạc ,Kham Pha, Hoài Thanh , Trầm Tiến ,.. 
+#Thank Pro Lão Hạc ,Kham Pha, Hoài Thanh , Trầm Tiến ,Vthanh, Bear,.. 
 #Thank Trùm Kodi ManhKendo
 #Thank EPG Trada , Bảo Chính For Share
 #Thank All Source For Share
@@ -681,6 +681,12 @@ http://live.television4you.xyz/boxhits/mpegts
 #EXTINF:-1 tvg-id="man" group-title="QUỐC TẾ    " tvg-logo="https://i.ibb.co/0ZJvWYn/man.jpg" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/man-tv/chunklist_2_${start}.m3u8", Man
 		
 http://live.television4you.xyz:8080/man
+
+#EXTINF:-1 tvg-id="hits" group-title="QUỐC TẾ    " tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS
+https://api.vthanhtivii.xyz/v1/getlink/tv360/107/2
+#EXTINF:-1 tvg-id="hgtv" group-title="QUỐC TẾ    " tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
+https://api.vthanhtivii.xyz/v1/getlink/tv360/99/2
+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://lh3.googleusercontent.com/-WJtvINvLbXI/W1mCchJ_iiI/AAAAAAAAELw/9jm-ZtkJrXM3qDx_2qgO62MIuCP4cdS1gCLcBGAs/h250/icon_channel_national-geographic-hd_152238635227.png" group-title="QUỐC TẾ    ",National Geographic HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
@@ -740,8 +746,6 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="QUỐC TẾ    ",Love4K Nature 
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 tvg-id="hits" group-title="QUỐC TẾ    " tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS
-https://api.vthanhtivii.xyz/v1/getlink/tv360/107/2
 
 #EXTINF:-1 group-title="VTVCAB " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg", ON GOLF LIVE
 https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/04.m3u8
