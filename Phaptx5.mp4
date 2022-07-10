@@ -740,13 +740,14 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="QUỐC TẾ    ",Love4K Nature 
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/c9f48c4f-a407-4d48-90ce-dd7ec9422c0c.jpg", ON VFF
-https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
+#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg", ON GOLF LIVE
+https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/04.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVCAB " tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png", ON GOLF 
 http://live.television4you.xyz:8080/vtvcab23
-#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg", ON GOLF LIVE
-https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/04.m3u8 #EXTINF:-1 group-title="VTVCAB " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/c9f48c4f-a407-4d48-90ce-dd7ec9422c0c.jpg", ON VFF https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
 
+#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/c9f48c4f-a407-4d48-90ce-dd7ec9422c0c.jpg", ON VFF
+https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
 
 #EXTINF:-1 group-title="AFF CUP U19 VIETNAM " tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", Trực tiếp 
 https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8
