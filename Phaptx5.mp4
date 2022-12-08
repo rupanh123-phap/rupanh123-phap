@@ -801,9 +801,11 @@ https://b.dl.dropboxusercontent.com/s/s53baiewsrrwl4s/./   																					
 https://b.dl.dropboxusercontent.com/s/hozh2hp8cgrpfcr/./   																						 ㅤ
 
 #EXTINF:-1 tvg-id="hits" group-title="QUỐC TẾ    " tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS
-https://api.vthanhtivii.xyz/v1/getlink/tv360/107/2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://q.dl.dropboxusercontent.com/s/53qvp8mzlx741c0/./   																						 ㅤ
 #EXTINF:-1 tvg-id="hgtv" group-title="QUỐC TẾ    " tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
-https://api.vthanhtivii.xyz/v1/getlink/tv360/99/2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://q.dl.dropboxusercontent.com/s/of7s1siemcyb2lw/./   				
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://lh3.googleusercontent.com/-WJtvINvLbXI/W1mCchJ_iiI/AAAAAAAAELw/9jm-ZtkJrXM3qDx_2qgO62MIuCP4cdS1gCLcBGAs/h250/icon_channel_national-geographic-hd_152238635227.png" group-title="QUỐC TẾ    ",National Geographic HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -846,9 +848,9 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
 
 #EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://i.ibb.co/GcXvQSd/bd.png" group-title="QUỐC TẾ    ",FTV Body HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
 #EXTINF:-1  tvg-id="fashionhd"  tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fM18xNTU1MDAxNTE3XzA4Nw/screen-3.jpg?fakeurl=1&type=.jpg" group-title="QUỐC TẾ    " ,FTV Midnight Haute HD   
-https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1  tvg-id="fashionhd"  tvg-logo="https://i.ibb.co/Ctkc3Hx/FASHION.png" group-title="QUỐC TẾ    " ,FTV UHD 
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
