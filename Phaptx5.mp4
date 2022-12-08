@@ -278,13 +278,14 @@ https://v.dl.dropboxusercontent.com/s/y3erjlan8z8lub0/./   																					
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referer=http://sctvonline.vn/
 https://v.dl.dropboxusercontent.com/s/xnqgxbnzjv4xedq/./   	
+
 #EXTINF:-1 tvg-id="vtvcab1hd"  tvg-logo="https://vtvcabtaidanang.com/wp-content/uploads/2017/05/vtvcab-1-giai-tri-tv.jpg"  tvg-chno="65" group-title="VTVCAB   " ,VTVCAB 1 HD  
 #https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/3166162cc7cf87d779c412c66ea79ac6/1635648121260/vtvcab/live/hd_vtvcab_1_test/playlist.m3u8
 ##https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab1/index.m3u8?md5=dBooYMMaJzuC4PQSnva4EQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab2hd"" tvg-logo="https://i.ibb.co/n0W0LS5/kenh-2-ce40790f.jpg"  tvg-chno="66" group-title="VTVCAB   " ,VTVCAB 2 HD  
 ##https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab2/index.m3u8?md5=QGYdEQjOO4Qj5YcwRFeV1w&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-id="vtvcab3hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/kenh-3_743a9dbd.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" tvg-chno="67" group-title="VTVCAB   " ,VTVCAB 3 HD  
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740|Referer=http://sctvonline.vn/
+##https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vtvcab4hd" tvg-logo="https://i.ibb.co/6bj2GkX/cab4.jpg"  tvg-chno="68" group-title="VTVCAB   " ,VTVCAB 4 HD  
 ##https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -299,7 +300,7 @@ https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK
 #EXTINF:-1 tvg-id="vtvcab9hd"  tvg-logo="https://i.ibb.co/rKrjJ08/cab9.jpg"  tvg-chno="73" group-title="VTVCAB   " ,VTVCAB 9 HD  
 ##https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab9/index.m3u8?md5=H-CZgExdlhVls0-cEfpa4Q&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab10hd"  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/kenh-10_f448d047.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn"  tvg-chno="74" group-title="VTVCAB   " ,VTVCAB  10 HD  
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2-k5aGSCR8Q&expires=2556118740|Referer=http://sctvonline.vn
+##https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2-k5aGSCR8Q&expires=2556118740|Referer=http://sctvonline.vn
 #EXTINF:-1 tvg-id="vtvcab11hd"  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/83_b051238f.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn"  tvg-chno="75" group-title="VTVCAB   " ,VTVCAB 11 HD  
 ##https://vtsstr7.tv24.vn/live/VTVcab11.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd"  tvg-logo="https://i.ibb.co/wdsvRkD/cab12.jpg"  tvg-chno="75" group-title="VTVCAB   " ,VTVCAB 12 HD  
@@ -857,15 +858,3 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="QUỐC TẾ    ",Love4K Nature 
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-
-#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg", ON GOLF LIVE
-https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/04.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVCAB " tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png", ON GOLF 
-http://live.television4you.xyz:8080/vtvcab23
-
-#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/c9f48c4f-a407-4d48-90ce-dd7ec9422c0c.jpg", ON VFF
-https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
-
-
