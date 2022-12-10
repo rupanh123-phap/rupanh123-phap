@@ -22,10 +22,10 @@ https://8ypuv74wu.vtvgiaitri.vn/vtv03/vtv03@1080p.m3u8
 
 https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://img.vnmedia.xyz/logo/vtv5hd.jpg"  group-title="VTV   " tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD
-https://api.sugustv.tk/get/mytv/tv/h/379																						 ㅤ												 ㅤ
+https://8ypuv74wu.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8																						 ㅤ												 ㅤ
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://img.vnmedia.xyz/logo/vtv6hd.jpg"  group-title="VTV   " tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://api.sugustv.tk/get/mytv/tv/h/212																						 ㅤ   																						 ㅤ																				
+https://8ypuv74wu.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8																						 ㅤ   																						 ㅤ																				
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" tvg-logo="https://img.vnmedia.xyz/logo/vtv7hd.jpg"  group-title="VTV   " tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV7 HD
 
 
