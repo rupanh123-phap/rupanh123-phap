@@ -1,10 +1,1 @@
 
-#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=1
-
-
-#EXTINF:0 tvg-id="k" group-title="4K HDR" tvg-logo="https://www.avcaesar.com/src/news/00/00/8F/E0/liste-des-contenus-ultra-hd-4k-canal-jusquau-15-fevrier-201901374013.jpg",Canal+ 4.KHDR
-http://194.233.68.217/Live2/mpegts 
-
-
-#EXTINF:0 tvg-id="k" group-title="4K HDR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Logo_RMC_Sport_1_UHD.svg/1200px-Logo_RMC_Sport_1_UHD.svg.png",RMC Sport 4.K
-http://20.187.144.58/RMC/mpegts 
