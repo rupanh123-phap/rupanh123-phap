@@ -14,16 +14,16 @@
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://img.vnmedia.xyz/logo/vtv2hd.jpg"  group-title="VTV   " tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
-https://8ypuv74wu.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8																					 ㅤ																				 ㅤ							
+https://8ypuv74wu.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8%20																				 ㅤ																				 ㅤ							
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://img.vnmedia.xyz/logo/vtv3hd.jpg"  group-title="VTV   " tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
 https://8ypuv74wu.vtvgiaitri.vn/vtv03/vtv03@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" tvg-logo="https://img.vnmedia.xyz/logo/vtv4hd.jpg"  group-title="VTV   " tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD
 
 https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://img.vnmedia.xyz/logo/vtv5hd.jpg"  group-title="VTV   " tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD
-https://8ypuv74wu.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8																						 ㅤ												 ㅤ
+https://8ypuv74wu.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8%20																					 ㅤ												 ㅤ
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://img.vnmedia.xyz/logo/vtv6hd.jpg"  group-title="VTV   " tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV Cần Thơ
-https://8ypuv74wu.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8																						 ㅤ   																						 ㅤ																				
+https://8ypuv74wu.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8%20																					 ㅤ   																						 ㅤ																				
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" tvg-logo="https://img.vnmedia.xyz/logo/vtv7hd.jpg"  group-title="VTV   " tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV7 HD
 
 
