@@ -186,76 +186,76 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s2/index.m3u8|Referer=http:
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv22/index.m3u8|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctvhdpth" type="stream" group-title="SCTV" tvg-logo="https://i.ibb.co/TBG2QN5/sctv-phim.png",SCTV HD Phim Tổng Hợp
-https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/chunklist_b1692000.m3u8																					 ㅤ    																						 ㅤ 
+https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/chunklist_b1692000.m3u8
 
 #EXTINF:-1 tvg-id="btv5hd" type="stream" group-title="SCTV" tvg-logo="https://i.ibb.co/0hkCNs2/btv5.jpg",BTV5 HD
 https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vtvcab1hd"  tvg-logo="https://vtvcabtaidanang.com/wp-content/uploads/%2017/05/vtvcab-1-giai-tri-tv.jpg"  tvg-chno="65" group-title="VTVCAB" ,VTVCAB 1 HD  
-https://v.dl.dropboxusercontent.com/s/phz6bm2fw1ifclx/%20   																						 ㅤ 
+https://v.dl.dropboxusercontent.com/s/phz6bm2fw1ifclx/%20
 
 #EXTINF:-1 tvg-id="vtvcab2hd"" tvg-logo="https://i.ibb.co/n0W0LS5/kenh-2-ce40790f.jpg"  tvg-chno="66" group-title="VTVCAB" ,VTVCAB 2 HD  
-https://v.dl.dropboxusercontent.com/s/rslfhw8jwj5n14v/%20   																						 ㅤ 
+https://v.dl.dropboxusercontent.com/s/rslfhw8jwj5n14v/%20
 
 #EXTINF:-1  tvg-id="vtvcab3hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/kenh-3_743a9dbd.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" tvg-chno="67" group-title="VTVCAB" ,VTVCAB 3 HD  
-https://v.dl.dropboxusercontent.com/s/0cp2k300tk9bhnu/%20   																						 ㅤ 
+https://v.dl.dropboxusercontent.com/s/0cp2k300tk9bhnu/%20
 
 #EXTINF:-1 tvg-id="vtvcab4hd" tvg-logo="https://i.ibb.co/6bj2GkX/cab4.jpg"  tvg-chno="68" group-title="VTVCAB" ,VTVCAB 4 HD  
-https://v.dl.dropboxusercontent.com/s/66n0u4y5i7xoftl/%20   																						 ㅤ 
+https://v.dl.dropboxusercontent.com/s/66n0u4y5i7xoftl/%20
 
 #EXTINF:-1 tvg-id="vtvcab5hd"  tvg-logo="https://static-stage.tv24.vn/channel/181/vtvcab5-EChannel.png"  tvg-chno="69" group-title="VTVCAB" ,VTVCAB 5 HD  
-https://v.dl.dropboxusercontent.com/s/jkw4wqssoxa1qol/%20   																						 ㅤ 
+https://v.dl.dropboxusercontent.com/s/jkw4wqssoxa1qol/%20
 
 #EXTINF:-1 tvg-id="vtvcab6hd"  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/84_9b59e5ac.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn"  tvg-chno="70" group-title="VTVCAB" ,VTVCAB 6 HD  
-https://v.dl.dropboxusercontent.com/s/py2ys7586bgg505/%20   																						 ㅤ 
+https://v.dl.dropboxusercontent.com/s/py2ys7586bgg505/%20
 
 #EXTINF:-1 tvg-id="vtvcab7hd"  tvg-logo="https://i.ibb.co/fDSQnjm/cab10.jpg"  tvg-chno="71" group-title="VTVCAB" ,VTVCAB 7 HD  
-https://v.dl.dropboxusercontent.com/s/2rsqpc0rnfvfw5n/%20   																						 ㅤ 
+https://v.dl.dropboxusercontent.com/s/2rsqpc0rnfvfw5n/%20
 
 #EXTINF:-1 tvg-id="vtvcab8hd"  tvg-logo="https://i.ibb.co/fD73WwM/cab8.jpg"  tvg-chno="72" group-title="VTVCAB" ,VTVCAB 8 HD  
-https://v.dl.dropboxusercontent.com/s/tur9ku4e5m1ckfd/%20   																						 ㅤ    															
+https://v.dl.dropboxusercontent.com/s/tur9ku4e5m1ckfd/%20
 
 #EXTINF:-1 tvg-id="vtvcab9hd"  tvg-logo="https://i.ibb.co/rKrjJ08/cab9.jpg"  tvg-chno="73" group-title="VTVCAB" ,VTVCAB 9 HD  
-https://v.dl.dropboxusercontent.com/s/rimw7fq4yv0tfnn/%20   																						 ㅤ 
+https://v.dl.dropboxusercontent.com/s/rimw7fq4yv0tfnn/%20
 
 #EXTINF:-1 tvg-id="vtvcab10hd"  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/kenh-10_f448d047.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn"  tvg-chno="74" group-title="VTVCAB" ,VTVCAB  10 HD  
-https://v.dl.dropboxusercontent.com/s/gw6u4zjyeztwtq2/%20   																						 ㅤ 
+https://v.dl.dropboxusercontent.com/s/gw6u4zjyeztwtq2/%20
 
 #EXTINF:-1 tvg-id="vtvcab11hd"  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/83_b051238f.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn"  tvg-chno="75" group-title="VTVCAB" ,VTVCAB 11 HD  
 https://vtsstr7.tv24.vn/live/VTVcab11.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab12hd"  tvg-logo="https://i.ibb.co/wdsvRkD/cab12.jpg"  tvg-chno="75" group-title="VTVCAB" ,VTVCAB 12 HD  
-https://v.dl.dropboxusercontent.com/s/e9a1xinb8slu9uv/%20   																						 ㅤ 
+https://v.dl.dropboxusercontent.com/s/e9a1xinb8slu9uv/%20
 
 #EXTINF:-1 tvg-id="vtvcab13hd" tvg-logo="https://i.ibb.co/RvzsCkn/cab13.jpg"  tvg-chno="76" group-title="VTVCAB" ,VTVCAB 13 HD  
 https://vips-livecdn.fptplay.net/sdb/vtvhyundai_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab15hd" tvg-logo="https://img.vnmedia.xyz/logo/vtvcab15.jpg"  tvg-chno="77" group-title="VTVCAB" ,VTVCAB 15 HD  
-https://v.dl.dropboxusercontent.com/s/rnizgb07dv8m1r6/%20   																						 ㅤ 
+https://v.dl.dropboxusercontent.com/s/rnizgb07dv8m1r6/%20
 
 #EXTINF:0 tvg-id="vtvcab16hd" type="stream" group-title="VTVCAB" tvg-logo="https://i.ibb.co/jWGtxGc/cccab16.png",VTVcab16
-https://v.dl.dropboxusercontent.com/s/p8fsef2m2wosbdc/%20   																						 ㅤ 
+https://v.dl.dropboxusercontent.com/s/p8fsef2m2wosbdc/%20
 
 #EXTINF:-1 tvg-id="vtvcab17hd" tvg-logo="https://static-stage.tv24.vn/channel/186/vtvcab17-Yeah1TV.png"  tvg-chno="79" group-title="VTVCAB" ,VTVCAB 17 HD  
-https://v.dl.dropboxusercontent.com/s/0ghs8ejscgd6fgj/%20   																						 ㅤ 
+https://v.dl.dropboxusercontent.com/s/0ghs8ejscgd6fgj/%20
 
 #EXTINF:0 tvg-id="vtvcab18hd" type="stream" group-title="VTVCAB" tvg-logo="https://i.ibb.co/hXrdYRW/cccab18.png",VTVcab18
-https://v.dl.dropboxusercontent.com/s/gv0aqs66nux13zp/%20   																						 ㅤ 
+https://v.dl.dropboxusercontent.com/s/gv0aqs66nux13zp/%20
 
 #EXTINF:-1 tvg-id="vtvcab19hd" logo="https://i.ibb.co/1qxx1Wm/%20.png" group-title="VTVCAB" ,VTVCAB 19 HD
-https://v.dl.dropboxusercontent.com/s/0g10wplhbledvv1/%20   																						 ㅤ 
+https://v.dl.dropboxusercontent.com/s/0g10wplhbledvv1/%20
 
 #EXTINF:-1 tvg-id="vtvcab20hd"  tvg-logo="https://i.ibb.co/2vWKV2q/cab20.png"  tvg-chno="80" group-title="VTVCAB" ,VTVCAB 20 HD  
-https://v.dl.dropboxusercontent.com/s/816yp16wi8nhu2n/																						 ㅤ 
+https://v.dl.dropboxusercontent.com/s/816yp16wi8nhu2n/%20
 
 #EXTINF:-1 tvg-id="vtvcab21hd"  logo="https://i.ibb.co/308FQp8/cab21.jpg" group-title="VTVCAB" ,VTVCAB 21 HD  
-https://v.dl.dropboxusercontent.com/s/7h2i0bvfwm3ixgt/%20   																						 ㅤ
+https://v.dl.dropboxusercontent.com/s/7h2i0bvfwm3ixgt/%20
 
 #EXTINF:-1 tvg-id="vtvcab22hd"  tvg-logo="https://i.ibb.co/f8vpzsz/22.jpg"  tvg-chno="81" group-title="VTVCAB" ,VTVCAB 22 HD  
-https://v.dl.dropboxusercontent.com/s/wzlf7t6iptudyms/%20   																						 ㅤ
+https://v.dl.dropboxusercontent.com/s/wzlf7t6iptudyms/%20
 
 #EXTINF:0 tvg-id="vtvcab23hd" type="stream" group-title="VTVCAB" tvg-logo="https://i.ibb.co/r7tFs8D/cccab23.png",VTVcab23
-https://v.dl.dropboxusercontent.com/s/x35mtboabogqpjj/%20   																						 ㅤ																					 ㅤ
+https://v.dl.dropboxusercontent.com/s/x35mtboabogqpjj/%20
 
 #EXTINF:0 tvg-id="" type="stream" group-title="VTVCAB" tvg-logo="https://i.ibb.co/gVz08b4/cc-Golf-News.webp",Golf News
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8?cc
@@ -703,23 +703,23 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:0 tvg-id="inthebox" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/x1xWNF2/box.jpg",BOX Channel
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://b.dl.dropboxusercontent.com/s/2ph6r5ilqesx74y/%20   																						 ㅤ
+https://b.dl.dropboxusercontent.com/s/2ph6r5ilqesx74y/%20
 
 #EXTINF:0 tvg-id="boxhits" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/HVKXcH5/thumb-1626834087channel3-Box-Hit.jpg",BOX Hits
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://b.dl.dropboxusercontent.com/s/s53baiewsrrwl4s/%20   																						 ㅤ
+https://b.dl.dropboxusercontent.com/s/s53baiewsrrwl4s/%20
 
 #EXTINF:0  tvg-id="man" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/0ZJvWYn/man.jpg",MAN
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://b.dl.dropboxusercontent.com/s/hozh2hp8cgrpfcr/%20   																						 ㅤ
+https://b.dl.dropboxusercontent.com/s/hozh2hp8cgrpfcr/%20
 
 #EXTINF:-1 tvg-id="hits" group-title="QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS
-https://q.dl.dropboxusercontent.com/s/53qvp8mzlx741c0/%20   																						 ㅤ
+https://q.dl.dropboxusercontent.com/s/53qvp8mzlx741c0/%20
 
 #EXTINF:-1 tvg-id="hgtv" group-title="QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
-https://q.dl.dropboxusercontent.com/s/of7s1siemcyb2lw/%20   																						 ㅤ./   				
+https://q.dl.dropboxusercontent.com/s/of7s1siemcyb2lw/%20
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://lh3.googleusercontent.com/-WJtvINvLbXI/W1mCchJ_iiI/AAAAAAAAELw/9jm-ZtkJrXM3qDx_2qgO62MIuCP4cdS1gCLcBGAs/h250/icon_channel_national-geographic-hd_152238635227.png" group-title="QUỐC TẾ    ",National Geographic HD
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
@@ -728,7 +728,7 @@ https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:0 group-title="ÂM NHẠC   " tvg-logo="https://cinedigm.com/wp-content/uploads/2022/05/Untitled-1-5.jpg",KMTV
-https://q.dl.dropboxusercontent.com/s/h85u4r8wx8zymzn/																						 ㅤ
+https://q.dl.dropboxusercontent.com/s/h85u4r8wx8zymzn/%20	
 
 #EXTINF:-1 tvg-id="waku" tvg-logo="https://ws.shoutcast.com/images/contacts/2/2d3f/2d3f02f4-effc-42dc-8141-1cc55152a131/radios/486d1d77-2e18-4fc8-b6c9-53ce65283747/486d1d77-2e18-4fc8-b6c9-53ce65283747.png" group-title="ÂM NHẠC   ",KPOP MUSIC
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
@@ -771,7 +771,7 @@ https://vips-livecdn.fptplay.net/hda3/pladio_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",FM 365
 #EXTVLCOPT:http-user-agent="Radio"
-https://dl.dropboxusercontent.com/s/n9da4r26cd8wf4f/%20   																						 ㅤ
+https://dl.dropboxusercontent.com/s/n9da4r26cd8wf4f/%20
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",FM 99.9Mhz
 #EXTVLCOPT:http-user-agent="Radio"
