@@ -258,7 +258,7 @@ http://v.dl.dropboxusercontent.com/s/wzlf7t6iptudyms/%20
 http://v.dl.dropboxusercontent.com/s/x35mtboabogqpjj/%20
 
 #EXTINF:0 tvg-id="" type="stream" group-title="VTVCAB" tvg-logo="http://i.ibb.co/gVz08b4/cc-Golf-News.webp",Golf News
-http://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8?cc
+http://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvcthuanviethd"  tvg-logo="http://img.vnmedia.xyz/logo/htvcthuanviethd.jpg"  tvg-chno="84" group-title="HTVC" ,HTVC Thuần Việt HD
 http://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil /playlist.m3u8
@@ -577,7 +577,7 @@ http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="warnertvhd" tvg-name="WB" tvg-logo="http://img.vnmedia.xyz/logo/warnertvhd.jpg" group-title="QUỐC TẾ" tvg-chno="115",Warner TV HD
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/playlist.m3u8
 
-#EXTINF:-1  tvg-id="cinemaworld" tvg-logo="http://i.ibb.co/K0t7jJ0/cinemaw.jpg" group-title="QUỐC TẾ    ",Cinema World HD
+#EXTINF:-1  tvg-id="cinemaworld" tvg-logo="http://i.ibb.co/K0t7jJ0/cinemaw.jpg" group-title="QUỐC TẾ",Cinema World HD
 http://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dw" tvg-name="DW" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_dw_145681789801.jpg" group-title="QUỐC TẾ"  tvg-chno="",DW HD
@@ -643,43 +643,43 @@ http://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="youtv"  tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_youtv_162952854632.jpg" group-title="QUỐC TẾ" tvg-chno="114",YouTV 
 http://vips-livecdn.fptplay.net/sdb/youtv_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="mtv" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_mtv_162952660009.jpg" group-title="ÂM NHẠC   " tvg-chno="114",MTV HD
+#EXTINF:-1 tvg-id="mtv" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_mtv_162952660009.jpg" group-title="ÂM NHẠC" tvg-chno="114",MTV HD
 http://vips-livecdn.fptplay.net/sdb/mtv_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sbscnbchd" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_cnbc_162952697893.jpg" group-title="QUỐC TẾ" tvg-chno="114",CNBC 
 http://vips-livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.ibb.co/yQ2T6wT/naruto-4eb4d771aae0d.jpg" group-title="TRẺ EM   ",NaRuTo HD 
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.ibb.co/yQ2T6wT/naruto-4eb4d771aae0d.jpg" group-title="TRẺ EM",NaRuTo HD 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://as.com/meristation/imagenes/2021/05/11/noticias/1620730378_165552_1620730455_sumario_normal.jpg" group-title="TRẺ EM   ",Anime Clasico
+#EXTINF:-1 tvg-id="" tvg-logo="http://as.com/meristation/imagenes/2021/05/11/noticias/1620730378_165552_1620730455_sumario_normal.jpg" group-title="TRẺ EM",Anime Clasico
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id=" " tvg-logo="http://corporate.pluto.tv/wp-content/uploads/%2017/03/AnimeAllDay_blog_facebook_2-960x502.jpg" group-title="TRẺ EM   ",Anime All Day
+#EXTINF:-1 tvg-id=" " tvg-logo="http://corporate.pluto.tv/wp-content/uploads/%2017/03/AnimeAllDay_blog_facebook_2-960x502.jpg" group-title="TRẺ EM",Anime All Day
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed52a62fa750007733239/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwnS0EuBx_GfSVb3UlL_CKZxmxmtxNOXCMhQeCPM8gEceQrhqzSW3Qb0FbTGjIX7LD-fo&usqp=CAU" group-title="TRẺ EM   ", Lego TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwnS0EuBx_GfSVb3UlL_CKZxmxmtxNOXCMhQeCPM8gEceQrhqzSW3Qb0FbTGjIX7LD-fo&usqp=CAU" group-title="TRẺ EM", Lego TV
 http://legochannel-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="disneyjunior" group-title="TRẺ EM" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRsE4vQzM5JZrUmrzwXyf_YIFTji7y8Yug2EPO3WxMcC3OFNgnAGLnghvJReBuhaf7U6A&usqp=CAU", TRT COCUK HD
 http://tv-trtcocuk.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="http://lh3.googleusercontent.com/YT2O35P2rzInw8nJu4DS360GsxrzJypasmYqhqzmnx1CBV-s9l7Cz1Rgr76T6bGvv6I=w512" group-title="TRẺ EM   ",Anime TV
+#EXTINF:-1 tvg-id=" " tvg-logo="http://lh3.googleusercontent.com/YT2O35P2rzInw8nJu4DS360GsxrzJypasmYqhqzmnx1CBV-s9l7Cz1Rgr76T6bGvv6I=w512" group-title="TRẺ EM",Anime TV
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.ibb.co/vmx43Cc/CONtv-Logo.jpg" group-title="TRẺ EM   ",Học Tiếng Anh CONTV ANIME FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.ibb.co/vmx43Cc/CONtv-Logo.jpg" group-title="TRẺ EM",Học Tiếng Anh CONTV ANIME FHD
 http://contvanime-localnow.cinedigm.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="http://thehoneypop.com/wp-content/uploads/2021/01/image-2.png" group-title="TRẺ EM   ",Học Tiếng Anh KPOP 
+#EXTINF:-1 tvg-id=" " tvg-logo="http://thehoneypop.com/wp-content/uploads/2021/01/image-2.png" group-title="TRẺ EM",Học Tiếng Anh KPOP 
 http://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="ÂM NHẠC   ",Vevo Pop Europe FHD
+#EXTINF:-1 tvg-id=" " tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="ÂM NHẠC",Vevo Pop Europe FHD
 http://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="http://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/6_60ce711b.jpg" group-title="QUỐC TẾ    ",Box Movie
+#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="http://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/6_60ce711b.jpg" group-title="QUỐC TẾ",Box Movie
 http://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="inthebox" tvg-logo="http://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/7_e79f9654.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="ÂM NHẠC   ",The Box Music Televison
+#EXTINF:-1 tvg-id="inthebox" tvg-logo="http://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/7_e79f9654.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="ÂM NHẠC",The Box Music Televison
 http://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="QUỐC TẾ" tvg-logo="http://i.ibb.co/M7pxv8c/ta-i-xu-ng.jpg", Hollywood Classic
@@ -697,7 +697,7 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://
 #EXTINF:-1  tvg-id="drfithd"  tvg-logo="http://i.ibb.co/0qh3zNs/drfit.jpg" group-title="QUỐC TẾ" tvg-chno="104",Dr.Fit HD
 http://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1  tvg-logo="http://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_4606159a.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="QUỐC TẾ    ",CNA HD
+#EXTINF:-1  tvg-logo="http://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_4606159a.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="QUỐC TẾ",CNA HD
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?cc
 													 ㅤ																								 ㅤ
 #EXTINF:0 tvg-id="inthebox" group-title="QUỐC TẾ" tvg-logo="http://i.ibb.co/x1xWNF2/box.jpg",BOX Channel
@@ -721,31 +721,31 @@ http://q.dl.dropboxusercontent.com/s/53qvp8mzlx741c0/%20
 #EXTINF:-1 tvg-id="hgtv" group-title="QUỐC TẾ" tvg-logo="http://cdn.hqth.me/logo/thumbs/234.png", HGTV
 http://q.dl.dropboxusercontent.com/s/of7s1siemcyb2lw/%20
 
-#EXTINF:-1 tvg-id=" " tvg-logo="http://lh3.googleusercontent.com/-WJtvINvLbXI/W1mCchJ_iiI/AAAAAAAAELw/9jm-ZtkJrXM3qDx_2qgO62MIuCP4cdS1gCLcBGAs/h250/icon_channel_national-geographic-hd_152238635227.png" group-title="QUỐC TẾ    ",National Geographic HD
+#EXTINF:-1 tvg-id=" " tvg-logo="http://lh3.googleusercontent.com/-WJtvINvLbXI/W1mCchJ_iiI/AAAAAAAAELw/9jm-ZtkJrXM3qDx_2qgO62MIuCP4cdS1gCLcBGAs/h250/icon_channel_national-geographic-hd_152238635227.png" group-title="QUỐC TẾ",National Geographic HD
 http://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="disneyjunior" group-title="QUỐC TẾ" tvg-logo="http://1.bp.blogspot.com/-6ZmwyXEauTc/YJMzooOrqeI/AAAAAAAAFes/EM-Z5a84fzU0OABxkHD2hvuzsXPPRN4NgCLcBGAsYHQ/s1920/Red%2BBull%2BTV%252C%2BNBA%2BTV%252C%2BMLB%2BNetwork%252C%2BNFL%2BNetwork%252C%2BNFL%2BRedzone%252C%2BWatch%2BUSA%2BTV%2Blive%2Bonline.jpg", Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:0 group-title="ÂM NHẠC   " tvg-logo="http://cinedigm.com/wp-content/uploads/2022/05/Untitled-1-5.jpg",KMTV
+#EXTINF:0 group-title="ÂM NHẠC" tvg-logo="http://cinedigm.com/wp-content/uploads/2022/05/Untitled-1-5.jpg",KMTV
 http://q.dl.dropboxusercontent.com/s/h85u4r8wx8zymzn/%20	
 
-#EXTINF:-1 tvg-id="waku" tvg-logo="http://ws.shoutcast.com/images/contacts/2/2d3f/2d3f02f4-effc-42dc-8141-1cc55152a131/radios/486d1d77-2e18-4fc8-b6c9-53ce65283747/486d1d77-2e18-4fc8-b6c9-53ce65283747.png" group-title="ÂM NHẠC   ",KPOP MUSIC
+#EXTINF:-1 tvg-id="waku" tvg-logo="http://ws.shoutcast.com/images/contacts/2/2d3f/2d3f02f4-effc-42dc-8141-1cc55152a131/radios/486d1d77-2e18-4fc8-b6c9-53ce65283747/486d1d77-2e18-4fc8-b6c9-53ce65283747.png" group-title="ÂM NHẠC",KPOP MUSIC
 http://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 
-#EXTINF:-1 tvg-id="waku" tvg-logo="http://i.ibb.co/WKbbbNc/1580029625.jpg" group-title="ÂM NHẠC   ",VIVA RUSSIA MUSIC
+#EXTINF:-1 tvg-id="waku" tvg-logo="http://i.ibb.co/WKbbbNc/1580029625.jpg" group-title="ÂM NHẠC",VIVA RUSSIA MUSIC
 http://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHQSX-bzGNuH3ijGizL1KnDPsyJ6bQG4WgK7Wtn0pz2zdc1elT0nRxJrK9pedpNCFC7Lk&usqp=CAU" group-title="ÂM NHẠC   " ,CMT MUSIC
+#EXTINF:-1  tvg-id="hitshd"  tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHQSX-bzGNuH3ijGizL1KnDPsyJ6bQG4WgK7Wtn0pz2zdc1elT0nRxJrK9pedpNCFC7Lk&usqp=CAU" group-title="ÂM NHẠC" ,CMT MUSIC
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="http://www.nettvpro.live/uploads/allimg/21/1-2104151IH40-L.jpg" group-title="ÂM NHẠC   " ,MTV BIGGEST POP
+#EXTINF:-1  tvg-id="hitshd"  tvg-logo="http://www.nettvpro.live/uploads/allimg/21/1-2104151IH40-L.jpg" group-title="ÂM NHẠC" ,MTV BIGGEST POP
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
 #EXTINF:-1  tvg-id="fashionhd"  tvg-logo="http://i.ibb.co/Ctkc3Hx/FASHION.png" group-title="QUỐC TẾ" ,FTV UHD 
 http://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Loupe4K.us" tvg-country="US" tvg-language="" tvg-logo="http://i.ibb.co/9TyJWq7/Loupe.jpg" group-title="QUỐC TẾ    ",Loupe UHD
+#EXTINF:-1 tvg-id="Loupe4K.us" tvg-country="US" tvg-language="" tvg-logo="http://i.ibb.co/9TyJWq7/Loupe.jpg" group-title="QUỐC TẾ",Loupe UHD
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://i.ibb.co/hHFBv1G/Clarity-cc.png",Clarity UHD
@@ -754,7 +754,7 @@ http://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="bloomberg" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_bloomberg_146581277148.png" group-title="QUỐC TẾ" tvg-chno="113",Bloomberg UHD
 http://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="boxmovie" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="QUỐC TẾ    ",Love4K Nature 
+#EXTINF:-1 tvg-id="boxmovie" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="QUỐC TẾ",Love4K Nature 
 http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1, group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",V-Pop
