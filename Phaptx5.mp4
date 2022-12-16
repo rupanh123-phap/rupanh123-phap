@@ -750,85 +750,64 @@ http://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1,group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",V-Pop
-#EXTVLCOPT:http-user-agent="Radio"
 http://vnno-zn-2-tf-multi-playlist-zmp3.zadn.vn/8t3wW77ohJw/zhls/playback-realtime/very-low/6eeb692c5569bc37e578/very-low.m3u8
 
 #EXTINF:-1,group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",Acoustic
-#EXTVLCOPT:http-user-agent="Radio"
 http://vnno-vn-2-tf-multi-playlist-zmp3.zadn.vn/9gnQ7EMlRVA/zhls/playback-realtime/very-low/08aae96dd5283c766539/very-low.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",F.Pladio
-#EXTVLCOPT:http-user-agent="Radio"
 http://vips-livecdn.fptplay.net/hda3/pladio_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",FM 365
-#EXTVLCOPT:http-user-agent="Radio"
 http://dl.dropboxusercontent.com/s/n9da4r26cd8wf4f/%20
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",FM 99.9Mhz
-#EXTVLCOPT:http-user-agent="Radio"
 http://strm.voh.com.vn/radio/channel3/playlist.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",FM 95.6Mhz
-#EXTVLCOPT:http-user-agent="Radio"
 http://strm.voh.com.vn/radio/channel1/playlist.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",FM 87.7Mhz
-#EXTVLCOPT:http-user-agent="Radio"
 http://strm.voh.com.vn/radio/channel5/playlist.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",AM 610Khz
-#EXTVLCOPT:http-user-agent="Radio"
 http://strm.voh.com.vn/radio/channel2/playlist.m3u8
 
 #EXTINF:-1,group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",On Air
-#EXTVLCOPT:http-user-agent="Radio"
 http://vnno-zn-11-tf-multi-playlist-zmp3.zadn.vn/HZQveZhPc-8/zhls/playback-realtime/very-low/a07d79b945fcaca2f5ed/very-low.m3u8
 
 #EXTINF:-1,group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",Chạm
-#EXTVLCOPT:http-user-agent="Radio"
 http://vnno-zn-14-tf-multi-playlist-zmp3.zadn.vn/Ok1SSsyycZY/zhls/playback-realtime/very-low/db68d4afe8ea01b458fb/very-low.m3u8
 
 #EXTINF:-1,group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",Bolero
-#EXTVLCOPT:http-user-agent="Radio"
 http://vnno-zn-1-tf-multi-playlist-zmp3.zadn.vn/oIWL6uZPN04/zhls/playback-realtime/very-low/e3b9f87ec43b2d65742a/very-low.m3u8
 
 #EXTINF:-1,group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",Rap Việt
-#EXTVLCOPT:http-user-agent="Radio"
 http://vnno-pt-2-tf-multi-playlist-zmp3.zadn.vn/JIQ2n2AIW_Q/zhls/playback-realtime/very-low/4f2980eebcab55f50cba/very-low.m3u8
 
 #EXTINF:-1,group-title="RADIO"" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",K-Pop
-#EXTVLCOPT:http-user-agent="Radio"
 http://vnno-vn-2-tf-multi-playlist-zmp3.zadn.vn/LLZ37qgDO-o/zhls/playback-realtime/very-low/ff294ded71a898f6c1b9/very-low.m3u8
 
 #EXTINF:-1,group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",Âu Mỹ
-#EXTVLCOPT:http-user-agent="Radio"
 http://vnno-zn-12-tf-multi-playlist-zmp3.zadn.vn/IOohJIUxDcs/zhls/playback-realtime/very-low/111c87d8bb9d52c30b8c/very-low.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",Việt Nam
-#EXTVLCOPT:http-user-agent="Radio"
 http://stream.zeno.fm/4q7y9hvkp2zuv
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",Cải Lương
-#EXTVLCOPT:http-user-agent="Radio"
 http://stream.zeno.fm/0trm6wrnga0uv
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",DJ
-#EXTVLCOPT:http-user-agent="Radio"
 http://stream.zeno.fm/ehbutdfccm0uv
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",Phật Giáo
-#EXTVLCOPT:http-user-agent="Radio"
 http://stream.zeno.fm/8456uy0bcm0uv
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",Dân Ca
-#EXTVLCOPT:http-user-agent="Radio"
 http://stream.zeno.fm/a2dbs2tq1p8uv
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",Nhạc Tết
-#EXTVLCOPT:http-user-agent="Radio"
 http://stream.zeno.fm/hvtxgd85rm0uv
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",Acoustic Cover
-#EXTVLCOPT:http-user-agent="Radio"
 http://stream.zeno.fm/tk8atfbgtg8uv
