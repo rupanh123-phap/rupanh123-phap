@@ -6,8 +6,24 @@ http://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="http://img.vnmedia.xyz/logo/vtv2hd.jpg" group-title="VTV" tvg-chno="2",VTV2 HD
 http://vips-livecdn.fptplay.net/sevent/vtv2_vhls.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="http://img.vnmedia.xyz/logo/vtv2hd.jpg" group-title="VTV",VTV2 sv2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://vtven.dl.dropboxusercontent.com/s/ztr7jd8my2uecnf/%20
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="http://img.vnmedia.xyz/logo/vtv2hd.jpg" group-title="VTV",VTV2 sv3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://vtvgo.dl.dropboxusercontent.com/s/6i657ws2qmf1xu9/%20
+
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="http://img.vnmedia.xyz/logo/vtv3hd.jpg" group-title="VTV" tvg-chno="3",VTV3 HD
 http://vips-livecdn.fptplay.net/sevent/vtv3hd_vhls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="http://img.vnmedia.xyz/logo/vtv3hd.jpg" group-title="VTV",VTV3 sv2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://vtven.dl.dropboxusercontent.com/s/s3z96uruc7ltcpv/%20
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="http://img.vnmedia.xyz/logo/vtv3hd.jpg" group-title="VTV",VTV3 sv3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://vtvgo.dl.dropboxusercontent.com/s/f9i1mckms2kf78c/%20
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" tvg-logo="http://img.vnmedia.xyz/logo/vtv4hd.jpg" group-title="VTV" tvg-chno="4",VTV4 HD
 http://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/playlist.m3u8
@@ -15,8 +31,24 @@ http://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="http://img.vnmedia.xyz/logo/vtv5hd.jpg" group-title="VTV" tvg-chno="5",VTV5 HD
 http://vips-livecdn.fptplay.net/sevent/vtv5hd_vhls.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="http://img.vnmedia.xyz/logo/vtv5hd.jpg" group-title="VTV",VTV5 sv2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://vtven.dl.dropboxusercontent.com/s/mh0a21kbxt6d7d2/%20
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="http://img.vnmedia.xyz/logo/vtv5hd.jpg" group-title="VTV",VTV5 sv3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://vtvgo.dl.dropboxusercontent.com/s/l1l16133sdsm3qx/%20
+
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="http://img.vnmedia.xyz/logo/vtv6hd.jpg" group-title="VTV" tvg-chno="6",VTV Cần Thơ
 http://vips-livecdn.fptplay.net/sevent/vtvcantho_vhls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="http://img.vnmedia.xyz/logo/vtv6hd.jpg" group-title="VTV",VTV Cần Thơ sv2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://vtven.dl.dropboxusercontent.com/s/8itlync6lt39y2e/%20
+
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="http://img.vnmedia.xyz/logo/vtv6hd.jpg" group-title="VTV",VTV Cần Thơ sv3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://vtvgo.dl.dropboxusercontent.com/s/rbmb8m4978qgnvf/%20
 
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" tvg-logo="http://img.vnmedia.xyz/logo/vtv7hd.jpg" group-title="VTV" tvg-chno="7",VTV7 HD
 http://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/playlist.m3u8
@@ -29,6 +61,10 @@ http://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hdtnb" tvg-logo="http://i.ibb.co/12ZVqnS/VTV5-TNB-1.png",VTV5 Tây Nam Bộ HD
 http://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv5hdtnb" tvg-logo="http://i.ibb.co/12ZVqnS/VTV5-TNB-1.png",VTV5 Tây Nam Bộ sv2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://vtvgo.dl.dropboxusercontent.com/s/iduixogrcosqdv0/%20
 
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hdtn" tvg-logo="http://i.ibb.co/XyNYs84/VTV5TN.jpg",VTV5 Tây Nguyên HD
 http://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
@@ -320,6 +356,10 @@ http://vips-livecdn.fptplay.net/sdc/danang1_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="danang2" group-title="ĐỊA PHƯƠNG" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_da-nang-2_156455535103.jpg",Đà Nẵng 2 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="hitv" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/xJmwGmk/Hanoicab1.webp",HITV - Hà Nội cab 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://dl.dropboxusercontent.com/s/n46kvcvw6y27f3n/%20
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="ĐỊA PHƯƠNG" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_145672747757.jpg",Hà Nội 1 HD
 http://vips-livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
