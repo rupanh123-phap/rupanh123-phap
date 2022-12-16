@@ -306,6 +306,24 @@ http://v.dl.dropboxusercontent.com/s/wzlf7t6iptudyms/%20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://v.dl.dropboxusercontent.com/s/x35mtboabogqpjj/%20
 
+#EXTINF:-1 group-title="VTVCAB" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/5b41f2f4-db6f-40ee-8f74-9cb3397f4c0f.png",ON Sports ENG
+http://livevlive.vtvcab.vn/hls/OS_ONSPORTTA/sc-gaFEAA/m30_index.m3u8
+
+#EXTINF:-1 group-title="VTVCAB" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/773357dd-37b8-4731-ad9a-d4ae900bc733.png",ON Football ENG
+http://livevlive.vtvcab.vn/hls/OS_ONFOOTBALLTA/sc-gaFEAA/m30_index.m3u8
+
+#EXTINF:-1 group-title="VTVCAB" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/3b46f497-de0b-4298-9191-bec6456e5330.png",ON Sports News ENG
+http://livevlive.vtvcab.vn/hls/OS_ONSPORTNEWSTA/sc-gaFEAA/m30_index.m3u8
+
+#EXTINF:-1 group-title="VTVCAB" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg",ON Golf ENG
+http://livevlive.vtvcab.vn/hls/OS_ONGOLFTA/sc-gaFEAA/m30_index.m3u8
+
+#EXTINF:-1 group-title="VTVCAB" tvg-logo="https://logo.anttv.xyz/35.png",Bóng đá Việt
+http://livevlive.vtvcab.vn/hls/OS_ONVFFTV/sc-gaFEAA/m30_index.m3u8
+
+#EXTINF:-1 group-title="VTVCAB" tvg-logo="https://logo.anttv.xyz/36.png",Thể thao Việt
+http://livevlive.vtvcab.vn/hls/OS_ONVOLLEYBALL/sc-gaFEAA/m30_index.m3u8
+
 #EXTINF:-1 group-title="VTVCAB" tvg-logo="http://i.ibb.co/gVz08b4/cc-Golf-News.webp",Golf News
 http://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 
