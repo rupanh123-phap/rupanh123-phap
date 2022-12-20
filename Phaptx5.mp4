@@ -4,19 +4,19 @@
 http://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="http://img.vnmedia.xyz/logo/vtv2hd.jpg" group-title="VTV",VTV2 HD
-http://vips-livecdn.fptplay.net/sevent/vtv2_vhls.smil/playlist.m3u8
+http://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="http://img.vnmedia.xyz/logo/vtv3hd.jpg" group-title="VTV",VTV3 HD
-http://vips-livecdn.fptplay.net/sevent/vtv3hd_vhls.smil/playlist.m3u8
+http://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-logo="http://img.vnmedia.xyz/logo/vtv4hd.jpg" group-title="VTV",VTV4 HD
 http://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" tvg-logo="http://img.vnmedia.xyz/logo/vtv5hd.jpg" group-title="VTV",VTV5 HD
-http://vips-livecdn.fptplay.net/sevent/vtv5hd_vhls.smil/playlist.m3u8
+http://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" tvg-logo="http://img.vnmedia.xyz/logo/vtv6hd.jpg" group-title="VTV",VTV Cần Thơ
-http://vips-livecdn.fptplay.net/sevent/vtvcantho_vhls.smil/playlist.m3u8
+http://vips-livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" tvg-logo="http://img.vnmedia.xyz/logo/vtv7hd.jpg" group-title="VTV",VTV7 HD
 http://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/playlist.m3u8
