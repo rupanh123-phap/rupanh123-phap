@@ -79,27 +79,27 @@ http://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/playlist.m3u8
 http://vips-livecdn.fptplay.net/hda3/vinhlong4hd_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv1hd.png",SCTV1 HD
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv1/index.m3u8
+http://m.aiiptv.click/IPTV/?iptv=80|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv2hd.png",SCTV2 HD
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv2/index.m3u8
+http://m.aiiptv.click/IPTV/?iptv=81|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv3hd.png",SCTV3 HD
-http://e1.endpoint.cdn.sctvonline.vn/channel/sctv3/s2/index.m3u8
+http://m.aiiptv.click/IPTV/?iptv=82|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv4hd.png",SCTV4 HD
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv4/index.m3u8
+http://m.aiiptv.click/IPTV/?iptv=83|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="SCTV" tvg-logo="http://i.ibb.co/bLcnbBR/sctv5-auto-x2.jpg",SCTV5 HD
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv5/index.m3u8
+http://m.aiiptv.click/IPTV/?iptv=84|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_fim360_165649256362.png",SCTV6 HD
-http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/playlist.m3u8
+http://m.aiiptv.click/IPTV/?iptv=85|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv7hd.png",SCTV7 HD
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv7/index.m3u8
+http://m.aiiptv.click/IPTV/?iptv=86|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv8hd.png",SCTV8 HD
-http://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/s2/index.m3u8
+http://m.aiiptv.click/IPTV/?iptv=87|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv9hd.png",SCTV9 HD
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv9/index.m3u8
+http://m.aiiptv.click/IPTV/?iptv=88|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="SCTV" tvg-logo="http://i.ibb.co/jWjs5kF/sctv5.jpg",SCTV10 HD
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv11hd.png",SCTV11 HD
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv11/index.m3u8|Referer=http://sctvonline.vn
+http://m.aiiptv.click/IPTV/?iptv=90|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv12hd.png",SCTV12 HD
 http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv12/index.m3u8
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv13hd.png",SCTV13 HD
