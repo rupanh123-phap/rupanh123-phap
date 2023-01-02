@@ -48,7 +48,7 @@ http://vips-livecdn.fptplay.net/sdb/vtc11_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc12" tvg-logo="http://img.vnmedia.xyz/logo/vtc12.png" group-title="VTC",VTC12 HD
 http://vips-livecdn.fptplay.net/sdb/vtc12_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc13hd" tvg-logo="http://img.vnmedia.xyz/logo/vtc13hd.jpg" group-title="VTC",VTC13 HD
-http://vcdn1.vtc.gov.vn:1935/m_4K/smil:4k.smil/playlist.m3u8
+http://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" tvg-logo="http://img.vnmedia.xyz/logo/vtc14hd.jpg" group-title="VTC",VTC14 HD
 http://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc16" tvg-logo="http://img.vnmedia.xyz/logo/vtc16.jpg" group-title="VTC",VTC16 HD
