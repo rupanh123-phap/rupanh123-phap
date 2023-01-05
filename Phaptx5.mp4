@@ -9,9 +9,9 @@ http://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" tvg-logo="http://img.vnmedia.xyz/logo/vtv4hd.jpg" group-title="VTV",VTV4 HD
 http://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-logo="http://img.vnmedia.xyz/logo/vtv5hd.jpg" group-title="VTV",VTV5 HD
-http://m.aiiptv.click/IPTV/?iptv=480|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=480|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="vtv6hd" tvg-logo="http://img.vnmedia.xyz/logo/vtv6hd.jpg" group-title="VTV",VTV Cần Thơ
-http://m.aiiptv.click/IPTV/?iptv=486|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=486|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="vtv7hd" tvg-logo="http://img.vnmedia.xyz/logo/vtv7hd.jpg" group-title="VTV",VTV7 HD
 http://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" tvg-logo="http://img.vnmedia.xyz/logo/vtv8hd.jpg" group-title="VTV",VTV8 HD
@@ -21,7 +21,7 @@ http://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hdtnb" tvg-logo="http://i.ibb.co/12ZVqnS/VTV5-TNB-1.png",VTV5 Tây Nam Bộ HD
 http://nvzoftzsvflivnt.vcdn.com.vn/vtv5tnb/hdntl=exp=1669822065~acl=%2f*~data=hdntl~hmac=c8de9c9d9148f59cd1e9312a45f4243ddf102255980678ead64b570f82ecb79f/vtv5tnb@high.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hdtn" tvg-logo="http://i.ibb.co/XyNYs84/VTV5TN.jpg",VTV5 Tây Nguyên HD
-http://m.aiiptv.click/IPTV/?iptv=8|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=8|User-Agent=ExoPlayerLib
 
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="http://img.vnmedia.xyz/logo/vtc1hd.jpg" group-title="VTC",VTC1 HD
 http://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/playlist.m3u8
@@ -79,99 +79,99 @@ http://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/playlist.m3u8
 http://vips-livecdn.fptplay.net/hda3/vinhlong4hd_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv1hd.png",SCTV1 HD
-http://m.aiiptv.click/IPTV/?iptv=80|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=80|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv2hd.png",SCTV2 HD
-http://m.aiiptv.click/IPTV/?iptv=81|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=81|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv3hd.png",SCTV3 HD
-http://m.aiiptv.click/IPTV/?iptv=82|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=82|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv4hd.png",SCTV4 HD
-http://m.aiiptv.click/IPTV/?iptv=83|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=83|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="SCTV" tvg-logo="http://i.ibb.co/bLcnbBR/sctv5-auto-x2.jpg",SCTV5 HD
-http://m.aiiptv.click/IPTV/?iptv=84|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=84|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_fim360_165649256362.png",SCTV6 HD
-http://m.aiiptv.click/IPTV/?iptv=85|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=85|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv7hd.png",SCTV7 HD
-http://m.aiiptv.click/IPTV/?iptv=86|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=86|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv8hd.png",SCTV8 HD
-http://m.aiiptv.click/IPTV/?iptv=87|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=87|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv9hd.png",SCTV9 HD
-http://m.aiiptv.click/IPTV/?iptv=88|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=88|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="SCTV" tvg-logo="http://i.ibb.co/jWjs5kF/sctv5.jpg",SCTV10 HD
-http://m.aiiptv.click/IPTV/?iptv=89|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=89|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv11hd.png",SCTV11 HD
-http://m.aiiptv.click/IPTV/?iptv=90|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=90|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv12hd.png",SCTV12 HD
-http://m.aiiptv.click/IPTV/?iptv=91|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=91|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv13hd.png",SCTV13 HD
-http://m.aiiptv.click/IPTV/?iptv=92|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=92|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv14hd.png",SCTV14 HD
-http://m.aiiptv.click/IPTV/?iptv=93|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=93|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv15hd.png",SCTV15 HD
-http://m.aiiptv.click/IPTV/?iptv=94|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=94|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv16hd.png",SCTV16 HD
-http://m.aiiptv.click/IPTV/?iptv=95|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=95|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv17hd.png",SCTV17 HD
-http://m.aiiptv.click/IPTV/?iptv=96|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=96|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv18hd.png",SCTV18 HD
-http://m.aiiptv.click/IPTV/?iptv=97|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=97|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv19hd.png",SCTV19 HD
-http://m.aiiptv.click/IPTV/?iptv=98|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=98|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv20hd.png",SCTV20 HD
-http://m.aiiptv.click/IPTV/?iptv=99|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=99|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="ssctv21hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv21hd.jpg",SCTV21 HD
-http://m.aiiptv.click/IPTV/?iptv=100|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=100|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv22hd.png",SCTV22 HD
-http://m.aiiptv.click/IPTV/?iptv=101|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=101|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://img.vnmedia.xyz/logo/sctvhdpth.png",SCTV HD Phim Tổng Hợp
-http://m.aiiptv.click/IPTV/?iptv=102|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=102|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="btv5hd" group-title="SCTV" tvg-logo="https://img.vnmedia.xyz/logo/btv5hd.png",BTV5 HD
-http://m.aiiptv.click/IPTV/?iptv=116|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=116|User-Agent=ExoPlayerLib
 
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab1hd" tvg-logo="https://img.vnmedia.xyz/logo/vie-giaitri.jpg",VTVCab1 HD - Vie Giải Trí
-http://m.aiiptv.click/IPTV/?iptv=13|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=13|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab2hd" tvg-logo="https://img.vnmedia.xyz/logo/on-phimviet.jpg",ON Phim Việt
-http://m.aiiptv.click/IPTV/?iptv=14|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=14|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab3hd" tvg-logo="https://img.vnmedia.xyz/logo/on-sports.jpg",ON Sports HD
-http://m.aiiptv.click/IPTV/?iptv=15|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=15|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab4hd" tvg-logo="https://img.vnmedia.xyz/logo/on-movies.jpg",VTVCab4 HD
-http://m.aiiptv.click/IPTV/?iptv=16|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=16|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab5hd" tvg-logo="https://img.vnmedia.xyz/logo/vtvcab5hd.jpg",VTVCab5 HD - E Channel
-http://m.aiiptv.click/IPTV/?iptv=17|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=17|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab6hd" tvg-logo="https://img.vnmedia.xyz/logo/on-sportsplus.jpg",ON Sports+ HD
-http://m.aiiptv.click/IPTV/?iptv=18|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=18|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab7hd" tvg-logo="https://img.vnmedia.xyz/logo/on-o2tv.jpg",VTVCab7 HD
-http://m.aiiptv.click/IPTV/?iptv=19|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=19|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab8hd" tvg-logo="https://img.vnmedia.xyz/logo/on-bibi.jpg",VTVCab8 - BiBi
-http://m.aiiptv.click/IPTV/?iptv=20|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=20|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab9hd" tvg-logo="https://img.vnmedia.xyz/logo/vtvcab9hd.jpg",VTVcab 9 - InfoTV
-http://m.aiiptv.click/IPTV/?iptv=21|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=21|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab10hd" tvg-logo="https://img.vnmedia.xyz/logo/on-cine.jpg",ON Cine
-http://m.aiiptv.click/IPTV/?iptv=22|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=22|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab12hd" tvg-logo="https://img.vnmedia.xyz/logo/vtvcab12hd.jpg",VTVCab12 - Style TV
-http://m.aiiptv.click/IPTV/?iptv=24|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=24|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab15hd" tvg-logo="https://img.vnmedia.xyz/logo/on-music.jpg",VTVcab15
-http://m.aiiptv.click/IPTV/?iptv=27|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=27|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab16hd" tvg-logo="https://img.vnmedia.xyz/logo/on-football.jpg",ON Football HD
-http://m.aiiptv.click/IPTV/?iptv=28|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=28|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab17hd" tvg-logo="https://img.vnmedia.xyz/logo/vtvcab17hd.jpg",VTVCab17 - Yeah1 TV
 https://856175157.r.vtvcdn.com/ondrm/YEAH1_TV/m20_index.m3u8
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab18hd" tvg-logo="https://img.vnmedia.xyz/logo/on-sportsnews.jpg",ON Sports News HD
-http://m.aiiptv.click/IPTV/?iptv=30|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=30|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab19hd" tvg-logo="https://img.vnmedia.xyz/logo/vie-dramas.jpg",VTVCab19 HD - Vie DRAMAS
-http://m.aiiptv.click/IPTV/?iptv=31|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=31|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab20hd" tvg-logo="https://img.vnmedia.xyz/logo/vtvcab20hd.jpg",VTVCab20 - V Family
-http://m.aiiptv.click/IPTV/?iptv=32|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=32|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab20hd" tvg-logo="https://img.vnmedia.xyz/logo/on-kids.jpg",VTVCab21 HD - BiBi+
-http://m.aiiptv.click/IPTV/?iptv=33|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=33|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab20hd" tvg-logo="https://img.vnmedia.xyz/logo/on-life.jpg",VTVCab22 HD - Life TV
-http://m.aiiptv.click/IPTV/?iptv=34|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=34|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="VTVCAB" tvg-id="vtvcab23hd" tvg-logo="https://img.vnmedia.xyz/logo/on-golf.jpg",ON Golf HD
-http://m.aiiptv.click/IPTV/?iptv=35|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=35|User-Agent=ExoPlayerLib
 
 #EXTINF:-1 group-title="VTVCAB" tvg-logo="http://logo.anttv.xyz/35.png",Bóng đá Việt
-http://m.aiiptv.click/IPTV/?iptv=36|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=36|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="VTVCAB" tvg-logo="http://logo.anttv.xyz/36.png",Thể thao Việt
-http://m.aiiptv.click/IPTV/?iptv=37|User-Agent=ExoPlayerLib
+https://m.aiiptv.click/_FuckYou/IPTV/?iptv=37|User-Agent=ExoPlayerLib
 #EXTINF:-1 group-title="VTVCAB" tvg-logo="http://i.ibb.co/gVz08b4/cc-Golf-News.webp",Golf News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://v.dl.dropboxusercontent.com/s/av4phtblxoseetw/%20
