@@ -34,34 +34,49 @@ http://nvzoftzsvflivnt.vcdn.com.vn/vtv5tnb/hdntl=exp=1669822065~acl=%2f*~data=hd
 https://m.aiiptv.click/_FuckYou/IPTV/?iptv=8|User-Agent=ExoPlayerLib
 
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="http://img.vnmedia.xyz/logo/vtc1hd.jpg" group-title="VTC",VTC1 HD
+#EXTVLCOPT:http-user-agent=PHAPTX5
 http://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc2" tvg-logo="http://img.vnmedia.xyz/logo/vtc2.jpg" group-title="VTC",VTC2 HD
+#EXTVLCOPT:http-user-agent=PHAPTX5
 http://vips-livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc3hd" tvg-logo="http://img.vnmedia.xyz/logo/vtc3hd.jpg" group-title="VTC",VTC3 HD
+#EXTVLCOPT:http-user-agent=PHAPTX5
 http://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc4hd" tvg-logo="http://img.vnmedia.xyz/logo/vtc4hd.jpg" group-title="VTC",VTC4 HD
+#EXTVLCOPT:http-user-agent=PHAPTX5
 http://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" tvg-logo="http://img.vnmedia.xyz/logo/vtc5hd.jpg" group-title="VTC",VTC5 HD
+#EXTVLCOPT:http-user-agent=PHAPTX5
 http://vips-livecdn.fptplay.net/sdb/vtc5_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" tvg-logo="http://img.vnmedia.xyz/logo/vtc6hd.jpg" group-title="VTC",VTC6 HD
+#EXTVLCOPT:http-user-agent=PHAPTX5
 http://vips-livecdn.fptplay.net/sdb/vtc6_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" tvg-logo="http://img.vnmedia.xyz/logo/vtc7hd.png" group-title="VTC",VTC7 HD
+#EXTVLCOPT:http-user-agent=PHAPTX5
 http://vips-livecdn.fptplay.net/sdb/todaytv_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc8" tvg-logo="http://img.vnmedia.xyz/logo/vtc8.jpg" group-title="VTC",VTC8 HD
+#EXTVLCOPT:http-user-agent=PHAPTX5
 http://vips-livecdn.fptplay.net/sdb/vtc8_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" tvg-logo="http://img.vnmedia.xyz/logo/vtc9hd.jpg" group-title="VTC",VTC9 HD
+#EXTVLCOPT:http-user-agent=PHAPTX5
 http://vips-livecdn.fptplay.net/sdb/vtc9_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc10hd" tvg-logo="http://img.vnmedia.xyz/logo/vtc10hd.jpg" group-title="VTC",VTC10 HD
+#EXTVLCOPT:http-user-agent=PHAPTX5
 http://vips-livecdn.fptplay.net/sdb/vtc10_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc11" tvg-logo="http://img.vnmedia.xyz/logo/vtc11.jpg" group-title="VTC",VTC11 HD
+#EXTVLCOPT:http-user-agent=PHAPTX5
 http://vips-livecdn.fptplay.net/sdb/vtc11_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc12" tvg-logo="http://img.vnmedia.xyz/logo/vtc12.png" group-title="VTC",VTC12 HD
+#EXTVLCOPT:http-user-agent=PHAPTX5
 http://vips-livecdn.fptplay.net/sdb/vtc12_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc13hd" tvg-logo="http://img.vnmedia.xyz/logo/vtc13hd.jpg" group-title="VTC",VTC13 HD
+#EXTVLCOPT:http-user-agent=PHAPTX5
 http://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" tvg-logo="http://img.vnmedia.xyz/logo/vtc14hd.jpg" group-title="VTC",VTC14 HD
+#EXTVLCOPT:http-user-agent=PHAPTX5
 http://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc16" tvg-logo="http://img.vnmedia.xyz/logo/vtc16.jpg" group-title="VTC",VTC16 HD
+#EXTVLCOPT:http-user-agent=PHAPTX5
 http://vips-livecdn.fptplay.net/sdb/vtc16_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv1" tvg-logo="http://img.vnmedia.xyz/logo/htv1.jpg" group-title="HTV",HTV1 HD
