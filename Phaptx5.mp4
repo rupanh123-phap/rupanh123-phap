@@ -149,7 +149,7 @@ https://m.aiiptv.click/_FuckYou/IPTV/?iptv=100|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="http://img.vnmedia.xyz/logo/sctv22hd.png",SCTV22 HD
 https://m.aiiptv.click/_FuckYou/IPTV/?iptv=101|User-Agent=ExoPlayerLib
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://img.vnmedia.xyz/logo/sctvhdpth.png",SCTV HD Phim Tổng Hợp
-https://m.aiiptv.click/_FuckYou/IPTV/?iptv=102|User-Agent=ExoPlayerLib
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/./s1/index.m3u8?phapferrari|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="btv5hd" group-title="SCTV" tvg-logo="https://img.vnmedia.xyz/logo/btv5hd.png",BTV5 HD
 https://m.aiiptv.click/_FuckYou/IPTV/?iptv=116|User-Agent=ExoPlayerLib
 
