@@ -186,7 +186,8 @@ http://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8|Referer=http://sctv
 
 #EXTINF:-1 tvg-id="vtvcab1hd" type="stream" tvg-logo="http://cdn.hqth.me/logo/thumbs/12.png" group-title="VTVCAB",VTVcab 1 - Vie Giải trí HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://v.dl.dropboxusercontent.com/s/phz6bm2fw1ifclx/%20
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+http://gg.gg/cccab01|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vtvcab2hd" type="stream" tvg-logo="http://cdn.hqth.me/logo/thumbs/13.png" group-title="VTVCAB",ON Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
