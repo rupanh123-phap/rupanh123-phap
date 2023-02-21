@@ -12,4 +12,7 @@
 
 *@GÓC CHIA SẺ|https://docs.google.com/spreadsheets/d/1UqqJYUT3RHrv63vQbyQX3n8ewJsqrzBMiDaMaRvnQQ8/htmlview||https://fictionhorizon.com/wp-content/uploads/2023/01/Movies-set-in-2023.jpg|Phim theo yêu cầu của mọi người
 
+*@Phim|https://docs.google.com/spreadsheets/d/1ahTI7aCknzPCQrzGlO7Ch8YHuY_1i0nqJmhFjERKeDY/htmlview||https://fictionhorizon.com/wp-content/uploads/2023/01/Movies-set-in-2023.jpg|Phim theo yêu cầu của mọi người
 
+
+*@Phim bộ |ActivateWindow(10025,&quot;plugin://plugin.video.vietmediaF/?action=browse&amp;node_id=76&quot;,return)||https://fictionhorizon.com/wp-content/uploads/2023/01/Movies-set-in-2023.jpg|Phim theo yêu cầu của mọi người
