@@ -85,6 +85,7 @@ adult="yes"
 info="http://"
 description="Bản KODI Fshare siêu đẹp cho Android Kodi giống netflix 90% được mod bởi Pháp Ferrari"
 
+
 name="Cài đặt phát trình player khác cho video - PHÁP TX5"
 version="1.0"
 url="http://phuocphap.ahiep.name.vn/phuocphap/play.zip"
@@ -100,6 +101,19 @@ adult="No"
 info="http://"
 description="Phát các trình player khác cho video kodi 16 17 18 19 20 21"
 
+name="Phiên Bản Miễn Phí - NETFLIX - Titan Bingie Mod Tất Cả Thiết Bị 19-20-21 MOD PHÁP TX5"
+version="1.0"
+url="http://phuocphap.ahiep.name.vn/phuocphap/nf.zip"
+minor="http://"
+gui="http://"
+kodi="19"
+theme="http://"
+icon="https://i.ibb.co/ccWHzgf/Screenshot-20221020-131924.png"
+fanart="https://i.ibb.co/ccWHzgf/Screenshot-20221020-131924.png"
+preview="http://"
+adult="yes"
+info="http://"
+description="Bản KODI Elementum siêu đẹp cho Android Kodi giống netflix 90% được mod bởi Pháp Ferrari"
 
 
 name="Back Dừng Video Giữ Back chạy nền video - PHÁP"
