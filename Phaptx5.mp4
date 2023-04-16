@@ -600,13 +600,21 @@ http://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/playlist.m3u8
 http://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_hbo_155834899497.png" group-title="QUỐC TẾ",HBO HD
-http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"31KBtiW1d8faokKdHuMgSA","kid":"No41ImtgMgW9p1lLt8fUKw"},{"kty":"oct","k":"laohac","kid":"vuive"}], "type":"temporary" }
+https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_162970702915.jpg" group-title="QUỐC TẾ",Cinemax HD
-http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"SvzpN9oe+qvcTUIob2Apng","kid":"s+0NzC3+PAeW5e9jkrPu3A"},{"kty":"oct","k":"laohac","kid":"vuive"}], "type":"temporary" }
+https://sglive.akamaized.net/msky-live/live_kplus/max.smil/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="axnhd" tvg-logo="http://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg" group-title="QUỐC TẾ",AXN HD
-http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/playlist.m3u8
+http://cdn-cf.vthanhtivi.pw/fptplay/axn/bitrate_5000.m3u8
 
 #EXTINF:-1 tvg-id="warnertvhd" tvg-logo="http://img.vnmedia.xyz/logo/warnertvhd.jpg" group-title="QUỐC TẾ",Warner TV HD
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/playlist.m3u8
