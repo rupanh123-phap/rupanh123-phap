@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://gg.gg/epgphap" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="http://img.vnmedia.xyz/logo/vtv1hd.jpg" group-title="VTV",VTV1 HD
+#EXTINF:0 group-title="VTV" tvg-id="vtv1hd" tvg-logo="http://img.vnmedia.xyz/logo/vtv1hd.jpg",VTV1 HD
 http://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="http://img.vnmedia.xyz/logo/vtv2hd.jpg" group-title="VTV",VTV2 HD
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.ibb.co/jg4r5Zn/icon-channel-vtv2-hd-16565576783.png" group-title="VTV",VTV2 HD
 http://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="http://img.vnmedia.xyz/logo/vtv3hd.jpg" group-title="VTV",VTV3 HD
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://img.vnmedia.xyz/logo/vtv3hd.jpg" group-title="VTV",VTV3 HD
 http://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-logo="http://img.vnmedia.xyz/logo/vtv4hd.jpg" group-title="VTV",VTV4 HD
