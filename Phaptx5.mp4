@@ -198,10 +198,7 @@ https:///dl.dropboxusercontent.com/s/xpui148aitwka7s//   																						 
 https:///dl.dropboxusercontent.com/s/l1bm8moxpu0bvrk//   																						 ㅤ |Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vtvcab3hd" type="stream" tvg-logo="http://cdn.hqth.me/logo/thumbs/14.png" group-title="VTVCAB",ON Sports
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referer=http://sctvonline.vn/
-https:///dl.dropboxusercontent.com/s/8joaiofe8e5rdvy//   																						 ㅤ |Referer=http://sctvonline.vn/
-
+https://livevlive.vtvcab.vn/THETHAO_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" type="stream" tvg-logo="http://cdn.hqth.me/logo/thumbs/15.png" group-title="VTVCAB",ON Movies
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referer=http://sctvonline.vn/
@@ -213,10 +210,7 @@ https:///dl.dropboxusercontent.com/s/3rqo5jucetkmiof//   																						 
 https:///dl.dropboxusercontent.com/s/1w9mbfwm42gn3bb//   																						 ㅤ |Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vtvcab6hd" type="stream" tvg-logo="http://cdn.hqth.me/logo/thumbs/17.png" group-title="VTVCAB",ON Sports+
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referer=http://sctvonline.vn/
-https:///dl.dropboxusercontent.com/s/zrplh5an4an8rsb//   																						 ㅤ |Referer=http://sctvonline.vn/
-
+https://livevlive.vtvcab.vn/HAY_TV/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab7hd" type="stream" tvg-logo="http://cdn.hqth.me/logo/thumbs/18.png" group-title="VTVCAB",ON O2TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referer=http://sctvonline.vn/
