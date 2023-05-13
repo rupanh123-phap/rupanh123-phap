@@ -1,4 +1,7 @@
-#EXTM3U url-tvg="https://gg.gg/epgphap" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vagroup_epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml, 
+https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml, https://raw.githubusercontent.com/iptv-org/epg/master/sites/tv24.co.uk/tv24.co.uk.channels.xml, 
+https://raw.githubusercontent.com/iptv-org/epg/master/sites/tvtv.us/tvtv.us.channels.xml, https://raw.githubusercontent.com/iptv-org/epg/master/sites/vidio.com/vidio.com.channels.xml, 
+https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://trada.info/epg.xml, https://gg.gg/epgphap" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
 
 #EXTINF:0 group-title="VTV" tvg-id="vtv1hd" tvg-logo="http://img.vnmedia.xyz/logo/vtv1hd.jpg",VTV1 HD
 http://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
