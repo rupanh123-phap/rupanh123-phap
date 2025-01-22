@@ -215,7 +215,7 @@ a{color:var(--all-link-color)}
 a img{border:0}
 abbr{text-decoration:none}
 .widget>h2,.widget>h3{display:none}
-:before,:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
 /*-- CSS Variables --*/
 .no-items.section{display:none}
 h1,h2,h3,h4,h5,h6{font-family:var(--title-font);font-weight:700}
@@ -1132,4 +1132,3 @@ span.label-news-ui{font-size:10px;}
 }
 
 -->
-fonts.gstatic.com
