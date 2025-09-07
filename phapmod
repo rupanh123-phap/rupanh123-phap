@@ -5,8 +5,8 @@ minor="http://"
 gui="http://"
 kodi="19"
 theme="http://"
-icon="https://i.ibb.co/K6F0hMG/horizon2.png"
-fanart="https://i.ibb.co/K6F0hMG/horizon2.png"
+<icon>resources/media/giaodien.webp</icon>
+<fanart>resources/media/giaodien.webp</fanart>
 preview="http://"
 adult="yes"
 info="http://"
