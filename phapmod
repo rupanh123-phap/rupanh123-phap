@@ -5,8 +5,6 @@ minor="http://"
 gui="http://"
 kodi="19"
 theme="http://"
-<icon>resources/media/giaodien.webp</icon>
-<fanart>resources/media/giaodien.webp</fanart>
 preview="http://"
 adult="yes"
 info="http://"
