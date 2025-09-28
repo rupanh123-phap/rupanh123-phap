@@ -1,0 +1,26 @@
+{
+  "id": "tmdb-vi",
+  "version": "1.0.0",
+  "name": "TMDB (Vietnamese)",
+  "description": "TMDB Addon with Vietnamese metadata",
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "tmdb-top",
+      "name": "Phim TMDB",
+      "extra": [{ "name": "search", "isRequired": false }],
+      "language": "vi-VN"
+    }
+  ],
+  "resources": [
+    "catalog",
+    "meta"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tmdb"
+  ]
+}
