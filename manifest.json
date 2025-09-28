@@ -1,32 +1,539 @@
 {
-  "id": "tmdb-vi",
-  "version": "1.0.0",
-  "name": "TMDB (Vietnamese)",
-  "description": "TMDB Addon with Vietnamese metadata",
+  "id": "gxx.stremio.Fshare",
+  "version": "1.9.55",
+  "name": "Fshare",
+  "description": "Fshare videos on Stremio",
+  "logo": "https://www.stremio.com/website/stremio-logo-small.png",
+  "behaviorHints": {
+    "configurable": true,
+    "configurationRequired": false
+  },
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "types": [
+    "gxx.Phim Fun",
+    "gxx.Rổ phim",
+    "gxx.IPTV",
+    "gxx.Phim mới",
+    "gxx.KKPhim",
+    "gxx.Ổ phim",
+    "gxx.ThuvienHD",
+    "gxx.ThuvienCine",
+    "gxx.FshareOnDemand"
+  ],
   "catalogs": [
     {
-      "type": "movie",
-      "id": "tmdb-search",
-      "name": "Tìm phim TMDB",
-      "extra": [
-        { "name": "search", "isRequired": true }
-      ]
-    }
-  ],
-  "resources": [
-    {
-      "name": "catalog",
-      "types": ["movie", "series"],
-      "idPrefixes": ["tmdb"],
-      "url": "https://tmdb-addon.stremio.workers.dev/catalog/{type}/{id}.json?language=vi-VN&query={search}"
+      "type": "gxx.FshareOnDemand",
+      "id": "1.9.55",
+      "name": "Fshare on Demand"
     },
     {
-      "name": "meta",
-      "types": ["movie", "series"],
-      "idPrefixes": ["tmdb"],
-      "url": "https://tmdb-addon.stremio.workers.dev/meta/{type}/{id}.json?language=vi-VN"
+      "type": "gxx.Phim Fun",
+      "id": "1.9.55",
+      "name": "Mới & Hot",
+      "extra": [
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.Phim Fun",
+      "id": "series_by_country",
+      "name": "Phim bộ/Quốc gia",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Tất cả", "Việt Nam", "Hàn Quốc", "Âu Mỹ", "Trung Quốc", "Hồng Kông", "Nhật Bản", "Thái Lan"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.Phim Fun",
+      "id": "series_by_genre",
+      "name": "Phim bộ/Thể loại",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Tất cả", "Hành động", "Chiến tranh", "Kinh dị", "Tâm lý", "Anime", "Cổ trang"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.Phim Fun",
+      "id": "movie_by_country",
+      "name": "Phim lẻ/Quốc gia",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Tất cả", "Việt Nam", "Hàn Quốc", "Âu Mỹ", "Trung Quốc", "Hồng Kông", "Nhật Bản", "Thái Lan"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.Phim Fun",
+      "id": "movie_by_genre",
+      "name": "Phim lẻ/Thể loại",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Tất cả", "Hành động", "Chiến tranh", "Kinh dị", "Tâm lý", "Anime", "Cổ trang"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    { "type": "gxx.IPTV", "id": "vtv", "name": "VTV News" },
+    { "type": "gxx.IPTV", "id": "worldnews", "name": "World News" },
+    { "type": "gxx.IPTV", "id": "sports", "name": "Sport" },
+    { "type": "gxx.IPTV", "id": "fashion", "name": "Fashion" },
+    { "type": "gxx.IPTV", "id": "nature", "name": "Nature" },
+    {
+      "type": "gxx.Phim mới",
+      "id": "1.9.55",
+      "name": "Mới & Hot"
+    },
+    {
+      "type": "gxx.Phim mới",
+      "id": "the-loai",
+      "name": "Thể loại",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Tất cả", "Hành động", "Chiến tranh", "Kinh dị", "Tâm lý", "Anime", "Cổ trang"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.Phim mới",
+      "id": "phim-le",
+      "name": "Phim lẻ",
+      "extra": [
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.Phim mới",
+      "id": "phim-bo",
+      "name": "Phim bộ",
+      "extra": [
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.Phim mới",
+      "id": "phim-chieu-rap",
+      "name": "Phim chiếu rạp",
+      "extra": [
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.Phim mới",
+      "id": "quoc-gia",
+      "name": "Quốc gia",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Tất cả", "Việt Nam", "Hàn Quốc", "Âu Mỹ", "Trung Quốc", "Hồng Kông", "Nhật Bản", "Thái Lan"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.Phim mới",
+      "id": "search",
+      "name": "Tìm kiếm",
+      "extra": [
+        { "name": "search", "isRequired": true },
+        { "name": "genre", "isRequired": false },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.Ổ phim",
+      "id": "1.9.55",
+      "name": "Mới cập nhật",
+      "extra": [
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.Ổ phim",
+      "id": "series_by_country",
+      "name": "Phim bộ/Quốc gia",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Tất cả", "Âu Mỹ", "Đài Loan", "Hàn Quốc", "Hồng Kông", "Nhật Bản", "Philippines", "Thái Lan", "Trung Quốc"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.Ổ phim",
+      "id": "movie_by_country",
+      "name": "Phim lẻ/Quốc gia",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Tất cả", "Âu Mỹ", "Đài Loan", "Hàn Quốc", "Hồng Kông", "Nhật Bản", "Philippines", "Thái Lan", "Trung Quốc"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.Ổ phim",
+      "id": "series_by_genre",
+      "name": "Phim bộ/Thể loại",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Tất cả", "Âm Nhạc", "Bí ẩn", "Chiến Tranh", "Chính kịch", "Cổ Trang", "Gia Đình", "Hài Hước", "Hành Động", "Hình Sự", "Học Đường", "Khoa Học", "Kinh Dị", "Kinh Điển", "Phiêu Lưu", "Phim 18+", "Tài Liệu", "Tâm Lý", "Thần Thoại", "Thể Thao", "Tình Cảm", "Viễn Tưởng", "Võ Thuật"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.Ổ phim",
+      "id": "movie_by_genre",
+      "name": "Phim lẻ/Thể loại",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Tất cả", "Âm Nhạc", "Bí ẩn", "Chiến Tranh", "Chính kịch", "Cổ Trang", "Gia Đình", "Hài Hước", "Hành Động", "Hình Sự", "Học Đường", "Khoa Học", "Kinh Dị", "Kinh Điển", "Phiêu Lưu", "Phim 18+", "Tài Liệu", "Tâm Lý", "Thần Thoại", "Thể Thao", "Tình Cảm", "Viễn Tưởng", "Võ Thuật"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.Ổ phim",
+      "id": "search",
+      "name": "Tìm kiếm",
+      "extra": [
+        { "name": "search", "isRequired": true },
+        { "name": "genre", "isRequired": false },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.Rổ phim",
+      "id": "1.9.55",
+      "name": "Mới & Hot",
+      "extra": [
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.Rổ phim",
+      "id": "series_by_country",
+      "name": "Phim bộ/Quốc gia",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Tất cả", "Việt Nam", "Hàn Quốc", "Âu Mỹ", "Trung Quốc", "Hồng Kông", "Nhật Bản", "Thái Lan"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.Rổ phim",
+      "id": "series_by_genre",
+      "name": "Phim bộ/Thể loại",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Tất cả", "Hành động", "Chiến tranh", "Kinh dị", "Tâm lý", "Anime", "Cổ trang"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.Rổ phim",
+      "id": "movie_by_country",
+      "name": "Phim lẻ/Quốc gia",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Tất cả", "Việt Nam", "Hàn Quốc", "Âu Mỹ", "Trung Quốc", "Hồng Kông", "Nhật Bản", "Thái Lan"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.Rổ phim",
+      "id": "movie_by_genre",
+      "name": "Phim lẻ/Thể loại",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Tất cả", "Hành động", "Chiến tranh", "Kinh dị", "Tâm lý", "Anime", "Cổ trang"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.KKPhim",
+      "id": "1.9.55",
+      "name": "Mới cập nhật",
+      "extra": [
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.KKPhim",
+      "id": "view_by_country",
+      "name": "Quốc gia",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Việt Nam", "Hàn Quốc", "Âu Mỹ", "Trung Quốc", "Hồng Kông", "Nhật Bản", "Thái Lan", "Quốc Gia Khác"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.KKPhim",
+      "id": "the-loai",
+      "name": "Thể loại",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Hành Động", "Hình Sự", "Kinh Dị", "Bí Ẩn", "Chiến Tranh", "Viễn Tưởng", "Chính Kịch", "Cổ Trang", "Gia Đình", "Hài Hước", "Học Đường", "Khoa Học", "Võ Thuật", "Kinh Điển", "Lịch Sử", "Miền Tây", "Phiêu Lưu", "Phim 18+", "Tài Liệu", "Tâm Lý", "Thần Thoại", "Thể Thao", "Tình Cảm", "Trẻ Em", "Âm Nhạc"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.KKPhim",
+      "id": "series_by_country",
+      "name": "Phim bộ/Quốc gia",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Việt Nam", "Hàn Quốc", "Âu Mỹ", "Trung Quốc", "Hồng Kông", "Nhật Bản", "Thái Lan", "Quốc Gia Khác"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.KKPhim",
+      "id": "series_by_genre",
+      "name": "Phim bộ/Thể loại",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Hành Động", "Hình Sự", "Kinh Dị", "Bí Ẩn", "Chiến Tranh", "Viễn Tưởng", "Chính Kịch", "Cổ Trang", "Gia Đình", "Hài Hước", "Học Đường", "Khoa Học", "Võ Thuật", "Kinh Điển", "Lịch Sử", "Miền Tây", "Phiêu Lưu", "Phim 18+", "Tài Liệu", "Tâm Lý", "Thần Thoại", "Thể Thao", "Tình Cảm", "Trẻ Em", "Âm Nhạc"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.KKPhim",
+      "id": "movie_by_country",
+      "name": "Phim lẻ/Quốc gia",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Việt Nam", "Hàn Quốc", "Âu Mỹ", "Trung Quốc", "Hồng Kông", "Nhật Bản", "Thái Lan", "Quốc Gia Khác"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.KKPhim",
+      "id": "movie_by_genre",
+      "name": "Phim lẻ/Thể loại",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Hành Động", "Hình Sự", "Kinh Dị", "Bí Ẩn", "Chiến Tranh", "Viễn Tưởng", "Chính Kịch", "Cổ Trang", "Gia Đình", "Hài Hước", "Học Đường", "Khoa Học", "Võ Thuật", "Kinh Điển", "Lịch Sử", "Miền Tây", "Phiêu Lưu", "Phim 18+", "Tài Liệu", "Tâm Lý", "Thần Thoại", "Thể Thao", "Tình Cảm", "Trẻ Em", "Âm Nhạc"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.KKPhim",
+      "id": "search",
+      "name": "Tìm kiếm",
+      "extra": [
+        { "name": "search", "isRequired": true },
+        { "name": "genre", "isRequired": false },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.ThuvienHD",
+      "id": "1.9.55",
+      "name": "Mới cập nhật",
+      "extra": [
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.ThuvienHD",
+      "id": "trending",
+      "name": "Xem nhiều",
+      "extra": [
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.ThuvienHD",
+      "id": "thuyet_minh",
+      "name": "Thuyết minh",
+      "extra": [
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.ThuvienHD",
+      "id": "long_tieng",
+      "name": "Lồng tiếng",
+      "extra": [
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.ThuvienHD",
+      "id": "phim_tvb",
+      "name": "Phim TVB",
+      "extra": [
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.ThuvienHD",
+      "id": "view_by_country",
+      "name": "Phim bộ",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Phim Bộ", "Hàn", "Hongkong", "Mỹ", "Nhật Bản", "Philippines", "Thái Lan", "Trung Quốc", "Đài Loan", "Việt Nam"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.ThuvienHD",
+      "id": "view_by_genre",
+      "name": "Phim lẻ",
+      "extra": [
+        { "name": "skip", "isRequired": false },
+        {
+          "name": "genre",
+          "options": ["Phim lẻ", "Phim Hoạt Hình", "Bí Ẩn", "Cao Bồi", "Chiến Tranh", "Cổ Trang", "Gây cấn", "Gia Đình", "Hài", "Hành Động", "Hình Sự", "Hồi hộp", "Huyền Bí", "Kinh Dị", "Lãng Mạn", "Rùng Rợn", "Tâm Lý", "Phiêu Lưu", "Thần Thoại", "Thiếu Nhi", "Tình Cảm", "Tội Phạm", "Viễn Tưởng", "Phim 18+"],
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "type": "gxx.ThuvienHD",
+      "id": "search",
+      "name": "Tìm kiếm",
+      "extra": [
+        { "name": "search", "isRequired": true },
+        { "name": "genre", "isRequired": false },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.ThuvienCine",
+      "id": "1.9.55",
+      "name": "Mới cập nhật",
+      "extra": [
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.ThuvienCine",
+      "id": "trending",
+      "name": "Xu hướng",
+      "extra": [
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.ThuvienCine",
+      "id": "countries",
+      "name": "Quốc gia",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Tất cả", "Hongkong", "Mỹ", "Nhật Bản", "Philippines", "Thái Lan", "Trung Quốc", "Đài Loan", "Việt Nam", "Hàn"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.ThuvienCine",
+      "id": "genres",
+      "name": "Thể loại",
+      "extra": [
+        {
+          "name": "genre",
+          "options": ["Tất cả", "Adventure", "Chương Trình Truyền Hình", "Kids", "Phim Bí Ẩn", "Phim Chiến Tranh", "Phim Chính Kịch", "Phim Gây Cấn", "Phim Gia Đình", "Phim Giả Tượng", "Phim Hài", "Phim Hành Động", "Phim Hình Sự", "Phim Hoạt Hình", "Phim Khoa Học Viễn Tưởng", "Phim Kinh Dị", "Phim Lãng Mạn", "Phim Lịch Sử", "Phim Miền Tây", "Phim Nhạc", "Phim Phiêu Lưu", "Phim Tài Liệu", "Reality", "Science Fiction", "Soap", "War Politics"],
+          "isRequired": true
+        },
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.ThuvienCine",
+      "id": "series",
+      "name": "Phim bộ",
+      "extra": [
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "type": "gxx.ThuvienCine",
+      "id": "movie",
+      "name": "Phim lẻ",
+      "extra": [
+        { "name": "skip", "isRequired": false }
+      ]
+    },
+    {
+      "id": "gxx.search",
+      "type": "gxx.ThuvienCine",
+      "name": "Tìm kiếm Videos",
+      "extra": [
+        { "name": "search", "isRequired": false },
+        { "name": "genre", "isRequired": false },
+        { "name": "skip", "isRequired": false }
+      ],
+      "genres": ["Adventure", "Family", "Sci-Fi", "19-"]
     }
   ],
-  "types": ["movie", "series"],
-  "idPrefixes": ["tmdb"]
+  "stremioAddonsConfig": {
+    "issuer": "https://stremio-addons.net",
+    "signature": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..C_uQomw6y4IqeYb0NvBIxg.xL6ZMD3aQwq0mL46CpCNPaEpXPUZ0fiJcK9KgtmP2mAC-tk5XoE0mmd39LQI8k-K0HrftscTvCBSktQ812rS8VKVnF-7aRKKtOEN1SKsI34.58bGF4DZCsnngEuVSKx_Yg"
+  }
 }
