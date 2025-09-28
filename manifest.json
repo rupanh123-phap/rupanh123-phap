@@ -6,21 +6,27 @@
   "catalogs": [
     {
       "type": "movie",
-      "id": "tmdb-top",
-      "name": "Phim TMDB",
-      "extra": [{ "name": "search", "isRequired": false }],
-      "language": "vi-VN"
+      "id": "tmdb-search",
+      "name": "Tìm phim TMDB",
+      "extra": [
+        { "name": "search", "isRequired": true }
+      ]
     }
   ],
   "resources": [
-    "catalog",
-    "meta"
+    {
+      "name": "catalog",
+      "types": ["movie", "series"],
+      "idPrefixes": ["tmdb"],
+      "url": "https://tmdb-addon.stremio.workers.dev/catalog/{type}/{id}.json?language=vi-VN&query={search}"
+    },
+    {
+      "name": "meta",
+      "types": ["movie", "series"],
+      "idPrefixes": ["tmdb"],
+      "url": "https://tmdb-addon.stremio.workers.dev/meta/{type}/{id}.json?language=vi-VN"
+    }
   ],
-  "types": [
-    "movie",
-    "series"
-  ],
-  "idPrefixes": [
-    "tmdb"
-  ]
+  "types": ["movie", "series"],
+  "idPrefixes": ["tmdb"]
 }
