@@ -1,0 +1,941 @@
+[
+    {
+        "category": "MỚI NHẤT",
+        "items": [
+            {
+                "name": "Send files to TV",
+                "developer": "1.0 bởi Yablio",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/k1kc79f3pU3FomQMlUakqEMVrGMu0Q7YEwEmF5F0Ibi599r7UJr5tvDVbWyJLEJZIKoU",
+                "installs": "10 Tr+",
+                "desc": "Dễ dàng chuyển tập tin sang Android Smart TV từ điện thoại di động hoặc máy tính của bạn.",
+                "apk_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.yablio.sendfilestotv"
+            }
+        ]
+    },
+    {
+        "category": "XEM PHIM - NGHE NHẠC",
+        "items": [
+            {
+                "name": "Kodi (MOD)",
+                "developer": "Kodi Foundation",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/RQvf62YkkS_hpGAfP2iBoT2yf7b0oohFQHhBB8Chp8nHNPSqmZgEkwwpKtqdtqQ_ZvM",
+                "installs": "50 Tr+",
+                "desc": "Kodi trung tâm truyền thông, một nguồn mở miễn phí và cross-nền tảng trung tâm vui chơi giải trí. Cần Fshare VIP",
+                "apk_url": "https:\/\/ahiep.name.vn\/phap-files\/?path=phuocphap%2FKODI%2FKodi22%2FKodi21-ondinh-+cloner"
+            },
+            {
+                "name": "MonPlayer TV",
+                "developer": "Monoverse Co., Ltd",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/HqXUsIGaqeYJDmTBFoS6_YLvODIuUjNn_HQTx_96TIFKldk2ob0x66HEXh_NnPAsXxc",
+                "installs": "100 N+",
+                "desc": "Chơi tất cả nội dung bạn thích!.",
+                "apk_url": "https:\/\/monplayer.org\/tv"
+            },
+            {
+                "name": "Stremio",
+                "developer": "",
+                "icon": "https:\/\/www.stremio.com\/website\/stremio-purple-small.png",
+                "installs": "",
+                "desc": "Xem phim torrent",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/stremiotv.apk"
+            },
+            {
+                "name": "Vua Giải Trí (TV)",
+                "developer": "",
+                "icon": "https:\/\/png.pngtree.com\/png-clipart\/20200727\/original\/pngtree-logo-king-human-png-image_5155641.jpg",
+                "installs": "",
+                "desc": "Truyền Hình - Thể Thao - Phim 🤩",
+                "apk_url": "https:\/\/github.com\/manhnv699\/vuagiaitri\/releases\/download\/tv-app-armeabi-v7a\/tv-app-armeabi-v7a.apk"
+            },
+            {
+                "name": "Phim 4K (TV)",
+                "developer": "",
+                "icon": "https:\/\/img.freepik.com\/vector-gratis\/diseno-icona-insignia-resolucion-pantalla-4k-ultra-hd-dorada_1017-54543.jpg",
+                "installs": "",
+                "desc": "Phim 🤩",
+                "apk_url": "https:\/\/phim4k.xyz\/downloads\/androidtv"
+            },
+            {
+                "name": "Plex (MOD)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/F39M_Ce9OBW62qntNOq6jvUH3Nh0N-03eGNFFU14GAU-hCU0RlHBONYYBiS-0SY0kaY",
+                "installs": "",
+                "desc": "Media Server🦊",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/plex.apk"
+            },
+            {
+                "name": "Emby TV (MOD)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/x2eHcquFzIsSuhwXmbvD_xouXUxMkAfdak0z8zayXU_OzC9yYxBdbur3nE_kE4kazg",
+                "installs": "",
+                "desc": "Media Server🦊",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/emby.apk"
+            },
+            {
+                "name": "SmartTube",
+                "developer": "",
+                "icon": "https:\/\/img.utdstc.com\/icon\/b9f\/977\/b9f977832d162f1a9e65e2df6fb6a1ae352121073563b43e1837f8fbcf79601b:200",
+                "installs": "",
+                "desc": "Chặn quảng cáo YouTube TV 💌",
+                "apk_url": "https:\/\/kutt.it\/stn_stable"
+            },
+            {
+                "name": "YouTube Revanced (MOD)",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/smtb.png",
+                "installs": "",
+                "desc": "Dành cho điện thoại - TV phải dùng 🐀",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/ytbrvc.apk"
+            },
+            {
+                "name": "MicroG (Yotube Revanced)",
+                "developer": "",
+                "icon": "https:\/\/img.utdstc.com\/icon\/6c2\/e77\/6c2e779243f3d2d4a49966874d2a09a97793147dfdfd076987373f6f9a78803a:200",
+                "installs": "",
+                "desc": "Để đăng nhập YouTube Revanced ✅ Yêu cầu phải cài MicroG",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/microg.apk"
+            },
+            {
+                "name": "TizenTube (MOD)",
+                "developer": "",
+                "icon": "https:\/\/yt3.googleusercontent.com\/nbJWx2bDG0lj9ECT-1Xs1F9kWHHOHS0kK9-s4N2zuGf36sg_1tbuwT27Ftg3osYCdFXi5S6Lxqc=s900-c-k-c0x00ffffff-no-rj",
+                "installs": "",
+                "desc": "Chặn quảng cáo, Chạy song song YouTube gốc ❤️ Đổi giống YouTube - Voice vs KiKi , Supervoice",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tizen.apk"
+            },
+            {
+                "name": "TizenTube (Cần Xoá Youtube Gốc)",
+                "developer": "",
+                "icon": "https:\/\/yt3.googleusercontent.com\/nbJWx2bDG0lj9ECT-1Xs1F9kWHHOHS0kK9-s4N2zuGf36sg_1tbuwT27Ftg3osYCdFXi5S6Lxqc=s900-c-k-c0x00ffffff-no-rj",
+                "installs": "",
+                "desc": "Chặn quảng cáo, YouTube TV ❤️",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tizen.apk"
+            },
+            {
+                "name": "Newpipe",
+                "developer": "",
+                "icon": "https:\/\/newpipe.net\/img\/logo.svg",
+                "installs": "",
+                "desc": "Youtube không quảng cáo FHD 😁",
+                "apk_url": "https:\/\/newpipe.net\/#download"
+            },
+            {
+                "name": "SkyTube Extra",
+                "developer": "",
+                "icon": "https:\/\/avatars.githubusercontent.com\/u\/63019215?s=280&v=4",
+                "installs": "",
+                "desc": "YouTube không quảng cáo 4K 😁 Dành cho điện thoại",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/skytube.apk"
+            },
+            {
+                "name": "FlixVision",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/flixvision.jpg",
+                "installs": "",
+                "desc": "Xem phim 😁",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/flix.apk"
+            },
+            {
+                "name": "Dailymotion (MOD)",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQJLuXrjO85tkjGIwC3LjooNO5Bq9JPJSri4VXQDxbDibmx9OjDr8VFt-8l&s=10",
+                "installs": "",
+                "desc": "Xem phim 😁",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/dailymotion.apk"
+            },
+            {
+                "name": "Rổ Phim",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTvthkVAyXsOTg2F6mz4PnKbtrXAY7DaLh7rg&s",
+                "installs": "",
+                "desc": "Xem Phim ☕",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/rophim.apk"
+            },
+            {
+                "name": "HDO Box",
+                "developer": "",
+                "icon": "https:\/\/vepaar.b-cdn.net\/uploads\/c-187092\/product\/14404350\/media_168927997425011266.jpg?crop_gravity=center&width=500&height=500&quality=70&aspect_ratio=1:1",
+                "installs": "",
+                "desc": "Xem Phim ☕",
+                "apk_url": "https:\/\/hdo.app\/tv"
+            },
+            {
+                "name": "BeeTV",
+                "developer": "",
+                "icon": "https:\/\/hometeq.ca\/wp-content\/uploads\/2021\/05\/com.battlebot.dday.png",
+                "installs": "",
+                "desc": "Xem Phim ☕ Cài thêm Bear Player để xem",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/beetv.apk"
+            },
+            {
+                "name": "Bear Player",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/zzgsvdRFEKLLhgMBxBExWJPApN48SeDPA8rIwnf24J2rBK_DbDl3uTegX-TedLW90LI",
+                "installs": "",
+                "desc": "Cài thêm Beetv để xem☕",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/bearplayer.apk"
+            },
+            {
+                "name": "Spotify TV",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/spotifyy.png",
+                "installs": "",
+                "desc": "Nghe Nhạc 😁",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/spotify.apk"
+            },
+            {
+                "name": "Spotify Mobile (MOD)",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/spotifyy.png",
+                "installs": "",
+                "desc": "Nghe Nhạc Không Quảng Cáo 😁",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/spotifymb.apk"
+            },
+            {
+                "name": "Tivi Karaoke",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/8stC8gwNOrXi-4jefehP4jnuotguYH-x-ub_Q_-rEVaLsxB2tKsfXQ7vobWBY0Yi-A",
+                "installs": "",
+                "desc": "Karaoke 😁",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tivikaraoke.apk"
+            }
+        ]
+    },
+    {
+        "category": "VPN",
+        "items": [
+            {
+                "name": "Kiwi VPN (MOD)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/ko-xBhcnT7GIL6Y7eks6a0ageeHHvY27gtY4s2zRkfobZ4Jgzc1mvse-NZSVGBAlUVw",
+                "installs": "",
+                "desc": "VPN Kiwi 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/kiwi.apk"
+            },
+            {
+                "name": "1.1.1.1 Cloudfare (MOD)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/39xbI_gFcmGEIl6JEAGhJQKv8GBjR_RFyJ6qhrFfA9CUOKZU2clSs7uo81e30zPGtg",
+                "installs": "",
+                "desc": "VPN 1111 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/1111.apk"
+            },
+            {
+                "name": "Adguard (MOD)",
+                "developer": "",
+                "icon": "https:\/\/muaga.me\/wp-content\/uploads\/2020\/05\/adguard-premium-vinh-vien.png",
+                "installs": "",
+                "desc": "VPN Chặn Quảng cáo 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/adguard.apk"
+            },
+            {
+                "name": "VPN VIETNAM SUPER (MOD)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/Cmr1EzmO7xuWZG72LpjlEvc6UMXrXxh96ZJyht3ojA3X4pMO4nSe17irOCA9BjLZaBY",
+                "installs": "",
+                "desc": "VPN Chặn Quảng cáo YouTube 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/vpnvn.apk"
+            },
+            {
+                "name": "UltraSurf VPN (MOD)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/QeDg46ts4oHQxpx03egAQ9F9PLTbtKQUh2LObXrylexydDHje6UKKQbw3eo6F0HlbWMT",
+                "installs": "",
+                "desc": "VPN 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/ultrasurf.apk"
+            },
+            {
+                "name": "Kiwi VPN (MOD)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/LZmCd9GyzfB7jJKdaDfViz4JYUVZByB5qrCcCergciP1L6LUrIDNDRZ6HY3Q25NmG4KG=w240-h480-rw",
+                "installs": "",
+                "desc": "VPN ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/kiwi.apk"
+            },
+            {
+                "name": "Octohide VPN",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQYEEr5ttyzoiAX2OsOcSVkXc_tyBNMnPMs6w&s",
+                "installs": "",
+                "desc": "VPN 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/octohide.apk"
+            },
+            {
+                "name": "VPN",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/rupanh123-phap\/refs\/heads\/main\/vpnnga.png",
+                "installs": "",
+                "desc": "VPN NGA (MOD)",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/vpnnga.apk"
+            }
+        ]
+    },
+    {
+        "category": "TRUYỀN HÌNH - IPTV",
+        "items": [
+            {
+                "name": "Imedia TV",
+                "developer": "",
+                "icon": "https:\/\/image.winudf.com\/v2\/image1\/ZGV2X2ltYWdlXzI0MDc0NzY4XzIwMTQ0OV8yMDIzMDcyODAzNDY0NTE4MA\/icon.webp?w=140&fakeurl=1&type=.webp",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá😱",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/imediatv.apk"
+            },
+            {
+                "name": "VAppTV",
+                "developer": "",
+                "icon": "https:\/\/vivalavintage.com.au\/wp-content\/uploads\/2023\/03\/logo-viva-la-vintage-best.webp",
+                "installs": "",
+                "desc": "Truyền Hình 😱",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/vapptv.apk"
+            },
+            {
+                "name": "Cò Tivi",
+                "developer": "",
+                "icon": "https:\/\/i.ibb.co\/mrVGbpdk\/cotivi.png",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá 😘",
+                "apk_url": "https:\/\/cotivi.online\/download"
+            },
+            {
+                "name": "TV360 (MOD)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/_9U3ssBJmeQlp8qg1vgSP4tn763MWc_zfO_n6g2klNNxJ_R1hMfI6v7xrKwIoow41YI",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tv360.apk"
+            },
+            {
+                "name": "DL Tivi",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/gEpSxRbJNkN-bgnpX4khvulqP3a5ZOOgkbKw7CCg_-Ye4QHn5Kxh4nL-Ek_JhDc0Nwk",
+                "installs": "",
+                "desc": "Truyền Hình 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/dltv.apk"
+            },
+            {
+                "name": "VietPlay TV",
+                "developer": "",
+                "icon": "https:\/\/vietplayplus.com\/api\/public\/files\/vietplayplus-placeholder_bhParT8xG.jpg",
+                "installs": "",
+                "desc": "Truyền Hình 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/vietplaytv.apk"
+            },
+            {
+                "name": "QuanTV",
+                "developer": "",
+                "icon": "https:\/\/cdn-icons-png.flaticon.com\/512\/1801\/1801781.png",
+                "installs": "",
+                "desc": "Truyền Hình 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/quantv.apk"
+            },
+            {
+                "name": "Monster TV",
+                "developer": "",
+                "icon": "https:\/\/image.winudf.com\/v2\/image1\/Y29tLnF1YW5nLnRoZXRoYW8udGludHVjX3NjcmVlbl8wXzE2NDQ0Njk0MDVfMDU4\/screen-0.jpg?fakeurl=1&type=.jpg",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá 😱",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/monster.apk"
+            },
+            {
+                "name": "SportsTV",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/sportv.png",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/sporstv.apk"
+            },
+            {
+                "name": "SportzX",
+                "developer": "",
+                "icon": "https:\/\/sportzxtvapk.com\/wp-content\/uploads\/2025\/08\/Sportz-TV-Apk-Logo.webp",
+                "installs": "",
+                "desc": "Bóng Đá Live FHD ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/sportzx.apk"
+            },
+            {
+                "name": "RBTV +",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/-q5lFRsHgU7T6jFE9XLzFJMlm1in2NoF9ibscFriWYu1HdoE5d6aOmJRtAKFomyd6Tjr",
+                "installs": "",
+                "desc": "Bóng Đá Live ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/rbtv.apk"
+            },
+            {
+                "name": "Cricfy TV",
+                "developer": "",
+                "icon": "https:\/\/cricfys.com\/wp-content\/uploads\/cricfy-tv.webp",
+                "installs": "",
+                "desc": "Bóng Đá Live FHD ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/cricfy.apk"
+            },
+            {
+                "name": "KK Play",
+                "developer": "",
+                "icon": "https:\/\/iaapa-web.s3.us-west-2.amazonaws.com\/public\/styles\/large_scale_480x480\/public\/2025-01\/K%20Play%20Solutions.JPG.webp?VersionId=BoFn9LMZ0KLrgcBloojSn7kRdYJobNYJ&itok=bee6tZxD",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/kkplay.apk"
+            },
+            {
+                "name": "VeBoTV",
+                "developer": "",
+                "icon": "https:\/\/gocmod.com\/wp-content\/uploads\/2022\/09\/VEBOtv-AD-Free1.webp",
+                "installs": "",
+                "desc": "Xem Bóng Đá ⭐",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/vebotv.apk"
+            },
+            {
+                "name": "Xa Bờ TV",
+                "developer": "",
+                "icon": "https:\/\/i.pinimg.com\/originals\/94\/bf\/d9\/94bfd951be3d056a68f22719b5699527.jpg",
+                "installs": "",
+                "desc": "Xem đá bóng ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/xabotv.apk"
+            },
+            {
+                "name": "ThapCam TV",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/thapcam.png",
+                "installs": "",
+                "desc": "Xem đá bóng Thập Cẩm TV",
+                "apk_url": "https:\/\/github.com\/thangoghd\/ThapcamTV\/releases"
+            },
+            {
+                "name": "Vừa Mới Thấy",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/vuamoithay.png",
+                "installs": "",
+                "desc": "Xem Truyền Hình IPTV",
+                "apk_url": "https:\/\/github.com\/viktorwawick\/apk\/releases\/download\/1.0\/vmtmod2.apk"
+            },
+            {
+                "name": "OTT Navigator Premium",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/ott.png",
+                "installs": "",
+                "desc": "Xem Truyền Hình IPTV",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/ott.apk"
+            },
+            {
+                "name": "M3U IPTV Premium",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/HAQ18Pg2JzUzcZFQ4qUWlIaxPwftQ0oAt1U1TMVYQR3hchn_Dtj36LTPdga6thCbKnA",
+                "installs": "",
+                "desc": "Xem Truyền Hình IPTV",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/m3u.apk"
+            },
+            {
+                "name": "OTT Navigator Premium (4.0)",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/ott.png",
+                "installs": "",
+                "desc": "Dành Cho Android 4.0",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/ott4.apk"
+            },
+            {
+                "name": "Lazy IPTV Premium",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTHztB46h1bZqhXWn93u1YDWE8oxXleLktQUA&s",
+                "installs": "",
+                "desc": "Xem IPTV ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/lazy.apk"
+            },
+            {
+                "name": "WisePlay",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/_SHQjLM1rdpx-5EhldGl8yTLIb5tfBF5p_ELnto0XqON3WjKN07C3pDmKT6sob1ER3A",
+                "installs": "",
+                "desc": "Xem IPTV ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/wiseplay.apk"
+            },
+            {
+                "name": "Perfect Player",
+                "developer": "",
+                "icon": "https:\/\/cdn6.aptoide.com\/imgs\/8\/0\/a\/80a5d324547619f2d16b622c88b55938_icon.png",
+                "installs": "",
+                "desc": "Xem IPTV ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/pplayer.apk"
+            },
+            {
+                "name": "Televizo Premium",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/ip.png",
+                "installs": "",
+                "desc": "Xem IPTV ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/televizof.apk"
+            },
+            {
+                "name": "Tivimate Premium",
+                "developer": "",
+                "icon": "https:\/\/downloadr2.apkmirror.com\/wp-content\/uploads\/2022\/10\/42\/634afd651f0b8.png",
+                "installs": "",
+                "desc": "Xem IPTV ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tivimate.apk"
+            },
+            {
+                "name": "Sparkle TV (MOD Dexunpacker)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/eYfJHADMYNZpqaiTslBETpzIoZdHiNT_IZ2hQ_pG8_gNG6hEfW2C6ENEEPaIvHNVOA",
+                "installs": "",
+                "desc": "Xem IPTV ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/sptv.apk"
+            },
+            {
+                "name": "IPTV Pro Premium",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/iptvpro.png",
+                "installs": "",
+                "desc": "Xem Truyền Hình IPTV",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/iptv.apk"
+            },
+            {
+                "name": "AceStream (MOD)",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/ace.png",
+                "installs": "",
+                "desc": "Xem AceStream",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/ace.apk"
+            },
+            {
+                "name": "Ace Server",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTnLqCRBJQhOeYiZsRG25shCS4FJKDcJ_sJ1mBRx-xPC_-YrxvM5o6f7Del&s=10",
+                "installs": "",
+                "desc": "Xem thể thao acestream",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/acesv.apk"
+            }
+        ]
+    },
+    {
+        "category": "TIỆN ÍCH",
+        "items": [
+            {
+                "name": "Tất Cả Ứng Dụng (MOD)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/G-3hJES5hozl1a9lRcr5WdDayEGGANF0LzUsf8ZCoL1wICVoo2RHRYO1lGeA0ssRn3k=w240-h480-rw",
+                "installs": "",
+                "desc": "Hiện Tất Cả Ứng Dụng 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tatcaapp.apk"
+            },
+            {
+                "name": "Quản Lý APP (MOD)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/y1AJ22n-yQAIPDJ-Gbwjctgn6780vXP5xIq_z9ENbPZrpDENl5IIdeUXoV8sfklhi3s",
+                "installs": "",
+                "desc": "Khoá Ứng Dụng 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/khoa.apk"
+            },
+            {
+                "name": "TVQuickActions (MOD VIP)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/u1e6dAgrKtHo7m9vfVJqOXdiw6DFgZWAfV1PiqlxJFsZ-4FB_xN2wNP4Nsrd_e87oEQ",
+                "installs": "",
+                "desc": "Map Phím Siêu Pro 😘",
+                "apk_url": "https:\/\/rupanh123-phap.github.io\/tvq.html"
+            },
+            {
+                "name": "Happy Chick TV (MOD VIP)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/h1wXW-thQ5de47ETDLlzzE1k3JIUyl2eaREl-CI7UQHfu63RV_F8hXmZblVL_RXVzg",
+                "installs": "",
+                "desc": "Giả Lập Game Nes, PSP😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/happychick.apk"
+            },
+            {
+                "name": "RetroArch",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/bWf-MxH7kV88rrx27MgFB24V8gHd1C3s1ojYq4viPFtMOdtMy60PKVAkh69LLns6c4s",
+                "installs": "",
+                "desc": "Giả Lập Game Nes, PSP..Full ổn định😘",
+                "apk_url": "https:\/\/buildbot.libretro.com\/stable\/1.21.0\/android\/RetroArch.apk"
+            },
+            {
+                "name": "PPSSPP Gold (MOD VIP)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/10fZZfOPjwESHD3wFAZx65m6uwDxMqj2yokiSlOwJzrqxokol9Qc1hwMQnZOWTCtgB4",
+                "installs": "",
+                "desc": "Giả Lập Game PS1😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/psp.apk"
+            },
+            {
+                "name": "Nes.emu (MOD VIP)",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQINo3quAXjvh7BeWWUVWIjzIEcYuWUmVEVRw&s",
+                "installs": "",
+                "desc": "Giả Lập Game Nes😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/nes.emu.apk"
+            },
+            {
+                "name": "Button Mapper (MOD)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/nsmWhzYhXDbxGqE-Z9iUFFQXuFJqtaEgucwCVMoozpnUSkjkyxBVe2pPXG3WSbqN6Q",
+                "installs": "",
+                "desc": "Map Phím 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/bmapper.apk"
+            },
+            {
+                "name": "APK Mirror Installer (MOD)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/04zdh0xwgkxR0kTE_pAzURKJjihHjR9Nz5RSU1R7toS9W8-QCLE1RtJBS4Csl-ueEUU",
+                "installs": "",
+                "desc": "Cài APKX APKS 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/apkmirro.apk"
+            },
+            {
+                "name": "SAI (MOD)",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQ8YNOlv-Q7KsVQcplQu0_Jpn-1u2sEDUfjW0Jb2vSQFBQi57CJ7TCtHmQ&s=10",
+                "installs": "",
+                "desc": "Cài APKX APKS 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/sai.apk"
+            },
+            {
+                "name": "Xoay Màn Hình",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/RqiV1jB4ywGtAVTmNOqnmgYo37OCrKDqiSQKaHvVM8rg8-ywdRNEit98wmsFdniusvpH",
+                "installs": "",
+                "desc": "Xoay Dọc Ngang màn hình 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/xoaymanhinh.apk"
+            },
+            {
+                "name": "Tăng Âm Lượng (MOD)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/7oQ_z9HskMd872l1t0gJUKtcJjuIfkRqaOdfk8m3jpgg750EQNI7SLcw5ca9oaxbpj4=w240-h480-rw",
+                "installs": "",
+                "desc": "Volume Booster 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/volumeboost.apk"
+            },
+            {
+                "name": "Super Voice Tìm Kiếm Giọng Nói (Linor)",
+                "developer": "",
+                "icon": "https:\/\/cdn1.iconfinder.com\/data\/icons\/google-s-logo\/150\/Google_Icons-25-512.png",
+                "installs": "",
+                "desc": "Hỗ trợ Tizen-SmartTube-IPTV-CS 😘 Cần bật gỡ ADB gỡ lỗi USB",
+                "apk_url": "https:\/\/bom.so\/suppervoice"
+            },
+            {
+                "name": "Map Voice Tìm Kiếm Giọng Nói (Linor)",
+                "developer": "",
+                "icon": "https:\/\/cdn1.iconfinder.com\/data\/icons\/google-s-logo\/150\/Google_Icons-25-512.png",
+                "installs": "",
+                "desc": "Hỗ trợ Tizen-SmartTube-IPTV-CS.. 😘 Không cần bật ADB",
+                "apk_url": "https:\/\/bom.so\/mapVoice"
+            },
+            {
+                "name": "Tìm Kiếm Giọng Nói KiKi 👇 Cài thêm SAI để cài XAPK",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/KZVTvc0gOIuF0xGI41fi-oIef-VeuBBT_hWujdOOr8C-Aq-4cr92jvtjFHf1Iff9gtY=w240-h480-rw",
+                "installs": "",
+                "desc": "Hỗ trợ Smarttube - ImediaTV😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/kiki.xapk"
+            },
+            {
+                "name": "Tìm Kiếm Giọng Nói VNVoice (Linor)",
+                "developer": "",
+                "icon": "https:\/\/static.vecteezy.com\/system\/resources\/previews\/021\/569\/060\/non_2x\/letter-v-initials-sound-voice-spectrum-rhythm-digital-futuristic-modern-vibrant-logo-design-vector.jpg",
+                "installs": "",
+                "desc": "Hỗ trợ Smarttube - KODI😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/voicelinor.apk"
+            },
+            {
+                "name": "Tìm Kiếm Giọng Nói (Minh Tâm)",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRRXjAMcwU-Cksb8_KTKCiXiX6vd4bKxbhsrA&s",
+                "installs": "",
+                "desc": "Lối tắt tìm kiếm giọng nói 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tkgn.apk"
+            },
+            {
+                "name": "Bàn Phím Android TV",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/kbatv.png",
+                "installs": "",
+                "desc": "✅ Tổng hợp bàn phím Android",
+                "apk_url": "https:\/\/www.mediafire.com\/folder\/t7ctwr5vyis3q\/B%C3%A0n+ph%C3%ADm"
+            },
+            {
+                "name": "Camera IMOU (MOD)",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/imou.png",
+                "installs": "",
+                "desc": "✅Add con trỏ chuột, icon",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/imou.apk"
+            },
+            {
+                "name": "Quét Bluetooth (MOD)",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/timblt.png",
+                "installs": "",
+                "desc": "Quét Bluetooth cho Box hoặc Android TV bị kén Bluetooth",
+                "apk_url": "https:\/\/is.gd\/phapblt"
+            },
+            {
+                "name": "Bluetooth Remote & Mouse",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/oECx2DxYZsIGSoZ9OIBWe3wIy-aPNc0myLsskEEggX0E41AO0VF43yFXFg49vrrkjiAJ=w240-h480-rw",
+                "installs": "",
+                "desc": "dùng điện thoại làm remote Bluetooth cho TV ⭐",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/bltrm.apk"
+            },
+            {
+                "name": "Bluetooth Remote",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSlKeE6uWFyZ7SfHTZYXJxT1lPfHQdBifSJKovxxkg2Pw&s=10",
+                "installs": "",
+                "desc": "Dùng điện thoại làm remote Bluetooth cho TV 2⭐",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/btrmt.apk"
+            },
+            {
+                "name": "LeankeyBoard",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/64lBNTOitObo3YW5estD6CBo1LMARegXfk3AY2L6nVjCPCC21YEZ5uYsRvJjuNfIEwA",
+                "installs": "",
+                "desc": "Bàn Phím Android TV ⭐",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/leankey.apk"
+            },
+            {
+                "name": "Keyboard Android TV",
+                "developer": "",
+                "icon": "https:\/\/developer.android.com\/static\/training\/tv\/images\/atv-keyboard-password.png?hl=vi",
+                "installs": "",
+                "desc": "Bàn Phím Android TV",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/bpatv.apk"
+            },
+            {
+                "name": "Atvtools (MOD)",
+                "developer": "",
+                "icon": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple211\/v4\/cf\/77\/0e\/cf770e7e-1e9c-d8cf-696e-f2a2eae582e0\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\/1024x1024bb.png",
+                "installs": "",
+                "desc": "Dùng điện thoại Điều Khiển Tivi qua wifi và hơn thế",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/atvtool.apk"
+            },
+            {
+                "name": "Mở bằng (MOD)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/FOvPXQMtmSkT1E8ekTN56oM81oEG1N9SV6PdCYpu5Le5ml14Rdi8znL1aqPxK1cKSqo",
+                "installs": "",
+                "desc": "Mở tốt với",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/o.apk"
+            },
+            {
+                "name": "Swift Backup Premium",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/nYlBOXPFie6wXrfRSzM6P2CVQOJgUg8tofwb1dBNbGQ_zm_Yw47o3J55hsT9kCT2pvM",
+                "installs": "",
+                "desc": "Sao Lưu - Khôi phục APP và DATA (Yêu cầu root)",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/sbackup.apk"
+            },
+            {
+                "name": "Folder Sync",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/Bc1L10zBvt3w6uAzBkZqliV7m6qVE1-F4QlXFKhQuWxtCeancWGY2IIhbrzxpNBzO58=w240-h480-rw",
+                "installs": "",
+                "desc": "Sao lưu thư mục - dữ liệu trên cloud",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/fsync.apk"
+            },
+            {
+                "name": "Remote ADB",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/k7lEVSrxLA54xzKtV7TUXew2fjrCuej-gBkeihuGYa4u9_cGdMRcBNEmx3JwpbY0E4JN",
+                "installs": "",
+                "desc": "Remote adb",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/radb.apk"
+            },
+            {
+                "name": "Termux",
+                "developer": "",
+                "icon": "https:\/\/cdn-bgp.bluestacks.com\/BGP\/vn\/gametiles_com.termux.jpg",
+                "installs": "",
+                "desc": "Termux",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/termux.apk"
+            },
+            {
+                "name": "Sửa lỗi tự động cập nhật ngày giờ Yêu cầu gỡ lỗi usb",
+                "developer": "",
+                "icon": "https:\/\/cdn-icons-png.freepik.com\/512\/5521\/5521277.png",
+                "installs": "",
+                "desc": "Fix Time NTP",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/"
+            },
+            {
+                "name": "Chặn Quảng Cáo IOS",
+                "developer": "",
+                "icon": "https:\/\/img.icons8.com\/?size=512&id=20821&format=png",
+                "installs": "",
+                "desc": "Tải về - Cài đặt chung -> Quản lý VPN và Thiết bị -> Hồ sơ cấu hình -> Phap Ferrari -> Cài đặt -> OK",
+                "apk_url": "https:\/\/is.gd\/phapcqcios"
+            }
+        ]
+    },
+    {
+        "category": "GIAO DIỆN - QUẢN LÝ FILE",
+        "items": [
+            {
+                "name": "Xplorer File Manager Premium",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/kkd0TsVGQ0SFAM7T-SWQoQAhtZXFJlK1LRJBN6qisUeSQHnCBlWmP2ZhgOtPRGZ75hQ",
+                "installs": "",
+                "desc": "Quản lý tập tin không quảng cáo😁",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/xplorer.apk"
+            },
+            {
+                "name": "Quản Lý Tệp",
+                "developer": "",
+                "icon": "https:\/\/img.freepik.com\/premium-vector\/file-manager-icon_915059-5.jpg",
+                "installs": "",
+                "desc": "Quản lý tập tin😁",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/qlt.apk"
+            },
+            {
+                "name": "Mixplorer Premium",
+                "developer": "",
+                "icon": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple113\/v4\/a3\/eb\/6e\/a3eb6ef2-36b6-1f7f-416e-4b2595bf5e2b\/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png\/1024x1024bb.png",
+                "installs": "",
+                "desc": "Quản lý tập tin😁",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/mixp.apk"
+            },
+            {
+                "name": "RS File Manager File Explorer",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/dEeyATXftk2cMTNSXBCnyD-ZGNRi40naefdlsjScAiurQ-eJ9IOeaA7lSo-WPFfs8Kc",
+                "installs": "",
+                "desc": "Quản lý tập tin",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/rsfile.apk"
+            },
+            {
+                "name": "ATV Launcher PRO",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/K9ezslXnY0Y_SvZrjV3wWQkbnViIDKUAFVUA6PyzMpveV661gnuBKLiwngfAhagxXko=w526-h296-rw",
+                "installs": "",
+                "desc": "Giao diện đơn giản😁",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/atvlauncher.apk"
+            },
+            {
+                "name": "Projectivy Launcher (MOD)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/6bigO3_72JW9xTdkX7Mpm8fTBiP7ISDCUcI2E3C79P21uwuJC6VWD8pFxH-bXvc-CVZm",
+                "installs": "",
+                "desc": "Giao diện đẹp đơn giản😁",
+                "apk_url": "https:\/\/rupanh123-phap.github.io\/prolauncher.html"
+            },
+            {
+                "name": "Thay đổi giao diện",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTC7SMes5z4Yap2rUWUioxisEXXGN7t_eMTwQ&s",
+                "installs": "",
+                "desc": "Thay đổi giao diện mặc định 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tdgd.apk"
+            },
+            {
+                "name": "Giao Diện",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/atv.png",
+                "installs": "",
+                "desc": "Tổng Hợp Giao Diện",
+                "apk_url": "https:\/\/www.mediafire.com\/folder\/vtcnxvwcz9yzr\/ATV+Launcher"
+            },
+            {
+                "name": "MX Player Pro (MOD)",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/mxp.png",
+                "installs": "",
+                "desc": "Trình phát đã xoá quảng cáo",
+                "apk_url": "https:\/\/rupanh123-phap.github.io\/mx.html"
+            },
+            {
+                "name": "VLC",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/nPnJc260PPoupBe-DcVQ-MNr6149dphdEoEAN-C9xwgctpVXbwsuyon_jEZ3uPWWYQ",
+                "installs": "",
+                "desc": "VLC for Android TV😁",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/vlc.apk"
+            },
+            {
+                "name": "Just Player",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/LNF01ydGbukqvbFU9pTcZDSRfi86ipAqSdH0Mksb4vk3B4urmMx5qO37OvYXlBalXBE=w240-h480-rw",
+                "installs": "",
+                "desc": "Justplayer Legacy😁",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/justplayerl.apk"
+            },
+            {
+                "name": "Nova Video Player",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR01Lzlg_Q_8HBwQwy4RgmPYADsts0acdNnSg&s",
+                "installs": "",
+                "desc": "Nova😁",
+                "apk_url": "https:\/\/github.com\/nova-video-player\/aos-AVP\/releases"
+            },
+            {
+                "name": "Aplayer (MOD)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/vxkarvy-wCnMYFqKKjfAZgwZH3PZdY5fuhEtKa1kgpk5kLvdeI9xeoPI47i42pCCId0",
+                "installs": "",
+                "desc": "Aplayer😁",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/aplayer.apk"
+            }
+        ]
+    },
+    {
+        "category": "KHO ỨNG DỤNG - TRÌNH DUYỆT WEB",
+        "items": [
+            {
+                "name": "Emet Surf",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/MVfRmMFg_oO0ONE-ATsyC2m-PVqEq3lqTYuGBk7IUzGPfTHIwO2I-CyoaijqZztMvko8=w240-h480-rw",
+                "installs": "",
+                "desc": "Trình Duyệt Web All In One",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/emet.apk"
+            },
+            {
+                "name": "JioSphere",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRP17syNycSI-U3itXnuDD3c-BHdktZK2y-jVP1LrrF7g&s",
+                "installs": "",
+                "desc": "Trình Duyệt Web Đầy Đủ",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/jiosphere.apk"
+            },
+            {
+                "name": "Ferrari Downloader Store (MOD)",
+                "developer": "",
+                "icon": "https:\/\/m.media-amazon.com\/images\/I\/31KVvZnHbuL.png",
+                "installs": "",
+                "desc": "Kho ứng dụng mod hay ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/ferraridownloader.apk"
+            },
+            {
+                "name": "AptoideTV",
+                "developer": "",
+                "icon": "https:\/\/images.sftcdn.net\/images\/t_app-icon-m\/p\/ce9b1536-96d0-11e6-b886-00163ed833e7\/247507360\/aptoide-logo",
+                "installs": "",
+                "desc": "Kho ứng dụng",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/aptoidetv.apk"
+            },
+            {
+                "name": "DL Store",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQl5croHG9fWW199IYHCUWg25G732Y1srdVjA&s",
+                "installs": "",
+                "desc": "Kho ứng dụng - Đình Lập",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/dlstore.apk"
+            },
+            {
+                "name": "MStore",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcT_NX-IY9UEoRsAMatZKDqLfbv-sq04RCacQg&s",
+                "installs": "",
+                "desc": "Kho ứng dụng - Tùng Bùi",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/mstore.apk"
+            },
+            {
+                "name": "HDPlay Store",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/hdplaystore.png",
+                "installs": "",
+                "desc": "Kho ứng dụng",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/hdplaystore.apk"
+            }
+        ]
+    }
+]
