@@ -1,33 +1,20 @@
 [
     {
-        "category": "MỚI NHẤT",
-        "items": [
-            {
-                "name": "Send files to TV",
-                "developer": "1.0 bởi Yablio",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/k1kc79f3pU3FomQMlUakqEMVrGMu0Q7YEwEmF5F0Ibi599r7UJr5tvDVbWyJLEJZIKoU",
-                "installs": "10 Tr+",
-                "desc": "Dễ dàng chuyển tập tin sang Android Smart TV từ điện thoại di động hoặc máy tính của bạn.",
-                "apk_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.yablio.sendfilestotv"
-            }
-        ]
-    },
-    {
         "category": "XEM PHIM - NGHE NHẠC",
         "items": [
             {
-                "name": "Kodi (MOD)",
-                "developer": "Kodi Foundation",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/RQvf62YkkS_hpGAfP2iBoT2yf7b0oohFQHhBB8Chp8nHNPSqmZgEkwwpKtqdtqQ_ZvM",
+                "name": "Phim 4K (TV)",
+                "developer": "Luôn là phiên bản mới nhất",
+                "icon": "https:\/\/i.postimg.cc\/3RfHN517\/Picsart-25-11-10-13-53-28-889.jpg",
                 "installs": "50 Tr+",
-                "desc": "Kodi trung tâm truyền thông, một nguồn mở miễn phí và cross-nền tảng trung tâm vui chơi giải trí. Cần Fshare VIP",
-                "apk_url": "https:\/\/ahiep.name.vn\/phap-files\/?path=phuocphap%2FKODI%2FKodi22%2FKodi21-ondinh-+cloner"
+                "desc": "Phim Miễn Phí 👽",
+                "apk_url": "https:\/\/phim4k.xyz\/downloads\/androidtv"
             },
             {
                 "name": "MonPlayer TV",
-                "developer": "Monoverse Co., Ltd",
+                "developer": "Luôn là phiên bản mới nhất",
                 "icon": "https:\/\/play-lh.googleusercontent.com\/HqXUsIGaqeYJDmTBFoS6_YLvODIuUjNn_HQTx_96TIFKldk2ob0x66HEXh_NnPAsXxc",
-                "installs": "100 N+",
+                "installs": "",
                 "desc": "Chơi tất cả nội dung bạn thích!.",
                 "apk_url": "https:\/\/monplayer.org\/tv"
             },
@@ -48,12 +35,12 @@
                 "apk_url": "https:\/\/github.com\/manhnv699\/vuagiaitri\/releases\/download\/tv-app-armeabi-v7a\/tv-app-armeabi-v7a.apk"
             },
             {
-                "name": "Phim 4K (TV)",
-                "developer": "",
-                "icon": "https:\/\/img.freepik.com\/vector-gratis\/diseno-icona-insignia-resolucion-pantalla-4k-ultra-hd-dorada_1017-54543.jpg",
+                "name": "Kodi (MOD)",
+                "developer": "Kodi Foundation",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/RQvf62YkkS_hpGAfP2iBoT2yf7b0oohFQHhBB8Chp8nHNPSqmZgEkwwpKtqdtqQ_ZvM",
                 "installs": "",
-                "desc": "Phim 🤩",
-                "apk_url": "https:\/\/phim4k.xyz\/downloads\/androidtv"
+                "desc": "Kodi trung tâm truyền thông, một nguồn mở miễn phí và cross-nền tảng trung tâm vui chơi giải trí. Cần Fshare VIP 🤩",
+                "apk_url": "https:\/\/phuocphap.ahiep.name.vn\/phuocphap\/KODI\/Kodi22\/Kodi21-ondinh-%20cloner\/KODI21.Cloner.32bit-Ferrari.apk"
             },
             {
                 "name": "Plex (MOD)",
@@ -97,18 +84,18 @@
             },
             {
                 "name": "TizenTube (MOD)",
-                "developer": "",
+                "developer": "Phiên bản: 1.0.3",
                 "icon": "https:\/\/yt3.googleusercontent.com\/nbJWx2bDG0lj9ECT-1Xs1F9kWHHOHS0kK9-s4N2zuGf36sg_1tbuwT27Ftg3osYCdFXi5S6Lxqc=s900-c-k-c0x00ffffff-no-rj",
                 "installs": "",
                 "desc": "Chặn quảng cáo, Chạy song song YouTube gốc ❤️ Đổi giống YouTube - Voice vs KiKi , Supervoice",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tizen.apk"
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tizentube.apk"
             },
             {
-                "name": "TizenTube (Cần Xoá Youtube Gốc)",
+                "name": "TizenTube ",
                 "developer": "",
                 "icon": "https:\/\/yt3.googleusercontent.com\/nbJWx2bDG0lj9ECT-1Xs1F9kWHHOHS0kK9-s4N2zuGf36sg_1tbuwT27Ftg3osYCdFXi5S6Lxqc=s900-c-k-c0x00ffffff-no-rj",
                 "installs": "",
-                "desc": "Chặn quảng cáo, YouTube TV ❤️",
+                "desc": "Tizentube Nguyên Gốc.Chặn quảng cáo, YouTube TV ❤️",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tizen.apk"
             },
             {
@@ -117,7 +104,7 @@
                 "icon": "https:\/\/newpipe.net\/img\/logo.svg",
                 "installs": "",
                 "desc": "Youtube không quảng cáo FHD 😁",
-                "apk_url": "https:\/\/newpipe.net\/#download"
+                "apk_url": "https:\/\/archive.newpipe.net\/fdroid\/repo\/NewPipe_v0.28.0.apk"
             },
             {
                 "name": "SkyTube Extra",
@@ -149,7 +136,7 @@
                 "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTvthkVAyXsOTg2F6mz4PnKbtrXAY7DaLh7rg&s",
                 "installs": "",
                 "desc": "Xem Phim ☕",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/rophim.apk"
+                "apk_url": "https:\/\/static.nutscdn.com\/download\/apk\/1762444204\/rophim-android-tv.apk"
             },
             {
                 "name": "HDO Box",
@@ -198,6 +185,38 @@
                 "installs": "",
                 "desc": "Karaoke 😁",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tivikaraoke.apk"
+            },
+            {
+                "name": "MX Player TV",
+                "developer": "Amazon Mobile LLC",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/fTp32YyE-fi7cdG4V6dDR5OCLsx5bRhgMuCQLXroevnHiZWRY72Cxcseb6vlznTEDQ",
+                "installs": "10 Tr+",
+                "desc": "Thưởng thức loạt phim web không giới hạn, phim nổi tiếng, truyền hình trực tiếp, bản gốc MX trên TV trực tuyến.",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/mx.apk"
+            },
+            {
+                "name": "VLC for Android",
+                "developer": "Videolabs",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/nPnJc260PPoupBe-DcVQ-MNr6149dphdEoEAN-C9xwgctpVXbwsuyon_jEZ3uPWWYQ",
+                "installs": "100 Tr+",
+                "desc": "VLC cho Android là video và nghe nhạc mã nguồn mở tốt nhất, nhanh chóng và dễ dàng!.",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/vlc.apk"
+            },
+            {
+                "name": "Phim 4K (Link khác)",
+                "developer": "",
+                "icon": "https:\/\/i.postimg.cc\/3RfHN517\/Picsart-25-11-10-13-53-28-889.jpg",
+                "installs": "",
+                "desc": "Bản Phim 4K Link tải khác",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/phim4k.apk"
+            },
+            {
+                "name": "Phim4K (Lite)",
+                "developer": "",
+                "icon": "https:\/\/i.postimg.cc\/3RfHN517\/Picsart-25-11-10-13-53-28-889.jpg",
+                "installs": "",
+                "desc": "Dành cho box yếu . Chất lượng chỉ đạt tối đa FullHD",
+                "apk_url": "https:\/\/phim4k.xyz\/downloads\/androidtv32"
             }
         ]
     },
@@ -284,7 +303,7 @@
             {
                 "name": "VAppTV",
                 "developer": "",
-                "icon": "https:\/\/vivalavintage.com.au\/wp-content\/uploads\/2023\/03\/logo-viva-la-vintage-best.webp",
+                "icon": "https:\/\/vapptv.com\/vapp-logo.png",
                 "installs": "",
                 "desc": "Truyền Hình 😱",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/vapptv.apk"
@@ -332,7 +351,7 @@
             {
                 "name": "Monster TV",
                 "developer": "",
-                "icon": "https:\/\/image.winudf.com\/v2\/image1\/Y29tLnF1YW5nLnRoZXRoYW8udGludHVjX3NjcmVlbl8wXzE2NDQ0Njk0MDVfMDU4\/screen-0.jpg?fakeurl=1&type=.jpg",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQm43oFacKvlTLkp3FJ6i0GyTZYmGgQpXkTkSWo__BWbau-hY2cQcUK7CNS&s=10",
                 "installs": "",
                 "desc": "Truyền Hình - Bóng Đá 😱",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/monster.apk"
@@ -504,6 +523,14 @@
                 "installs": "",
                 "desc": "Xem thể thao acestream",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/acesv.apk"
+            },
+            {
+                "name": "ONNA Online",
+                "developer": "",
+                "icon": "https:\/\/i.postimg.cc\/qvQ9rKCz\/S5.png",
+                "installs": "",
+                "desc": "Truyền hình cơ bản",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/onna.apk"
             }
         ]
     },
@@ -532,7 +559,7 @@
                 "icon": "https:\/\/play-lh.googleusercontent.com\/u1e6dAgrKtHo7m9vfVJqOXdiw6DFgZWAfV1PiqlxJFsZ-4FB_xN2wNP4Nsrd_e87oEQ",
                 "installs": "",
                 "desc": "Map Phím Siêu Pro 😘",
-                "apk_url": "https:\/\/rupanh123-phap.github.io\/tvq.html"
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tvq.apk"
             },
             {
                 "name": "Happy Chick TV (MOD VIP)",
@@ -607,16 +634,16 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/volumeboost.apk"
             },
             {
-                "name": "Super Voice Tìm Kiếm Giọng Nói (Linor)",
-                "developer": "",
+                "name": "Super Voice Tìm Kiếm Giọng Nói ",
+                "developer": "Linor",
                 "icon": "https:\/\/cdn1.iconfinder.com\/data\/icons\/google-s-logo\/150\/Google_Icons-25-512.png",
                 "installs": "",
                 "desc": "Hỗ trợ Tizen-SmartTube-IPTV-CS 😘 Cần bật gỡ ADB gỡ lỗi USB",
                 "apk_url": "https:\/\/bom.so\/suppervoice"
             },
             {
-                "name": "Map Voice Tìm Kiếm Giọng Nói (Linor)",
-                "developer": "",
+                "name": "Map Voice Tìm Kiếm Giọng Nói ",
+                "developer": "Linor",
                 "icon": "https:\/\/cdn1.iconfinder.com\/data\/icons\/google-s-logo\/150\/Google_Icons-25-512.png",
                 "installs": "",
                 "desc": "Hỗ trợ Tizen-SmartTube-IPTV-CS.. 😘 Không cần bật ADB",
@@ -631,16 +658,16 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/kiki.xapk"
             },
             {
-                "name": "Tìm Kiếm Giọng Nói VNVoice (Linor)",
-                "developer": "",
+                "name": "Tìm Kiếm Giọng Nói VNVoice ",
+                "developer": "Linor",
                 "icon": "https:\/\/static.vecteezy.com\/system\/resources\/previews\/021\/569\/060\/non_2x\/letter-v-initials-sound-voice-spectrum-rhythm-digital-futuristic-modern-vibrant-logo-design-vector.jpg",
                 "installs": "",
                 "desc": "Hỗ trợ Smarttube - KODI😘",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/voicelinor.apk"
             },
             {
-                "name": "Tìm Kiếm Giọng Nói (Minh Tâm)",
-                "developer": "",
+                "name": "Lối Tắt - Tìm Kiếm Giọng Nói ",
+                "developer": "Minh Tâm",
                 "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRRXjAMcwU-Cksb8_KTKCiXiX6vd4bKxbhsrA&s",
                 "installs": "",
                 "desc": "Lối tắt tìm kiếm giọng nói 😘",
@@ -757,14 +784,6 @@
                 "installs": "",
                 "desc": "Fix Time NTP",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/"
-            },
-            {
-                "name": "Chặn Quảng Cáo IOS",
-                "developer": "",
-                "icon": "https:\/\/img.icons8.com\/?size=512&id=20821&format=png",
-                "installs": "",
-                "desc": "Tải về - Cài đặt chung -> Quản lý VPN và Thiết bị -> Hồ sơ cấu hình -> Phap Ferrari -> Cài đặt -> OK",
-                "apk_url": "https:\/\/is.gd\/phapcqcios"
             }
         ]
     },
@@ -817,7 +836,7 @@
                 "icon": "https:\/\/play-lh.googleusercontent.com\/6bigO3_72JW9xTdkX7Mpm8fTBiP7ISDCUcI2E3C79P21uwuJC6VWD8pFxH-bXvc-CVZm",
                 "installs": "",
                 "desc": "Giao diện đẹp đơn giản😁",
-                "apk_url": "https:\/\/rupanh123-phap.github.io\/prolauncher.html"
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/prolauncher.apk"
             },
             {
                 "name": "Thay đổi giao diện",
@@ -826,30 +845,6 @@
                 "installs": "",
                 "desc": "Thay đổi giao diện mặc định 😘",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tdgd.apk"
-            },
-            {
-                "name": "Giao Diện",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/atv.png",
-                "installs": "",
-                "desc": "Tổng Hợp Giao Diện",
-                "apk_url": "https:\/\/www.mediafire.com\/folder\/vtcnxvwcz9yzr\/ATV+Launcher"
-            },
-            {
-                "name": "MX Player Pro (MOD)",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/mxp.png",
-                "installs": "",
-                "desc": "Trình phát đã xoá quảng cáo",
-                "apk_url": "https:\/\/rupanh123-phap.github.io\/mx.html"
-            },
-            {
-                "name": "VLC",
-                "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/nPnJc260PPoupBe-DcVQ-MNr6149dphdEoEAN-C9xwgctpVXbwsuyon_jEZ3uPWWYQ",
-                "installs": "",
-                "desc": "VLC for Android TV😁",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/vlc.apk"
             },
             {
                 "name": "Just Player",
@@ -874,6 +869,14 @@
                 "installs": "",
                 "desc": "Aplayer😁",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/aplayer.apk"
+            },
+            {
+                "name": "Vimu (MOD)",
+                "developer": "Phiên bản: 11.0.1",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRkMxs2U5lr47O_VgOR0EeutZ9-7-yvkDzQ_Al_xwN4UdsQBa7roB5MRps&s=10",
+                "installs": "",
+                "desc": "Vimu là ứng dụng trình phát đa phương tiện nâng cao dành cho Android TV, Fire TV hoặc Google TV của bạn.\r\nPhiên bản đã được mod việt hoá",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/vimu.apk"
             }
         ]
     },
@@ -935,6 +938,14 @@
                 "installs": "",
                 "desc": "Kho ứng dụng",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/hdplaystore.apk"
+            },
+            {
+                "name": "TTV Store",
+                "developer": "Minh Tâm VN",
+                "icon": "https:\/\/i.ibb.co\/kFRnq3g\/5p.png",
+                "installs": "",
+                "desc": "Kho ứng dụng hay nhất",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/ttvstore.apk"
             }
         ]
     }
