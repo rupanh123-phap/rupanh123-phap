@@ -35,12 +35,12 @@
                 "apk_url": "https:\/\/github.com\/manhnv699\/vuagiaitri\/releases\/download\/tv-app-armeabi-v7a\/tv-app-armeabi-v7a.apk"
             },
             {
-                "name": "Kodi (MOD)",
-                "developer": "Kodi Foundation",
+                "name": "Kodi (MOD) 32bit",
+                "developer": "Phiên bản: 21.2",
                 "icon": "https:\/\/play-lh.googleusercontent.com\/RQvf62YkkS_hpGAfP2iBoT2yf7b0oohFQHhBB8Chp8nHNPSqmZgEkwwpKtqdtqQ_ZvM",
                 "installs": "",
-                "desc": "Kodi trung tâm truyền thông, một nguồn mở miễn phí và cross-nền tảng trung tâm vui chơi giải trí. Cần Fshare VIP 🤩",
-                "apk_url": "https:\/\/phuocphap.ahiep.name.vn\/phuocphap\/KODI\/Kodi22\/Kodi21-ondinh-%20cloner\/KODI21.Cloner.32bit-Ferrari.apk"
+                "desc": "Kodi trung tâm truyền thông, một nguồn mở miễn phí và cross-nền tảng trung tâm vui chơi giải trí. \r\nHướng dẫn\r\nChọn cập nhật ! Và cài đè\r\nPhim 4K cần đăng ký tk miễn phí ở tele https:\/\/t.me\/congdong4ker\r\nĐối với người dùng Fshare \r\nĐể mở vnmedia và vietmediaf thì vào tiện ích của tôi - tất cả - bật vnmedia và vietmediaf lên để đăng nhập xài\r\nCần có tk Fshare VIP để đăng nhập xem 🤩\r\nNguồn lấy từ internet\r\n",
+                "apk_url": "https:\/\/phuocphap.ahiep.name.vn\/phuocphap\/KODI\/Kodi22\/Kodi21-ondinh-%20cloner\/kodi21.2-32bit.apk"
             },
             {
                 "name": "Plex (MOD)",
@@ -96,7 +96,7 @@
                 "icon": "https:\/\/yt3.googleusercontent.com\/nbJWx2bDG0lj9ECT-1Xs1F9kWHHOHS0kK9-s4N2zuGf36sg_1tbuwT27Ftg3osYCdFXi5S6Lxqc=s900-c-k-c0x00ffffff-no-rj",
                 "installs": "",
                 "desc": "Tizentube Nguyên Gốc.Chặn quảng cáo, YouTube TV ❤️",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tizen.apk"
+                "apk_url": "https:\/\/github.com\/reisxd\/TizenTubeCobalt\/releases\/download\/v1.0.5\/cobalt-arm.apk"
             },
             {
                 "name": "Newpipe",
@@ -217,6 +217,38 @@
                 "installs": "",
                 "desc": "Dành cho box yếu . Chất lượng chỉ đạt tối đa FullHD",
                 "apk_url": "https:\/\/phim4k.xyz\/downloads\/androidtv32"
+            },
+            {
+                "name": "Kodi (MOD) 64bit",
+                "developer": "Phiên bản: 21.2",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/RQvf62YkkS_hpGAfP2iBoT2yf7b0oohFQHhBB8Chp8nHNPSqmZgEkwwpKtqdtqQ_ZvM",
+                "installs": "",
+                "desc": "Kodi trung tâm truyền thông, một nguồn mở miễn phí và cross-nền tảng trung tâm vui chơi giải trí. \r\nHướng dẫn\r\nChọn cập nhật ! Và cài đè\r\nPhim 4K cần đăng ký tk miễn phí ở tele https:\/\/t.me\/congdong4ker\r\nĐối với người dùng Fshare \r\nĐể mở vnmedia và vietmediaf thì vào tiện ích của tôi - tất cả - bật vnmedia và vietmediaf lên để đăng nhập xài\r\nCần có tk Fshare VIP để đăng nhập xem 🤩\r\nNguồn lấy từ internet\r\n",
+                "apk_url": "https:\/\/phuocphap.ahiep.name.vn\/phuocphap\/KODI\/Kodi22\/Kodi21-ondinh-%20cloner\/kodi21.2-64bit.apk"
+            },
+            {
+                "name": "Kodi (MOD) Dune 12",
+                "developer": "Phiên bản: 21.2",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/RQvf62YkkS_hpGAfP2iBoT2yf7b0oohFQHhBB8Chp8nHNPSqmZgEkwwpKtqdtqQ_ZvM",
+                "installs": "",
+                "desc": "Kodi trung tâm truyền thông, một nguồn mở miễn phí và cross-nền tảng trung tâm vui chơi giải trí. \r\nHướng dẫn\r\nChọn cập nhật ! Và cài đè\r\nPhim 4K cần đăng ký tk miễn phí ở tele https:\/\/t.me\/congdong4ker\r\nĐối với người dùng Fshare \r\nĐể mở vnmedia và vietmediaf thì vào tiện ích của tôi - tất cả - bật vnmedia và vietmediaf lên để đăng nhập xài\r\nCần có tk Fshare VIP để đăng nhập xem 🤩\r\nNguồn lấy từ internet\r\n",
+                "apk_url": "https:\/\/phuocphap.ahiep.name.vn\/phuocphap\/KODI\/Kodi22\/Kodi21-ondinh-%20cloner\/kodi21.2-DuneAndroid12.apk"
+            },
+            {
+                "name": "Kodi (MOD) Dune 9",
+                "developer": "Phiên bản: 21.2",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/RQvf62YkkS_hpGAfP2iBoT2yf7b0oohFQHhBB8Chp8nHNPSqmZgEkwwpKtqdtqQ_ZvM",
+                "installs": "",
+                "desc": "Kodi trung tâm truyền thông, một nguồn mở miễn phí và cross-nền tảng trung tâm vui chơi giải trí. \r\nHướng dẫn\r\nChọn cập nhật ! Và cài đè\r\nPhim 4K cần đăng ký tk miễn phí ở tele https:\/\/t.me\/congdong4ker\r\nĐối với người dùng Fshare \r\nĐể mở vnmedia và vietmediaf thì vào tiện ích của tôi - tất cả - bật vnmedia và vietmediaf lên để đăng nhập xài\r\nCần có tk Fshare VIP để đăng nhập xem 🤩\r\nNguồn lấy từ internet\r\n",
+                "apk_url": "https:\/\/phuocphap.ahiep.name.vn\/phuocphap\/KODI\/Kodi22\/Kodi21-ondinh-%20cloner\/kodi21.2-DuneAndroid9.apk"
+            },
+            {
+                "name": "Netfly TV",
+                "developer": "Luôn là phiên bản mới nhất",
+                "icon": "https:\/\/i.postimg.cc\/j5wb4sW-x\/f-O.png",
+                "installs": "",
+                "desc": "Ứng dụng xem phim , truyền hình , thể thao quốc tế",
+                "apk_url": "https:\/\/netflyapp.com\/file\/netfly_tv.apk"
             }
         ]
     },
@@ -946,6 +978,14 @@
                 "installs": "",
                 "desc": "Kho ứng dụng hay nhất",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/ttvstore.apk"
+            },
+            {
+                "name": "Bảo Store",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcT_NX-IY9UEoRsAMatZKDqLfbv-sq04RCacQg&s",
+                "installs": "",
+                "desc": "Kho ứng dụng bảo ",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/baostore.apk"
             }
         ]
     }
