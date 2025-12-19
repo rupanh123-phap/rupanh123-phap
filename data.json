@@ -29,7 +29,7 @@
             {
                 "name": "Vua Giải Trí (TV)",
                 "developer": "",
-                "icon": "https:\/\/png.pngtree.com\/png-clipart\/20200727\/original\/pngtree-logo-king-human-png-image_5155641.jpg",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSqFJTkQm4NAsmSMVFhCG7qVjOSJoBGvUcxgwlgteIkSn5T447B49eYWw1f&s=10",
                 "installs": "",
                 "desc": "Truyền Hình - Thể Thao - Phim 🤩",
                 "apk_url": "https:\/\/github.com\/manhnv699\/vuagiaitri\/releases\/download\/tv-app-armeabi-v7a\/tv-app-armeabi-v7a.apk"
@@ -136,7 +136,7 @@
                 "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTvthkVAyXsOTg2F6mz4PnKbtrXAY7DaLh7rg&s",
                 "installs": "",
                 "desc": "Xem Phim ☕",
-                "apk_url": "https:\/\/static.nutscdn.com\/download\/apk\/1762444204\/rophim-android-tv.apk"
+                "apk_url": "https:\/\/static.nutscdn.com\/download\/apk\/1764002495\/rophim-android-tv.apk"
             },
             {
                 "name": "HDO Box",
@@ -443,14 +443,6 @@
                 "installs": "",
                 "desc": "Xem đá bóng ✅",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/xabotv.apk"
-            },
-            {
-                "name": "ThapCam TV",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/thapcam.png",
-                "installs": "",
-                "desc": "Xem đá bóng Thập Cẩm TV",
-                "apk_url": "https:\/\/github.com\/thangoghd\/ThapcamTV\/releases"
             },
             {
                 "name": "Vừa Mới Thấy",
@@ -816,6 +808,14 @@
                 "installs": "",
                 "desc": "Fix Time NTP",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/"
+            },
+            {
+                "name": "CastReceiver (MOD)",
+                "developer": "Phiên bản: 1.6.13",
+                "icon": "https:\/\/downloadr2.apkmirror.com\/wp-content\/uploads\/2024\/07\/75\/669a63609d9d2_com.softmedia.receiver.castapp.png",
+                "installs": "",
+                "desc": "Truyền màn hình - Google Cast cho thiết bị không hỗ trợ 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/castreceiver.apk"
             }
         ]
     },
