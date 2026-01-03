@@ -84,19 +84,19 @@
             },
             {
                 "name": "TizenTube (MOD)",
-                "developer": "Phiên bản: 1.0.3",
+                "developer": "Phiên bản luôn là mới nhất",
                 "icon": "https:\/\/yt3.googleusercontent.com\/nbJWx2bDG0lj9ECT-1Xs1F9kWHHOHS0kK9-s4N2zuGf36sg_1tbuwT27Ftg3osYCdFXi5S6Lxqc=s900-c-k-c0x00ffffff-no-rj",
                 "installs": "",
                 "desc": "Chặn quảng cáo, Chạy song song YouTube gốc ❤️ Đổi giống YouTube - Voice vs KiKi , Supervoice",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tizentube.apk"
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tizentubemod.apk"
             },
             {
                 "name": "TizenTube ",
-                "developer": "",
+                "developer": "Phiên bản luôn là mới nhất",
                 "icon": "https:\/\/yt3.googleusercontent.com\/nbJWx2bDG0lj9ECT-1Xs1F9kWHHOHS0kK9-s4N2zuGf36sg_1tbuwT27Ftg3osYCdFXi5S6Lxqc=s900-c-k-c0x00ffffff-no-rj",
                 "installs": "",
                 "desc": "Tizentube Nguyên Gốc.Chặn quảng cáo, YouTube TV ❤️",
-                "apk_url": "https:\/\/github.com\/reisxd\/TizenTubeCobalt\/releases\/download\/v1.0.5\/cobalt-arm.apk"
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tizentubegoc.apk"
             },
             {
                 "name": "Newpipe",
@@ -583,7 +583,7 @@
                 "icon": "https:\/\/play-lh.googleusercontent.com\/u1e6dAgrKtHo7m9vfVJqOXdiw6DFgZWAfV1PiqlxJFsZ-4FB_xN2wNP4Nsrd_e87oEQ",
                 "installs": "",
                 "desc": "Map Phím Siêu Pro 😘",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tvq.apk"
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tvq1.apk"
             },
             {
                 "name": "Happy Chick TV (MOD VIP)",
@@ -816,6 +816,22 @@
                 "installs": "",
                 "desc": "Truyền màn hình - Google Cast cho thiết bị không hỗ trợ 😘",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/castreceiver.apk"
+            },
+            {
+                "name": "MT Channel",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSGUBrCebB_zcqNe92XrO9_ppfKPDN4D7krsBSZdkf23w&s=10",
+                "installs": "",
+                "desc": "Tạo các kênh TV Android của riêng bạn và thêm bất kỳ ứng dụng nào bạn đã cài đặt trong thiết bị của mình.",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/mtc.apk"
+            },
+            {
+                "name": "Sideload Channel",
+                "developer": "",
+                "icon": "https:\/\/images.dwncdn.net\/images\/t_app-icon-l\/p\/1fa862ad-deb0-41a2-901a-f6717969ea7b\/3343212154\/2072_4-78118534-logo",
+                "installs": "",
+                "desc": "Tạo các kênh TV Android của riêng bạn và thêm bất kỳ ứng dụng nào bạn đã cài đặt trong thiết bị của mình.",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/slc.apk"
             }
         ]
     },
@@ -909,6 +925,14 @@
                 "installs": "",
                 "desc": "Vimu là ứng dụng trình phát đa phương tiện nâng cao dành cho Android TV, Fire TV hoặc Google TV của bạn.\r\nPhiên bản đã được mod việt hoá",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/vimu.apk"
+            },
+            {
+                "name": "Emotn Launcher",
+                "developer": "",
+                "icon": "https:\/\/static.emotn.com\/img\/logo.png",
+                "installs": "",
+                "desc": "Giao diện đơn giản ",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/emotn.apk"
             }
         ]
     },
@@ -986,6 +1010,22 @@
                 "installs": "",
                 "desc": "Kho ứng dụng bảo ",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/baostore.apk"
+            },
+            {
+                "name": "APK Update",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/JVPqSUjWg9JYlw_KitvbDtmImVcINiW-eZITgdD92RQ4tV2F_WUOrVTkPmBamCUeZIo",
+                "installs": "",
+                "desc": "Kho ứng dụng thay thế google play✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/apkup.apk"
+            },
+            {
+                "name": "Emotn Store",
+                "developer": "",
+                "icon": "https:\/\/static.emotn.com\/img\/logo.png",
+                "installs": "",
+                "desc": "Kho ứng dụng Emotn ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/emotnstore.apk"
             }
         ]
     }
