@@ -101,10 +101,10 @@
             {
                 "name": "Newpipe",
                 "developer": "",
-                "icon": "https:\/\/newpipe.net\/img\/logo.svg",
+                "icon": "https:\/\/repository-images.githubusercontent.com\/746093504\/9a6136fe-0541-4e3f-8fe2-559f29bdb04c",
                 "installs": "",
                 "desc": "Youtube không quảng cáo FHD 😁",
-                "apk_url": "https:\/\/archive.newpipe.net\/fdroid\/repo\/NewPipe_v0.28.0.apk"
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/newpipe.apk"
             },
             {
                 "name": "SkyTube Extra",
@@ -249,6 +249,14 @@
                 "installs": "",
                 "desc": "Ứng dụng xem phim , truyền hình , thể thao quốc tế",
                 "apk_url": "https:\/\/netflyapp.com\/file\/netfly_tv.apk"
+            },
+            {
+                "name": "NVC Movie TV",
+                "developer": "",
+                "icon": "https:\/\/purepng.com\/public\/uploads\/large\/purepng.com-play-movies-icon-android-lollipopsymbolsiconsgooglegoogle-iconsandroid-lollipoplollipop-iconsandroid-50-721522597265r557u.png",
+                "installs": "",
+                "desc": "Xem Phim Miễn Phí",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/nvc.apk"
             }
         ]
     },
@@ -607,7 +615,7 @@
                 "icon": "https:\/\/play-lh.googleusercontent.com\/10fZZfOPjwESHD3wFAZx65m6uwDxMqj2yokiSlOwJzrqxokol9Qc1hwMQnZOWTCtgB4",
                 "installs": "",
                 "desc": "Giả Lập Game PS1😘",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/psp.apk"
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/ppsspp.apk"
             },
             {
                 "name": "Nes.emu (MOD VIP)",
@@ -778,14 +786,6 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/sbackup.apk"
             },
             {
-                "name": "Folder Sync",
-                "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/Bc1L10zBvt3w6uAzBkZqliV7m6qVE1-F4QlXFKhQuWxtCeancWGY2IIhbrzxpNBzO58=w240-h480-rw",
-                "installs": "",
-                "desc": "Sao lưu thư mục - dữ liệu trên cloud",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/fsync.apk"
-            },
-            {
                 "name": "Remote ADB",
                 "developer": "",
                 "icon": "https:\/\/play-lh.googleusercontent.com\/k7lEVSrxLA54xzKtV7TUXew2fjrCuej-gBkeihuGYa4u9_cGdMRcBNEmx3JwpbY0E4JN",
@@ -807,7 +807,7 @@
                 "icon": "https:\/\/cdn-icons-png.freepik.com\/512\/5521\/5521277.png",
                 "installs": "",
                 "desc": "Fix Time NTP",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/"
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/ntp.apk"
             },
             {
                 "name": "CastReceiver (MOD)",
@@ -832,6 +832,30 @@
                 "installs": "",
                 "desc": "Tạo các kênh TV Android của riêng bạn và thêm bất kỳ ứng dụng nào bạn đã cài đặt trong thiết bị của mình.",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/slc.apk"
+            },
+            {
+                "name": "Weather - Thời tiết",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/RskDwFglKr6j6kLeFFtCPjDcj5LUfSASLr7c6lgqPBjCTZVb0rsrQxZRqlIoBZrKUw",
+                "installs": "",
+                "desc": "Thời tiết cho ATV Launcher đã Mod",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/thoitiet.apk"
+            },
+            {
+                "name": "Dashboard - Tất cả app",
+                "developer": "",
+                "icon": "https:\/\/image.winudf.com\/v2\/image1\/Y29tLnNhbWFib3guZGFzaGJvYXJkX2ljb25fMTU4MjA0MjgzNV8wNzU\/icon.png?w=184&fakeurl=1",
+                "installs": "",
+                "desc": "Dasboard - Tất cả app",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/dashboard.apk"
+            },
+            {
+                "name": "Kiểm tra tốc độ mạng - Speedtest ",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/1LKWySZIE8Shx6Y1oy1LgrAtgDo-FwweOmW1hnfTVggPOM0txJ1qYtc8G8XOEfDpGA",
+                "installs": "",
+                "desc": "Kiểm tra tốc độ mạng",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/sp.apk"
             }
         ]
     },
